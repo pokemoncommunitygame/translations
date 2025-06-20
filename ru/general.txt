@@ -1,0 +1,176 @@
+hidden_item:Скрытый предмет
+hidden_itemDescription:???
+tm_name:ТМ {moveName}
+tm_description:Учит Покемона типа {pkmt} приёму {moveName}.
+fairy:Фея
+dark:Тьма
+dragon:Дракон
+ice:Лёд
+psychic:Психика
+electric:Электричество
+grass:Трава
+water:Вода
+fire:Огонь
+steel:Сталь
+ghost:Призрак
+bug:Насекомое
+rock:Камень
+ground:Земля
+poison:Яд
+flying:Летающий
+fighting:Бой
+normal:Обычный
+supportUs:Поддержите нас, подписавшись на Twitch, и получите до 10% дополнительных покеденьг
+attack:Атака
+specialAttack:Спец. Атк.
+defense:Защита
+specialDefense:Спец. Защ.
+speed:Скорость
+accuracy:точность
+evasion:уклонение
+shop:Магазин
+inventory:Инвентарь
+purchase:Покупка
+amount:Количество
+goldenCoinShop:Магазин Золотых Монет
+eventShop:Магазин Событий
+purchaseConfirmationMessage:Вы уверены, что хотите купить {amount}x {name} на общую сумму ${total_price}?
+howManyYouWantBuy:Сколько {name} вы хотите купить?
+itemAmountLessThenZero:Необходимо приобрести хотя бы один предмет!
+itemDoesNotExist:Предмет с данным названием не существует!
+notEnoughMoneyToBuy:У вас недостаточно денег!
+notEnoughBattleCoinsToBuy:У вас недостаточно Золотых Монет!
+notEnoughEventCoinsToBuy:У вас недостаточно Монет Событий!
+itemNotPurchasable:Этот предмет нельзя купить в магазине!
+purchaseSuccessfully:Покупка успешно совершена!
+back:Назад
+continue:Продолжить
+cancel:Отмена
+close:Закрыть
+success:Успех
+error:Ошибка
+okay:Хорошо
+value:Значение
+cancelled:Отменено
+computer:Компьютер
+searchBattle:Поиск битвы
+dailyReward:Присоединяйтесь к нашему Discord, чтобы ежедневно получать награды бесплатно!
+userIdNotShared:Пожалуйста, дайте доступ к вашему Twitch-ID.
+notStarted:Введите !pokestart, чтобы начать своё приключение!
+notStartedDiscord:Введите !pokestart, чтобы начать своё приключение! Если вам нужна помощь, свяжитесь с нами в Discord https://discord.gg/cT3ThCj
+notWhitelisted:Этот канал не находится в белом списке.
+chooseChatBotLanguage:Пожалуйста, выберите язык чат-бота:
+notWhitelistedDiscord:Этот канал не находится в белом списке! Если вам нужна помощь, свяжитесь с нами в Discord https://discord.gg/cT3ThCj
+contactOnDiscord:Присоединяйтесь к нашему Discord, чтобы использовать нашу автоматизированную систему белого списка, где вы можете выбрать язык на ваш выбор:
+loading:Загрузка...
+loadingFailed:Загрузка не удалась. Пожалуйста, попробуйте снова.
+unknownError:Произошла неизвестная ошибка! Пожалуйста, попробуйте обновить веб-страницу! Если проблема не исчезнет, сообщите нам на нашем Discord https://discord.gg/cT3ThCj
+tokenExpired:Срок действия токена аутентификации Twitch истек. Пожалуйста, перезагрузите сайт или перезапустите ваше приложение.
+invalidToken:Аутентификация не удалась. Пожалуйста, убедитесь, что ваши системные часы синхронизированы! В противном случае аутентификация не пройдет! Другие решения: 1) Обновление страницы 2) Отключение расширений браузера 3) Отмена и предоставление разрешения на расширение 4) Вход и выход на {twitch} 5) Попробовать другой браузер. Для дополнительной помощи присоединяйтесь к нашему Discord https://discord.gg/cT3ThCj
+connectionFailed:Подключение к серверу не удалось. Повторите попытку позже!
+yourTeam:Ваша команда
+reward:Награда
+won:Победа
+empty:Пусто
+easy:Легко
+medium:Средний
+hard:Тяжело
+hide:Спрятать
+show:Показать
+live:В эфире
+requirements:Требования
+horrible:Ужасно
+bad:Плохо
+avg:Средне
+good:Хорошо
+fantastic:Фантастически
+perfect:Идеально
+yourItems:Ваши предметы
+useItem:Использовать
+useItemSuccess:Предмет успешно использован
+itemNotExists:У вас больше нет этого предмета
+itemAlreadyActive:Эффект предмета все еще активен. Пожалуйста, попробуйте позже
+itemNoBuddy:Тренер не имеет напарника
+itemTeamListFull:Максимум команд, которые у вас могут быть, - 30
+PokemonFullHp:У покемона полное здоровье
+PokemonDead:Покемона нужно оживить
+PokemonStillAlive:Покемон не нуждается в восстановлении
+PokemonNoStatusCondition:Покемон не поражен статусным эффектом
+PokemonFullPP:Все приемы на полном ПП
+sellConfirmMessage:Вы уверены, что хотите продать вашего {name}?
+useConfirmMessage:Вы уверены, что хотите использовать предмет {item} на {pkm}?
+sellSuccess:Вы успешно продали своего покемона
+wonderPassNoCooldown:Ваш Wonderpass не находится на перезарядке!
+pokedailyNoCooldown:Ваш Pokedaily не находится на перезарядке!
+pokemonListHeadline:Ваши покемоны
+info:Информация
+team:Команда
+stats:Характеристики
+moves:Приемы
+movesNotFound:Не удалось найти ваши приемы
+name:Имя
+hp:Хп
+total:Всего
+progress:Прогресс
+weight:Вес
+generation:Поколение
+base_stats:Базовые характеристики
+caughtBy:Поймал
+caughtOn:Пойман
+originalChannel:Происхождение
+caughtAtFormat:{month}/{day}/{year}
+sell:Продать ${amount}
+trade:Обмен
+wondertrade:Чудо-обмен
+tradeConfirmMessage:Ваш {name} УРОВ. {lvl} будет потерян навсегда. Продолжить?
+sellLast:Вы не можете продать своего последнего Покемона
+sellNotExists:Этого Покемона больше не существует
+sellNotYourPokemon:Это больше не ваш Покемон
+sellPriceChanged:Цена продажи вашего Покемона изменилась. Пожалуйста, обновите расширение
+tradeCooldown:Перезарядка: {time}
+tradeCooldownIsActive:Вы уже совершали чудо-обмен за последние 3 часа
+changeSort:Изменить сортировку
+sortByID:ИД
+sortByName:Имя
+sortByLevel:Уровень
+sortByHP:ОЗ
+sortByPrice:Цена
+sortByShiny:Блестящий
+sortByBaseStat:Базовые характеристики
+sortByAvgIV:ХС
+sortByRecent:Недавние
+PokemonTeamFull:Ваша команда полна
+PokemonNotInTeam:Это Покемон не в вашей команде
+PokemonAlreadyInTeam:Этот Покемон уже в вашей команде
+PokemonNotOwnedAnymore:Вы больше не владеете этим Покемоном
+PokemonNicknameTooLong:Прозвище слишком длинное
+PokemonTeamNameTooLong:Имя команды слишком длинное
+spawnable:Может появиться
+starters:Начальные Покемоны
+legendaries:Легендарные Покемоны
+showMissing:Отсутствует
+obtained:Получено
+claimCharm:Получить Очарование
+shinyCharm:Шанс на Ловлю
+resetDex:Сбросить Декс
+congratulations:Поздравляем
+thisActionWillResetDexWarning:Это действие сбросит ваш прогресс пойманного декса и не может быть отменено!
+congratsOnSpawnableDex:Поздравляем с завершением спавна декса!
+youCanClaimCharmNow:Теперь вы можете получить свое очарование ловли!
+youReceivedShinyCharm:Вы получили очарование ловли!
+youUnlockedNewUpgrade:Вы разблокировали новое обновление для вашего Покедекса!
+afterClaimingCharmText:После получения вашего очарования ловли у вас будет возможность сбросить прогресс пойманного декса и начать заново, чтобы заработать дополнительные очарования ловли.
+missions:Миссии
+showComplete:Показать полное
+itemSellConfirmationMessage:Вы уверены, что хотите продать {amount}x {name} за общую сумму в ${total_price}?
+pokemonSellConfirmMessage:Ваш {name} УРОВН. {lvl} исчезнет навсегда. Продолжить?
+eventCategory:Событие
+extraCategory:Дополнительно
+ballCategory:Мяч
+evolutionCategory:Эволюция
+tmCategory:ТМ
+collectableCategory:Коллекционный элемент
+shopRotation:Смена магазина через
+eventShopClosesIn:Магазин событий закрывается через
+youHave:У вас есть
+search:Поиск

@@ -1,0 +1,176 @@
+hidden_item:Objeto Oculto
+hidden_itemDescription:???
+tm_name:MT {moveName}
+tm_description:Enseña a un Pokémon de tipo {pkmt} el movimiento {moveName}.
+fairy:Hada
+dark:Siniestro
+dragon:Dragón
+ice:Hielo
+psychic:Psíquico
+electric:Eléctrico
+grass:Planta
+water:Agua
+fire:Fuego
+steel:Acero
+ghost:Fantasma
+bug:Bicho
+rock:Roca
+ground:Tierra
+poison:Veneno
+flying:Volador
+fighting:Lucha
+normal:Normal
+supportUs:Apóyanos siguiendo en Twitch y recibe hasta un 10% extra en Pokemoney.
+attack:Ataque
+specialAttack:Atq. Esp.
+defense:Defensa
+specialDefense:Def. Esp.
+speed:Velocidad
+accuracy:precisión
+evasion:evasión
+shop:Tienda
+inventory:Inventario
+purchase:Compra
+amount:Cantidad
+goldenCoinShop:Tienda de Monedas Doradas
+eventShop:Tienda de Eventos
+purchaseConfirmationMessage:¿Estás seguro de que quieres comprar {amount}x {name} por un total de ${total_price}?
+howManyYouWantBuy:¿Cuántos {name} quieres comprar?
+itemAmountLessThenZero:¡Se necesita comprar al menos un artículo!
+itemDoesNotExist:¡No existe ningún artículo con ese nombre!
+notEnoughMoneyToBuy:¡No tienes suficiente dinero!
+notEnoughBattleCoinsToBuy:¡No tienes suficientes Monedas Doradas!
+notEnoughEventCoinsToBuy:¡No tienes suficientes Monedas de Evento!
+itemNotPurchasable:¡Ese artículo no se puede comprar en la tienda!
+purchaseSuccessfully:¡La compra se realizó con éxito!
+back:Volver
+continue:Continuar
+cancel:Cancelar
+close:Cerrar
+success:Éxito
+error:Error
+okay:Okay
+value:Valor
+cancelled:Cancelado
+computer:Computadora
+searchBattle:Buscar batalla
+dailyReward:¡Únete a nuestro discord para obtener recompensas diarias gratis!
+userIdNotShared:Por favor, concede acceso a tu Twitch-ID.
+notStarted:¡Ingresa !pokestart para comenzar tu aventura!
+notStartedDiscord:¡Ingresa !pokestart para comenzar tu aventura! Si necesitas más ayuda, contáctanos en discord https://discord.gg/cT3ThCj
+notWhitelisted:Este canal no está en la lista de permitidos.
+chooseChatBotLanguage:Por favor, elige el idioma del chatbot:
+notWhitelistedDiscord:¡Este canal no está en la lista de permitidos! Si necesitas más ayuda, contáctanos en discord https://discord.gg/cT3ThCj
+contactOnDiscord:Únete a nuestro discord para usar nuestro sistema automatizado de lista blanca, donde puedes seleccionar el idioma de tu preferencia:
+loading:Cargando...
+loadingFailed:La carga falló. Por favor, inténtalo de nuevo.
+unknownError:¡Ocurrió un error desconocido! ¡Intenta actualizar la página web! Si el problema persiste, repórtalo en nuestro discord https://discord.gg/cT3ThCj
+tokenExpired:El token de autenticación de Twitch ha expirado. Por favor, recarga el sitio web o reinicia tu app.
+invalidToken:Fallo de autenticación. ¡Asegúrate de que el reloj de tu sistema esté sincronizado! ¡De lo contrario, la autenticación fallará! Más soluciones: 1) Actualizar la página 2) Desactivar extensiones del navegador 3) Revocar y otorgar permiso a la extensión 4) Iniciar y cerrar sesión en twitch 5) Probar con un navegador diferente. Para más ayuda únete a nuestro discord https://discord.gg/cT3ThCj
+connectionFailed:La conexión con el servidor falló. ¡Por favor, inténtalo más tarde!
+yourTeam:Tu Equipo
+reward:Recompensa
+won:Ganado
+empty:Vacío
+easy:Fácil
+medium:Medio
+hard:Difícil
+hide:Ocultar
+show:Mostrar
+live:En Vivo
+requirements:Requisitos
+horrible:Horrible
+bad:Malo
+avg:Promedio
+good:Bueno
+fantastic:Fantástico
+perfect:Perfecto
+yourItems:Tus objetos
+useItem:Usar
+useItemSuccess:Objeto utilizado con éxito
+itemNotExists:Ya no posees este objeto
+itemAlreadyActive:El efecto del objeto aún está activo. Intenta nuevamente más tarde
+itemNoBuddy:El entrenador no tiene compañero
+itemTeamListFull:El máximo de equipos que puedes tener es 30
+PokemonFullHp:Pokémon con hp completo
+PokemonDead:El Pokémon necesita ser revivido
+PokemonStillAlive:El Pokémon no necesita ser revivido
+PokemonNoStatusCondition:El Pokémon no está afectado por una condición de estado
+PokemonFullPP:Todos los movimientos tienen PP completo
+sellConfirmMessage:¿Estás seguro de que quieres vender tu {name}?
+useConfirmMessage:¿Estás seguro de que quieres usar el objeto {item} en {pkm}?
+sellSuccess:Vendiste tu Pokémon con éxito
+wonderPassNoCooldown:¡Tu Wonderpass no está en tiempo de reutilización!
+pokedailyNoCooldown:¡Tu Pokedaily no está en tiempo de reutilización!
+pokemonListHeadline:Tu Pokémon
+info:Info
+team:Equipo
+stats:Estadísticas
+moves:Movimientos
+movesNotFound:No se pudieron encontrar tus movimientos
+name:Nombre
+hp:Pd
+total:Total
+progress:Progreso
+weight:Peso
+generation:Generación
+base_stats:Estadísticas base
+caughtBy:Atrapado por
+caughtOn:Atrapado el
+originalChannel:Origen
+caughtAtFormat:{month}/{day}/{year}
+sell:Vender ${amount}
+trade:Intercambiar
+wondertrade:Intercambio prodigioso
+tradeConfirmMessage:Tu {name} NIVEL {lvl} se perderá para siempre. ¿Continuar?
+sellLast:No puedes vender tu último Pokémon
+sellNotExists:Este Pokémon ya no existe
+sellNotYourPokemon:Este ya no es tu Pokémon
+sellPriceChanged:El precio de venta de tu Pokémon ha cambiado. Por favor, actualiza la extensión
+tradeCooldown:Enfriamiento: {time}
+tradeCooldownIsActive:Ya has intercambiado en las últimas 3 horas
+changeSort:Cambiar orden
+sortByID:ID
+sortByName:Nombre
+sortByLevel:Nivel
+sortByHP:PS
+sortByPrice:Precio
+sortByShiny:Shiny
+sortByBaseStat:Estadísticas base
+sortByAvgIV:IV
+sortByRecent:Reciente
+PokemonTeamFull:Tu equipo está lleno
+PokemonNotInTeam:Este Pokémon no está en tu equipo
+PokemonAlreadyInTeam:Este Pokémon ya está en tu equipo
+PokemonNotOwnedAnymore:Ya no posees este Pokémon
+PokemonNicknameTooLong:El apodo es demasiado largo
+PokemonTeamNameTooLong:El nombre del equipo es demasiado largo
+spawnable:Generable
+starters:Iniciales
+legendaries:Legendarios
+showMissing:Faltantes
+obtained:Obtenido
+claimCharm:Reclamar Amuleto
+shinyCharm:Oportunidad Brillante
+resetDex:Restablecer Dex
+congratulations:¡Felicidades!
+thisActionWillResetDexWarning:¡Esta acción restablecerá el progreso de tu dex atrapable y no se puede deshacer!
+congratsOnSpawnableDex:¡Felicidades por completar el dex de aparición!
+youCanClaimCharmNow:¡Ahora puedes reclamar tu Amuleto Brillante!
+youReceivedShinyCharm:¡Has recibido un amuleto brillante!
+youUnlockedNewUpgrade:¡Has desbloqueado una nueva mejora para tu Pokedex!
+afterClaimingCharmText:Después de reclamar tu amuleto brillante, tienes la opción de restablecer el progreso de tu dex atrapable y comenzar de nuevo para ganar amuletos brillantes adicionales.
+missions:Misiones
+showComplete:Mostrar Completo
+itemSellConfirmationMessage:¿Estás seguro de que quieres vender {amount}x {name} por un total de ${total_price}?
+pokemonSellConfirmMessage:Tu {name} NIVEL. {lvl} desaparecerá para siempre. ¿Continuar?
+eventCategory:Evento
+extraCategory:Extra
+ballCategory:Ball
+evolutionCategory:Evolución
+tmCategory:MTs
+collectableCategory:Coleccionable
+shopRotation:Rotación de tienda en
+eventShopClosesIn:La tienda de eventos cierra en
+youHave:Tienes
+search:Buscar

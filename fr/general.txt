@@ -1,0 +1,176 @@
+hidden_item:Objet Caché
+hidden_itemDescription:???
+tm_name:CT {moveName}
+tm_description:Apprend à un Pokémon de type {pkmt} la capacité {moveName}.
+fairy:Fée
+dark:Ténèbres
+dragon:Dragon
+ice:Glace
+psychic:Psy
+electric:Électrik
+grass:Plante
+water:Eau
+fire:Feu
+steel:Acier
+ghost:Spectre
+bug:Insecte
+rock:Roche
+ground:Sol
+poison:Poison
+flying:Vol
+fighting:Combat
+normal:Normal
+supportUs:Soutenez-nous en nous suivant sur Twitch et recevez jusqu'à 10% de Poké-dollars en plus
+attack:Attaque
+specialAttack:Att. spéc.
+defense:Défense
+specialDefense:Déf. spéc.
+speed:Vitesse
+accuracy:précision
+evasion:évasion
+shop:Boutique
+inventory:Inventaire
+purchase:Achat
+amount:Quantité
+goldenCoinShop:Boutique Pièces d'Or
+eventShop:Boutique d'Événements
+purchaseConfirmationMessage:Es-tu sûr de vouloir acheter {amount}x {name} pour un total de ${total_price} ?
+howManyYouWantBuy:Combien de {name} veux-tu acheter ?
+itemAmountLessThenZero:Il faut acheter au moins un objet !
+itemDoesNotExist:Aucun objet avec le nom donné n'existe !
+notEnoughMoneyToBuy:Tu n'as pas assez d'argent !
+notEnoughBattleCoinsToBuy:Tu n'as pas assez de Pièce(s) d'Or !
+notEnoughEventCoinsToBuy:Tu n'as pas assez de Pièce(s) d'Événement !
+itemNotPurchasable:Cet objet ne peut pas être acheté dans la boutique !
+purchaseSuccessfully:L'achat a été réalisé avec succès !
+back:Retour
+continue:Continuer
+cancel:Annuler
+close:Fermer
+success:Succès
+error:Erreur
+okay:D'accord
+value:Valeur
+cancelled:Annulé
+computer:Ordinateur
+searchBattle:Chercher combat
+dailyReward:Rejoignez notre Discord pour recevoir des récompenses quotidiennes gratuites !
+userIdNotShared:Veuillez autoriser l'accès à votre ID Twitch.
+notStarted:Entrez !pokestart pour commencer votre aventure !
+notStartedDiscord:Entrez !pokestart pour commencer votre aventure ! Si vous avez besoin d'aide, contactez-nous sur Discord https://discord.gg/cT3ThCj
+notWhitelisted:Ce canal n'est pas sur la liste blanche.
+chooseChatBotLanguage:Veuillez choisir la langue du chatbot :
+notWhitelistedDiscord:Ce canal n'est pas sur la liste blanche ! Si vous avez besoin d'aide, contactez-nous sur Discord https://discord.gg/cT3ThCj
+contactOnDiscord:Rejoignez notre Discord pour utiliser notre système de liste blanche automatisé où vous pouvez sélectionner la langue de votre choix :
+loading:Chargement...
+loadingFailed:Échec du chargement. Veuillez réessayer.
+unknownError:Une erreur inconnue est survenue ! Veuillez essayer de rafraîchir la page web ! Si le problème persiste, signalez-le-nous sur notre discord https://discord.gg/cT3ThCj
+tokenExpired:Le jeton d'authentification Twitch a expiré. Veuillez recharger le site ou redémarrer votre application
+invalidToken:Échec de l'authentification. Assurez-vous que l'horloge de votre système est synchronisée ! Sinon l'authentification échouera ! Autres solutions : 1) Rafraîchir la page 2) Désactiver les extensions de navigateur 3) Révoquer et accorder l'autorisation de l'extension 4) Se connecter et se déconnecter sur Twitch 5) Essayer un autre navigateur. Pour plus d'aide, rejoignez notre discord https://discord.gg/cT3ThCj
+connectionFailed:La connexion au serveur a échoué. Veuillez réessayer plus tard !
+yourTeam:Ton Équipe
+reward:Récompense
+won:Gagné
+empty:Vide
+easy:Facile
+medium:Moyen
+hard:Difficile
+hide:Cacher
+show:Montrer
+live:En Direct
+requirements:Exigences
+horrible:Horrible
+bad:Mauvais
+avg:Moyen
+good:Bon
+fantastic:Fantastique
+perfect:Parfait
+yourItems:Vos objets
+useItem:Utiliser
+useItemSuccess:Objet utilisé avec succès
+itemNotExists:Vous ne possédez plus cet objet
+itemAlreadyActive:L'effet de l'objet est toujours actif. Veuillez réessayer plus tard
+itemNoBuddy:L’entraîneur n'a pas de partenaire
+itemTeamListFull:Le maximum d'équipes que vous pouvez avoir est de 30
+PokemonFullHp:Pokémon à pleine santé
+PokemonDead:Le Pokémon a besoin d'être réanimé
+PokemonStillAlive:Le Pokémon n'a pas besoin d'être réanimé
+PokemonNoStatusCondition:Le Pokémon n'est pas affecté par un problème de statut
+PokemonFullPP:Toutes les capacités sont à pleine PP
+sellConfirmMessage:Es-tu sûr de vouloir vendre ton {name} ?
+useConfirmMessage:Êtes-vous sûr de vouloir utiliser l'objet {item} sur {pkm} ?
+sellSuccess:Vous avez vendu votre Pokémon avec succès
+wonderPassNoCooldown:Votre Wonderpass n'est pas en cours de recharge !
+pokedailyNoCooldown:Votre Pokedaily n'est pas en cours de recharge !
+pokemonListHeadline:Vos Pokémon
+info:Infos
+team:Équipe
+stats:Stats
+moves:Capacités
+movesNotFound:Impossible de trouver vos capacités
+name:Nom
+hp:PV
+total:Total
+progress:Progression
+weight:Poids
+generation:Génération
+base_stats:Statistiques de base
+caughtBy:Capturé par
+caughtOn:Capturé le
+originalChannel:Origine
+caughtAtFormat:{month}/{day}/{year}
+sell:Vendre ${amount}
+trade:Échanger
+wondertrade:Échange miracle
+tradeConfirmMessage:Ton {name} NIV. {lvl} sera perdu pour toujours. Continuer ?
+sellLast:Tu ne peux pas vendre ton dernier Pokémon
+sellNotExists:Ce Pokémon n'existe plus
+sellNotYourPokemon:Ce n'est plus ton Pokémon
+sellPriceChanged:Le prix de vente de ton Pokémon a changé. Veuillez rafraîchir l'extension
+tradeCooldown:Temps de recharge: {time}
+tradeCooldownIsActive:Tu as déjà échangé par miracle ces 3 dernières heures
+changeSort:Changer le tri
+sortByID:ID
+sortByName:Nom
+sortByLevel:Niveau
+sortByHP:PV
+sortByPrice:Prix
+sortByShiny:Shiny
+sortByBaseStat:Stats de base
+sortByAvgIV:IV
+sortByRecent:Récents
+PokemonTeamFull:Ton équipe est pleine
+PokemonNotInTeam:Ce Pokémon ne fait pas partie de ton équipe
+PokemonAlreadyInTeam:Ce Pokémon est déjà dans ton équipe
+PokemonNotOwnedAnymore:Tu ne possèdes plus ce Pokémon
+PokemonNicknameTooLong:Le surnom est trop long
+PokemonTeamNameTooLong:Le nom de l'équipe est trop long
+spawnable:Apparissable
+starters:Starters
+legendaries:Légendaires
+showMissing:Manquant
+obtained:Obtenu
+claimCharm:Réclamer le Charm
+shinyCharm:Chance Shiny
+resetDex:Réinitialiser le Dex
+congratulations:Félicitations
+thisActionWillResetDexWarning:Cette action réinitialisera votre progression dans le dex attrapable et ne peut pas être annulée !
+congratsOnSpawnableDex:Félicitations pour avoir complété le dex spawnable !
+youCanClaimCharmNow:Vous pouvez maintenant réclamer votre Charm Shiny !
+youReceivedShinyCharm:Vous avez reçu un charm shiny !
+youUnlockedNewUpgrade:Vous avez débloqué une nouvelle amélioration pour votre Pokédex !
+afterClaimingCharmText:Après avoir réclamé votre charm shiny, vous avez l'option de réinitialiser votre progression dans le dex attrapable et de recommencer pour gagner des charms shiny supplémentaires.
+missions:Missions
+showComplete:Afficher Terminé
+itemSellConfirmationMessage:Es-tu sûr de vouloir vendre {amount}x {name} pour un total de ${total_price} ?
+pokemonSellConfirmMessage:Ton {name} NIVEAU {lvl} disparaîtra pour toujours. Continuer ?
+eventCategory:Événement
+extraCategory:Supplémentaire
+ballCategory:Balle
+evolutionCategory:Évolution
+tmCategory:CTs
+collectableCategory:Collectionnable
+shopRotation:Rotation de boutique dans
+eventShopClosesIn:La Boutique d'Événements ferme dans
+youHave:Tu as
+search:Recherche

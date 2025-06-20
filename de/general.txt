@@ -1,0 +1,176 @@
+hidden_item:Verstecktes Item
+hidden_itemDescription:???
+tm_name:TM {moveName}
+tm_description:Lehrt einem Pokémon des Typs {pkmt} die Attacke {moveName}.
+fairy:Fee
+dark:Unlicht
+dragon:Drache
+ice:Eis
+psychic:Psycho
+electric:Elektro
+grass:Pflanze
+water:Wasser
+fire:Feuer
+steel:Stahl
+ghost:Geist
+bug:Käfer
+rock:Gestein
+ground:Boden
+poison:Gift
+flying:Flug
+fighting:Kampf
+normal:Normal
+supportUs:Unterstütze uns, indem du uns auf Twitch folgst und erhalte bis zu 10 % extra Pokemoney.
+attack:Angriff
+specialAttack:Spezial-Ang.
+defense:Verteidigung
+specialDefense:Spezial-Verteid.
+speed:Tempo
+accuracy:Genauigkeit
+evasion:Ausweichen
+shop:Shop
+inventory:Inventar
+purchase:Kaufen
+amount:Menge
+goldenCoinShop:Goldmünzen-Shop
+eventShop:Event-Shop
+purchaseConfirmationMessage:Bist du sicher, dass du {amount}x {name} für insgesamt ${total_price} kaufen möchtest?
+howManyYouWantBuy:Wie viele {name} möchtest du kaufen?
+itemAmountLessThenZero:Mindestens ein Artikel muss gekauft werden!
+itemDoesNotExist:Kein Artikel mit dem angegebenen Namen existiert!
+notEnoughMoneyToBuy:Du hast nicht genug Geld!
+notEnoughBattleCoinsToBuy:Du hast nicht genug Goldmünze(n)!
+notEnoughEventCoinsToBuy:Du hast nicht genug Eventmünze(n)!
+itemNotPurchasable:Dieser Artikel kann im Shop nicht gekauft werden!
+purchaseSuccessfully:Der Kauf war erfolgreich!
+back:Zurück
+continue:Fortfahren
+cancel:Abbrechen
+close:Schließen
+success:Erfolg
+error:Fehler
+okay:Okay
+value:Wert
+cancelled:Abgebrochen
+computer:Computer
+searchBattle:Suche Kampf
+dailyReward:Tritt unserem Discord bei, um tägliche Belohnungen kostenlos zu erhalten!
+userIdNotShared:Bitte gewähre Zugriff auf deine Twitch-ID.
+notStarted:Gib !pokestart ein, um dein Abenteuer zu beginnen!
+notStartedDiscord:Gib !pokestart ein, um dein Abenteuer zu beginnen! Wenn du mehr Hilfe brauchst, kontaktiere uns auf Discord https://discord.gg/cT3ThCj
+notWhitelisted:Dieser Kanal ist nicht auf der Whitelist.
+chooseChatBotLanguage:Wähle bitte die Sprache des Chatbots:
+notWhitelistedDiscord:Dieser Kanal ist nicht auf der Whitelist! Wenn du mehr Hilfe brauchst, kontaktiere uns auf Discord https://discord.gg/cT3ThCj
+contactOnDiscord:Tritt unserem Discord bei, um unser automatisiertes Whitelist-System zu nutzen, bei dem du die Sprache deiner Wahl auswählen kannst:
+loading:Lädt...
+loadingFailed:Laden fehlgeschlagen. Bitte versuch es erneut.
+unknownError:Ein unbekannter Fehler ist aufgetreten! Bitte versuch, die Webseite neu zu laden! Wenn das Problem weiterhin besteht, melde es uns auf unserem Discord https://discord.gg/cT3ThCj
+tokenExpired:Das Twitch-Authentifizierungs-Token ist abgelaufen. Bitte lade die Webseite neu oder starte deine App neu.
+invalidToken:Authentifizierung fehlgeschlagen. Bitte stelle sicher, dass deine Systemuhr synchronisiert ist! Andernfalls wird die Authentifizierung fehlschlagen! Weitere Lösungen: 1) Seite aktualisieren 2) Browser-Erweiterungen deaktivieren 3) Berechtigungen der Erweiterung widerrufen und neu erteilen 4) Bei Twitch ein- und ausloggen 5) Einen anderen Browser ausprobieren. Für weitere Hilfe tritt unserem Discord bei https://discord.gg/cT3ThCj
+connectionFailed:Die Verbindung zum Server ist fehlgeschlagen. Bitte versuch es später erneut!
+yourTeam:Dein Team
+reward:Belohnung
+won:Gewonnen
+empty:Leer
+easy:Leicht
+medium:Mittel
+hard:Schwer
+hide:Verbergen
+show:Zeigen
+live:Live
+requirements:Anforderungen
+horrible:Schrecklich
+bad:Schlecht
+avg:Durchschnitt
+good:Gut
+fantastic:Fantastisch
+perfect:Perfekt
+yourItems:Deine Items
+useItem:Benutzen
+useItemSuccess:Item erfolgreich verwendet
+itemNotExists:Du besitzt diesen Gegenstand nicht mehr
+itemAlreadyActive:Der Item-Effekt ist noch aktiv. Bitte versuche es später erneut
+itemNoBuddy:Trainer hat keinen Partner
+itemTeamListFull:Du kannst maximal 30 Teams haben
+PokemonFullHp:Pokémon hat volles KP
+PokemonDead:Pokémon muss wiederbelebt werden
+PokemonStillAlive:Pokémon muss nicht wiederbelebt werden
+PokemonNoStatusCondition:Pokémon ist nicht von einem Statusproblem betroffen
+PokemonFullPP:Alle Attacken haben volle AP
+sellConfirmMessage:Bist du sicher, dass du deinen {name} verkaufen möchtest?
+useConfirmMessage:Bist du sicher, dass du das Item {item} auf {pkm} verwenden möchtest?
+sellSuccess:Du hast dein Pokémon erfolgreich verkauft
+wonderPassNoCooldown:Dein Wunderpass ist nicht auf Abklingzeit!
+pokedailyNoCooldown:Dein Pokedaily ist nicht auf Abklingzeit!
+pokemonListHeadline:Deine Pokémon
+info:Info
+team:Team
+stats:Stats
+moves:Attacken
+movesNotFound:Konnte deine Attacken nicht finden
+name:Name
+hp:KP
+total:Gesamt
+progress:Fortschritt
+weight:Gewicht
+generation:Generation
+base_stats:Basiswerte
+caughtBy:Gefangen von
+caughtOn:Gefangen am
+originalChannel:Herkunft
+caughtAtFormat:{month}/{day}/{year}
+sell:Verkauf ${amount}
+trade:Tauschen
+wondertrade:Wundertausch
+tradeConfirmMessage:Dein {name} LVL. {lvl} wird für immer verschwinden. Fortfahren?
+sellLast:Du kannst dein letztes Pokémon nicht verkaufen
+sellNotExists:Dieses Pokémon existiert nicht mehr
+sellNotYourPokemon:Das ist nicht mehr dein Pokémon
+sellPriceChanged:Der Verkaufspreis deines Pokémon hat sich geändert. Bitte aktualisiere die Erweiterung
+tradeCooldown:Abklingzeit: {time}
+tradeCooldownIsActive:Du hast in den letzten 3 Stunden schon eine Wundertausch durchgeführt
+changeSort:Sortierung ändern
+sortByID:ID
+sortByName:Name
+sortByLevel:Level
+sortByHP:KP
+sortByPrice:Preis
+sortByShiny:Shiny
+sortByBaseStat:Basiswerte
+sortByAvgIV:IV
+sortByRecent:Neueste
+PokemonTeamFull:Dein Team ist voll
+PokemonNotInTeam:Dieses Pokémon ist nicht in deinem Team
+PokemonAlreadyInTeam:Dieses Pokémon ist bereits in deinem Team
+PokemonNotOwnedAnymore:Du besitzt dieses Pokémon nicht mehr
+PokemonNicknameTooLong:Der Spitzname ist zu lang
+PokemonTeamNameTooLong:Der Teamname ist zu lang
+spawnable:Spawnbare
+starters:Starter
+legendaries:Legendär
+showMissing:Fehlend
+obtained:Erhalten
+claimCharm:Schillerpin beanspruchen
+shinyCharm:Schillernde Chance
+resetDex:Dex zurücksetzen
+congratulations:Glückwunsch
+thisActionWillResetDexWarning:Diese Aktion setzt deinen fangbaren Dex-Fortschritt zurück und kann nicht rückgängig gemacht werden!
+congratsOnSpawnableDex:Glückwunsch zum Abschluss des fangbaren Dex!
+youCanClaimCharmNow:Du kannst jetzt deinen Schillerpin beanspruchen!
+youReceivedShinyCharm:Du hast einen Schillerpin erhalten!
+youUnlockedNewUpgrade:Du hast ein neues Upgrade für deinen Pokédex freigeschaltet!
+afterClaimingCharmText:Nach dem Beanspruchen deines Schillerpins hast du die Möglichkeit, deinen fangbaren Dex-Fortschritt zurückzusetzen und von vorne zu beginnen, um zusätzliche schillernde Charme zu verdienen.
+missions:Missionen
+showComplete:Vollständig anzeigen
+itemSellConfirmationMessage:Bist du sicher, dass du {amount}x {name} für insgesamt ${total_price} verkaufen möchtest?
+pokemonSellConfirmMessage:Dein {name} LVL. {lvl} wird für immer verschwinden. Fortfahren?
+eventCategory:Event
+extraCategory:Extra
+ballCategory:Ball
+evolutionCategory:Entwicklung
+tmCategory:TMs
+collectableCategory:Sammelobjekt
+shopRotation:Shop-Rotation in
+eventShopClosesIn:Event-Shop schließt in
+youHave:Du hast
+search:Suchen

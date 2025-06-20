@@ -1,0 +1,176 @@
+hidden_item:Hidden Item
+hidden_itemDescription:???
+tm_name:TM {moveName}
+tm_description:Teaches a {pkmt} type Pokémon the move {moveName}.
+fairy:Fairy
+dark:Dark
+dragon:Dragon
+ice:Ice
+psychic:Psychic
+electric:Electric
+grass:Grass
+water:Water
+fire:Fire
+steel:Steel
+ghost:Ghost
+bug:Bug
+rock:Rock
+ground:Ground
+poison:Poison
+flying:Flying
+fighting:Fighting
+normal:Normal
+supportUs:Support us by following on Twitch and receive up to 10% extra Pokemoney
+attack:Attack
+specialAttack:Special Att.
+defense:Defense
+specialDefense:Special Def.
+speed:Speed
+accuracy:accuracy
+evasion:evasion
+shop:Shop
+inventory:Inventory
+purchase:Purchase
+amount:Amount
+goldenCoinShop:Golden Coin Shop
+eventShop:Event Shop
+purchaseConfirmationMessage:Are you sure that you want to buy {amount}x {name} for a total of ${total_price}?
+howManyYouWantBuy:How many {name}s do you want to buy?
+itemAmountLessThenZero:At least one item needs to be bought!
+itemDoesNotExist:No item with the given name exists!
+notEnoughMoneyToBuy:You don't have enough money!
+notEnoughBattleCoinsToBuy:You don't have enough Golden Coin(s)!
+notEnoughEventCoinsToBuy:You don't have enough Event Coin(s)!
+itemNotPurchasable:That item cannot be bought from the shop!
+purchaseSuccessfully:The purchase was made successfully!
+back:Back
+continue:Continue
+cancel:Cancel
+close:Close
+success:Success
+error:Error
+okay:Okay
+value:Value
+cancelled:Cancelled
+computer:Computer
+searchBattle:Search battle
+dailyReward:Join our discord for free to get daily rewards!
+userIdNotShared:Please grant access to your Twitch-ID.
+notStarted:Enter !pokestart to start your adventure!
+notStartedDiscord:Enter !pokestart to start your adventure! If you need more help contact us on discord https://discord.gg/cT3ThCj
+notWhitelisted:This channel is not whitelisted.
+chooseChatBotLanguage:Please choose the language of the chatbot:
+notWhitelistedDiscord:This channel is not whitelisted! If you need more help contact us on discord https://discord.gg/cT3ThCj
+contactOnDiscord:Join our discord to use our automated whitelist system where you can select the language of your choice:
+loading:Loading...
+loadingFailed:Loading failed. Please try again.
+unknownError:An unknown error occurred! Please try to refresh the webpage! If the problem still persists report it to us on our discord https://discord.gg/cT3ThCj
+tokenExpired:The Twitch authentication token expired. Please reload the website or restart your app
+invalidToken:Authentication failed. Please be sure that your system clock is synced! Otherwise the authentication will fail! More solutions: 1) Page refresh 2) Disabling browser extensions 3) Revoke and grant the extension permission 4) Login and logout on twitch 5) Trying out a different browser. For more help join our discord https://discord.gg/cT3ThCj
+connectionFailed:The connection to the server failed. Please try again later!
+yourTeam:Your Team
+reward:Reward
+won:Won
+empty:Empty
+easy:Easy
+medium:Medium
+hard:Hard
+hide:Hide
+show:Show
+live:Live
+requirements:Requirements
+horrible:Horrible
+bad:Bad
+avg:Average
+good:Good
+fantastic:Fantastic
+perfect:Perfect
+yourItems:Your items
+useItem:Use
+useItemSuccess:Item successfully used
+itemNotExists:You don't own this item anymore
+itemAlreadyActive:The item effect is still active. Please try again later
+itemNoBuddy:Trainer has no buddy
+itemTeamListFull:The maximum of teams you can have is 30
+PokemonFullHp:Pokémon at full hp
+PokemonDead:Pokémon needs to be revived
+PokemonStillAlive:Pokémon does not need to be revived
+PokemonNoStatusCondition:Pokémon not affected by status condition
+PokemonFullPP:All moves at full PP
+sellConfirmMessage:Are you sure that you want to sell your {name}?
+useConfirmMessage:Are you sure that you want to use the item {item} on {pkm}?
+sellSuccess:You successfully sold your Pokémon
+wonderPassNoCooldown:Your Wonderpass is not on cooldown!
+pokedailyNoCooldown:Your Pokedaily is not on cooldown!
+pokemonListHeadline:Your Pokémon
+info:Info
+team:Team
+stats:Stats
+moves:Moves
+movesNotFound:Could not find your moves
+name:Name
+hp:Hp
+total:Total
+progress:Progress
+weight:Weight
+generation:Generation
+base_stats:Base stats
+caughtBy:Caught by
+caughtOn:Caught on
+originalChannel:Origin
+caughtAtFormat:{month}/{day}/{year}
+sell:Sell ${amount}
+trade:Trade
+wondertrade:Wondertrade
+tradeConfirmMessage:Your {name} LVL. {lvl} will be gone forever. Continue?
+sellLast:You can't sell your last Pokémon
+sellNotExists:This Pokémon does not exist anymore
+sellNotYourPokemon:This isn't your Pokémon anymore
+sellPriceChanged:The sale price of your Pokémon changed. Please refresh the extension
+tradeCooldown:Cooldown: {time}
+tradeCooldownIsActive:You already wondertraded in the past 3 hours
+changeSort:Change sorting
+sortByID:ID
+sortByName:Name
+sortByLevel:Level
+sortByHP:HP
+sortByPrice:Price
+sortByShiny:Shiny
+sortByBaseStat:Base stats
+sortByAvgIV:IV
+sortByRecent:Recent
+PokemonTeamFull:Your team is full
+PokemonNotInTeam:This Pokémon is not in your team
+PokemonAlreadyInTeam:This Pokémon is already in your team
+PokemonNotOwnedAnymore:You do not own this Pokémon anymore
+PokemonNicknameTooLong:The nickname is too long
+PokemonTeamNameTooLong:The team name is too long
+spawnable:Spawnable
+starters:Starters
+legendaries:Legendaries
+showMissing:Missing
+obtained:Obtained
+claimCharm:Claim Charm
+shinyCharm:Shiny Chance
+resetDex:Reset Dex
+congratulations:Congratulations
+thisActionWillResetDexWarning:This action will reset your catchable dex progress and can't be undone!
+congratsOnSpawnableDex:Congratulations on completing the spawnable dex!
+youCanClaimCharmNow:You can claim your Shiny Charm now!
+youReceivedShinyCharm:You received a shiny charm!
+youUnlockedNewUpgrade:You unlocked a new upgrade for your Pokedex!
+afterClaimingCharmText:After claiming your shiny charm you have the option to reset your catchable dex progress and start over to earn additional shiny charms.
+missions:Missions
+showComplete:Show Complete
+itemSellConfirmationMessage:Are you sure that you want to sell {amount}x {name} for a total of ${total_price}?
+pokemonSellConfirmMessage:Your {name} LVL. {lvl} will be gone forever. Continue?
+eventCategory:Event
+extraCategory:Extra
+ballCategory:Ball
+evolutionCategory:Evolution
+tmCategory:TMs
+collectableCategory:Collectable
+shopRotation:Shop rotation in
+eventShopClosesIn:Event Shop closes in
+youHave:You have
+search:Search
