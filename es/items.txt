@@ -41,7 +41,7 @@ safari_ballDescription:🪶 Tiene una probabilidad de 2x para atrapar un Pokémo
 park_ball:Park Ball
 park_ballDescription:🪶 Tiene una probabilidad de 10x para atrapar un Pokémon evento safari shiny. ¡Puedes reconocerlos por un mensaje de aparición diferente! 🪶
 beast_ball:Beast Ball
-beast_ballDescription:¡Perfecta para atrapar una ultra bestia! Probabilidad de captura: 75%
+beast_ballDescription:¡Perfecta para atrapar a una Ultra Bestia! Probabilidad de captura: 60% (Sin reducción si está en la dex)
 ghost_pumpkin:Calabaza Fantasma
 ghost_pumpkinDescription:Una calabaza fantasma. Colecciona más para desbloquear diferentes recompensas del Evento de Halloween 2022.
 dark_pumpkin:Calabaza Oscura

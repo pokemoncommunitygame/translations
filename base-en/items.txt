@@ -41,7 +41,7 @@ safari_ballDescription:🪶 Has a 2x chance to catch a shiny safari event Pokemo
 park_ball:Park Ball
 park_ballDescription:🪶 Has a 10x chance to catch a shiny safari event Pokemon. You can recognize them by a different spawn message! 🪶
 beast_ball:Beast Ball
-beast_ballDescription:Perfect for catching an ultra beast! Catch chance: 75%
+beast_ballDescription:Perfect for catching an ultra beast! Catch chance: 60% (No reduction from having it in the dex)
 ghost_pumpkin:Ghost Pumpkin
 ghost_pumpkinDescription:A ghost Pumpkin. Collect more to unlock different rewards of the Halloween Event 2022.
 dark_pumpkin:Dark Pumpkin

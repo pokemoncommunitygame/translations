@@ -41,7 +41,7 @@ safari_ballDescription:🪶 Tem uma chance 2x de capturar um Pokémon shiny de e
 park_ball:Park Ball
 park_ballDescription:🪶 Tem 10x mais chance de capturar um Pokémon de evento safari brilhante. Você pode reconhecê-los por uma mensagem de spawn diferente! 🪶
 beast_ball:Beast Ball
-beast_ballDescription:Perfeita para capturar uma ultracriatura! Chance de captura: 75%
+beast_ballDescription:Perfeito para capturar uma ultra fera! Chance de captura: 60% (Sem redução por tê-la no dex)
 ghost_pumpkin:Abóbora Fantasma
 ghost_pumpkinDescription:Uma Abóbora Fantasma. Colecione mais para desbloquear diferentes recompensas do Evento de Halloween 2022.
 dark_pumpkin:Abóbora Sombria

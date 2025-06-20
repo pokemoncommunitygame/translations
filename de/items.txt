@@ -41,7 +41,7 @@ safari_ballDescription:🪶 Hat eine 2x Chance, ein schillerndes Safari-Event-Po
 park_ball:Parkball
 park_ballDescription:🪶 Hat eine 10x Chance, ein schillerndes Safari-Event-Pokémon zu fangen. Du erkennst sie an einer anderen Spawn-Nachricht! 🪶
 beast_ball:Bestienball
-beast_ballDescription:Perfekt zum Fangen einer Ultrabestie! Fangchance: 75 %
+beast_ballDescription:Perfekt, um ein Ultrabestie zu fangen! Fangchance: 60% (Keine Reduzierung durch vorhandene im Pokédex)
 ghost_pumpkin:Geisterkürbis
 ghost_pumpkinDescription:Ein Geisterkürbis. Sammle mehr, um verschiedene Belohnungen des Halloween-Events 2022 freizuschalten.
 dark_pumpkin:Dunkler Kürbis

@@ -41,7 +41,7 @@ safari_ballDescription:🪶 A 2x de chance de capturer un Pokémon d'événement
 park_ball:Park Ball
 park_ballDescription:🪶 A 10x plus de chances de capturer un Pokémon safari événement brillant. Vous pouvez les reconnaître par un message d'apparition différent ! 🪶
 beast_ball:Beast Ball
-beast_ballDescription:Parfait pour capturer une ultra chimère ! Chance de capture : 75 %
+beast_ballDescription:Parfait pour attraper une ultra-chimère ! Chance de capture : 60 % (Pas de réduction si elle est dans le dex)
 ghost_pumpkin:Citrouille Fantôme
 ghost_pumpkinDescription:Une citrouille fantôme. Collectionnez-en plus pour débloquer différentes récompenses de l'Événement Halloween 2022.
 dark_pumpkin:Citrouille Sombre
