@@ -1,0 +1,1514 @@
+role-play:Imitation
+role-playDescription:Imite la cible et copie son talent.
+topsy-turvy:Renversement
+topsy-turvyDescription:Inverse tous les changements de stats de la cible.
+play-rough:Câlinerie
+play-roughDescription:Attaque l’ennemi avec un câlin. Peut diminuer son Attaque.
+acid-downpour--special:Déluge Causti-Toxique
+acid-downpour--specialDescription:Dummy
+ice-hammer:Marteau de Glace
+ice-hammerDescription:Le lanceur donne un puissant coup de poing à l’ennemi. Réduit la Vitesse du lanceur.
+speed-swap:Permuvitesse
+speed-swapDescription:Intervertit la Vitesse du lanceur et celle de la cible.
+pound:Écras’Face
+poundDescription:Écrase l’ennemi avec les pattes avant ou la queue, par exemple.
+karate-chop:Poing Karaté
+karate-chopDescription:L’ennemi est tranché violemment. Taux de critique élevé.
+double-slap:Torgnoles
+double-slapDescription:Gifle rapidement l’ennemi de deux à cinq fois d’affilée.
+comet-punch:Poing Comète
+comet-punchDescription:Une tornade de coups de poing qui frappe de deux à cinq fois d’affilée.
+mega-punch:Ultimapoing
+mega-punchDescription:L’ennemi reçoit un coup de poing d’une puissance incroyable.
+pay-day:Jackpot
+pay-dayDescription:Des pièces sont lancées sur l’ennemi.
+fire-punch:Poing Feu
+fire-punchDescription:Un coup de poing enflammé vient frapper l’ennemi. Peut le brûler.
+ice-punch:Poing Glace
+ice-punchDescription:Un coup de poing glacé vient frapper l’ennemi. Peut le geler.
+thunder-punch:Poing Éclair
+thunder-punchDescription:Un coup de poing électrique vient frapper l’ennemi. Peut le paralyser.
+scratch:Griffe
+scratchDescription:Lacère l’ennemi avec des griffes acérées pour lui infliger des dégâts.
+vice-grip:Force Poigne
+vice-gripDescription:L’ennemi est attrapé et compressé par les côtés.
+guillotine:Guillotine
+guillotineDescription:Des pinces lacèrent violemment l’ennemi, le mettant K.O. sur le coup s’il est touché.
+razor-wind:Coupe-Vent
+razor-windDescription:Attaque en deux tours. Des lames de vent frappent l’ennemi au second tour. Taux de critique élevé.
+swords-dance:Danse Lames
+swords-danceDescription:Danse frénétique qui exalte l’esprit combatif. Augmente beaucoup l’Attaque du lanceur.
+cut:Coupe
+cutDescription:Coupe l’ennemi avec des lames ou des griffes.
+gust:Tornade
+gustDescription:Le lanceur bat des ailes pour générer une bourrasque qui blesse l’ennemi.
+wing-attack:Cru-Ailes
+wing-attackDescription:L’ennemi est frappé par de larges ailes déployées pour infliger des dégâts.
+whirlwind:Cyclone
+whirlwindDescription:Éjecte le Pokémon ennemi et le remplace par un autre. Lors d’un combat contre un Pokémon sauvage seul, met fin au combat.
+fly:Vol
+flyDescription:Le lanceur s’envole au premier tour et frappe au second.
+bind:Étreinte
+bindDescription:Ligote l’ennemi avec les tentacules ou le corps pour l’écraser durant quatre à cinq tours.
+slam:Souplesse
+slamDescription:Fouette l’ennemi avec la queue ou une liane, par exemple, pour infliger des dégâts.
+vine-whip:Fouet Lianes
+vine-whipDescription:Fouette l’ennemi avec de fines lianes pour infliger des dégâts.
+stomp:Écrasement
+stompDescription:Écrase l’ennemi avec un énorme pied. Peut aussi l’apeurer.
+double-kick:Double Pied
+double-kickDescription:Deux coups de pied qui frappent l’ennemi deux fois d’affilée.
+mega-kick:Ultimawashi
+mega-kickDescription:Un coup de pied surpuissant qui frappe l’ennemi.
+jump-kick:Pied Sauté
+jump-kickDescription:Le lanceur s’envole pour décocher un coup de pied sauté. S’il échoue, le lanceur se blesse.
+rolling-kick:Mawashi Geri
+rolling-kickDescription:Le lanceur effectue un coup de pied tournoyant et extrêmement rapide. Peut apeurer l’ennemi.
+sand-attack:Jet de Sable
+sand-attackDescription:Lance du sable au visage de l’ennemi pour baisser sa Précision.
+headbutt:Coup d’Boule
+headbuttDescription:Le lanceur donne un coup de tête. Peut apeurer l’ennemi.
+horn-attack:Koud’Korne
+horn-attackDescription:Frappe l’ennemi d’un coup de corne pointue pour infliger des dégâts.
+fury-attack:Furie
+fury-attackDescription:Frappe l’ennemi deux à cinq fois d’affilée avec un bec ou une corne, par exemple.
+horn-drill:Empal’Korne
+horn-drillDescription:Un coup de corne en vrille qui empale l’ennemi, le mettant K.O. sur le coup s’il est touché.
+tackle:Charge
+tackleDescription:Le lanceur charge l’ennemi et le percute de tout son poids.
+body-slam:Plaquage
+body-slamDescription:Le lanceur se laisse tomber sur l’ennemi de tout son poids. Peut aussi le paralyser.
+wrap:Ligotage
+wrapDescription:Le lanceur ligote l’ennemi avec des lianes ou son corps pour l’écraser durant quatre à cinq tours.
+take-down:Bélier
+take-downDescription:Une charge violente qui blesse aussi légèrement le lanceur.
+thrash:Mania
+thrashDescription:Une attaque furieuse qui dure de deux à trois tours. Le lanceur devient confus.
+double-edge:Damoclès
+double-edgeDescription:Une charge dangereuse et imprudente. Blesse aussi gravement le lanceur.
+tail-whip:Mimi-Queue
+tail-whipDescription:Le lanceur remue son adorable queue pour tromper la vigilance de l’ennemi et baisser sa Défense.
+poison-sting:Dard-Venin
+poison-stingDescription:Un dard toxique qui transperce l’ennemi. Peut aussi l’empoisonner.
+twineedle:Double Dard
+twineedleDescription:Un double coup de dard qui transperce l’ennemi deux fois d’affilée. Peut aussi l’empoisonner.
+pin-missile:Dard-Nuée
+pin-missileDescription:Envoie une rafale de dards. Peut toucher de deux à cinq fois.
+leer:Groz’Yeux
+leerDescription:Le lanceur fait les gros yeux à l’ennemi pour l’intimider et baisser sa Défense.
+bite:Morsure
+biteDescription:L’ennemi est mordu par de tranchantes canines. Peut l’apeurer.
+growl:Rugissement
+growlDescription:Le lanceur pousse un cri tout mimi pour tromper la vigilance de l’ennemi et baisser son Attaque.
+roar:Hurlement
+roarDescription:Effraie le Pokémon ennemi et le remplace par un autre. Lors d’un combat contre un Pokémon sauvage seul, met fin au combat.
+sing:Berceuse
+singDescription:Une berceuse plonge l’ennemi dans un profond sommeil.
+supersonic:Ultrason
+supersonicDescription:Le lanceur produit d’étranges ondes sonores qui rendent la cible confuse.
+sonic-boom:Sonic Boom
+sonic-boomDescription:Une onde de choc destructrice qui inflige toujours 20 PV de dégâts.
+disable:Entrave
+disableDescription:Empêche l’ennemi d’employer à nouveau sa dernière attaque. Dure quatre tours.
+acid:Acide
+acidDescription:Le lanceur attaque l’ennemi avec un jet d’acide corrosif. Peut aussi baisser sa Défense Spéciale.
+ember:Flammèche
+emberDescription:L’ennemi est attaqué par une faible flamme. Peut aussi le brûler.
+flamethrower:Lance-Flammes
+flamethrowerDescription:L’ennemi reçoit un torrent de flammes. Peut aussi le brûler.
+mist:Brume
+mistDescription:Une brume blanche enveloppe l’équipe du lanceur et empêche la réduction des stats pour cinq tours.
+water-gun:Pistolet à O
+water-gunDescription:De l’eau est projetée avec force sur l’ennemi.
+hydro-pump:Hydrocanon
+hydro-pumpDescription:Un puissant jet d’eau est dirigé sur l’ennemi.
+surf:Surf
+surfDescription:Une énorme vague s’abat sur le champ de bataille et inflige des dégâts à tous les Pokémon autour du lanceur.
+ice-beam:Laser Glace
+ice-beamDescription:Un rayon de glace frappe l’ennemi. Peut aussi le geler.
+blizzard:Blizzard
+blizzardDescription:Une violente tempête de neige s’abat sur l’ennemi. Peut aussi le geler.
+psybeam:Rafale Psy
+psybeamDescription:Un étrange rayon frappe l’ennemi. Peut aussi le rendre confus.
+bubble-beam:Bulles d’O
+bubble-beamDescription:Des bulles sont envoyées avec puissance sur l’ennemi. Peut aussi baisser sa Vitesse.
+aurora-beam:Onde Boréale
+aurora-beamDescription:Envoie un rayon arc-en-ciel sur l’ennemi. Peut aussi baisser son Attaque.
+hyper-beam:Ultralaser
+hyper-beamDescription:Projette un puissant rayon sur l’ennemi. Le lanceur doit se reposer au tour suivant.
+peck:Picpic
+peckDescription:Frappe l’ennemi d’un bec pointu ou d’une corne pour infliger des dégâts.
+drill-peck:Bec Vrille
+drill-peckDescription:Une attaque utilisant le bec comme une perceuse.
+submission:Sacrifice
+submissionDescription:Le lanceur agrippe l’ennemi et l’écrase au sol. Blesse aussi légèrement le lanceur.
+low-kick:Balayage
+low-kickDescription:Un puissant coup de pied bas qui fauche l’ennemi. Il est plus efficace contre les ennemis lourds.
+counter:Riposte
+counterDescription:Une riposte qui répond à toute capacité physique en infligeant le double de dégâts.
+seismic-toss:Frappe Atlas
+seismic-tossDescription:L’ennemi est projeté grâce au pouvoir de la gravité. Inflige des dégâts équivalents au niveau du lanceur.
+strength:Force
+strengthDescription:Le lanceur cogne l’ennemi de toutes ses forces.
+absorb:Vole-Vie
+absorbDescription:Une attaque qui convertit la moitié des dégâts infligés en PV pour le lanceur.
+mega-drain:Méga-Sangsue
+mega-drainDescription:Une attaque qui convertit la moitié des dégâts infligés en PV pour le lanceur.
+leech-seed:Vampigraine
+leech-seedDescription:Une graine est semée sur l’ennemi. À chaque tour, elle lui dérobe des PV que le lanceur récupère.
+growth:Croissance
+growthDescription:Le corps du lanceur se développe. Augmente l’Attaque et l’Attaque Spéciale.
+razor-leaf:Tranch’Herbe
+razor-leafDescription:Des feuilles aiguisées comme des rasoirs entaillent l’ennemi. Taux de critique élevé.
+solar-beam:Lance-Soleil
+solar-beamDescription:Absorbe la lumière au premier tour et envoie un rayon puissant au tour suivant.
+poison-powder:Poudre Toxik
+poison-powderDescription:Une poudre toxique empoisonne l’ennemi.
+stun-spore:Para-Spore
+stun-sporeDescription:Le lanceur répand sur l’ennemi une poudre qui le paralyse.
+sleep-powder:Poudre Dodo
+sleep-powderDescription:Le lanceur répand une poudre soporifique qui endort la cible.
+petal-dance:Danse Fleurs
+petal-danceDescription:Le lanceur attaque en projetant des pétales pendant deux à trois tours avant de céder à la confusion.
+string-shot:Sécrétion
+string-shotDescription:Le lanceur crache de la soie pour ligoter l’ennemi et beaucoup baisser sa Vitesse.
+dragon-rage:Draco-Rage
+dragon-rageDescription:La colère du lanceur déclenche une onde de choc destructrice qui inflige toujours 40 PV de dégâts.
+fire-spin:Danse Flammes
+fire-spinDescription:Un tourbillon de flammes emprisonne l’ennemi pendant quatre à cinq tours.
+thunder-shock:Éclair
+thunder-shockDescription:Une décharge électrique tombe sur l’ennemi. Peut aussi le paralyser.
+thunderbolt:Tonnerre
+thunderboltDescription:Une grosse décharge électrique tombe sur l’ennemi. Peut aussi le paralyser.
+thunder-wave:Cage Éclair
+thunder-waveDescription:Un faible choc électrique frappe l’ennemi. Si l’attaque le touche, celui-ci est paralysé.
+thunder:Fatal-Foudre
+thunderDescription:La foudre tombe sur l’ennemi pour lui infliger des dégâts. Peut aussi le paralyser.
+rock-throw:Jet-Pierres
+rock-throwDescription:Le lanceur lâche une pierre sur l’ennemi.
+earthquake:Séisme
+earthquakeDescription:Le lanceur provoque un tremblement de terre touchant tous les Pokémon autour de lui.
+fissure:Abîme
+fissureDescription:Le lanceur fait tomber l’ennemi dans une crevasse. Si cette attaque réussit, elle met K.O. sur le coup.
+dig:Tunnel
+digDescription:Le lanceur creuse au premier tour et frappe au second.
+toxic:Toxik
+toxicDescription:Empoisonne gravement l’ennemi. Les dégâts dus au poison augmentent à chaque tour.
+confusion:Choc Mental
+confusionDescription:Une faible vague télékinétique frappe l’ennemi. Peut aussi le plonger dans la confusion.
+psychic:Psyko
+psychicDescription:Une puissante force télékinétique frappe l’ennemi. Peut aussi faire baisser sa Défense Spéciale.
+hypnosis:Hypnose
+hypnosisDescription:Le lanceur hypnotise l’ennemi pour le plonger dans un profond sommeil.
+meditate:Yoga
+meditateDescription:Le lanceur médite pour éveiller son pouvoir latent et augmenter son Attaque.
+agility:Hâte
+agilityDescription:Le lanceur se relaxe et allège son corps pour beaucoup augmenter sa Vitesse.
+quick-attack:Vive-Attaque
+quick-attackDescription:Le lanceur fonce sur l’ennemi si rapidement qu’on parvient à peine à le discerner. Frappe en priorité.
+rage:Frénésie
+rageDescription:Une fois activée, cette capacité augmente l’Attaque du lanceur à mesure que celui-ci subit des attaques.
+teleport:Téléport
+teleportDescription:Permet de fuir une rencontre avec un Pokémon sauvage.
+night-shade:Ombre Nocturne
+night-shadeDescription:Le lanceur invoque un mirage. Inflige des dégâts équivalents au niveau du lanceur.
+mimic:Copie
+mimicDescription:Le lanceur copie la dernière capacité utilisée par la cible et la conserve tant qu’il reste au combat.
+screech:Grincement
+screechDescription:Cri strident qui baisse beaucoup la Défense de l’ennemi.
+double-team:Reflet
+double-teamDescription:Le lanceur se déplace si vite qu’il crée des copies illusoires de lui-même, augmentant son Esquive.
+recover:Soin
+recoverDescription:Un soin qui permet au lanceur de récupérer jusqu’à la moitié de ses PV max.
+harden:Armure
+hardenDescription:Le lanceur contracte tous ses muscles pour augmenter sa Défense.
+minimize:Lilliput
+minimizeDescription:Le lanceur comprime son corps pour se faire tout petit et beaucoup augmenter son Esquive.
+smokescreen:Brouillard
+smokescreenDescription:Le lanceur disperse un nuage d’encre ou de fumée. Réduit la Précision de l’ennemi.
+confuse-ray:Onde Folie
+confuse-rayDescription:Un rayon sinistre qui plonge l’ennemi dans un état de confusion.
+withdraw:Repli
+withdrawDescription:Le lanceur se recroqueville dans sa carapace, ce qui augmente sa Défense.
+defense-curl:Boul’Armure
+defense-curlDescription:Le lanceur s’enroule pour cacher ses points faibles, ce qui augmente sa Défense.
+barrier:Bouclier
+barrierDescription:Le lanceur érige un mur solide qui augmente beaucoup sa Défense.
+light-screen:Mur Lumière
+light-screenDescription:Un fabuleux mur de lumière qui réduit les dégâts causés par les capacités spéciales durant cinq tours.
+haze:Buée Noire
+hazeDescription:Un brouillard qui annule les changements de stats de tous les Pokémon au combat.
+reflect:Protection
+reflectDescription:Un fabuleux mur de lumière qui réduit les dégâts causés par les capacités physiques durant cinq tours.
+focus-energy:Puissance
+focus-energyDescription:Le lanceur prend une profonde inspiration et se concentre pour augmenter son taux de critique.
+bide:Patience
+bideDescription:Le lanceur encaisse les coups durant deux tours et réplique en infligeant le double des dégâts subis.
+metronome:Métronome
+metronomeDescription:Le lanceur agite un doigt et stimule son cerveau pour utiliser presque n’importe quelle capacité au hasard.
+mirror-move:Mimique
+mirror-moveDescription:Le lanceur riposte à l’attaque de l’ennemi avec la même attaque.
+self-destruct:Destruction
+self-destructDescription:Le lanceur explose en blessant tous les Pokémon autour de lui. Le lanceur tombe K.O.
+egg-bomb:Bombe Œuf
+egg-bombDescription:De toutes ses forces, le lanceur jette un gros œuf sur l’ennemi pour lui infliger des dégâts.
+lick:Léchouille
+lickDescription:Un grand coup de langue qui inflige des dégâts à l’ennemi. Peut aussi le paralyser.
+smog:Purédpois
+smogDescription:Le lanceur attaque à l’aide d’une éruption de gaz répugnants. Peut aussi empoisonner l’ennemi.
+sludge:Détritus
+sludgeDescription:Des détritus toxiques sont projetés sur l’ennemi. Peut aussi l’empoisonner.
+bone-club:Massd’Os
+bone-clubDescription:Le lanceur frappe l’ennemi à grands coups d’os. Peut aussi l’apeurer.
+fire-blast:Déflagration
+fire-blastDescription:Un déluge de flammes ardentes submerge l’ennemi. Peut aussi le brûler.
+waterfall:Cascade
+waterfallDescription:Le lanceur charge l’ennemi à une vitesse remarquable, ce qui peut l’apeurer.
+clamp:Claquoir
+clampDescription:Le lanceur piège l’ennemi dans sa dure coquille et l’écrase pendant quatre à cinq tours.
+swift:Météores
+swiftDescription:Le lanceur envoie des rayons d’étoiles. Touche toujours l’ennemi.
+skull-bash:Coud’Krâne
+skull-bashDescription:Le lanceur baisse la tête pour augmenter sa Défense au premier tour et percuter l’ennemi au second.
+spike-cannon:Picanon
+spike-cannonDescription:Envoie une rafale de dards. Peut toucher de deux à cinq fois.
+constrict:Constriction
+constrictDescription:De longs tentacules ou lianes attaquent l’ennemi. Peut aussi baisser sa Vitesse.
+amnesia:Amnésie
+amnesiaDescription:Le lanceur fait le vide dans son esprit pour oublier ses soucis. Augmente beaucoup sa Défense Spéciale.
+kinesis:Télékinésie
+kinesisDescription:Le lanceur distrait l’ennemi en pliant une cuiller, ce qui baisse sa Précision.
+soft-boiled:E-Coque
+soft-boiledDescription:Le lanceur récupère jusqu’à la moitié de ses PV max.
+high-jump-kick:Pied Voltige
+high-jump-kickDescription:Le lanceur s’élance pour effectuer un coup de genou sauté. S’il échoue, le lanceur se blesse.
+glare:Regard Médusant
+glareDescription:Le lanceur intimide l’ennemi grâce à son regard terrifiant pour le paralyser.
+dream-eater:Dévorêve
+dream-eaterDescription:Le lanceur mange le rêve de l’ennemi endormi et récupère en PV la moitié des dégâts infligés.
+poison-gas:Gaz Toxik
+poison-gasDescription:Un nuage de gaz toxique est projeté au visage de l’ennemi pour l’empoisonner.
+barrage:Pilonnage
+barrageDescription:Projette de deux à cinq grosses boules sur l’ennemi.
+leech-life:Vampirisme
+leech-lifeDescription:Une attaque qui aspire le sang de l’ennemi. La moitié des dégâts sont convertis en PV pour le lanceur.
+lovely-kiss:Grobisou
+lovely-kissDescription:Le lanceur fait un bisou à l’ennemi en prenant une mine effrayante. Endort l’ennemi.
+sky-attack:Piqué
+sky-attackDescription:Une attaque en deux tours au taux de critique élevé. Peut aussi apeurer l’ennemi.
+transform:Morphing
+transformDescription:Le lanceur devient une copie de sa cible et obtient la même palette de capacités.
+dizzy-punch:Uppercut
+dizzy-punchDescription:Un enchaînement de coups de poing cadencés frappe l’ennemi. Peut aussi le rendre confus.
+spore:Spore
+sporeDescription:Le lanceur répand un nuage de spores qui endort.
+flash:Flash
+flashDescription:Explosion lumineuse qui fait baisser la Précision de l’ennemi.
+psywave:Vague Psy
+psywaveDescription:Une étrange onde d’énergie chaude frappe l’ennemi. Cette attaque est d’intensité variable.
+splash:Trempette
+splashDescription:Le lanceur barbote et éclabousse les environs. Cette capacité n’a aucun effet.
+acid-armor:Acidarmure
+acid-armorDescription:Le lanceur modifie sa structure moléculaire pour se liquéfier et beaucoup augmenter sa Défense.
+crabhammer:Pince-Masse
+crabhammerDescription:Une grande pince martèle l’ennemi. Taux de critique élevé.
+explosion:Explosion
+explosionDescription:Le lanceur explose et inflige des dégâts à tous les Pokémon autour de lui. Met K.O. le lanceur.
+fury-swipes:Combo-Griffe
+fury-swipesDescription:L’ennemi est lacéré par des faux ou des griffes de deux à cinq fois d’affilée.
+bonemerang:Osmerang
+bonemerangDescription:Le lanceur projette son os comme un boomerang. Cette attaque frappe à l’aller et au retour.
+rest:Repos
+restDescription:Le lanceur regagne tous ses PV et soigne ses problèmes de statut, puis il dort pendant deux tours.
+rock-slide:Éboulement
+rock-slideDescription:Envoie de gros rochers sur l’ennemi pour infliger des dégâts. Peut aussi l’apeurer.
+hyper-fang:Croc de Mort
+hyper-fangDescription:Le lanceur mord l’ennemi à l’aide de ses incisives aiguisées. Peut aussi l’apeurer.
+sharpen:Affûtage
+sharpenDescription:Le lanceur réduit son nombre de polygones pour accentuer ses angles et augmenter son Attaque.
+bubble:Écume
+bubbleDescription:Des bulles frappent l’ennemi. Peut réduire sa Vitesse.
+conversion:Conversion
+conversionDescription:Le lanceur change de type pour prendre celui de la première capacité de sa liste.
+tri-attack:Triplattaque
+tri-attackDescription:Le lanceur envoie trois boules d’énergie simultanément. Peut aussi paralyser, brûler ou geler l’ennemi.
+super-fang:Croc Fatal
+super-fangDescription:Une vilaine morsure d’incisives qui réduit de moitié les PV de l’ennemi.
+slash:Tranche
+slashDescription:Un coup de griffe ou autre tranche l’ennemi. Taux de critique élevé.
+substitute:Clonage
+substituteDescription:Le lanceur fait une copie de lui-même en sacrifiant quelques PV. La copie sert de leurre.
+struggle:Lutte
+struggleDescription:Une attaque désespérée, utilisée quand le lanceur n’a plus de PP. Le blesse aussi légèrement.
+sketch:Gribouille
+sketchDescription:Le lanceur apprend la dernière capacité utilisée par la cible. Gribouille disparaît après utilisation.
+triple-kick:Triple Pied
+triple-kickDescription:Une salve de un à trois coups de pied dont la puissance augmente à chaque coup porté.
+thief:Larcin
+thiefDescription:Le lanceur attaque la cible et vole son objet. Le lanceur ne peut rien voler s’il tient déjà un objet.
+spider-web:Toile
+spider-webDescription:Le lanceur enserre l’ennemi à l’aide d’une fine soie gluante pour l’empêcher de fuir le combat.
+mind-reader:Lire-Esprit
+mind-readerDescription:Le lanceur analyse les mouvements de l’ennemi pour être sûr de toucher au coup suivant.
+nightmare:Cauchemar
+nightmareDescription:Un cauchemar qui inflige des dégâts à chaque tour à un ennemi endormi.
+flame-wheel:Roue de Feu
+flame-wheelDescription:Le lanceur s’entoure de feu et charge l’ennemi. Peut aussi le brûler.
+snore:Ronflement
+snoreDescription:Une attaque qui ne fonctionne que si le lanceur est endormi. Le boucan peut aussi apeurer l’ennemi.
+curse:Malédiction
+curseDescription:Une capacité à l’effet différent selon que le lanceur est un Pokémon Spectre ou non.
+flail:Gigotage
+flailDescription:Le lanceur fait tournoyer son fléau. Plus ses PV sont bas, plus l’attaque est puissante.
+conversion-2:Conversion 2
+conversion-2Description:Le lanceur change de type pour être résistant au type de la dernière attaque lancée par sa cible.
+aeroblast:Aéroblast
+aeroblastDescription:Le lanceur projette une tornade sur l’ennemi pour infliger des dégâts. Taux de critique élevé.
+cotton-spore:Spore Coton
+cotton-sporeDescription:Le lanceur libère des spores cotonneuses qui collent à l’ennemi et baissent beaucoup sa Vitesse.
+reversal:Contre
+reversalDescription:Le lanceur ne retient plus ses coups. Plus ses PV sont bas et plus l’attaque est puissante.
+spite:Dépit
+spiteDescription:Le lanceur exprime son ressentiment en retirant 4 PP de la dernière attaque de l’ennemi.
+powder-snow:Poudreuse
+powder-snowDescription:Le lanceur projette de la neige poudreuse. Peut aussi geler l’ennemi.
+protect:Abri
+protectDescription:Le lanceur esquive toutes les attaques. Le risque d’échec augmente lorsque la capacité est utilisée plusieurs fois de suite.
+mach-punch:Mach Punch
+mach-punchDescription:Coup de poing fulgurant. Frappe en priorité.
+scary-face:Grimace
+scary-faceDescription:Une grimace qui effraie l’ennemi et réduit beaucoup sa Vitesse.
+feint-attack:Feinte
+feint-attackDescription:Le lanceur s’approche l’air de rien avant de frapper par surprise. N’échoue jamais.
+sweet-kiss:Doux Baiser
+sweet-kissDescription:Le lanceur envoie un bisou si mignon et désarmant qu’il plonge l’ennemi dans la confusion.
+belly-drum:Cognobidon
+belly-drumDescription:Améliore l’Attaque au maximum en sacrifiant la moitié des PV max.
+sludge-bomb:Bombe Beurk
+sludge-bombDescription:Des détritus toxiques sont projetés sur l’ennemi. Peut aussi l’empoisonner.
+mud-slap:Coud’Boue
+mud-slapDescription:Le lanceur envoie de la boue au visage de l’ennemi pour infliger des dégâts et baisser sa Précision.
+octazooka:Octazooka
+octazookaDescription:Le lanceur attaque en projetant de l’encre au visage de l’ennemi. Peut aussi baisser sa Précision.
+spikes:Picots
+spikesDescription:Le lanceur disperse des piquants sur le sol pour blesser tout ennemi qui entre au combat.
+zap-cannon:Élecanon
+zap-cannonDescription:Un boulet de canon électrifié qui inflige des dégâts et paralyse l’ennemi.
+foresight:Clairvoyance
+foresightDescription:Permet de toucher un Pokémon Spectre avec n’importe quelle capacité ou de toucher un ennemi insaisissable.
+destiny-bond:Lien du Destin
+destiny-bondDescription:Quand cette capacité est activée, elle met K.O. un ennemi qui porte un coup fatal au lanceur. Elle échoue si elle est réutilisée après activation.
+perish-song:Requiem
+perish-songDescription:Tout Pokémon qui entend ce requiem est K.O. dans trois tours à moins qu’il ne soit remplacé.
+icy-wind:Vent Glace
+icy-windDescription:Une bourrasque de vent froid blesse l’ennemi. Réduit aussi sa Vitesse.
+detect:Détection
+detectDescription:Le lanceur esquive toutes les attaques. Le risque d’échec augmente lorsque la capacité est utilisée plusieurs fois de suite.
+bone-rush:Charge Os
+bone-rushDescription:Le lanceur frappe l’ennemi avec un os de deux à cinq fois d’affilée.
+lock-on:Verrouillage
+lock-onDescription:Verrouille l’ennemi pour ne pas le rater au tour suivant.
+outrage:Colère
+outrageDescription:Le lanceur enrage et attaque pendant deux ou trois tours avant de devenir confus.
+sandstorm:Tempête de Sable
+sandstormDescription:Une tempête de sable qui blesse tous les Pokémon durant cinq tours, sauf ceux de type Roche, Sol ou Acier. Augmente la Déf. Spé. des Pokémon Roche.
+giga-drain:Giga-Sangsue
+giga-drainDescription:Une attaque qui convertit la moitié des dégâts infligés en PV pour le lanceur.
+endure:Ténacité
+endureDescription:Le lanceur résiste aux attaques avec 1 PV. Peut échouer si utilisée plusieurs fois de suite.
+charm:Charme
+charmDescription:Le lanceur fait les yeux doux pour berner l’ennemi et beaucoup réduire son Attaque.
+rollout:Roulade
+rolloutDescription:Un rocher roule sur l’ennemi pendant cinq tours. L’attaque gagne en puissance à chaque coup.
+false-swipe:Faux-Chage
+false-swipeDescription:Le lanceur retient ses coups pour que l’ennemi garde au moins 1 PV et ne tombe pas K.O.
+swagger:Vantardise
+swaggerDescription:Fait enrager la cible et la plonge dans la confusion, mais augmente beaucoup son Attaque.
+milk-drink:Lait à Boire
+milk-drinkDescription:Le lanceur récupère jusqu’à la moitié de ses PV max.
+spark:Étincelle
+sparkDescription:Lance une charge électrique sur l’ennemi. Peut aussi le paralyser.
+fury-cutter:Taillade
+fury-cutterDescription:Un coup de faux ou de griffe dont la force augmente quand il touche plusieurs fois d’affilée.
+steel-wing:Ailes d’Acier
+steel-wingDescription:Le lanceur frappe l’ennemi avec des ailes d’acier. Peut aussi augmenter la Défense du lanceur.
+mean-look:Regard Noir
+mean-lookDescription:Le lanceur pétrifie l’ennemi en lui lançant un regard noir. Il devient incapable de s’enfuir.
+attract:Attraction
+attractDescription:Si l’ennemi est du sexe opposé, il tombe amoureux et rechigne alors à attaquer.
+sleep-talk:Blabla Dodo
+sleep-talkDescription:Le lanceur utilise une de ses capacités au hasard pendant qu’il dort.
+heal-bell:Glas de Soin
+heal-bellDescription:Carillon apaisant qui soigne les problèmes de statut de tous les Pokémon de l’équipe.
+return:Retour
+returnDescription:Plus le Pokémon apprécie son Dresseur, plus la puissance de cette attaque furieuse augmente.
+present:Cadeau
+presentDescription:Le lanceur attaque en offrant un cadeau piégé à la cible. Peut cependant restaurer certains de ses PV.
+frustration:Frustration
+frustrationDescription:Moins le Pokémon aime son Dresseur, plus cette attaque est puissante.
+safeguard:Rune Protect
+safeguardDescription:Crée un champ protecteur qui empêche tous les problèmes de statut pendant cinq tours.
+pain-split:Balance
+pain-splitDescription:Le lanceur ajoute ses PV à ceux de sa cible et les répartit équitablement.
+sacred-fire:Feu Sacré
+sacred-fireDescription:Le lanceur génère un feu mystique d’une intensité redoutable pour attaquer l’ennemi. Peut aussi le brûler.
+magnitude:Ampleur
+magnitudeDescription:Provoque un tremblement de terre d’intensité variable qui affecte tous les Pokémon alentour. L’efficacité varie.
+dynamic-punch:Dynamo-Poing
+dynamic-punchDescription:Le lanceur rassemble ses forces et envoie un coup de poing à l’ennemi. Rend ce dernier confus.
+megahorn:Mégacorne
+megahornDescription:Le lanceur utilise ses gigantesques cornes pour charger l’ennemi.
+dragon-breath:Draco-Souffle
+dragon-breathDescription:Le lanceur souffle fort sur l’ennemi pour lui infliger des dégâts. Peut aussi le paralyser.
+baton-pass:Relais
+baton-passDescription:Le lanceur échange sa place et tout changement de stat avec un Pokémon de l’équipe.
+encore:Encore
+encoreDescription:Oblige l’ennemi à répéter durant trois tours la dernière capacité utilisée.
+pursuit:Poursuite
+pursuitDescription:Une attaque qui inflige deux fois plus de dégâts à un ennemi qui s’apprête à être remplacé.
+rapid-spin:Tour Rapide
+rapid-spinDescription:Une attaque tournoyante pouvant aussi annuler par exemple Étreinte, Ligotage, Vampigraine ou Picots.
+sweet-scent:Doux Parfum
+sweet-scentDescription:Un doux parfum qui réduit beaucoup l’Esquive de l’ennemi.
+iron-tail:Queue de Fer
+iron-tailDescription:Attaque l’ennemi avec une queue de fer. Peut aussi baisser sa Défense.
+metal-claw:Griffe Acier
+metal-clawDescription:Attaque avec des griffes d’acier. Peut aussi augmenter l’Attaque du lanceur.
+vital-throw:Corps Perdu
+vital-throwDescription:Le lanceur porte son coup en dernier. En échange, cette capacité n’échoue jamais.
+morning-sun:Aurore
+morning-sunDescription:Un soin qui restaure des PV au lanceur. Son efficacité varie en fonction de la météo.
+synthesis:Synthèse
+synthesisDescription:Un soin qui restaure des PV au lanceur. Son efficacité varie en fonction de la météo.
+moonlight:Rayon Lune
+moonlightDescription:Un soin qui restaure des PV au lanceur. Son efficacité varie en fonction de la météo.
+hidden-power:Puissance Cachée
+hidden-powerDescription:Attaque dont le type dépend du Pokémon qui l’utilise.
+cross-chop:Coup Croix
+cross-chopDescription:Le lanceur délivre un coup double en croisant les avant-bras. Taux de critique élevé.
+twister:Ouragan
+twisterDescription:Déclenche un terrible ouragan sur l’ennemi. Peut aussi l’apeurer.
+rain-dance:Danse Pluie
+rain-danceDescription:Invoque de fortes pluies qui durent cinq tours, augmentant la puissance des capacités de type Eau et baissant celle des capacités de type Feu.
+sunny-day:Zénith
+sunny-dayDescription:Fait briller le soleil pendant cinq tours, augmentant la puissance des capacités de type Feu et baissant celle des capacités de type Eau.
+crunch:Mâchouille
+crunchDescription:Le lanceur mord l’ennemi de ses crocs pointus. Peut aussi baisser sa Défense.
+mirror-coat:Voile Miroir
+mirror-coatDescription:Une riposte qui contre n’importe quelle capacité spéciale en infligeant le double des dégâts subis.
+psych-up:Boost
+psych-upDescription:Une autohypnose qui permet au lanceur de copier les changements de stats de la cible.
+ancient-power:Pouvoir Antique
+ancient-powerDescription:Une attaque préhistorique qui peut augmenter toutes les stats du lanceur d’un seul coup.
+shadow-ball:Ball’Ombre
+shadow-ballDescription:Projette une grande ombre sur l’ennemi. Peut aussi faire baisser sa Défense Spéciale.
+future-sight:Prescience
+future-sightDescription:De l’énergie psychique vient frapper l’ennemi deux tours après l’utilisation de cette capacité.
+rock-smash:Éclate-Roc
+rock-smashDescription:Porte un coup de poing à l’ennemi qui peut baisser sa Défense.
+whirlpool:Siphon
+whirlpoolDescription:Piège l’ennemi dans une trombe d’eau pendant quatre à cinq tours.
+beat-up:Baston
+beat-upDescription:Le lanceur appelle tous les Pokémon de son équipe à attaquer. Plus ils sont nombreux, plus il y a d’attaques.
+fake-out:Bluff
+fake-outDescription:Permet de frapper en priorité et apeure l’ennemi. Ne fonctionne qu’au premier tour.
+uproar:Brouhaha
+uproarDescription:Le lanceur attaque en rugissant durant trois tours. Pendant ce temps, aucun Pokémon ne peut s’endormir.
+extreme-speed:Vitesse Extrême
+extreme-speedDescription:Le lanceur charge à une vitesse renversante. Frappe en priorité.
+stockpile:Stockage
+stockpileDescription:Le lanceur accumule de la puissance et augmente sa Défense et sa Défense Spéciale. Peut être utilisé trois fois.
+spit-up:Relâche
+spit-upDescription:Libère dans une attaque la puissance précédemment accumulée avec Stockage.
+swallow:Avale
+swallowDescription:Le lanceur absorbe la puissance accumulée avec Stockage pour restaurer ses PV.
+heat-wave:Canicule
+heat-waveDescription:Le lanceur provoque une vague de chaleur. Peut aussi brûler l’ennemi.
+hail:Grêle
+hailDescription:Invoque une tempête de grêle qui dure cinq tours. Ne blesse pas les Pokémon de type Glace.
+torment:Tourmente
+tormentDescription:Le lanceur irrite l’ennemi pour l’empêcher d’utiliser la même capacité deux fois de suite.
+flatter:Flatterie
+flatterDescription:Rend la cible confuse, mais augmente son Attaque Spéciale.
+will-o-wisp:Feu Follet
+will-o-wispDescription:Lance un bouquet de flammes maléfiques à l’ennemi pour lui infliger une brûlure.
+memento:Souvenir
+mementoDescription:Le lanceur est mis K.O., mais l’Attaque et l’Attaque Spéciale de l’ennemi baissent beaucoup.
+facade:Façade
+facadeDescription:Une attaque dont la puissance double lorsque le lanceur est empoisonné, paralysé ou brûlé.
+focus-punch:Mitra-Poing
+focus-punchDescription:Le lanceur se concentre avant d’attaquer. Échoue s’il est touché avant d’avoir frappé.
+smelling-salts:Stimulant
+smelling-saltsDescription:Cette attaque est doublement efficace sur les Pokémon paralysés, mais elle soigne leur paralysie.
+follow-me:Par Ici
+follow-meDescription:Attire l’attention des ennemis pour les forcer à n’attaquer que le lanceur.
+nature-power:Force Nature
+nature-powerDescription:Une attaque qui tire sa force de la nature. Son type varie selon le terrain.
+charge:Chargeur
+chargeDescription:Le lanceur concentre sa puissance pour sa prochaine attaque Électrik. Augmente sa Défense Spéciale.
+taunt:Provoc
+tauntDescription:Provoque l’ennemi. L’oblige à n’utiliser que des attaques pendant trois tours.
+helping-hand:Coup d’Main
+helping-handDescription:Une capacité qui augmente la puissance d’attaque d’un allié.
+trick:Tour de Magie
+trickDescription:Le lanceur prend la cible au dépourvu et l’oblige à échanger son objet contre le sien.
+wish:Vœu
+wishDescription:Un vœu qui permet au lanceur ou au Pokémon entrant sur le terrain au tour suivant de récupérer la moitié des PV max du lanceur.
+assist:Assistance
+assistDescription:Le lanceur se dépêche d’utiliser une capacité au hasard parmi celles des Pokémon de l’équipe.
+ingrain:Racines
+ingrainDescription:Le lanceur plante ses racines et récupère des PV à chaque tour. Une fois enraciné, il ne peut plus fuir.
+superpower:Surpuissance
+superpowerDescription:Une attaque puissante, mais qui baisse l’Attaque et la Défense du lanceur.
+magic-coat:Reflet Magik
+magic-coatDescription:Une barrière qui renvoie les capacités comme Vampigraine et celles affectant le statut et les stats.
+recycle:Recyclage
+recycleDescription:Recycle un objet tenu à usage unique déjà utilisé lors du combat pour pouvoir l’utiliser à nouveau.
+revenge:Vendetta
+revengeDescription:Une attaque deux fois plus puissante si le lanceur a été blessé par l’ennemi durant ce tour.
+brick-break:Casse-Brique
+brick-breakDescription:Une attaque avec le tranchant de la main. Permet aussi de briser les barrières comme Mur Lumière et Protection.
+yawn:Bâillement
+yawnDescription:Fait bâiller l’ennemi qui s’endort au tour suivant.
+knock-off:Sabotage
+knock-offDescription:Fait plus de dégâts aux cibles qui tiennent un objet. De plus, fait tomber cet objet et empêche la cible de l’utiliser jusqu’à la fin du combat.
+endeavor:Effort
+endeavorDescription:Une attaque qui réduit les PV de l’ennemi au niveau des PV du lanceur.
+eruption:Éruption
+eruptionDescription:Le lanceur laisse exploser sa colère. Plus ses PV sont bas et moins l’attaque est puissante.
+skill-swap:Échange
+skill-swapDescription:Le lanceur utilise ses pouvoirs psychiques pour échanger son talent avec la cible.
+imprison:Possessif
+imprisonDescription:Si l’ennemi et le lanceur ont des capacités en commun, l’ennemi ne pourra pas les utiliser.
+refresh:Régénération
+refreshDescription:Le lanceur se repose pour guérir d’un empoisonnement, d’une brûlure ou d’une paralysie.
+grudge:Rancune
+grudgeDescription:Si le lanceur est mis K.O., sa rancune épuise les PP de la capacité utilisée par l’ennemi pour le mettre K.O.
+snatch:Saisie
+snatchDescription:Lorsqu’une capacité de soin ou de changement de stats est utilisée, le lanceur vole ses effets.
+secret-power:Force Cachée
+secret-powerDescription:Les effets de cette attaque varient en fonction de l’environnement.
+dive:Plongée
+diveDescription:Le lanceur plonge sous l’eau au premier tour et frappe au second.
+arm-thrust:Cogne
+arm-thrustDescription:Un déluge de coups adressés avec la paume qui frappe de deux à cinq fois d’affilée.
+camouflage:Camouflage
+camouflageDescription:Modifie le type du lanceur en fonction du terrain, comme une berge, une grotte, l’herbe, etc.
+tail-glow:Lumi-Queue
+tail-glowDescription:Le lanceur regarde un flash lumineux fixement. Augmente énormément son Attaque Spéciale.
+luster-purge:Lumi-Éclat
+luster-purgeDescription:Le lanceur libère un éclair lumineux. Peut aussi baisser la Défense Spéciale de l’ennemi.
+mist-ball:Ball’Brume
+mist-ballDescription:Une bulle de brume inflige des dégâts à l’ennemi. Peut aussi réduire son Attaque Spéciale.
+feather-dance:Danse Plumes
+feather-danceDescription:Une montagne de plumes ensevelit l’ennemi et réduit beaucoup son Attaque.
+teeter-dance:Danse Folle
+teeter-danceDescription:Danse qui rend confus tous les Pokémon autour du lanceur.
+blaze-kick:Pied Brûleur
+blaze-kickDescription:Le lanceur envoie un coup de pied au taux de critique élevé. Peut aussi brûler la cible.
+mud-sport:Lance-Boue
+mud-sportDescription:Asperge les alentours de boue. Affaiblit les capacités Électrik pendant cinq tours.
+ice-ball:Ball’Glace
+ice-ballDescription:Frappe l’ennemi pendant cinq tours. L’attaque gagne en puissance à chaque coup.
+needle-arm:Poing Dard
+needle-armDescription:Le lanceur attaque en fouettant l’ennemi de ses bras épineux. Peut aussi l’apeurer.
+slack-off:Paresse
+slack-offDescription:Le lanceur se tourne les pouces et récupère jusqu’à la moitié de ses PV max.
+hyper-voice:Mégaphone
+hyper-voiceDescription:Le lanceur pousse un cri dont l’écho terrifiant a le pouvoir d’infliger des dégâts à l’ennemi.
+poison-fang:Crochet Venin
+poison-fangDescription:Le lanceur mord l’ennemi de ses crocs toxiques. Peut aussi l’empoisonner gravement.
+crush-claw:Éclate Griffe
+crush-clawDescription:Lacère l’ennemi avec des griffes solides et aiguisées. Peut aussi baisser sa Défense.
+blast-burn:Rafale Feu
+blast-burnDescription:Une explosion ardente souffle l’adversaire. Le lanceur doit se reposer au tour suivant.
+hydro-cannon:Hydroblast
+hydro-cannonDescription:Une trombe d’eau heurte l’ennemi. Le lanceur doit se reposer au tour suivant.
+meteor-mash:Poing Météore
+meteor-mashDescription:Un coup de poing lancé à la vitesse d’un météore. Peut aussi augmenter l’Attaque du lanceur.
+astonish:Étonnement
+astonishDescription:Le lanceur attaque l’ennemi en poussant un cri terrifiant. Peut aussi l’apeurer.
+weather-ball:Ball’Météo
+weather-ballDescription:Une attaque dont la puissance et le type varient en fonction du temps qu’il fait.
+aromatherapy:Aromathérapie
+aromatherapyDescription:Le lanceur libère un parfum apaisant qui guérit tous les problèmes de statut de l’équipe.
+fake-tears:Croco Larme
+fake-tearsDescription:Le lanceur fait semblant de pleurer pour troubler l’ennemi et beaucoup baisser sa Défense Spéciale.
+air-cutter:Tranch’Air
+air-cutterDescription:Le lanceur appelle des vents tranchants qui lacèrent l’ennemi. Taux de critique élevé.
+overheat:Surchauffe
+overheatDescription:Attaque l’ennemi à pleine puissance. Le contrecoup baisse beaucoup l’Attaque Spéciale du lanceur.
+odor-sleuth:Flair
+odor-sleuthDescription:Permet de toucher un Pokémon Spectre avec n’importe quelle capacité ou de toucher un ennemi insaisissable.
+rock-tomb:Tomberoche
+rock-tombDescription:Des rochers frappent l’ennemi. Réduit aussi sa Vitesse.
+silver-wind:Vent Argenté
+silver-windDescription:Vent qui projette des écailles poudreuses sur l’ennemi. Peut aussi monter toutes les stats du lanceur.
+metal-sound:Strido-Son
+metal-soundDescription:Un cri horrible tel un crissement métallique qui réduit beaucoup la Défense Spéciale de l’ennemi.
+grass-whistle:Siffl’Herbe
+grass-whistleDescription:Le lanceur joue une douce mélodie qui plonge l’ennemi dans un profond sommeil.
+tickle:Chatouille
+tickleDescription:Le lanceur chatouille l’ennemi, ce qui baisse son Attaque et sa Défense.
+cosmic-power:Force Cosmique
+cosmic-powerDescription:Le lanceur absorbe un pouvoir mystique spatial qui augmente sa Défense et sa Défense Spéciale.
+water-spout:Giclédo
+water-spoutDescription:Le lanceur attaque avec un jet d’eau. Moins il a de PV et moins l’attaque est puissante.
+signal-beam:Rayon Signal
+signal-beamDescription:Le lanceur projette un rayon de lumière sinistre. Peut aussi rendre l’ennemi confus.
+shadow-punch:Poing Ombre
+shadow-punchDescription:Le lanceur surgit des ombres et donne un coup de poing. N’échoue jamais.
+extrasensory:Extrasenseur
+extrasensoryDescription:Le lanceur attaque avec un pouvoir étrange et invisible. Peut aussi apeurer l’ennemi.
+sky-uppercut:Stratopercut
+sky-uppercutDescription:Le lanceur attaque avec un uppercut. Il envoie son poing vers le ciel de toutes ses forces.
+sand-tomb:Tourbi-Sable
+sand-tombDescription:Le lanceur emprisonne l’ennemi dans une tempête de sable terrifiante qui dure de quatre à cinq tours.
+sheer-cold:Glaciation
+sheer-coldDescription:Une vague de froid glacial frappe l’ennemi pour le mettre K.O. en un coup. A peu de chances de réussir si le lanceur ne possède pas le type Glace.
+muddy-water:Ocroupi
+muddy-waterDescription:Le lanceur attaque en projetant de l’eau boueuse. Peut aussi réduire la Précision de l’ennemi.
+bullet-seed:Balle Graine
+bullet-seedDescription:Le lanceur mitraille l’ennemi avec une rafale de graines. De deux à cinq rafales sont lancées à la suite.
+aerial-ace:Aéropique
+aerial-aceDescription:Le lanceur prend l’ennemi de vitesse et le lacère. N’échoue jamais.
+icicle-spear:Stalactite
+icicle-spearDescription:Le lanceur jette des pics de glace sur l’ennemi, de deux à cinq fois de suite.
+iron-defense:Mur de Fer
+iron-defenseDescription:L’épiderme du lanceur devient dur comme du fer, ce qui augmente beaucoup sa Défense.
+block:Barrage
+blockDescription:Le lanceur bloque la route de l’ennemi pour empêcher sa fuite.
+howl:Grondement
+howlDescription:Le lanceur grogne pour se rassurer, ce qui augmente son Attaque.
+dragon-claw:Draco-Griffe
+dragon-clawDescription:Le lanceur lacère l’ennemi de ses grandes griffes aiguisées.
+frenzy-plant:Végé-Attaque
+frenzy-plantDescription:Un violent coup de racines s’abat sur l’ennemi. Immobilise le lanceur au tour suivant.
+bulk-up:Gonflette
+bulk-upDescription:Le lanceur tend ses muscles pour se gonfler, ce qui booste son Attaque et sa Défense.
+bounce:Rebond
+bounceDescription:Le lanceur bondit très haut et plonge sur l’ennemi au second tour. Peut aussi le paralyser.
+mud-shot:Tir de Boue
+mud-shotDescription:Le lanceur attaque en projetant de la boue sur l’ennemi. Réduit aussi la Vitesse de la cible.
+poison-tail:Queue-Poison
+poison-tailDescription:Attaque à taux de critique élevé. Peut aussi empoisonner l’ennemi.
+covet:Implore
+covetDescription:Le lanceur s’approche de la cible avec un air angélique afin de dérober l’objet qu’elle tient.
+volt-tackle:Électacle
+volt-tackleDescription:Le lanceur électrifie son corps avant de charger. Le choc blesse aussi gravement le lanceur et peut paralyser l’ennemi.
+magical-leaf:Feuille Magik
+magical-leafDescription:Le lanceur disperse d’étranges feuilles qui poursuivent l’ennemi. N’échoue jamais.
+water-sport:Tourniquet
+water-sportDescription:Asperge d’eau les alentours. Affaiblit les capacités de type Feu pendant cinq tours.
+calm-mind:Plénitude
+calm-mindDescription:Le lanceur se concentre et fait le vide dans son esprit pour augmenter son Attaque Spéciale et sa Défense Spéciale.
+leaf-blade:Lame Feuille
+leaf-bladeDescription:Une feuille coupante comme une lame entaille l’ennemi. Taux de critique élevé.
+dragon-dance:Danse Draco
+dragon-danceDescription:Une danse mystique dont le rythme effréné augmente l’Attaque et la Vitesse du lanceur.
+rock-blast:Boule Roc
+rock-blastDescription:Le lanceur projette un rocher sur l’ennemi de deux à cinq fois d’affilée.
+shock-wave:Onde de Choc
+shock-waveDescription:Le lanceur envoie un choc électrique rapide à l’ennemi. Impossible à esquiver.
+water-pulse:Vibraqua
+water-pulseDescription:Le lanceur envoie un puissant jet d’eau sur l’ennemi. Peut le rendre confus.
+doom-desire:Vœu Destructeur
+doom-desireDescription:Le lanceur génère une sphère lumineuse qu’il projette sur l’ennemi deux tours plus tard.
+psycho-boost:Psycho-Boost
+psycho-boostDescription:Attaque l’ennemi à pleine puissance. Le contrecoup baisse beaucoup l’Attaque Spéciale du lanceur.
+roost:Atterrissage
+roostDescription:Le lanceur atterrit et se repose. Restaure jusqu’à la moitié de ses PV max.
+gravity:Gravité
+gravityDescription:Pendant cinq tours, les Pokémon Vol ou qui ont Lévitation deviennent sensibles aux capacités Sol, et les capacités volantes deviennent inutilisables.
+miracle-eye:Œil Miracle
+miracle-eyeDescription:Permet de toucher un Pokémon Ténèbres avec les capacités de type Psy ou de toucher un ennemi ayant beaucoup d’esquive.
+wake-up-slap:Réveil Forcé
+wake-up-slapDescription:Cette attaque inflige d’importants dégâts à un Pokémon endormi. Mais elle le réveille également.
+hammer-arm:Marto-Poing
+hammer-armDescription:Le lanceur donne un puissant coup de poing à l’ennemi. Réduit la Vitesse du lanceur.
+gyro-ball:Gyroballe
+gyro-ballDescription:Le lanceur effectue une rotation et frappe l’ennemi. Plus la Vitesse du lanceur est basse, plus il fait de dégâts.
+healing-wish:Vœu Soin
+healing-wishDescription:Le lanceur tombe K.O. pour soigner les PV et le statut du Pokémon qui passe après lui.
+brine:Saumure
+brineDescription:Cette attaque est deux fois plus puissante lorsque l’ennemi a moins de la moitié de ses PV.
+natural-gift:Don Naturel
+natural-giftDescription:Avant d’attaquer, le lanceur rassemble ses forces grâce à sa Baie. Elle détermine le type et la puissance de l’attaque.
+feint:Ruse
+feintDescription:Une attaque capable de toucher un ennemi qui utilise une capacité comme Détection ou Abri. Annule l’effet de ces capacités.
+pluck:Picore
+pluckDescription:Le lanceur picore la cible. Si cette dernière tient une Baie, le lanceur la mange et profite de ses effets.
+tailwind:Vent Arrière
+tailwindDescription:Génère une rafale de vent qui augmente la Vitesse des Pokémon de l’équipe pendant 4 tours.
+acupressure:Acupression
+acupressureDescription:Le lanceur utilise sa connaissance des points de pression pour beaucoup augmenter une stat.
+metal-burst:Fulmifer
+metal-burstDescription:Le lanceur attaque le dernier ennemi l’ayant blessé durant le même tour en frappant plus fort.
+u-turn:Demi-Tour
+u-turnDescription:Après son attaque, le lanceur revient à toute vitesse et change de place avec un Pokémon de l’équipe prêt au combat.
+close-combat:Close Combat
+close-combatDescription:Le lanceur combat au corps à corps sans se protéger. Baisse aussi sa Défense et sa Défense Spéciale.
+payback:Représailles
+paybackDescription:Le lanceur charge son énergie, puis attaque. La puissance est doublée si le lanceur agit après l’ennemi.
+assurance:Assurance
+assuranceDescription:Cette attaque est deux fois plus efficace si l’ennemi a déjà été blessé durant ce tour.
+embargo:Embargo
+embargoDescription:Empêche la cible d’utiliser un objet tenu et son Dresseur d’utiliser un objet sur lui pendant cinq tours.
+fling:Dégommage
+flingDescription:Le lanceur envoie l’objet qu’il tient sur l’ennemi. La puissance et les effets dépendent de l’objet.
+psycho-shift:Échange Psy
+psycho-shiftDescription:Le lanceur transfère ses problèmes de statut à l’ennemi grâce à son pouvoir de suggestion.
+heal-block:Anti-Soin
+heal-blockDescription:Le lanceur empêche l’ennemi de récupérer des PV à l’aide de capacités, talents ou objets tenus, pendant cinq tours.
+wring-out:Essorage
+wring-outDescription:Le lanceur essore l’ennemi. Plus l’ennemi a de PV, plus cette attaque est puissante.
+power-trick:Astuce Force
+power-trickDescription:Le lanceur utilise ses pouvoirs psychiques pour échanger sa Défense et son Attaque.
+gastro-acid:Suc Digestif
+gastro-acidDescription:Le lanceur répand ses sucs digestifs sur l’ennemi. Le fluide neutralise le talent de l’ennemi.
+lucky-chant:Air Veinard
+lucky-chantDescription:Le lanceur envoie une incantation vers le ciel et protège l’équipe des coups critiques pendant cinq tours.
+me-first:Moi d’Abord
+me-firstDescription:Le lanceur vole la capacité prévue par l’ennemi et l’utilise en faisant plus de dégâts. Il doit frapper en premier.
+trump-card:Atout
+trump-cardDescription:Moins cette capacité possède de PP, plus elle est puissante.
+copycat:Photocopie
+copycatDescription:Le lanceur imite la dernière capacité employée. Échoue si aucune capacité n’a été utilisée.
+power-swap:Permuforce
+power-swapDescription:Pouvoir qui échange les modifications de l’Attaque Spéciale et de l’Attaque du lanceur avec la cible.
+guard-swap:Permugarde
+guard-swapDescription:Pouvoir qui échange les modifications de la Défense Spéciale et de la Défense avec la cible.
+punishment:Punition
+punishmentDescription:Plus l’ennemi a utilisé d’augmentations de stats et plus cette capacité est puissante.
+last-resort:Dernier Recours
+last-resortDescription:Cette capacité ne peut être utilisée qu’après que le lanceur a utilisé toutes les autres.
+worry-seed:Soucigraine
+worry-seedDescription:Plante sur la cible une graine qui la rend soucieuse et remplace son talent par Insomnia, l’empêchant ainsi de dormir.
+sucker-punch:Coup Bas
+sucker-punchDescription:Permet au lanceur de frapper en priorité. Échoue si l’ennemi ne prépare pas une attaque.
+toxic-spikes:Pics Toxik
+toxic-spikesDescription:Lance des pics autour de l’ennemi. Ils empoisonnent les ennemis qui entrent au combat.
+heart-swap:Permucœur
+heart-swapDescription:Le lanceur utilise un pouvoir psychique pour échanger ses changements de stats avec la cible.
+aqua-ring:Anneau Hydro
+aqua-ringDescription:Un voile d’eau recouvre le lanceur et régénère ses PV à chaque tour.
+magnet-rise:Vol Magnétik
+magnet-riseDescription:Le lanceur utilise l’électricité pour générer un champ magnétique et léviter durant cinq tours.
+flare-blitz:Boutefeu
+flare-blitzDescription:Le lanceur s’embrase avant de charger l’ennemi. Le choc blesse aussi gravement le lanceur. Peut brûler l’ennemi.
+force-palm:Forte-Paume
+force-palmDescription:Une onde de choc frappe l’ennemi. Peut aussi paralyser la cible.
+aura-sphere:Aurasphère
+aura-sphereDescription:Le lanceur dégage une aura et projette de l’énergie. N’échoue jamais.
+rock-polish:Poliroche
+rock-polishDescription:Le lanceur polit son corps pour diminuer sa résistance au vent. Augmente beaucoup la Vitesse.
+poison-jab:Direct Toxik
+poison-jabDescription:Attaque l’ennemi avec un tentacule, un bras, ou un autre membre plein de poison. Peut aussi l’empoisonner.
+dark-pulse:Vibrobscur
+dark-pulseDescription:Le lanceur dégage une horrible aura chargée d’idées noires. Peut aussi apeurer l’ennemi.
+night-slash:Tranche-Nuit
+night-slashDescription:Le lanceur lacère l’ennemi à la première occasion. Taux de critique élevé.
+aqua-tail:Hydro-Queue
+aqua-tailDescription:Le lanceur attaque en balançant sa queue comme une lame de fond en pleine tempête.
+seed-bomb:Canon Graine
+seed-bombDescription:Le lanceur fait pleuvoir un déluge de graines explosives sur l’ennemi.
+air-slash:Lame d’Air
+air-slashDescription:Le lanceur attaque avec une lame d’air qui fend tout. Peut aussi apeurer l’ennemi.
+x-scissor:Plaie Croix
+x-scissorDescription:Le lanceur taillade l’ennemi en utilisant ses faux ou ses griffes comme une paire de ciseaux.
+bug-buzz:Bourdon
+bug-buzzDescription:Le lanceur fait vibrer son corps pour lancer une vague sonique. Peut aussi baisser la Défense Spéciale de l’ennemi.
+dragon-pulse:Draco-Choc
+dragon-pulseDescription:Le lanceur ouvre la bouche pour envoyer une onde de choc qui frappe l’ennemi.
+dragon-rush:Draco-Charge
+dragon-rushDescription:Le lanceur frappe l’ennemi en prenant un air menaçant. Peut aussi l’apeurer.
+power-gem:Rayon Gemme
+power-gemDescription:Le lanceur attaque avec un rayon de lumière qui scintille comme s’il était composé de gemmes.
+drain-punch:Vampi-Poing
+drain-punchDescription:Un coup de poing qui draine l’énergie. Convertit la moitié des dégâts infligés en PV pour le lanceur.
+vacuum-wave:Onde Vide
+vacuum-waveDescription:Le lanceur agite son poing pour projeter une onde de vide. Frappe en priorité.
+focus-blast:Exploforce
+focus-blastDescription:Le lanceur rassemble ses forces et laisse éclater son pouvoir. Peut aussi baisser la Défense Spéciale de l’ennemi.
+energy-ball:Éco-Sphère
+energy-ballDescription:Utilise les pouvoirs de la nature pour attaquer l’ennemi. Peut aussi baisser sa Défense Spéciale.
+brave-bird:Rapace
+brave-birdDescription:Le lanceur replie ses ailes et charge en rase-mottes. Blesse gravement le lanceur.
+earth-power:Telluriforce
+earth-powerDescription:De terribles séismes secouent l’ennemi. Peut aussi baisser sa Défense Spéciale.
+switcheroo:Passe-Passe
+switcherooDescription:Le lanceur échange son objet avec celui de la cible à une vitesse que l’œil a du mal à suivre.
+giga-impact:Giga Impact
+giga-impactDescription:Le lanceur charge l’ennemi de toute sa puissance et doit ensuite se reposer au tour suivant.
+nasty-plot:Machination
+nasty-plotDescription:Stimule l’esprit par de mauvaises pensées. Augmente beaucoup l’Attaque Spéciale du lanceur.
+bullet-punch:Pisto-Poing
+bullet-punchDescription:Le lanceur envoie des coups de poing aussi rapides que des balles de revolver. Frappe en priorité.
+avalanche:Avalanche
+avalancheDescription:Une attaque deux fois plus puissante si le lanceur a été blessé par l’ennemi durant le tour.
+ice-shard:Éclats Glace
+ice-shardDescription:Le lanceur crée des éclats de glace qu’il envoie sur l’ennemi. Frappe en priorité.
+shadow-claw:Griffe Ombre
+shadow-clawDescription:Attaque avec une griffe puissante faite d’ombres. Taux de critique élevé.
+thunder-fang:Crocs Éclair
+thunder-fangDescription:Le lanceur utilise une morsure électrifiée. Peut aussi paralyser ou apeurer l’ennemi.
+ice-fang:Crocs Givre
+ice-fangDescription:Le lanceur utilise une morsure glaciale. Peut aussi geler ou apeurer l’ennemi.
+fire-fang:Crocs Feu
+fire-fangDescription:Le lanceur utilise une morsure enflammée. Peut aussi brûler ou apeurer l’ennemi.
+shadow-sneak:Ombre Portée
+shadow-sneakDescription:Le lanceur étend son ombre pour frapper par-derrière. Frappe en priorité.
+mud-bomb:Boue-Bombe
+mud-bombDescription:Le lanceur attaque à l’aide d’une boule de boue solidifiée. Peut aussi baisser la Précision de l’ennemi.
+psycho-cut:Coupe Psycho
+psycho-cutDescription:Le lanceur entaille l’ennemi grâce à des lames faites d’énergie psychique. Taux de critique élevé.
+zen-headbutt:Psykoud’Boul
+zen-headbuttDescription:Le lanceur concentre sa volonté et donne un coup de tête. Peut aussi apeurer l’ennemi.
+mirror-shot:Miroi-Tir
+mirror-shotDescription:Le corps poli du lanceur libère un éclair d’énergie. Peut aussi baisser la Précision de l’ennemi.
+flash-cannon:Luminocanon
+flash-cannonDescription:Le lanceur concentre son énergie lumineuse et la fait exploser. Peut aussi baisser la Défense Spéciale de l’ennemi.
+rock-climb:Escalade
+rock-climbDescription:Le lanceur se jette violemment sur l’ennemi. Peut aussi le rendre confus.
+defog:Anti-Brume
+defogDescription:Un grand coup de vent qui disperse la Protection ou le Mur Lumière de l’ennemi. Diminue aussi son Esquive.
+trick-room:Distorsion
+trick-roomDescription:Le lanceur crée une zone étrange où les Pokémon les plus lents frappent en priorité pendant cinq tours.
+draco-meteor:Draco-Météore
+draco-meteorDescription:Le lanceur invoque des comètes. Le contrecoup réduit beaucoup son Attaque Spéciale.
+discharge:Coup d’Jus
+dischargeDescription:Un flamboiement d’électricité frappe tous les Pokémon autour du lanceur. Peut aussi les paralyser.
+lava-plume:Ébullilave
+lava-plumeDescription:Des boules de feu s’abattent sur tous les Pokémon autour du lanceur. Peut aussi les brûler.
+leaf-storm:Tempête Verte
+leaf-stormDescription:Invoque une tempête de feuilles acérées. Le contrecoup réduit beaucoup l’Attaque Spéciale du lanceur.
+power-whip:Mégafouet
+power-whipDescription:Le lanceur fait virevolter violemment ses lianes ou ses tentacules pour fouetter l’ennemi.
+rock-wrecker:Roc-Boulet
+rock-wreckerDescription:Le lanceur attaque en projetant un gros rocher sur l’ennemi. Il doit se reposer au tour suivant.
+cross-poison:Poison Croix
+cross-poisonDescription:Un coup tranchant qui peut empoisonner l’ennemi. Taux de critique élevé.
+gunk-shot:Détricanon
+gunk-shotDescription:Le lanceur envoie des détritus sur l’ennemi. Peut aussi l’empoisonner.
+iron-head:Tête de Fer
+iron-headDescription:Le lanceur heurte l’ennemi avec sa tête dure comme de l’acier. Peut aussi l’apeurer.
+magnet-bomb:Bombe Aimant
+magnet-bombDescription:Le lanceur projette des bombes d’acier qui collent à l’ennemi. N’échoue jamais.
+stone-edge:Lame de Roc
+stone-edgeDescription:Fait surgir des pierres aiguisées sous l’ennemi. Taux de critique élevé.
+captivate:Séduction
+captivateDescription:Si l’ennemi est de sexe opposé au lanceur, il est séduit et son Attaque Spéciale baisse beaucoup.
+stealth-rock:Piège de Roc
+stealth-rockDescription:Lance des pierres flottantes autour de l’ennemi, qui blessent tout adversaire entrant au combat.
+grass-knot:Nœud Herbe
+grass-knotDescription:L’ennemi est piégé dans de l’herbe qui le fait trébucher. Plus il est lourd, plus il subit de dégâts.
+chatter:Babil
+chatterDescription:Attaque avec les ondes sonores assourdissantes qu’il émet en bavardant. Rend l’ennemi confus.
+judgment:Jugement
+judgmentDescription:Le lanceur libère une myriade de rayons de lumière. Le type varie selon la Plaque que tient le lanceur.
+bug-bite:Piqûre
+bug-biteDescription:Le lanceur pique l’ennemi. Si ce dernier tient une Baie, le lanceur la dévore et obtient son effet.
+charge-beam:Rayon Chargé
+charge-beamDescription:Le lanceur tire un rayon chargé d’électricité. Peut aussi augmenter son Attaque Spéciale.
+wood-hammer:Martobois
+wood-hammerDescription:Le lanceur heurte l’ennemi de son corps robuste. Blesse aussi gravement le lanceur.
+aqua-jet:Aqua-Jet
+aqua-jetDescription:Le lanceur fonce sur l’ennemi si rapidement qu’on parvient à peine à le discerner. Frappe en priorité.
+attack-order:Appel Attaque
+attack-orderDescription:Le lanceur appelle ses sous-fifres pour frapper l’ennemi. Taux de critique élevé.
+defend-order:Appel Défense
+defend-orderDescription:Le lanceur appelle ses sous-fifres pour former un bouclier qui augmente sa Défense et sa Défense Spéciale.
+heal-order:Appel Soins
+heal-orderDescription:Le lanceur appelle ses sous-fifres pour le soigner. Il récupère jusqu’à la moitié de ses PV max.
+head-smash:Fracass’Tête
+head-smashDescription:Le lanceur assène un coup de tête désespéré. Blesse aussi gravement le lanceur.
+double-hit:Coup Double
+double-hitDescription:Le lanceur frappe l’ennemi deux fois d’affilée à l’aide de sa queue, de lianes ou d’un autre membre.
+roar-of-time:Hurle-Temps
+roar-of-timeDescription:Le lanceur frappe si fort qu’il affecte le cours du temps. Il se repose au tour suivant.
+spacial-rend:Spatio-Rift
+spacial-rendDescription:Le lanceur déchire l’ennemi et l’espace autour de lui. Taux de critique élevé.
+lunar-dance:Danse Lune
+lunar-danceDescription:Le lanceur tombe K.O. pour soigner le statut et les PV du Pokémon qui prendra sa place au combat.
+crush-grip:Presse
+crush-gripDescription:Une force puissante écrase l’ennemi. Plus il lui reste de PV et plus l’attaque est puissante.
+magma-storm:Vortex Magma
+magma-stormDescription:L’ennemi est pris dans un tourbillon de feu qui dure de quatre à cinq tours.
+dark-void:Trou Noir
+dark-voidDescription:L’ennemi est plongé dans les ténèbres. Il tombe dans un profond sommeil.
+seed-flare:Fulmigraine
+seed-flareDescription:Le corps du lanceur émet une onde de choc. Peut aussi beaucoup baisser la Défense Spéciale de la cible.
+ominous-wind:Vent Mauvais
+ominous-windDescription:Le lanceur crée une violente bourrasque. Peut aussi augmenter toutes ses stats.
+shadow-force:Revenant
+shadow-forceDescription:Le lanceur disparaît et frappe l’ennemi au second tour. Fonctionne même si l’ennemi se protège.
+hone-claws:Aiguisage
+hone-clawsDescription:Le lanceur s’aiguise les griffes. Augmente l’Attaque et la Précision.
+wide-guard:Garde Large
+wide-guardDescription:Annule les attaques visant toute l’équipe pendant un tour.
+guard-split:Partage Garde
+guard-splitDescription:Additionne la Défense et la Défense Spéciale du lanceur et de sa cible et les redistribue équitablement entre les deux.
+power-split:Partage Force
+power-splitDescription:Additionne l’Attaque Spéciale et l’Attaque du lanceur et de sa cible et les redistribue équitablement entre les deux.
+wonder-room:Zone Étrange
+wonder-roomDescription:Crée une zone étrange où pendant cinq tours, la Défense et la Défense Spéciale de tous les Pokémon sont inversées.
+psyshock:Choc Psy
+psyshockDescription:Le lanceur matérialise des ondes mystérieuses qu’il projette sur l’ennemi. Inflige des dégâts physiques.
+venoshock:Choc Venin
+venoshockDescription:Le lanceur inocule un poison spécial à l’ennemi. L’effet est doublé si l’ennemi est déjà empoisonné.
+autotomize:Allègement
+autotomizeDescription:Le lanceur se débarrasse des parties inutiles de son corps. Son poids diminue et sa Vitesse augmente beaucoup.
+rage-powder:Poudre Fureur
+rage-powderDescription:Le lanceur s’asperge d’une poudre irritante pour attirer l’attention. Il attire toutes les attaques ennemies.
+telekinesis:Lévikinésie
+telekinesisDescription:Un pouvoir qui fait flotter l’ennemi dans les airs. Pendant trois tours, il devient plus facile à atteindre.
+magic-room:Zone Magique
+magic-roomDescription:Le lanceur crée une zone étrange. Pendant cinq tours, les objets tenus par tous les Pokémon n’ont plus aucun effet.
+smack-down:Anti-Air
+smack-downDescription:Le lanceur jette toutes sortes de projectiles à un ennemi. Si ce dernier vole, il tombe au sol.
+storm-throw:Yama Arashi
+storm-throwDescription:Un coup très puissant dont l’effet est toujours critique.
+flame-burst:Rebondifeu
+flame-burstDescription:Quand l’attaque atteint sa cible, elle projette des flammes qui touchent tout ennemi situé à côté.
+sludge-wave:Cradovague
+sludge-waveDescription:Une vague de détritus attaque tous les Pokémon autour du lanceur. Peut aussi empoisonner.
+quiver-dance:Papillodanse
+quiver-danceDescription:Une danse mystique dont le rythme parfait augmente l’Attaque Spéciale, la Défense Spéciale et la Vitesse du lanceur.
+heavy-slam:Tacle Lourd
+heavy-slamDescription:Le lanceur se jette sur l’ennemi de tout son poids. S’il est plus lourd que l’ennemi, l’effet augmente en conséquence.
+synchronoise:Synchropeine
+synchronoiseDescription:Des ondes mystérieuses blessent tous les Pokémon alentour qui sont du même type que le lanceur.
+electro-ball:Boule Élek
+electro-ballDescription:Le lanceur envoie une boule d’électricité. Si sa Vitesse est plus grande que celle de l’ennemi, les dégâts augmentent d’autant.
+soak:Détrempage
+soakDescription:Le lanceur projette beaucoup d’eau sur sa cible, qui devient de type Eau.
+flame-charge:Nitrocharge
+flame-chargeDescription:Le lanceur s’entoure de flammes pour attaquer l’ennemi. Il se concentre et sa Vitesse augmente.
+coil:Enroulement
+coilDescription:Le lanceur s’enroule sur lui-même et se concentre. Son Attaque, sa Défense et sa Précision augmentent.
+low-sweep:Balayette
+low-sweepDescription:Un coup rapide qui affecte la mobilité de l’ennemi et diminue sa Vitesse.
+acid-spray:Bombe Acide
+acid-sprayDescription:Projette un liquide acide qui fait fondre l’ennemi. Sa Défense Spéciale diminue beaucoup.
+foul-play:Tricherie
+foul-playDescription:Le lanceur utilise la force de l’ennemi. Plus l’Attaque de l’ennemi est élevée, plus le lanceur inflige de dégâts.
+simple-beam:Rayon Simple
+simple-beamDescription:Le lanceur envoie des ondes mystérieuses à l’ennemi. Son talent devient Simple.
+entrainment:Ten-Danse
+entrainmentDescription:Le lanceur danse sur un rythme étrange. Il force sa cible à l’imiter, ce qui lui fait adopter son talent.
+after-you:Après Vous
+after-youDescription:S’il est le premier à agir, le lanceur permet à sa cible d’utiliser une capacité juste après lui.
+round:Chant Canon
+roundDescription:Le lanceur attaque l’ennemi en chantant. Si plusieurs Pokémon déclenchent cette attaque à la suite, l’effet augmente.
+echoed-voice:Écho
+echoed-voiceDescription:Un cri retentissant blesse l’ennemi. Si le lanceur ou d’autres Pokémon l’utilisent à chaque tour, l’effet augmente.
+chip-away:Attrition
+chip-awayDescription:Une attaque puissante quand l’ennemi baisse sa garde. Inflige des dégâts sans tenir compte des changements de stats.
+clear-smog:Bain de Smog
+clear-smogDescription:Le lanceur jette un tas de détritus spéciaux sur la cible. Les changements de stats de la cible sont annulés.
+quick-guard:Prévention
+quick-guardDescription:Le lanceur et son équipe sont protégés contre les attaques prioritaires.
+ally-switch:Interversion
+ally-switchDescription:Le lanceur se téléporte à l’aide d’un pouvoir mystérieux. Il échange sa place avec celle d’un allié sur le terrain.
+scald:Ébullition
+scaldDescription:L’ennemi est attaqué par un jet d’eau bouillante. Peut aussi le brûler.
+shell-smash:Exuviation
+shell-smashDescription:Le lanceur brise sa coquille. Il baisse sa Défense et sa Défense Spéciale, mais augmente beaucoup son Attaque, son Attaque Spéciale et sa Vitesse.
+heal-pulse:Vibra Soin
+heal-pulseDescription:Une aura de bien-être fait récupérer la moitié de ses PV max à la cible.
+hex:Châtiment
+hexDescription:Attaque acharnée qui cause davantage de dégâts à l’ennemi s’il a un problème de statut.
+stored-power:Force Ajoutée
+stored-powerDescription:Le lanceur attaque l’ennemi avec une force accumulée. Plus les stats du lanceur sont augmentées, plus le coup est efficace.
+sky-drop:Chute Libre
+sky-dropDescription:Le lanceur emmène l’ennemi dans les airs au premier tour et le lâche dans le vide au second. L’ennemi saisi ne peut pas attaquer.
+shift-gear:Chgt Vitesse
+shift-gearDescription:Le lanceur fait tourner ses engrenages. Cela augmente son Attaque et augmente beaucoup sa Vitesse.
+circle-throw:Projection
+circle-throwDescription:Projette le Pokémon ennemi et le remplace par un autre. Lors d’un combat contre un Pokémon sauvage seul, met fin au combat.
+incinerate:Calcination
+incinerateDescription:Des flammes calcinent l’ennemi. S’il tient un objet, une Baie par exemple, celui-ci est brûlé et devient inutilisable.
+quash:À la Queue
+quashDescription:Retient la cible de force, l’obligeant à agir en dernier.
+reflect-type:Copie-Type
+reflect-typeDescription:Le lanceur copie le type de la cible et devient du même type.
+retaliate:Vengeance
+retaliateDescription:Venge un Pokémon de l’équipe mis K.O. Si un Pokémon de l’équipe a été mis K.O. au tour d’avant, l’effet augmente.
+final-gambit:Tout ou Rien
+final-gambitDescription:Une attaque très risquée. Le lanceur perd tous ses PV restants et inflige autant de dégâts à l’ennemi.
+bestow:Passe-Cadeau
+bestowDescription:Si la cible ne tient pas d’objet, le lanceur lui donne l’objet qu’il tient.
+inferno:Feu d’Enfer
+infernoDescription:L’ennemi est entouré d’un torrent de flammes ardentes qui le brûlent.
+acrobatics:Acrobatie
+acrobaticsDescription:Attaque agile.
+water-pledge:Aire d’Eau
+water-pledgeDescription:Une masse d’eau s’abat sur l’ennemi. En l’utilisant avec Aire de Feu, l’effet augmente et un arc-en-ciel apparaît.
+fire-pledge:Aire de Feu
+fire-pledgeDescription:Une masse de feu s’abat sur l’ennemi. En l’utilisant avec Aire d’Herbe, l’effet augmente et une mer de feu apparaît.
+grass-pledge:Aire d’Herbe
+grass-pledgeDescription:Une masse végétale s’abat sur l’ennemi. En l’utilisant avec Aire d’Eau, l’effet augmente et un marécage apparaît.
+volt-switch:Change Éclair
+volt-switchDescription:Après son attaque, le lanceur revient à toute vitesse et change de place avec un Pokémon de l’équipe prêt au combat.
+struggle-bug:Survinsecte
+struggle-bugDescription:Le lanceur se débat de toutes ses forces, et baisse l’Attaque Spéciale de l’ennemi.
+bulldoze:Piétisol
+bulldozeDescription:Le lanceur piétine le sol et inflige des dégâts à tous les Pokémon autour de lui. Baisse aussi leur Vitesse.
+frost-breath:Souffle Glacé
+frost-breathDescription:Un souffle froid blesse l’ennemi. L’effet est toujours critique.
+dragon-tail:Draco-Queue
+dragon-tailDescription:Un coup puissant qui blesse la cible et l’envoie au loin. Lors d’un combat contre un Pokémon sauvage seul, met fin au combat.
+work-up:Rengorgement
+work-upDescription:Le lanceur se rengorge. Augmente l’Attaque et l’Attaque Spéciale.
+electroweb:Toile Élek
+electrowebDescription:Attrape l’ennemi dans un filet électrique. Baisse aussi la Vitesse de l’ennemi.
+wild-charge:Éclair Fou
+wild-chargeDescription:Une charge électrique violente qui blesse aussi légèrement le lanceur.
+drill-run:Tunnelier
+drill-runDescription:Le lanceur tourne sur lui-même comme une perceuse et se jette sur l’ennemi. Taux de critique élevé.
+dual-chop:Double Baffe
+dual-chopDescription:Le lanceur frappe l’ennemi deux fois d’affilée avec les parties les plus robustes de son corps.
+heart-stamp:Crève-Cœur
+heart-stampDescription:Déconcentre l’ennemi avec des mouvements mignons avant de le frapper violemment. Peut aussi l’apeurer.
+horn-leech:Encornebois
+horn-leechDescription:Un coup de corne qui draine l’énergie de l’ennemi. Convertit la moitié des dégâts infligés en PV pour le lanceur.
+sacred-sword:Lame Sainte
+sacred-swordDescription:Un coup de corne violent qui lacère l’ennemi et lui inflige des dégâts quels que soient ses changements de stats.
+razor-shell:Coqui-Lame
+razor-shellDescription:Un coquillage aiguisé lacère l’ennemi. Peut aussi baisser sa Défense.
+heat-crash:Tacle Feu
+heat-crashDescription:Le lanceur projette son corps enflammé contre l’ennemi. S’il est plus lourd que l’ennemi, l’effet augmente en conséquence.
+leaf-tornado:Phytomixeur
+leaf-tornadoDescription:L’ennemi est pris dans un tourbillon de feuilles acérées. Peut aussi baisser sa Précision.
+steamroller:Bulldoboule
+steamrollerDescription:Le lanceur se roule en boule et écrase son ennemi. Peut aussi l’apeurer.
+cotton-guard:Cotogarde
+cotton-guardDescription:Le lanceur se protège en s’emmitouflant dans du coton. Sa Défense augmente énormément.
+night-daze:Explonuit
+night-dazeDescription:Le lanceur attaque l’ennemi avec une onde de choc ténébreuse. Peut aussi baisser sa Précision.
+psystrike:Frappe Psy
+psystrikeDescription:Le lanceur matérialise des ondes mystérieuses qu’il projette sur l’ennemi. Inflige des dégâts physiques.
+tail-slap:Plumo-Queue
+tail-slapDescription:Le lanceur frappe l’ennemi de deux à cinq fois d’affilée avec sa queue robuste.
+hurricane:Vent Violent
+hurricaneDescription:Le lanceur déclenche une tempête de vents violents qui s’abat sur l’ennemi. Peut aussi le rendre confus.
+head-charge:Peignée
+head-chargeDescription:Le lanceur donne un coup avec sa tête couronnée d’une fière crinière. Blesse aussi légèrement le lanceur.
+gear-grind:Lancécrou
+gear-grindDescription:Le lanceur jette deux écrous d’acier qui frappent l’ennemi deux fois d’affilée.
+searing-shot:Incendie
+searing-shotDescription:Des boules de feu s’abattent sur tous les Pokémon autour du lanceur. Peut aussi les brûler.
+techno-blast:Techno-Buster
+techno-blastDescription:Le lanceur projette un rayon lumineux sur l’ennemi. Le type varie selon le Module que tient le lanceur.
+relic-song:Chant Antique
+relic-songDescription:Le lanceur attaque l’ennemi en lui chantant une chanson d’un autre temps. Peut l’endormir.
+secret-sword:Lame Ointe
+secret-swordDescription:L’ennemi est lacéré par une longue corne. Son pouvoir mystérieux inflige des dégâts physiques.
+glaciate:Ère Glaciaire
+glaciateDescription:Un souffle de vent qui congèle tout sur son passage s’abat sur l’ennemi. Réduit aussi sa Vitesse.
+bolt-strike:Charge Foudre
+bolt-strikeDescription:Le lanceur s’enveloppe d’une charge électrique surpuissante et se jette sur l’ennemi. Peut aussi le paralyser.
+blue-flare:Flamme Bleue
+blue-flareDescription:De magnifiques et redoutables flammes bleues fondent sur l’ennemi. Peut aussi le brûler.
+fiery-dance:Danse du Feu
+fiery-danceDescription:Le lanceur enveloppe l’ennemi de flammes. Peut aussi augmenter l’Attaque Spéciale du lanceur.
+freeze-shock:Éclair Gelé
+freeze-shockDescription:Projette un bloc de glace électrifié sur l’ennemi au second tour. Peut aussi le paralyser.
+ice-burn:Feu Glacé
+ice-burnDescription:Au second tour, le lanceur projette un souffle de vent glacial dévastateur sur l’ennemi. Peut aussi le brûler.
+snarl:Aboiement
+snarlDescription:Le lanceur hurle sur l’ennemi. Baisse l’Attaque Spéciale de l’ennemi.
+icicle-crash:Chute Glace
+icicle-crashDescription:Envoie de gros blocs de glace sur l’ennemi pour lui infliger des dégâts. Peut aussi l’apeurer.
+v-create:Coup Victoire
+v-createDescription:Le lanceur projette une flamme ardente de son front et se jette sur l’ennemi. Baisse la Défense, la Défense Spéciale et la Vitesse.
+fusion-flare:Flamme Croix
+fusion-flareDescription:Projette une boule de feu gigantesque. L’effet augmente sous l’influence d’Éclair Croix.
+fusion-bolt:Éclair Croix
+fusion-boltDescription:Projette un orbe électrique gigantesque. L’effet augmente sous l’influence de Flamme Croix.
+flying-press:Flying Press
+flying-pressDescription:Une attaque en piqué depuis le ciel, à la fois de type Combat et de type Vol.
+mat-block:Tatamigaeshi
+mat-blockDescription:Retourne un tatami pour bloquer, comme avec un bouclier, les capacités visant le lanceur ou ses alliés. N’a pas d’effet sur les attaques de statut.
+belch:Éructation
+belchDescription:Le lanceur se tourne vers l’ennemi et lui éructe dessus, infligeant des dégâts. Ne fonctionne que si le lanceur consomme la Baie qu’il tient.
+rototiller:Fertilisation
+rototillerDescription:Laboure le sol et le rend plus fertile. Augmente l’Attaque et l’Attaque Spéciale des Pokémon de type Plante.
+sticky-web:Toile Gluante
+sticky-webDescription:Déploie une toile visqueuse autour de l’ennemi qui ralentit la Vitesse de tout adversaire entrant au combat.
+fell-stinger:Dard Mortel
+fell-stingerDescription:Augmente beaucoup l’Attaque du lanceur si un ennemi est mis K.O. avec cette capacité.
+phantom-force:Hantise
+phantom-forceDescription:Le lanceur disparaît au premier tour et frappe au second. Cette attaque passe outre les protections.
+trick-or-treat:Halloween
+trick-or-treatDescription:Insuffle à la cible l’esprit d’Halloween, et ajoute le type Spectre à ses types actuels.
+noble-roar:Râle Mâle
+noble-roarDescription:Le lanceur pousse un rugissement qui intimide l’ennemi et diminue son Attaque et son Attaque Spéciale.
+ion-deluge:Déluge Plasmique
+ion-delugeDescription:Diffuse des particules saturées d’électricité qui transforment les capacités de type Normal en capacités de type Électrik.
+parabolic-charge:Parabocharge
+parabolic-chargeDescription:Inflige des dégâts à tous les Pokémon autour du lanceur. Il récupère en PV la moitié des dégâts infligés.
+forests-curse:Maléfice Sylvain
+forests-curseDescription:La cible est charmée par l’esprit de la forêt. Le type Plante est ajouté à ses types actuels.
+petal-blizzard:Tempête Florale
+petal-blizzardDescription:Déclenche une violente tempête de fleurs qui inflige des dégâts à tous les Pokémon alentour.
+freeze-dry:Lyophilisation
+freeze-dryDescription:Refroidit violemment l’ennemi et peut le geler. Super efficace sur les Pokémon de type Eau.
+disarming-voice:Voix Enjôleuse
+disarming-voiceDescription:Laisse s’échapper une voix enchanteresse qui inflige des dégâts psychiques à l’ennemi. Touche à coup sûr.
+parting-shot:Dernier Mot
+parting-shotDescription:Menace l’ennemi dans une ultime tirade avant de changer de place avec un autre Pokémon. Réduit l’Attaque et l’Attaque Spéciale de l’ennemi.
+draining-kiss:Vampibaiser
+draining-kissDescription:Aspire la force vitale de l’ennemi par un baiser. Rend au lanceur un nombre de PV supérieur ou égal à la moitié des dégâts infligés.
+crafty-shield:Vigilance
+crafty-shieldDescription:Utilise une force mystérieuse pour protéger l’équipe des capacités de statut. Ne protège pas des autres capacités.
+flower-shield:Garde Florale
+flower-shieldDescription:Grâce à une force mystérieuse, la Défense de tous les Pokémon Plante au combat augmente.
+grassy-terrain:Champ Herbu
+grassy-terrainDescription:Pendant cinq tours, les Pokémon au sol récupèrent quelques PV à chaque tour et la puissance des capacités de type Plante augmente.
+misty-terrain:Champ Brumeux
+misty-terrainDescription:Pendant cinq tours, les Pokémon au sol ne peuvent pas subir d’altération de statut et la puissance des capacités de type Dragon est divisée par deux.
+electrify:Électrisation
+electrifyDescription:Si le lanceur attaque avant la cible, les capacités de celle-ci seront de type Électrik jusqu’à la fin du tour.
+fairy-wind:Vent Féérique
+fairy-windDescription:Déchaîne un vent magique qui cingle l’ennemi.
+moonblast:Pouvoir Lunaire
+moonblastDescription:Attaque l’ennemi grâce au pouvoir de la lune. Peut diminuer son Attaque Spéciale.
+boomburst:Bang Sonique
+boomburstDescription:Attaque les Pokémon alentour grâce à une onde sonore assourdissante qui détruit tout sur son passage.
+fairy-lock:Verrou Enchanté
+fairy-lockDescription:Des chaînes entourent la zone de combat, empêchant tous les Pokémon de fuir au prochain tour.
+kings-shield:Bouclier Royal
+kings-shieldDescription:Prend une posture défensive pour bloquer les dégâts. Diminue beaucoup l’Attaque de tout Pokémon qui entre en contact avec le lanceur.
+play-nice:Camaraderie
+play-niceDescription:L’ennemi se lie d’amitié avec le lanceur et perd sa combativité, diminuant son Attaque.
+confide:Confidence
+confideDescription:Dévoile des secrets à l’ennemi, qui perd alors sa concentration et voit son Attaque Spéciale diminuer.
+diamond-storm:Orage Adamantin
+diamond-stormDescription:Provoque une tempête de diamants qui inflige des dégâts. Peut beaucoup augmenter la Défense du lanceur.
+steam-eruption:Jet de Vapeur
+steam-eruptionDescription:Plonge l’ennemi dans une chaleur étouffante. Peut le brûler.
+hyperspace-hole:TrouDimensionnel
+hyperspace-holeDescription:Crée une faille dimensionnelle pour attaquer soudainement l’ennemi de côté. Ignore même les capacités comme Abri ou Détection.
+water-shuriken:Sheauriken
+water-shurikenDescription:Attaque l’ennemi avec des shuriken de mucus. Frappe en priorité deux à cinq fois d’affilée en un tour.
+mystical-fire:Feu Ensorcelé
+mystical-fireDescription:Attaque avec des flammes brûlantes soufflées de la bouche du lanceur. Diminue l’Attaque Spéciale de l’ennemi.
+spiky-shield:Pico-Défense
+spiky-shieldDescription:Protège des attaques, et diminue les PV de tout attaquant qui entre en contact avec le lanceur.
+aromatic-mist:Brume Capiteuse
+aromatic-mistDescription:Grâce à un parfum mystérieux, augmente la Défense Spéciale d’un allié.
+eerie-impulse:Ondes Étranges
+eerie-impulseDescription:Le corps du lanceur produit des ondes anormales qui enveloppent l’ennemi et diminuent beaucoup son Attaque Spéciale.
+venom-drench:Piège de Venin
+venom-drenchDescription:Sécrète un liquide empoisonné. Diminue l’Attaque, l’Attaque Spéciale et la Vitesse de l’ennemi empoisonné.
+powder:Nuée de Poudre
+powderDescription:L’ennemi est pris dans un nuage de poudre. S’il utilise une capacité de type Feu lors du même tour, le nuage explose et lui inflige des dégâts.
+geomancy:Géo-Contrôle
+geomancyDescription:Le lanceur absorbe de l’énergie au premier tour et augmente beaucoup son Attaque Spéciale, sa Défense Spéciale et sa Vitesse au second.
+magnetic-flux:Magné-Contrôle
+magnetic-fluxDescription:Manipule les champs magnétiques pour augmenter la Défense et la Défense Spéciale des Pokémon alliés dotés du talent Plus ou du talent Minus.
+happy-hour:Étrennes
+happy-hourDescription:Utilisé pendant un combat, multiplie par deux l’argent gagné à la fin.
+electric-terrain:Champ Électrifié
+electric-terrainDescription:Pendant cinq tours, le terrain se charge d’électricité. Les Pokémon au sol ne peuvent pas s’endormir et la puissance des capacités de type Électrik augmente.
+dazzling-gleam:Éclat Magique
+dazzling-gleamDescription:Libère une puissante décharge lumineuse qui inflige des dégâts à l’ennemi.
+celebrate:Célébration
+celebrateDescription:Le Pokémon vous souhaite plein de bonnes choses pour cet événement spécial.
+hold-hands:Mains Jointes
+hold-handsDescription:Le lanceur et un allié se prennent la main, ce qui les rend heureux.
+baby-doll-eyes:Regard Touchant
+baby-doll-eyesDescription:Fixe l’ennemi d’un air très attendrissant qui le touche et diminue son Attaque. Agit en priorité.
+nuzzle:Frotte-Frimousse
+nuzzleDescription:Le lanceur attaque en frottant ses bajoues chargées d’électricité. Paralyse l’ennemi.
+hold-back:Retenue
+hold-backDescription:Le lanceur attaque avec retenue, et laisse au moins 1 PV à l’ennemi.
+infestation:Harcèlement
+infestationDescription:Cette attaque perdure pendant quatre à cinq tours. L’ennemi ne peut pas fuir au cours de cette période.
+power-up-punch:Poing Boost
+power-up-punchDescription:À force de frapper, les poings deviennent plus durs. Augmente l’Attaque du lanceur si l’ennemi est touché.
+oblivion-wing:Mort’Ailes
+oblivion-wingDescription:Vole l’énergie de la cible. Rend au lanceur un nombre de PV supérieur ou égal à la moitié des dégâts infligés.
+thousand-arrows:Myria-Flèches
+thousand-arrowsDescription:Touche même les Pokémon dans les airs. Dans ce cas, la cible retombe au sol.
+thousand-waves:Myria-Vagues
+thousand-wavesDescription:Attaque avec des vagues glissant au sol. L’ennemi pris dedans ne peut pas s’échapper.
+lands-wrath:Force Chtonienne
+lands-wrathDescription:Utilise la puissance du sol et la concentre sur l’ennemi pour infliger des dégâts.
+light-of-ruin:Lumière du Néant
+light-of-ruinDescription:Utilise la puissance de la fleur Éternelle pour lancer un formidable rayon d’énergie. Blesse aussi gravement le lanceur.
+origin-pulse:Onde Originelle
+origin-pulseDescription:D’innombrables rayons lumineux d’un bleu étincelant s’abattent sur la cible.
+precipice-blades:Lame Pangéenne
+precipice-bladesDescription:Le Pokémon transforme la puissance de la terre et attaque la cible avec une lame acérée.
+dragon-ascent:Draco-Ascension
+dragon-ascentDescription:Le Pokémon s’abat à toute vitesse sur la cible depuis les hautes couches de l’atmosphère. Baisse la Défense et la Défense Spéciale du lanceur.
+hyperspace-fury:Furie Dimension
+hyperspace-furyDescription:Le Pokémon utilise sa multitude de bras pour infliger une nuée de coups qui ignorent les capacités telles qu’Abri ou Détection. Baisse la Défense du lanceur.
+breakneck-blitz--physical:Turbo-Charge Bulldozer
+breakneck-blitz--physicalDescription:Le Pokémon utilise la Force Z pour s’élancer à toute vitesse sur l’adversaire. La puissance varie selon celle de la capacité originale.
+breakneck-blitz--special:Turbo-Charge Bulldozer
+breakneck-blitz--specialDescription:Dummy
+all-out-pummeling--physical:Combo Hyper-Furie
+all-out-pummeling--physicalDescription:Le Pokémon utilise la Force Z pour créer une boule d’énergie qu’il projette sur l’adversaire. La puissance varie selon celle de la capacité originale.
+all-out-pummeling--special:Combo Hyper-Furie
+all-out-pummeling--specialDescription:Dummy
+supersonic-skystrike--physical:Piqué Supersonique
+supersonic-skystrike--physicalDescription:Le Pokémon utilise la Force Z pour s’envoler très haut dans le ciel avant de plonger sur l’adversaire. La puissance varie selon celle de la capacité originale.
+supersonic-skystrike--special:Piqué Supersonique
+supersonic-skystrike--specialDescription:Dummy
+acid-downpour--physical:Déluge Causti-Toxique
+acid-downpour--physicalDescription:Le Pokémon utilise la Force Z pour répandre un marécage empoisonné où l’adversaire sombre. La puissance varie selon celle de la capacité originale.
+tectonic-rage--physical:Éruption Géo-Sismique
+tectonic-rage--physicalDescription:Le Pokémon utilise la Force Z pour entraîner l’adversaire dans les profondeurs de la terre. La puissance varie selon celle de la capacité originale.
+tectonic-rage--special:Éruption Géo-Sismique
+tectonic-rage--specialDescription:Dummy
+continental-crush--physical:Apocalypse Gigalithique
+continental-crush--physicalDescription:Le Pokémon utilise la Force Z pour créer un immense rocher et écraser l’adversaire avec. La puissance varie selon celle de la capacité originale.
+continental-crush--special:Apocalypse Gigalithique
+continental-crush--specialDescription:Dummy
+savage-spin-out--physical:Cocon Fatal
+savage-spin-out--physicalDescription:Le Pokémon utilise la Force Z pour cracher de longs fils de soie et enserrer l’adversaire. La puissance varie selon celle de la capacité originale.
+never-ending-nightmare--physical:Appel des Ombres Éternelles
+never-ending-nightmare--physicalDescription:Le Pokémon utilise la Force Z pour invoquer des esprits rancuniers qui s’abattent sur l’adversaire. La puissance varie selon celle de la capacité originale.
+never-ending-nightmare--special:Appel des Ombres Éternelles
+never-ending-nightmare--specialDescription:Dummy
+corkscrew-crash--physical:Vrille Maximum
+corkscrew-crash--physicalDescription:Le Pokémon utilise la Force Z pour tourner à toute vitesse et écraser l’adversaire. La puissance varie selon celle de la capacité originale.
+corkscrew-crash--special:Vrille Maximum
+corkscrew-crash--specialDescription:Dummy
+inferno-overdrive--physical:Pyro-Explosion Cataclysmique
+inferno-overdrive--physicalDescription:Le Pokémon utilise la Force Z pour cracher une boule de feu qui réduit l’adversaire en cendres. La puissance varie selon celle de la capacité originale.
+savage-spin-out--special:Cocon Fatal
+savage-spin-out--specialDescription:Dummy
+inferno-overdrive--special:Pyro-Explosion Cataclysmique
+inferno-overdrive--specialDescription:Dummy
+hydro-vortex--physical:Super Tourbillon Abyssal
+hydro-vortex--physicalDescription:Le Pokémon utilise la Force Z pour créer un tourbillon gigantesque qui avale l’adversaire. La puissance varie selon celle de la capacité originale.
+hydro-vortex--special:Super Tourbillon Abyssal
+hydro-vortex--specialDescription:Dummy
+bloom-doom--physical:Pétalexplosion Éblouissante
+bloom-doom--physicalDescription:Le Pokémon utilise la Force Z pour libérer l’énergie des plantes et attaquer l’adversaire. La puissance varie selon celle de la capacité originale.
+bloom-doom--special:Pétalexplosion Éblouissante
+bloom-doom--specialDescription:Dummy
+gigavolt-havoc--physical:Fulguro-Lance Gigavolt
+gigavolt-havoc--physicalDescription:Le Pokémon utilise la Force Z pour générer un courant électrique puissant qu’il projette sur l’adversaire. La puissance varie selon celle de la capacité originale.
+gigavolt-havoc--special:Fulguro-Lance Gigavolt
+gigavolt-havoc--specialDescription:Dummy
+shattered-psyche--physical:Psycho-Pulvérisation EX
+shattered-psyche--physicalDescription:Le Pokémon utilise la Force Z pour manipuler l’adversaire et lui infliger de sérieux dégâts. La puissance varie selon celle de la capacité originale.
+shattered-psyche--special:Psycho-Pulvérisation EX
+shattered-psyche--specialDescription:Dummy
+subzero-slammer--physical:Laser Cryogénique
+subzero-slammer--physicalDescription:Le Pokémon utilise la Force Z pour baisser la température brutalement et congeler l’adversaire. La puissance varie selon celle de la capacité originale.
+subzero-slammer--special:Laser Cryogénique
+subzero-slammer--specialDescription:Dummy
+devastating-drake--physical:Chaos Draconique
+devastating-drake--physicalDescription:Le Pokémon utilise la Force Z pour matérialiser son aura et assaillir l’adversaire. La puissance varie selon celle de la capacité originale.
+black-hole-eclipse--physical:Trou Noir des Ombres
+black-hole-eclipse--physicalDescription:Le Pokémon utilise la Force Z pour rassembler l’énergie négative et y aspirer l’adversaire. La puissance varie selon celle de la capacité originale.
+black-hole-eclipse--special:Trou Noir des Ombres
+black-hole-eclipse--specialDescription:Dummy
+twinkle-tackle--physical:Impact Choupinova
+twinkle-tackle--physicalDescription:Le Pokémon utilise la Force Z pour créer une dimension irréelle où l’adversaire est à sa merci. La puissance varie selon celle de la capacité originale.
+twinkle-tackle--special:Impact Choupinova
+twinkle-tackle--specialDescription:Dummy
+catastropika:Pikachute Foudroyante
+catastropikaDescription:Pikachu utilise la Force Z pour concentrer toute son électricité avant de se jeter à toute vitesse sur l’adversaire.
+devastating-drake--special:Chaos Draconique
+devastating-drake--specialDescription:Dummy
+shore-up:Amass’Sable
+shore-upDescription:Le lanceur récupère jusqu’à la moitié de ses PV max. Durant une tempête de sable, il en récupère encore plus.
+first-impression:Escarmouche
+first-impressionDescription:Une capacité très puissante, mais qui ne fonctionne qu’au premier tour.
+baneful-bunker:Blockhaus
+baneful-bunkerDescription:Protège le lanceur contre les attaques de l’ennemi et empoisonne ce dernier s’il utilise une attaque directe sur le lanceur.
+spirit-shackle:Tisse Ombre
+spirit-shackleDescription:Une attaque qui coud l’ennemi à son ombre, ce qui l’empêche de s’enfuir.
+darkest-lariat:Dark Lariat
+darkest-lariatDescription:Le Pokémon étend les bras et frappe l’adversaire en tournant violemment. Inflige des dégâts et ignore les changements de stats de la cible.
+sparkling-aria:Aria de l’Écume
+sparkling-ariaDescription:Le lanceur émet plusieurs bulles en chantant. Soigne les brûlures des Pokémon touchés par ces bulles.
+floral-healing:Soin Floral
+floral-healingDescription:Rend la moitié de ses PV max à la cible. Plus efficace sur un Champ Herbu.
+high-horsepower:Cavalerie Lourde
+high-horsepowerDescription:Le lanceur attaque violemment en utilisant tout son poids.
+strength-sap:Vole-Force
+strength-sapDescription:Rend au lanceur une quantité de PV équivalente à la stat d’Attaque de la cible, puis baisse celle-ci.
+solar-blade:Lame Solaire
+solar-bladeDescription:Le lanceur absorbe la lumière au premier tour et attaque au second tour en libérant cette énergie sous forme de lames.
+leafage:Feuillage
+leafageDescription:Le lanceur attaque l’ennemi avec des feuilles.
+spotlight:Projecteur
+spotlightDescription:Met un Pokémon sous le feu des projecteurs et force tout le monde à le viser.
+toxic-thread:Fil Toxique
+toxic-threadDescription:Tisse un fil imprégné de venin. Empoisonne la cible et baisse sa Vitesse.
+laser-focus:Affilage
+laser-focusDescription:Le lanceur se concentre pour être sûr de porter un coup critique au tour suivant.
+gear-up:Engrenage
+gear-upDescription:Change de réglage pour augmenter l’Attaque et l’Attaque Spéciale des alliés ayant les talents Plus ou Minus.
+throat-chop:Exécu-Son
+throat-chopDescription:Inflige une douleur tellement violente à la cible qu’elle ne peut plus émettre de sons pendant deux tours.
+pollen-puff:Boule Pollen
+pollen-puffDescription:Utilisé sur l’ennemi, envoie une boule explosive qui fait des dégâts ; sur un allié, donne du bon pollen nutritif qui fait récupérer des PV.
+anchor-shot:Ancrage
+anchor-shotDescription:Le lanceur jette son ancre sur la cible pour l’attaquer. Une fois accrochée, elle l’empêche de s’enfuir.
+psychic-terrain:Champ Psychique
+psychic-terrainDescription:Pendant cinq tours, les Pokémon au sol ne peuvent plus subir d’attaques prioritaires et la puissance des capacités de type Psy augmente.
+lunge:Furie-Bond
+lungeDescription:Le lanceur se jette sur la cible de toutes ses forces pour lui infliger des dégâts et baisser son Attaque.
+fire-lash:Fouet de Feu
+fire-lashDescription:Frappe la cible avec un fouet incandescent et baisse sa Défense.
+power-trip:Arrogance
+power-tripDescription:Ivre de puissance, le lanceur attaque de toutes ses forces. Plus ses stats ont été augmentées, plus la puissance de l’attaque est élevée.
+burn-up:Flamme Ultime
+burn-upDescription:Le Pokémon se consume et les flammes de son corps infligent des dégâts élevés à la cible. Le lanceur perd le type Feu.
+smart-strike:Estocorne
+smart-strikeDescription:Le lanceur transperce la cible avec sa corne effilée. Touche toujours l’ennemi.
+purify:Purification
+purifyDescription:Le lanceur soigne les altérations de statut de la cible, ce qui lui permet de regagner des PV.
+revelation-dance:Danse Éveil
+revelation-danceDescription:Le lanceur attaque en dansant avec enthousiasme. Le type de la capacité est le même que celui du lanceur.
+core-enforcer:Sanction Suprême
+core-enforcerDescription:La cible subit des dégâts et, si elle a déjà agi à ce tour, elle perd aussi son talent.
+trop-kick:Botte Sucrette
+trop-kickDescription:Un coup de pied chaud comme les tropiques qui inflige des dégâts à la cible et baisse son Attaque.
+instruct:Sommation
+instructDescription:Force la cible à lancer immédiatement la dernière capacité qu’elle a utilisée.
+beak-blast:Bec-Canon
+beak-blastDescription:Le lanceur fait chauffer son bec avant d’attaquer. S’il subit une attaque directe pendant la montée en température, l’attaquant sera brûlé.
+clanging-scales:Vibrécaille
+clanging-scalesDescription:Le lanceur déclenche un vacarme en frottant ses écailles les unes contre les autres pour attaquer. Baisse la Défense du lanceur.
+dragon-hammer:Draco-Marteau
+dragon-hammerDescription:Le lanceur utilise son corps comme un véritable marteau pour écraser la cible.
+brutal-swing:Centrifugifle
+brutal-swingDescription:Le lanceur pivote pour prendre de l’élan et infliger des dégâts.
+aurora-veil:Voile Aurore
+aurora-veilDescription:Réduit les dégâts causés par les capacités physiques et spéciales durant cinq tours. Ne peut être utilisé que lorsqu’il grêle.
+sinister-arrow-raid:Fureur des Plumes Spectrales
+sinister-arrow-raidDescription:Archéduc utilise la Force Z pour créer un nuage de flèches qui transpercent la cible.
+malicious-moonsault:Dark Body Press
+malicious-moonsaultDescription:Félinferno utilise la Force Z pour gonfler ses muscles et écraser la cible de toutes ses forces.
+oceanic-operetta:Symphonie des Ondines
+oceanic-operettaDescription:Oratoria utilise la Force Z pour rassembler une grande quantité d’eau et la projeter sur la cible à pleine puissance.
+guardian-of-alola:Colère du Gardien d’Alola
+guardian-of-alolaDescription:Le Pokémon Tutélaire utilise la Force Z et déchaîne toute la puissance d’Alola sur sa cible. Inflige des dégâts en fonction des PV restants de celle-ci.
+soul-stealing-7-star-strike:Fauche-Âme des Sept Étoiles
+soul-stealing-7-star-strikeDescription:Marshadow concentre toute la Force Z dans ses poings et ses pieds pour infliger un déluge de coups à la cible.
+stoked-sparksurfer:Électro-Surf Survolté
+stoked-sparksurferDescription:Le Raichu de la région d’Alola utilise la Force Z pour frapper la cible et la paralyser.
+pulverizing-pancake:Gare au Ronflex
+pulverizing-pancakeDescription:Ronflex utilise la Force Z pour montrer ce qu’il a dans le ventre et écraser la cible de tout son poids.
+extreme-evoboost:Neuf pour Un
+extreme-evoboostDescription:Évoli utilise la Force Z pour emprunter la puissance de tous ses amis évolués et beaucoup augmenter toutes ses stats.
+shell-trap:Carapiège
+shell-trapDescription:Pose une carapace piégée. Si l’adversaire utilise une capacité physique, la carapace explose et lui inflige des dégâts.
+fleur-cannon:Canon Floral
+fleur-cannonDescription:Envoie un rayon laser dévastateur. Baisse beaucoup l’Attaque Spéciale du lanceur.
+psychic-fangs:Psycho-Croc
+psychic-fangsDescription:Le lanceur mord la cible avec ses pouvoirs psychiques. Brise aussi les barrières comme Mur Lumière et Protection.
+stomping-tantrum:Trépignement
+stomping-tantrumDescription:Le lanceur attaque en utilisant sa frustration. S’il a utilisé une capacité qui a échoué au tour précédent, la puissance de Trépignement est doublée.
+genesis-supernova:Supernova Originelle
+genesis-supernovaDescription:Mew utilise la Force Z pour attaquer la cible. Le terrain devient un Champ Psychique.
+shadow-bone:Os Ombre
+shadow-boneDescription:Le lanceur frappe avec un os possédé par l’âme d’un défunt. Peut aussi baisser la Défense de la cible.
+accelerock:Vif Roc
+accelerockDescription:Le lanceur charge l’ennemi à toute vitesse. Frappe en priorité.
+liquidation:Aqua-Brèche
+liquidationDescription:Le lanceur utilise la force de l’eau pour attaquer. Peut aussi baisser la Défense de la cible.
+prismatic-laser:Laser Prisme
+prismatic-laserDescription:Le lanceur utilise la puissance d’un prisme pour envoyer un laser destructeur, mais il doit se reposer au tour suivant.
+spectral-thief:Clepto-Mânes
+spectral-thiefDescription:Le lanceur plonge dans l’ombre de la cible, vole ses augmentations de stats et l’attaque.
+sunsteel-strike:Choc Météore
+sunsteel-strikeDescription:Le lanceur fonce sur la cible à la vitesse d’une météorite. Ignore le talent de l’ennemi.
+moongeist-beam:Rayon Spectral
+moongeist-beamDescription:Le lanceur attaque avec un rayon de lumière mystérieux. Ignore le talent de la cible.
+tearful-look:Larme à l’Œil
+tearful-lookDescription:Le lanceur jette un regard plein de larmes à la cible. Celle-ci perd toute velléité de combat et voit son Attaque et son Attaque Spéciale baisser.
+zing-zap:Électrikipik
+zing-zapDescription:Le lanceur fonce sur la cible et lui envoie un puissant choc électrique. Peut aussi l’effrayer.
+natures-madness:Ire de la Nature
+natures-madnessDescription:Le lanceur déchaîne toute la colère de la nature pour baisser les PV de la cible de moitié.
+multi-attack:Coup Varia-Type
+multi-attackDescription:Le Pokémon s’entoure d’une puissante énergie avant de foncer sur sa cible. Le type de la capacité dépend de la ROM installée.
+10-000-000-volt-thunderbolt:Giga-Tonnerre
+10-000-000-volt-thunderboltDescription:Le Pikachu à casquette utilise la Force Z pour augmenter sa puissance électrique avant de la déchaîner sur la cible. Taux de critique élevé.
+mind-blown:Caboche-Kaboum
+mind-blownDescription:Le lanceur fait exploser sa tête pour attaquer toutes les cibles autour de lui. Il subit aussi des dégâts.
+plasma-fists:Plasma Punch
+plasma-fistsDescription:Le lanceur attaque en projetant de l’électricité avec ses poings. Convertit les capacités de type Normal en type Électrik.
+photon-geyser:Photo-Geyser
+photon-geyserDescription:Le lanceur fait jaillir un pilier de lumière. Compare l’Attaque et l’Attaque Spéciale, et utilise celle qui infligera le plus de dégâts.
+light-that-burns-the-sky:Apocalypsis Luminis
+light-that-burns-the-skyDescription:Compare l’Attaque et l’Attaque Spéciale, et utilise celle qui infligera le plus de dégâts. Ignore le talent de la cible.
+searing-sunraze-smash:Hélio-Choc Dévastateur
+searing-sunraze-smashDescription:Baigné dans la Force Z, Solgaleo attaque en déchaînant toute sa puissance. Ignore le talent de la cible.
+menacing-moonraze-maelstrom:Rayons Séléno-Explosifs
+menacing-moonraze-maelstromDescription:Baigné dans la Force Z, Lunala attaque en déchaînant toute sa puissance. Ignore le talent de la cible.
+lets-snuggle-forever:Patati-Patattrape
+lets-snuggle-foreverDescription:Mimiqui concentre toute la Force Z dans son corps, et attaque dans le plus grand fracas !
+splintered-stormshards:Hurlement des Roches-Lames
+splintered-stormshardsDescription:Lougaroc utilise la Force Z pour attaquer la cible de toutes ses forces. Efface aussi tout Champ existant.
+clangorous-soulblaze:Dracacophonie Flamboyante
+clangorous-soulblazeDescription:Ékaïser utilise la Force Z pour frapper l’ennemi de toutes ses forces. Augmente aussi ses stats.
+apple-acid:Acide Malique
+apple-acidDescription:Acide Malique
+astral-barrage:Éclat Spectral
+astral-barrageDescription:Éclat Spectral
+behemoth-blade:Gladius Maximus
+behemoth-bladeDescription:Gladius Maximus
+behemoth-bash:Aegis Maxima
+behemoth-bashDescription:Aegis Maxima
+branch-poke:Tapotige
+branch-pokeDescription:Branch Poke deals damage and has no secondary effect.
+breaking-swipe:Abattage
+breaking-swipeDescription:Breaking Swipe deals damage to all opponents. It lowers the Attack of all hit targets by one stage.
+dragon-darts:Draco-Flèches
+dragon-dartsDescription:Draco-Flèches
+drum-beating:Tambour Battant
+drum-beatingDescription:Tambour Battant
+dual-wingbeat:Double Volée
+dual-wingbeatDescription:Dual Wingbeat inflicts damage, hitting twice per use. Each strike has an equal chance to be a critical hit.
+false-surrender:Fourbette
+false-surrenderDescription:Fourbette
+fiery-wrath:Fureur Ardente
+fiery-wrathDescription:Fureur Ardente
+freezing-glare:Regard Glaçant
+freezing-glareDescription:Regard Glaçant
+grav-apple:Force G
+grav-appleDescription:Force G
+overdrive:Overdrive
+overdriveDescription:Overdrive
+pyro-ball:Ballon Brûlant
+pyro-ballDescription:Ballon Brûlant
+scorching-sands:Sable Ardent
+scorching-sandsDescription:Sable Ardent
+skitter-smack:Ravage Rampant
+skitter-smackDescription:Ravage Rampant
+snipe-shot:Tir de Précision
+snipe-shotDescription:Tir de Précision
+spirit-break:Choc Émotionnel
+spirit-breakDescription:Choc Émotionnel
+strange-steam:Vapeur Féérique
+strange-steamDescription:Strange Steam deals damage and has a 20% chance of confusing the target.
+thunderous-kick:Coup Fulgurant
+thunderous-kickDescription:Coup Fulgurant
+body-press:Big Splash
+body-pressDescription:Body Press inflicts damage, but it uses the user's Defense stat instead of its Attack stat to calculate damage.
+triple-axel:Triple Axel
+triple-axelDescription:A consecutive three-kick attack that becomes more powerful with each successful hit.
+life-dew:Fontaine de Vie
+life-dewDescription:Le lanceur projette une eau mystérieuse sur le terrain pour restaurer ses PV et ceux de ses alliés au combat.
+flip-turn:Eau Revoir
+flip-turnDescription:Flip Turn deals damage and then switches the user out
+snap-trap:Troquenard
+snap-trapDescription:In addition to dealing damage, Snap Trap inflicts 1/8 of the target's maximum HP as damage per turn for four to five turns upon use. It also traps the target, preventing switching and escape.
+thunder-cage:Voltageôle
+thunder-cageDescription:Voltageôle inflige des dégâts, puis continue d'infliger 1/8e des PV de la cible de quatre à cinq tours tout en l'empêchant de fuir pendant cette durée. Si le Pokémon piégé utilise avec succès Tour Rapide ou Clonage, il se libère de la capacité.
+trailblaze:Désherbaffe
+trailblazeDescription:Trailblaze inflicts damage and raises the user's Speed by one stage.
+self-attack:attaque-personnelle
+self-attackDescription:hghfjmhfvb

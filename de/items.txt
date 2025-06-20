@@ -1,0 +1,168 @@
+event_coin:Cake
+event_coinDescription:Tausche Cakes gegen Belohnungen deiner Wahl während des PCG Osterevents 2025 ein. Dieser Gegenstand verschwindet eine Woche nach dem Event.
+mach_ball:Mach Ball
+mach_ballDescription:Ein robuster Ball, am effektivsten wenn er bei Kampf- oder Flug-Pokémon eingesetzt wird.
+basic_ball:Basisball
+basic_ballDescription:Ein gewöhnlicher Pokéball, der hilfreich ist, wenn man versucht, Normal-Pokémon zu fangen.
+phantom_ball:Phantom Ball
+phantom_ballDescription:Ein unheimlich aussehender Ball. Höhere Fangrate bei Geist-Pokémon.
+night_ball:Nachtball
+night_ballDescription:Ein düsterer Ball. Funktioniert besser bei Unlicht-Pokémon.
+frozen_ball:Gefrorener Ball
+frozen_ballDescription:Ein eisiger Ball. Am effektivsten, wenn er bei Eis-Pokémon genutzt wird.
+easter_egg:Osterei
+easter_eggDescription:Sammle 100 Ostereier, um den entwickelten Starter Dewott zu erhalten.
+empty_disc:Leere Disk
+empty_discDescription:Eine leere Disk, um deinem Pokémon ein komplett neues Moveset beizubringen. Verwende sie mit Vorsicht.
+iv_reset:IV-Reset
+iv_resetDescription:Verändert die individuellen Werte eines Pokémon vollständig.
+wonder_pass:Wunder-Pass
+wonder_passDescription:Ein seltener Pass, der es dir ermöglicht, sofort wieder zu wundertauschen.
+friend_ball:Friendball
+friend_ballDescription:Ein hübscher Ball, der effektiver bei Pokémon ist, die den gleichen Typ wie dein Buddy-Pokémon haben.
+mood_mint:Stimmungsminze
+mood_mintDescription:Leckere Minze, die die Natur deines Pokémon vollständig verändert.
+battle_coin:Goldmünze
+battle_coinDescription:Belohnung für das Abschließen wöchentlicher Missionen und die Teilnahme an einem PCG-Turnier. Diese Münze kann im Goldmünzen-Shop für verschiedene seltene Gegenstände und Pokémon ausgegeben werden oder als Andenken aufbewahrt werden.
+present:Geschenk
+presentDescription:Betritt einen Chat und tippe !pokegift, um anderen Spielern eine Freude zu machen! 🎅
+rare_present:Seltenes Geschenk
+rare_presentDescription:Betritt einen Chat und tippe !pokegift rare, um anderen Spielern eine Freude zu machen! 🎅
+team_enhancer:Teamverstärker
+team_enhancerDescription:Benutze diesen Gegenstand, um die Anzahl deiner Teams um 1 zu erhöhen! Du kannst bis zu 30 Teams haben.
+shiny_charm:Glücksbringer
+shiny_charmDescription:Belohnung für das Abschließen des Spawn-Pokédex. Verdoppelt die Chance, ein schillerndes Pokémon zu fangen (Ausnahme: Jubelbälle).
+pokedaily_reset:Pokedaily-Reset
+pokedaily_resetDescription:Dieser Gegenstand setzt den Cooldown deines Pokedaily zurück!
+total_reset:Totaler Reset
+total_resetDescription:Totaler Reset, der deinem Pokémon einen völlig neuen Moveset beibringt, die Natur deines Pokémon vollständig verändert und die individuellen Werte eines Pokémon ändert. Verwende ihn mit Vorsicht.
+safari_ball:Safari-Ball
+safari_ballDescription:🪶 Hat eine 2x Chance, ein schillerndes Safari-Event-Pokémon zu fangen. Du erkennst sie an einer anderen Spawnmeldung! 🪶
+park_ball:Parkball
+park_ballDescription:🪶 Hat eine 10x Chance, ein schillerndes Safari-Event-Pokémon zu fangen. Du erkennst sie an einer anderen Spawn-Nachricht! 🪶
+beast_ball:Bestienball
+beast_ballDescription:Perfekt zum Fangen einer Ultrabestie! Fangchance: 75 %
+ghost_pumpkin:Geisterkürbis
+ghost_pumpkinDescription:Ein Geisterkürbis. Sammle mehr, um verschiedene Belohnungen des Halloween-Events 2022 freizuschalten.
+dark_pumpkin:Dunkler Kürbis
+dark_pumpkinDescription:Ein dunkler Kürbis. Sammle mehr, um verschiedene Belohnungen des Halloween-Events 2022 freizuschalten.
+team_ghost_badge:Team-Geister-Orden
+team_ghost_badgeDescription:Mitgliedsausweis von Team Geist während des Halloween-Events 2022.
+team_dark_badge:Team-Dunkel-Orden
+team_dark_badgeDescription:Mitgliedsausweis von Team Dunkel während des Halloween-Events 2022.
+bottle_cap:Flaschenverschluss
+bottle_capDescription:Maximiert zufällig einen der individuellen Werte eines Pokémon. Nur 1x pro Pokémon verwendbar.
+normal_stone:Normale Stein
+normal_stoneDescription:Ein Stein, der bestimmte Pokémon-Arten zur Entwicklung bringt. Es heißt, die Farbe des Steins bestimme, welches Pokémon sich entwickeln wird.
+fighting_stone:Kampfstein
+fighting_stoneDescription:Ein Stein, der bestimmte Pokémon-Arten zur Entwicklung bringt. Es heißt, die Farbe des Steins bestimme, welches Pokémon sich entwickeln wird.
+flying_stone:Flugstein
+flying_stoneDescription:Ein Stein, der bestimmte Pokémon-Arten zur Entwicklung bringt. Es heißt, die Farbe des Steins bestimme, welches Pokémon sich entwickeln wird.
+poison_stone:Giftstein
+poison_stoneDescription:Ein Stein, der bestimmte Pokémon-Arten entwickeln lässt. Es heißt, dass die Farbe des Steins bestimmt, welches Pokémon sich entwickeln wird.
+ground_stone:Bodenstein
+ground_stoneDescription:Ein Stein, der bestimmte Pokémon-Arten entwickeln lässt. Es heißt, dass die Farbe des Steins bestimmt, welches Pokémon sich entwickeln wird.
+rock_stone:Gesteinsstein
+rock_stoneDescription:Ein Stein, der bestimmte Pokémon-Arten entwickeln lässt. Es heißt, dass die Farbe des Steins bestimmt, welches Pokémon sich entwickeln wird.
+bug_stone:Käferstein
+bug_stoneDescription:Ein Stein, der bestimmte Pokémon-Arten entwickeln lässt. Es heißt, dass die Farbe des Steins bestimmt, welches Pokémon sich entwickeln wird.
+ghost_stone:Geisterstein
+ghost_stoneDescription:Ein Stein, der bestimmte Pokémon-Arten entwickeln lässt. Es heißt, dass die Farbe des Steins bestimmt, welches Pokémon sich entwickeln wird.
+steel_stone:Stahlstein
+steel_stoneDescription:Ein Stein, der bestimmte Pokémon-Arten entwickeln lässt. Es heißt, dass die Farbe des Steins bestimmt, welches Pokémon sich entwickeln wird.
+fire_stone:Feuerstein
+fire_stoneDescription:Ein Stein, der bestimmte Pokémon-Arten entwickeln lässt. Es heißt, dass die Farbe des Steins bestimmt, welches Pokémon sich entwickeln wird.
+water_stone:Wasserstein
+water_stoneDescription:Ein Stein, der bestimmte Pokémon-Arten entwickeln lässt. Es heißt, dass die Farbe des Steins bestimmt, welches Pokémon sich entwickeln wird.
+grass_stone:Pflanzenstein
+grass_stoneDescription:Ein Stein, der bestimmte Pokémon-Arten entwickeln lässt. Es heißt, dass die Farbe des Steins bestimmt, welches Pokémon sich entwickeln wird.
+electric_stone:Elektrostein
+electric_stoneDescription:Ein Stein, der bestimmte Pokémon-Arten entwickeln lässt. Es heißt, dass die Farbe des Steins bestimmt, welches Pokémon sich entwickeln wird.
+psychic_stone:Psychostein
+psychic_stoneDescription:Ein Stein, der bestimmte Pokémon-Arten zur Entwicklung bringt. Man sagt, dass die Farbe des Steins bestimmt, welches Pokémon sich entwickelt.
+ice_stone:Eisstein
+ice_stoneDescription:Ein Stein, der bestimmte Pokémon-Arten zur Entwicklung bringt. Man sagt, dass die Farbe des Steins bestimmt, welches Pokémon sich entwickelt.
+dragon_stone:Drachenstein
+dragon_stoneDescription:Ein Stein, der bestimmte Pokémon-Arten zur Entwicklung bringt. Man sagt, dass die Farbe des Steins bestimmt, welches Pokémon sich entwickelt.
+dark_stone:Dunkelstein
+dark_stoneDescription:Ein Stein, der bestimmte Pokémon-Arten zur Entwicklung bringt. Man sagt, dass die Farbe des Steins bestimmt, welches Pokémon sich entwickelt.
+fairy_stone:Feenstein
+fairy_stoneDescription:Ein Stein, der bestimmte Pokémon-Arten zur Entwicklung bringt. Man sagt, dass die Farbe des Steins bestimmt, welches Pokémon sich entwickelt.
+shimmering_stone:Schimmerstein
+shimmering_stoneDescription:Ein Stein, der bestimmte Pokémon-Arten zur Entwicklung bringt.
+quick_ball:Flottball
+quick_ballDescription:Ein etwas anderer Pokéball, der bei einem wilden Pokémonkampf zu Beginn eine höhere Fangrate hat.
+snowball:Schneeball
+snowballDescription:Ein Schneeball. Er schmilzt, wenn du ihn bis Februar nicht benutzt! Wirf ihn auf andere Spieler mit !pokesnowball <player-name>
+dive_ball:Tauchball
+dive_ballDescription:Ein Ball, der effektiver ist, wenn man 🐟Fisch🐟 Pokémon fangen möchte.
+cipher_ball:Kryptoball
+cipher_ballDescription:Ein etwas anderer Pokéball, der effektiver ist, wenn man Gift- oder Psycho-Pokémon fangen möchte.
+golden_ticket:Goldenes Ticket
+golden_ticketDescription:Wofür könnte es verwendet werden? Gib !poketicket ein, um es herauszufinden!
+magnet_ball:Magnetball
+magnet_ballDescription:Ein etwas anderer Pokéball, der effektiver ist, wenn man versucht Stahl- oder Elektro-Pokémon zu fangen.
+nest_ball:Nestball
+nest_ballDescription:Ein etwas anderer Pokéball, der effektiver ist, wenn er bei einem Pokémon der ersten Entwicklungsstufe verwendet wird, das sich noch zweimal entwickeln kann.
+fast_ball:Turboball
+fast_ballDescription:Ein seltener Pokéball, der besonders nützlich bei Pokémon mit einem Basiswert von 100 oder höher in der Initiative ist.
+level_ball:Levelball
+level_ballDescription:Ein spezieller Ball, der garantiert, dass ein Pokémon ein ausreichend hohes Level hat, um sich sofort zu entwickeln!
+heal_ball:Heilball
+heal_ballDescription:Ein seltener Pokéball, der besonders nützlich bei Pokémon mit einem Basiswert von 100 oder höher in den KP ist.
+stone_grab_bag:Stein-Überraschungstüte
+stone_grab_bagDescription:Eine wunderbare Tüte, die 3 zufällige Entwicklungssteine enthält.
+luxury_ball:Luxusball
+luxury_ballDescription:Ein seltener Ball mit schickem Aussehen. Erhöht massiv den Verkaufswert eines mit ihm gefangenen Pokémon.
+clone_ball:Klonball
+clone_ballDescription:Ein experimenteller Ball, der ein zweites Pokémon aus dem ursprünglichen erzeugt, das du mit diesem Ball fängst.
+ultra_cherish_ball:Ultra-Verehrerball
+ultra_cherish_ballDescription:Ein modifizierter Verehrerball mit besserer Fangrate. Hat eine höhere Chance, ein schillerndes Pokémon zu fangen.
+premier_ball:Premierball
+premier_ballDescription:Ein etwas seltener Pokéball, der als Gedenkgegenstand zur Feier eines bestimmten Ereignisses hergestellt wurde. Wird automatisch geworfen, wenn du keinen Pokéball mehr hast.
+heavy_ball:Schwerball
+heavy_ballDescription:Ein Pokéball, der besonders gut beim Fangen von sehr schweren Pokémon ist.
+feather_ball:Federball
+feather_ballDescription:Ein Pokéball, der besonders gut beim Fangen von sehr leichten Pokémon ist.
+repeat_ball:Wiederball
+repeat_ballDescription:Ein etwas anderer Pokéball, der besonders gut funktioniert bei Arten von Pokémon, die bereits gefangen wurden.
+net_ball:Netzball
+net_ballDescription:Ein etwas anderer Pokéball, der effektiver ist, wenn du Wasser- oder Käfer-Pokémon fangen möchtest.
+timer_ball:Timerball
+timer_ballDescription:Ein etwas anderer Pokéball, der mit der Zeit immer effektiver wird, je näher das Pokémon der Flucht ist.
+master_ball:Meisterball
+master_ballDescription:Der beste Pokéball mit der ultimativen Leistungsstufe. Mit ihm wirst du jedes wilde Pokémon ohne Fehler fangen.
+poke_ball:Pokéball
+poke_ballDescription:Ein Gerät zum Fangen von wilden Pokémon. Es wird wie ein Ball auf ein Pokémon geworfen und umhüllt sein Ziel komfortabel.
+great_ball:Superball
+great_ballDescription:Ein guter, leistungsstarker Pokéball, der eine höhere Erfolgsrate beim Fangen von Pokémon bietet als ein Standard-Pokéball.
+ultra_ball:Ultraball
+ultra_ballDescription:Ein ultra-leistungsfähiger Pokéball, der eine höhere Erfolgsrate bietet als ein Superball beim Fangen von Pokémon.
+rare_candy:Seltenes Bonbon
+rare_candyDescription:Erhöht das Level des ausgewählten Pokémon um fünf.
+cherish_ball:Luxusball
+cherish_ballDescription:Ein ziemlich seltener Pokéball, der gefertigt wurde, um eine besondere Gelegenheit zu feiern. Erhöhte Chance, ein schillerndes Pokémon zu erhalten.
+alpha_ball:Alpha Ball
+alpha_ballDescription:nix
+mysterious_crystal:Geheimnisvoller Kristall
+mysterious_crystalDescription:Ein schimmernder Kristall. Herkunft und Verwendung sind unbekannt. 👀 Schillernde Besitzer 👀
+great_cherish_ball:Großer Luxusball
+great_cherish_ballDescription:Ein modifizierter Luxusball mit einer besseren Fangrate. Hat eine höhere Chance, ein schillerndes Pokémon zu fangen.
+stone_ball:Steinball
+stone_ballDescription:Ein seltener Ball mit erhöhter Chance, einen Entwicklungsstein zu erhalten.
+event_bundle:Event-Paket
+event_bundleDescription:Ein exklusives Event-Paket, das 1x Zufälliges Vergangenes Event-Legendäres, 2x Goldenes Ticket und 2x Seltenes Geschenk enthält.
+battle_bundle:Kampf-Paket
+battle_bundleDescription:Ein spezielles Paketangebot mit: 2x Totaler Reset, 2x Stimmungsminzen, 2x IV-Resets, 3x Leere Discs.
+team_gold_badge:Regenbogenflügel
+team_gold_badgeDescription:Mitgliedsabzeichen von Team Gold während des Gold vs Silber Events 2024.
+team_silver_badge:Silberflügel
+team_silver_badgeDescription:Mitgliedsabzeichen von Team Silber während des Gold vs Silber Events 2024.
+rocket_part:Zahnrad
+rocket_partDescription:Sammle Zahnräder, um eine Rakete zu bauen mit: !pokerocket 1/2/3 🚀 Stufe 1: Benötigt 3 Zahnräder 🚀 Stufe 2: Benötigt 6 Zahnräder 🚀 Stufe 3: Benötigt 10 Zahnräder
+sun_ball:Sonnenball
+sun_ballDescription:Ein strahlender Ball, am effektivsten bei Feuer- und Pflanzen-Pokémon.
+fantasy_ball:Fantasieball
+fantasy_ballDescription:Ein verzauberter Ball, am effektivsten bei Feen- und Drachen-Wesen.
+geo_ball:Geo-Ball
+geo_ballDescription:Ein robuster Ball, am effektivsten bei Fels- und Boden-Wesen.

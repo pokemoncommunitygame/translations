@@ -1,0 +1,168 @@
+event_coin:Cake
+event_coinDescription:Scambia Cake per premi dell'evento di tua scelta durante l'evento di Pasqua 2025 di PCG. Questo oggetto scomparirà una settimana dopo l'evento.
+mach_ball:Mach Ball
+mach_ballDescription:Un Ball resistente, più efficace quando usato su Pokémon di tipo Lotta o Volante.
+basic_ball:Basic Ball
+basic_ballDescription:Un Pokéball ordinario utile quando si tenta di catturare Pokémon di tipo Normale.
+phantom_ball:Phantom Ball
+phantom_ballDescription:Un Ball dall'aspetto inquietante. Tasso di cattura più alto sui Pokémon di tipo Spettro.
+night_ball:Night Ball
+night_ballDescription:Un Ball cupo. Funziona meglio sui Pokémon di tipo Buio.
+frozen_ball:Frozen Ball
+frozen_ballDescription:Un Ball ghiacciato. Più efficace se usato su Pokémon di tipo Ghiaccio.
+easter_egg:Uovo di Pasqua
+easter_eggDescription:Colleziona 100 Uova di Pasqua per ricevere il Pokémon iniziale evoluto Dewott.
+empty_disc:Disco Vuoto
+empty_discDescription:Un disco vuoto usato per insegnare al tuo Pokémon un nuovo set di mosse completo. Usalo con cautela.
+iv_reset:Reset IV
+iv_resetDescription:Cambia completamente i valori individuali di un Pokémon.
+wonder_pass:Pass Meraviglia
+wonder_passDescription:Un raro pass che ti permette di fare di nuovo un wonder trade istantaneamente.
+friend_ball:Friend Ball
+friend_ballDescription:Una bella Ball che è più efficace sui Pokémon che condividono un tipo con il tuo Buddy-Pokémon.
+mood_mint:Menta dell'umore
+mood_mintDescription:Deliziosa menta che cambia completamente la natura del tuo pokemon.
+battle_coin:Moneta d'Oro
+battle_coinDescription:Ricompensa per completare missioni settimanali e partecipare a un torneo PCG. Questo gettone può essere speso in vari oggetti rari e Pokémon nel Negozio Moneta d'Oro o conservato come souvenir.
+present:Regalo
+presentDescription:Entra in una chat e digita !pokegift per rendere felici gli altri giocatori! 🎅
+rare_present:Regalo Raro
+rare_presentDescription:Entra in una chat e digita !pokegift rare per rendere felici gli altri giocatori! 🎅
+team_enhancer:Potenzia Squadra
+team_enhancerDescription:Usa questo oggetto per aumentare di 1 il numero di squadre! Puoi avere fino a 30 squadre.
+shiny_charm:Ciondolo Shiny
+shiny_charmDescription:Ricompensa per aver completato il pokedex spawnable. Raddoppia la possibilità di catturare shiny per tutte le catture (eccezione: cherish balls).
+pokedaily_reset:Reset Pokedaily
+pokedaily_resetDescription:Questo oggetto resetterà il cooldown del tuo pokedaily!
+total_reset:Reset Totale
+total_resetDescription:Reset Totale usato per insegnare un set di mosse completamente nuovo al tuo Pokémon, cambia completamente la natura del tuo pokemon e i valori individuali di un Pokémon. Usalo con cautela.
+safari_ball:Safari Ball
+safari_ballDescription:🪶 Ha il doppio delle possibilità di catturare un Pokémon shiny dell'evento safari. Puoi riconoscerli da un messaggio di spawn diverso! 🪶
+park_ball:Park Ball
+park_ballDescription:🪶 Ha una probabilità 10x di catturare un Pokémon evento safari cromatico. Puoi riconoscerli da un messaggio di comparsa diverso! 🪶
+beast_ball:Beast Ball
+beast_ballDescription:Perfetta per catturare un'ultracreatura! Probabilità di cattura: 75%
+ghost_pumpkin:Ghost Pumpkin
+ghost_pumpkinDescription:Una zucca fantasma. Raccogliene di più per sbloccare diversi premi dell'Evento di Halloween 2022.
+dark_pumpkin:Dark Pumpkin
+dark_pumpkinDescription:Una zucca oscura. Raccogliene di più per sbloccare diversi premi dell'Evento di Halloween 2022.
+team_ghost_badge:Team Ghost Badge
+team_ghost_badgeDescription:Simbolo di appartenenza al Team Ghost durante l'Evento di Halloween 2022.
+team_dark_badge:Team Dark Badge
+team_dark_badgeDescription:Simbolo di appartenenza al Team Dark durante l'Evento di Halloween 2022.
+bottle_cap:Bottle Cap
+bottle_capDescription:Massimizza casualmente uno dei valori individuali di un Pokemon. Utilizzabile solo 1x per Pokemon.
+normal_stone:Normal Stone
+normal_stoneDescription:Una pietra che fa evolvere certe specie di Pokémon. Si dice che il colore della pietra determini il Pokémon che evolverà.
+fighting_stone:Fighting Stone
+fighting_stoneDescription:Una pietra che fa evolvere certe specie di Pokémon. Si dice che il colore della pietra determini il Pokémon che evolverà.
+flying_stone:Flying Stone
+flying_stoneDescription:Una pietra che fa evolvere certe specie di Pokémon. Si dice che il colore della pietra determini il Pokémon che evolverà.
+poison_stone:Pietra Veleno
+poison_stoneDescription:Una pietra che fa evolvere certe specie di Pokémon. Si dice che il colore della pietra determini il Pokémon che si evolverà.
+ground_stone:Pietra Terra
+ground_stoneDescription:Una pietra che fa evolvere certe specie di Pokémon. Si dice che il colore della pietra determini il Pokémon che si evolverà.
+rock_stone:Pietra Roccia
+rock_stoneDescription:Una pietra che fa evolvere certe specie di Pokémon. Si dice che il colore della pietra determini il Pokémon che si evolverà.
+bug_stone:Pietra Coleottero
+bug_stoneDescription:Una pietra che fa evolvere certe specie di Pokémon. Si dice che il colore della pietra determini il Pokémon che si evolverà.
+ghost_stone:Pietra Spettro
+ghost_stoneDescription:Una pietra che fa evolvere certe specie di Pokémon. Si dice che il colore della pietra determini il Pokémon che si evolverà.
+steel_stone:Pietra Acciaio
+steel_stoneDescription:Una pietra che fa evolvere certe specie di Pokémon. Si dice che il colore della pietra determini il Pokémon che si evolverà.
+fire_stone:Pietra Fuoco
+fire_stoneDescription:Una pietra che fa evolvere certe specie di Pokémon. Si dice che il colore della pietra determini il Pokémon che si evolverà.
+water_stone:Pietra Acqua
+water_stoneDescription:Una pietra che fa evolvere certe specie di Pokémon. Si dice che il colore della pietra determini il Pokémon che si evolverà.
+grass_stone:Pietra Erba
+grass_stoneDescription:Una pietra che fa evolvere certe specie di Pokémon. Si dice che il colore della pietra determini il Pokémon che si evolverà.
+electric_stone:Pietra Elettro
+electric_stoneDescription:Una pietra che fa evolvere certe specie di Pokémon. Si dice che il colore della pietra determini il Pokémon che si evolverà.
+psychic_stone:Pietra Psichica
+psychic_stoneDescription:Una pietra che fa evolvere certe specie di Pokémon. Si dice che il colore della pietra determini il Pokémon che si evolverà.
+ice_stone:Pietra Ghiaccio
+ice_stoneDescription:Una pietra che fa evolvere certe specie di Pokémon. Si dice che il colore della pietra determini il Pokémon che si evolverà.
+dragon_stone:Pietra Drago
+dragon_stoneDescription:Una pietra che fa evolvere certe specie di Pokémon. Si dice che il colore della pietra determini il Pokémon che si evolverà.
+dark_stone:Pietra Buia
+dark_stoneDescription:Una pietra che fa evolvere certe specie di Pokémon. Si dice che il colore della pietra determini il Pokémon che si evolverà.
+fairy_stone:Pietra Folletto
+fairy_stoneDescription:Una pietra che fa evolvere certe specie di Pokémon. Si dice che il colore della pietra determini il Pokémon che si evolverà.
+shimmering_stone:Pietra Scintillante
+shimmering_stoneDescription:Una pietra che fa evolvere certe specie di Pokémon.
+quick_ball:Velox Ball
+quick_ballDescription:Una Poké Ball un po' diversa che ha un tasso di cattura più alto se usata all'inizio di un incontro selvatico.
+snowball:Palla di Neve
+snowballDescription:Una palla di neve. Si scioglierà se non la usi entro febbraio! Lanciala ad altri giocatori con !pokesnowball <player-name>
+dive_ball:Sub Ball
+dive_ballDescription:Una Ball che è più efficace quando si tenta di catturare Pokémon 🐟 Pesce 🐟.
+cipher_ball:Cripto Ball
+cipher_ballDescription:Una Poké Ball un po' diversa, più efficace nel catturare Pokémon di tipo Veleno o Psico.
+golden_ticket:Biglietto d'Oro
+golden_ticketDescription:A cosa potrebbe servire? Digita !poketicket per scoprirlo!
+magnet_ball:Palla Magnetica
+magnet_ballDescription:Una Palla Poké leggermente diversa che è più efficace quando si tenta di catturare Pokémon di tipo Acciaio o Elettro.
+nest_ball:Nido Ball
+nest_ballDescription:Una Palla Poké leggermente diversa che è più efficace quando è usata su un Pokémon alla prima fase di evoluzione che può evolversi altre due volte.
+fast_ball:Palla Veloce
+fast_ballDescription:Una Palla Poké rara particolarmente utile sui Pokémon con una statistica di velocità base di 100 o superiore.
+level_ball:Palla Livello
+level_ballDescription:Un speciale ball che garantisce che un Pokémon abbia un livello sufficientemente alto da evolversi immediatamente!
+heal_ball:Palla Cura
+heal_ballDescription:Una Palla Poké rara particolarmente utile sui Pokémon con una statistica base di PS di 100 o superiore.
+stone_grab_bag:Borsa di Pietre
+stone_grab_bagDescription:Una Borsa meravigliosa contenente 3 Pietre Evolutive casuali.
+luxury_ball:Luxury Ball
+luxury_ballDescription:Una ball rara con un aspetto elegante. Aumenta notevolmente il prezzo di vendita di un Pokémon catturato con essa.
+clone_ball:Palla Clone
+clone_ballDescription:Una Palla sperimentale che genera un secondo Pokémon da quello che catturi originariamente con questa palla.
+ultra_cherish_ball:Sfera Ultra Pregiata
+ultra_cherish_ballDescription:Una Sfera Pregiata modificata con un tasso di cattura migliore. Ha una maggior possibilità di catturare un Pokémon cromatico.
+premier_ball:Premier Ball
+premier_ballDescription:Una Poké Ball abbastanza rara creata come oggetto commemorativo usato per celebrare un evento di qualche tipo. Sarà lanciata automaticamente se non hai una Poké Ball.
+heavy_ball:Heavy Ball
+heavy_ballDescription:Una Poké Ball che è migliore del solito per catturare Pokémon molto pesanti.
+feather_ball:Feather Ball
+feather_ballDescription:Una Poké Ball che è migliore del solito per catturare Pokémon molto leggeri.
+repeat_ball:Repeat Ball
+repeat_ballDescription:Una Poké Ball un po' diversa che funziona particolarmente bene su una specie di Pokémon che è già stata catturata.
+net_ball:Net Ball
+net_ballDescription:Una Poké Ball un po' diversa che è più efficace quando si cerca di catturare Pokémon di tipo Acqua o Coleottero.
+timer_ball:Timer Ball
+timer_ballDescription:Una Poké Ball un po' diversa che diventa progressivamente più efficace a catturare Pokémon più si avvicina al momento dello scappare.
+master_ball:Master Ball
+master_ballDescription:La migliore Poké Ball con il massimo livello di prestazioni. Con essa, catturerai qualsiasi Pokémon selvatico senza fallire.
+poke_ball:Poke Ball
+poke_ballDescription:Un dispositivo per catturare Pokémon selvatici. Viene lanciato come una palla verso un Pokémon, racchiudendo comodamente il suo bersaglio.
+great_ball:Great Ball
+great_ballDescription:Una buona Poké Ball ad alte prestazioni che offre un tasso di successo più alto per catturare Pokémon rispetto a una Poké Ball standard.
+ultra_ball:Ultra Ball
+ultra_ballDescription:Una Poké Ball ad altissime prestazioni che fornisce un tasso di successo superiore per catturare Pokémon rispetto a una Great Ball.
+rare_candy:Caramella Rara
+rare_candyDescription:Aumenta di cinque livelli il livello del Pokémon selezionato.
+cherish_ball:Sfera Pregio
+cherish_ballDescription:Una Poké Ball piuttosto rara, creata per commemorare un'occasione speciale. Aumenta la possibilità di ottenere un Pokémon cromatico.
+alpha_ball:Alpha Ball
+alpha_ballDescription:nix
+mysterious_crystal:Cristallo Misterioso
+mysterious_crystalDescription:Un cristallo scintillante. Origine e utilizzo sconosciuti. 👀 Proprietari di Pokémon Shiny 👀
+great_cherish_ball:Grande Sfera Pregio
+great_cherish_ballDescription:Una Sfera Pregio modificata con un miglior tasso di cattura. Ha una maggiore probabilità di catturare un Pokémon cromatico.
+stone_ball:Sfera di Pietra
+stone_ballDescription:Una sfera rara con una maggiore possibilità di ottenere una pietra evolutiva.
+event_bundle:Pacchetto Evento
+event_bundleDescription:Un pacchetto esclusivo dell'evento contenente 1x Leggendario Evento Passato a Caso, 2x Biglietto Dorato e 2x Regalo Raro
+battle_bundle:Pacchetto Battaglia
+battle_bundleDescription:Un'offerta speciale di bundle contenente: 2x Resetta Totale, 2x Menta Umore, 2x Resetta IV, 3x Dischi Vuoti
+team_gold_badge:Aliarcobaleno
+team_gold_badgeDescription:Gettone di appartenenza del Team Oro durante l'Evento Oro vs Argento 2024
+team_silver_badge:Alianza
+team_silver_badgeDescription:Gettone di appartenenza del Team Argento durante l'Evento Oro vs Argento 2024
+rocket_part:Ruota dentata
+rocket_partDescription:Raccogli le ruote dentate per costruire un razzo usando: !pokerocket 1/2/3 🚀 Livello 1: Richiede 3 ruote dentate 🚀 Livello 2: Richiede 6 ruote dentate 🚀 Livello 3: Richiede 10 ruote dentate
+sun_ball:Sfera Solare
+sun_ballDescription:Una sfera radiosa, più efficace se usata su Pokémon di tipo Fuoco e Erba.
+fantasy_ball:Sfera Fantasia
+fantasy_ballDescription:Una sfera incantata, più efficace se usata su creature di tipo Folletto e Drago.
+geo_ball:Sfera Geologica
+geo_ballDescription:Una sfera robusta, più efficace se usata su creature di tipo Roccia e Terra.

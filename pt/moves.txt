@@ -1,0 +1,1514 @@
+pound:Pound
+poundDescription:The target is physically pounded with a long tail, a foreleg, or the like.
+endeavor:Endeavor
+endeavorDescription:This attack move cuts down the target’s HP to equal the user’s HP.
+hone-claws:Hone Claws
+hone-clawsDescription:The user sharpens its claws to boost its Attack stat and accuracy.
+after-you:After You
+after-youDescription:The user helps the target and makes it use its move right after the user.
+karate-chop:Karate Chop
+karate-chopDescription:The target is attacked with a sharp chop. Critical hits land more easily.
+double-slap:Double Slap
+double-slapDescription:The target is slapped repeatedly, back and forth, two to five times in a row.
+comet-punch:Comet Punch
+comet-punchDescription:The target is hit with a flurry of punches that strike two to five times in a row.
+mega-punch:Mega Punch
+mega-punchDescription:The target is slugged by a punch thrown with muscle-packed power.
+pay-day:Pay Day
+pay-dayDescription:Numerous coins are hurled at the target to inflict damage.
+fire-punch:Fire Punch
+fire-punchDescription:The target is punched with a fiery fist. This may also leave the target with a burn.
+ice-punch:Ice Punch
+ice-punchDescription:The target is punched with an icy fist. This may also leave the target frozen.
+thunder-punch:Thunder Punch
+thunder-punchDescription:The target is punched with an electrified fist. This may also leave the target with paralysis.
+scratch:Scratch
+scratchDescription:Hard, pointed, sharp claws rake the target to inflict damage.
+vice-grip:Vice Grip
+vice-gripDescription:The target is gripped and squeezed from both sides to inflict damage.
+guillotine:Guillotine
+guillotineDescription:A vicious, tearing attack with big pincers. The target faints instantly if this attack hits.
+razor-wind:Razor Wind
+razor-windDescription:In this two-turn attack, blades of wind hit opposing Pokémon on the second turn. Critical hits land more easily.
+swords-dance:Swords Dance
+swords-danceDescription:A frenetic dance to uplift the fighting spirit. This sharply raises the user’s Attack stat.
+cut:Cut
+cutDescription:The target is cut with a scythe or claw.
+gust:Gust
+gustDescription:A gust of wind is whipped up by wings and launched at the target to inflict damage.
+wing-attack:Wing Attack
+wing-attackDescription:The target is struck with large, imposing wings spread wide to inflict damage.
+whirlwind:Whirlwind
+whirlwindDescription:The target is blown away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.
+bind:Bind
+bindDescription:Things such as long bodies or tentacles are used to bind and squeeze the target for four to five turns.
+slam:Slam
+slamDescription:The target is slammed with a long tail, vines, or the like to inflict damage.
+vine-whip:Vine Whip
+vine-whipDescription:The target is struck with slender, whiplike vines to inflict damage.
+stomp:Stomp
+stompDescription:The target is stomped with a big foot. This may also make the target flinch.
+double-kick:Double Kick
+double-kickDescription:The target is quickly kicked twice in succession using both feet.
+mega-kick:Mega Kick
+mega-kickDescription:The target is attacked by a kick launched with muscle-packed power.
+jump-kick:Jump Kick
+jump-kickDescription:The user jumps up high, then strikes with a kick. If the kick misses, the user hurts itself.
+rolling-kick:Rolling Kick
+rolling-kickDescription:The user lashes out with a quick, spinning kick. This may also make the target flinch.
+sand-attack:Sand Attack
+sand-attackDescription:Sand is hurled in the target’s face, reducing the target’s accuracy.
+headbutt:Headbutt
+headbuttDescription:The user sticks out its head and attacks by charging straight into the target. This may also make the target flinch.
+horn-attack:Horn Attack
+horn-attackDescription:The target is jabbed with a sharply pointed horn to inflict damage.
+fury-attack:Fury Attack
+fury-attackDescription:The target is jabbed repeatedly with a horn or beak two to five times in a row.
+horn-drill:Horn Drill
+horn-drillDescription:The user stabs the target with a horn that rotates like a drill. The target faints instantly if this attack hits.
+tackle:Tackle
+tackleDescription:A physical attack in which the user charges and slams into the target with its whole body.
+body-slam:Body Slam
+body-slamDescription:The user drops onto the target with its full body weight. This may also leave the target with paralysis.
+wrap:Wrap
+wrapDescription:A long body, vines, or the like are used to wrap and squeeze the target for four to five turns.
+take-down:Take Down
+take-downDescription:A reckless, full-body charge attack for slamming into the target. This also damages the user a little.
+thrash:Thrash
+thrashDescription:The user rampages and attacks for two to three turns. The user then becomes confused.
+fly:Fly
+flyDescription:The user soars and then strikes its target on the next turn.
+double-edge:Double-Edge
+double-edgeDescription:A reckless, life-risking tackle. This also damages the user quite a lot.
+tail-whip:Tail Whip
+tail-whipDescription:The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat.
+poison-sting:Poison Sting
+poison-stingDescription:The user stabs the target with a poisonous stinger. This may also poison the target.
+twineedle:Twineedle
+twineedleDescription:The user damages the target twice in succession by jabbing it with two spikes. This may also poison the target.
+pin-missile:Pin Missile
+pin-missileDescription:Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row.
+leer:Leer
+leerDescription:The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.
+bite:Bite
+biteDescription:The target is bitten with viciously sharp fangs. This may also make the target flinch.
+growl:Growl
+growlDescription:The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stat.
+roar:Roar
+roarDescription:The target is scared off, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.
+sing:Sing
+singDescription:A soothing lullaby is sung in a calming voice that puts the target into a deep slumber.
+supersonic:Supersonic
+supersonicDescription:The user generates odd sound waves from its body that confuse the target.
+sonic-boom:Sonic Boom
+sonic-boomDescription:The target is hit with a destructive shock wave that always inflicts 20 HP damage.
+disable:Disable
+disableDescription:For four turns, this move prevents the target from using the move it last used.
+acid:Acid
+acidDescription:The opposing Pokémon are attacked with a spray of harsh acid. This may also lower their Sp. Def stat.
+ember:Ember
+emberDescription:The target is attacked with small flames. This may also leave the target with a burn.
+flamethrower:Flamethrower
+flamethrowerDescription:The target is scorched with an intense blast of fire. This may also leave the target with a burn.
+mist:Mist
+mistDescription:The user cloaks itself and its allies in a white mist that prevents any of their stats from being lowered for five turns.
+water-gun:Water Gun
+water-gunDescription:The target is blasted with a forceful shot of water.
+hydro-pump:Hydro Pump
+hydro-pumpDescription:The target is blasted by a huge volume of water launched under great pressure.
+surf:Surf
+surfDescription:The user attacks everything around it by swamping its surroundings with a giant wave.
+ice-beam:Ice Beam
+ice-beamDescription:The target is struck with an icy-cold beam of energy. This may also leave the target frozen.
+blizzard:Blizzard
+blizzardDescription:A howling blizzard is summoned to strike opposing Pokémon. This may also leave the opposing Pokémon frozen.
+psybeam:Psybeam
+psybeamDescription:The target is attacked with a peculiar ray. This may also leave the target confused.
+bubble-beam:Bubble Beam
+bubble-beamDescription:A spray of bubbles is forcefully ejected at the target. This may also lower its Speed stat.
+aurora-beam:Aurora Beam
+aurora-beamDescription:The target is hit with a rainbow-colored beam. This may also lower the target’s Attack stat.
+hyper-beam:Hyper Beam
+hyper-beamDescription:The target is attacked with a powerful beam. The user can’t move on the next turn.
+peck:Peck
+peckDescription:The target is jabbed with a sharply pointed beak or horn.
+drill-peck:Drill Peck
+drill-peckDescription:A corkscrewing attack with a sharp beak acting as a drill.
+submission:Submission
+submissionDescription:The user grabs the target and recklessly dives for the ground. This also damages the user a little.
+low-kick:Low Kick
+low-kickDescription:A powerful low kick that makes the target fall over. The heavier the target, the greater the move’s power.
+counter:Counter
+counterDescription:A retaliation move that counters any physical attack, inflicting double the damage taken.
+seismic-toss:Seismic Toss
+seismic-tossDescription:The target is thrown using the power of gravity. It inflicts damage equal to the user’s level.
+strength:Strength
+strengthDescription:The target is slugged with a punch thrown at maximum power.
+absorb:Absorb
+absorbDescription:A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.
+mega-drain:Mega Drain
+mega-drainDescription:A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.
+leech-seed:Leech Seed
+leech-seedDescription:A seed is planted on the target. It steals some HP from the target every turn.
+growth:Growth
+growthDescription:The user’s body grows all at once, raising the Attack and Sp. Atk stats.
+razor-leaf:Razor Leaf
+razor-leafDescription:Sharp-edged leaves are launched to slash at the opposing Pokémon. Critical hits land more easily.
+solar-beam:Solar Beam
+solar-beamDescription:In this two-turn attack, the user gathers light, then blasts a bundled beam on the next turn.
+stun-spore:Stun Spore
+stun-sporeDescription:The user scatters a cloud of numbing powder that paralyzes the target.
+sleep-powder:Sleep Powder
+sleep-powderDescription:The user scatters a big cloud of sleep-inducing dust around the target.
+petal-dance:Petal Dance
+petal-danceDescription:The user attacks the target by scattering petals for two to three turns. The user then becomes confused.
+string-shot:String Shot
+string-shotDescription:The opposing Pokémon are bound with silk blown from the user’s mouth that harshly lowers the Speed stat.
+dragon-rage:Dragon Rage
+dragon-rageDescription:This attack hits the target with a shock wave of pure rage. This attack always inflicts 40 HP damage.
+fire-spin:Fire Spin
+fire-spinDescription:The target becomes trapped within a fierce vortex of fire that rages for four to five turns.
+thunder-shock:Thunder Shock
+thunder-shockDescription:A jolt of electricity crashes down on the target to inflict damage. This may also leave the target with paralysis.
+thunderbolt:Thunderbolt
+thunderboltDescription:A strong electric blast crashes down on the target. This may also leave the target with paralysis.
+thunder-wave:Thunder Wave
+thunder-waveDescription:The user launches a weak jolt of electricity that paralyzes the target.
+thunder:Thunder
+thunderDescription:A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis.
+rock-throw:Rock Throw
+rock-throwDescription:The user picks up and throws a small rock at the target to attack.
+earthquake:Earthquake
+earthquakeDescription:The user sets off an earthquake that strikes every Pokémon around it.
+fissure:Fissure
+fissureDescription:The user opens up a fissure in the ground and drops the target in. The target faints instantly if this attack hits.
+dig:Dig
+digDescription:The user burrows, then attacks on the next turn.
+toxic:Toxic
+toxicDescription:A move that leaves the target badly poisoned. Its poison damage worsens every turn.
+confusion:Confusion
+confusionDescription:The target is hit by a weak telekinetic force. This may also confuse the target.
+poison-powder:Poison Powder
+poison-powderDescription:The user scatters a cloud of poisonous dust that poisons the target.
+psychic:Psychic
+psychicDescription:The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.
+hypnosis:Hypnosis
+hypnosisDescription:The user employs hypnotic suggestion to make the target fall into a deep sleep.
+meditate:Meditate
+meditateDescription:The user meditates to awaken the power deep within its body and raise its Attack stat.
+agility:Agility
+agilityDescription:The user relaxes and lightens its body to move faster. This sharply raises the Speed stat.
+quick-attack:Quick Attack
+quick-attackDescription:The user lunges at the target at a speed that makes it almost invisible. This move always goes first.
+rage:Rage
+rageDescription:As long as this move is in use, the power of rage raises the Attack stat each time the user is hit in battle.
+teleport:Teleport
+teleportDescription:Use it to flee from any wild Pokémon.
+night-shade:Night Shade
+night-shadeDescription:The user makes the target see a frightening mirage. It inflicts damage equal to the user’s level.
+mimic:Mimic
+mimicDescription:The user copies the target’s last move. The move can be used during battle until the Pokémon is switched out.
+screech:Screech
+screechDescription:An earsplitting screech harshly lowers the target’s Defense stat.
+double-team:Double Team
+double-teamDescription:By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.
+recover:Recover
+recoverDescription:Restoring its own cells, the user restores its own HP by half of its max HP.
+harden:Harden
+hardenDescription:The user stiffens all the muscles in its body to raise its Defense stat.
+minimize:Minimize
+minimizeDescription:The user compresses its body to make itself look smaller, which sharply raises its evasiveness.
+smokescreen:Smokescreen
+smokescreenDescription:The user releases an obscuring cloud of smoke or ink. This lowers the target’s accuracy.
+confuse-ray:Confuse Ray
+confuse-rayDescription:The target is exposed to a sinister ray that triggers confusion.
+withdraw:Withdraw
+withdrawDescription:The user withdraws its body into its hard shell, raising its Defense stat.
+defense-curl:Defense Curl
+defense-curlDescription:The user curls up to conceal weak spots and raise its Defense stat.
+barrier:Barrier
+barrierDescription:The user throws up a sturdy wall that sharply raises its Defense stat.
+light-screen:Light Screen
+light-screenDescription:A wondrous wall of light is put up to reduce damage from special attacks for five turns.
+haze:Haze
+hazeDescription:The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.
+reflect:Reflect
+reflectDescription:A wondrous wall of light is put up to reduce damage from physical attacks for five turns.
+focus-energy:Focus Energy
+focus-energyDescription:The user takes a deep breath and focuses so that critical hits land more easily.
+bide:Bide
+bideDescription:The user endures attacks for two turns, then strikes back to cause double the damage taken.
+metronome:Metronome
+metronomeDescription:The user waggles a finger and stimulates its brain into randomly using nearly any move.
+mirror-move:Mirror Move
+mirror-moveDescription:The user counters the target by mimicking the target’s last move.
+self-destruct:Self-Destruct
+self-destructDescription:The user attacks everything around it by causing an explosion. The user faints upon using this move.
+egg-bomb:Egg Bomb
+egg-bombDescription:A large egg is hurled at the target with maximum force to inflict damage.
+lick:Lick
+lickDescription:The target is licked with a long tongue, causing damage. This may also leave the target with paralysis.
+smog:Smog
+smogDescription:The target is attacked with a discharge of filthy gases. This may also poison the target.
+sludge:Sludge
+sludgeDescription:Unsanitary sludge is hurled at the target. This may also poison the target.
+bone-club:Bone Club
+bone-clubDescription:The user clubs the target with a bone. This may also make the target flinch.
+fire-blast:Fire Blast
+fire-blastDescription:The target is attacked with an intense blast of all-consuming fire. This may also leave the target with a burn.
+waterfall:Waterfall
+waterfallDescription:The user charges at the target and may make it flinch.
+clamp:Clamp
+clampDescription:The target is clamped and squeezed by the user’s very thick and sturdy shell for four to five turns.
+swift:Swift
+swiftDescription:Star-shaped rays are shot at the opposing Pokémon. This attack never misses.
+skull-bash:Skull Bash
+skull-bashDescription:The user tucks in its head to raise its Defense stat on the first turn, then rams the target on the next turn.
+spike-cannon:Spike Cannon
+spike-cannonDescription:Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row.
+constrict:Constrict
+constrictDescription:The target is attacked with long, creeping tentacles, vines, or the like. This may also lower the target’s Speed stat.
+amnesia:Amnesia
+amnesiaDescription:The user temporarily empties its mind to forget its concerns. This sharply raises the user’s Sp. Def stat.
+kinesis:Kinesis
+kinesisDescription:The user distracts the target by bending a spoon. This lowers the target’s accuracy.
+soft-boiled:Soft-Boiled
+soft-boiledDescription:The user restores its own HP by up to half of its max HP.
+high-jump-kick:High Jump Kick
+high-jump-kickDescription:The target is attacked with a knee kick from a jump. If it misses, the user is hurt instead.
+glare:Glare
+glareDescription:The user intimidates the target with the pattern on its belly to cause paralysis.
+dream-eater:Dream Eater
+dream-eaterDescription:The user eats the dreams of a sleeping target. It absorbs half the damage caused to heal its own HP.
+poison-gas:Poison Gas
+poison-gasDescription:A cloud of poison gas is sprayed in the face of opposing Pokémon, poisoning those hit.
+barrage:Barrage
+barrageDescription:Round objects are hurled at the target to strike two to five times in a row.
+leech-life:Leech Life
+leech-lifeDescription:The user drains the target’s blood. The user’s HP is restored by half the damage taken by the target.
+lovely-kiss:Lovely Kiss
+lovely-kissDescription:With a scary face, the user tries to force a kiss on the target. If it succeeds, the target falls asleep.
+sky-attack:Sky Attack
+sky-attackDescription:A second-turn attack move where critical hits land more easily. This may also make the target flinch.
+transform:Transform
+transformDescription:The user transforms into a copy of the target right down to having the same move set.
+bubble:Bubble
+bubbleDescription:A spray of countless bubbles is jetted at the opposing Pokémon. This may also lower their Speed stat.
+dizzy-punch:Dizzy Punch
+dizzy-punchDescription:The target is hit with rhythmically launched punches. This may also leave the target confused.
+flash:Flash
+flashDescription:The user flashes a bright light that cuts the target’s accuracy.
+psywave:Psywave
+psywaveDescription:The target is attacked with an odd psychic wave. The attack varies in intensity.
+splash:Splash
+splashDescription:The user just flops and splashes around to no effect at all...
+acid-armor:Acid Armor
+acid-armorDescription:The user alters its cellular structure to liquefy itself, sharply raising its Defense stat.
+crabhammer:Crabhammer
+crabhammerDescription:The target is hammered with a large pincer. Critical hits land more easily.
+explosion:Explosion
+explosionDescription:The user attacks everything around it by causing a tremendous explosion. The user faints upon using this move.
+fury-swipes:Fury Swipes
+fury-swipesDescription:The target is raked with sharp claws or scythes quickly two to five times in a row.
+bonemerang:Bonemerang
+bonemerangDescription:The user throws the bone it holds. The bone loops around to hit the target twice—coming and going.
+rest:Rest
+restDescription:The user goes to sleep for two turns. This fully restores the user’s HP and heals any status conditions.
+rock-slide:Rock Slide
+rock-slideDescription:Large boulders are hurled at the opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch.
+hyper-fang:Hyper Fang
+hyper-fangDescription:The user bites hard on the target with its sharp front fangs. This may also make the target flinch.
+sharpen:Sharpen
+sharpenDescription:The user makes its edges more jagged, which raises its Attack stat.
+conversion:Conversion
+conversionDescription:The user changes its type to become the same type as the move at the top of the list of moves it knows.
+tri-attack:Tri Attack
+tri-attackDescription:The user strikes with a simultaneous three-beam attack. May also burn, freeze, or paralyze the target.
+super-fang:Super Fang
+super-fangDescription:The user chomps hard on the target with its sharp front fangs. This cuts the target’s HP in half.
+spore:Spore
+sporeDescription:The user scatters bursts of spores that induce sleep.
+slash:Slash
+slashDescription:The target is attacked with a slash of claws or blades. Critical hits land more easily.
+substitute:Substitute
+substituteDescription:The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.
+struggle:Struggle
+struggleDescription:This attack is used in desperation only if the user has no PP. It also damages the user a little.
+sketch:Sketch
+sketchDescription:It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears.
+triple-kick:Triple Kick
+triple-kickDescription:A consecutive three-kick attack that becomes more powerful with each successful hit.
+thief:Thief
+thiefDescription:The user attacks and steals the target’s held item simultaneously. The user can’t steal anything if it already holds an item.
+spider-web:Spider Web
+spider-webDescription:The user ensnares the target with thin, gooey silk so it can’t flee from battle.
+mind-reader:Mind Reader
+mind-readerDescription:The user senses the target’s movements with its mind to ensure its next attack does not miss the target.
+nightmare:Nightmare
+nightmareDescription:A sleeping target sees a nightmare that inflicts some damage every turn.
+flame-wheel:Flame Wheel
+flame-wheelDescription:The user cloaks itself in fire and charges at the target. This may also leave the target with a burn.
+snore:Snore
+snoreDescription:This attack can be used only if the user is asleep. The harsh noise may also make the target flinch.
+curse:Curse
+curseDescription:A move that works differently for the Ghost type than for all other types.
+flail:Flail
+flailDescription:The user flails about aimlessly to attack. The less HP the user has, the greater the move’s power.
+conversion-2:Conversion 2
+conversion-2Description:The user changes its type to make itself resistant to the type of the attack the opponent used last.
+aeroblast:Aeroblast
+aeroblastDescription:A vortex of air is shot at the target to inflict damage. Critical hits land more easily.
+cotton-spore:Cotton Spore
+cotton-sporeDescription:The user releases cotton-like spores that cling to the opposing Pokémon, which harshly lowers their Speed stat.
+reversal:Reversal
+reversalDescription:An all-out attack that becomes more powerful the less HP the user has.
+spite:Spite
+spiteDescription:The user unleashes its grudge on the move last used by the target by cutting 4 PP from it.
+powder-snow:Powder Snow
+powder-snowDescription:The user attacks with a chilling gust of powdery snow. This may also freeze the opposing Pokémon.
+protect:Protect
+protectDescription:Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.
+mach-punch:Mach Punch
+mach-punchDescription:The user throws a punch at blinding speed. This move always goes first.
+scary-face:Scary Face
+scary-faceDescription:The user frightens the target with a scary face to harshly lower its Speed stat.
+feint-attack:Feint Attack
+feint-attackDescription:The user approaches the target disarmingly, then throws a sucker punch. This attack never misses.
+sweet-kiss:Sweet Kiss
+sweet-kissDescription:The user kisses the target with a sweet, angelic cuteness that causes confusion.
+belly-drum:Belly Drum
+belly-drumDescription:The user maximizes its Attack stat in exchange for HP equal to half its max HP.
+sludge-bomb:Sludge Bomb
+sludge-bombDescription:Unsanitary sludge is hurled at the target. This may also poison the target.
+mud-slap:Mud-Slap
+mud-slapDescription:The user hurls mud in the target’s face to inflict damage and lower its accuracy.
+octazooka:Octazooka
+octazookaDescription:The user attacks by spraying ink in the target’s face or eyes. This may also lower the target’s accuracy.
+spikes:Spikes
+spikesDescription:The user lays a trap of spikes at the opposing team’s feet. The trap hurts Pokémon that switch into battle.
+foresight:Foresight
+foresightDescription:Enables a Ghost-type target to be hit by Normal- and Fighting-type attacks. This also enables an evasive target to be hit.
+destiny-bond:Destiny Bond
+destiny-bondDescription:After using this move, if the user faints, the Pokémon that landed the knockout hit also faints. Its chance of failing rises if it is used in succession.
+perish-song:Perish Song
+perish-songDescription:Any Pokémon that hears this song faints in three turns, unless it switches out of battle.
+icy-wind:Icy Wind
+icy-windDescription:The user attacks with a gust of chilled air. This also lowers the opposing Pokémon’s Speed stats.
+detect:Detect
+detectDescription:Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.
+bone-rush:Bone Rush
+bone-rushDescription:The user strikes the target with a hard bone two to five times in a row.
+lock-on:Lock-On
+lock-onDescription:The user takes sure aim at the target. This ensures the next attack does not miss the target.
+outrage:Outrage
+outrageDescription:The user rampages and attacks for two to three turns. The user then becomes confused.
+sandstorm:Sandstorm
+sandstormDescription:A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types. It raises the Sp. Def stat of Rock types.
+giga-drain:Giga Drain
+giga-drainDescription:A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.
+endure:Endure
+endureDescription:The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.
+charm:Charm
+charmDescription:The user gazes at the target rather charmingly, making it less wary. This harshly lowers its Attack stat.
+zap-cannon:Zap Cannon
+zap-cannonDescription:The user fires an electric blast like a cannon to inflict damage and cause paralysis.
+rollout:Rollout
+rolloutDescription:The user continually rolls into the target over five turns. It becomes more powerful each time it hits.
+false-swipe:False Swipe
+false-swipeDescription:A restrained attack that prevents the target from fainting. The target is left with at least 1 HP.
+swagger:Swagger
+swaggerDescription:The user enrages and confuses the target. However, this also sharply raises the target’s Attack stat.
+milk-drink:Milk Drink
+milk-drinkDescription:The user restores its own HP by up to half of its max HP.
+spark:Spark
+sparkDescription:The user throws an electrically charged tackle at the target. This may also leave the target with paralysis.
+fury-cutter:Fury Cutter
+fury-cutterDescription:The target is slashed with scythes or claws. This attack becomes more powerful if it hits in succession.
+steel-wing:Steel Wing
+steel-wingDescription:The target is hit with wings of steel. This may also raise the user’s Defense stat.
+mean-look:Mean Look
+mean-lookDescription:The user pins the target with a dark, arresting look. The target becomes unable to flee.
+attract:Attract
+attractDescription:If it is the opposite gender of the user, the target becomes infatuated and less likely to attack.
+sleep-talk:Sleep Talk
+sleep-talkDescription:While it is asleep, the user randomly uses one of the moves it knows.
+heal-bell:Heal Bell
+heal-bellDescription:The user makes a soothing bell chime to heal the status conditions of all the party Pokémon.
+return:Return
+returnDescription:This full-power attack grows more powerful the more the user likes its Trainer.
+present:Present
+presentDescription:The user attacks by giving the target a gift with a hidden trap. It restores HP sometimes, however.
+frustration:Frustration
+frustrationDescription:This full-power attack grows more powerful the less the user likes its Trainer.
+safeguard:Safeguard
+safeguardDescription:The user creates a protective field that prevents status conditions for five turns.
+pain-split:Pain Split
+pain-splitDescription:The user adds its HP to the target’s HP, then equally shares the combined HP with the target.
+sacred-fire:Sacred Fire
+sacred-fireDescription:The target is razed with a mystical fire of great intensity. This may also leave the target with a burn.
+magnitude:Magnitude
+magnitudeDescription:The user attacks everything around it with a ground-shaking quake. Its power varies.
+dynamic-punch:Dynamic Punch
+dynamic-punchDescription:The user punches the target with full, concentrated power. This confuses the target if it hits.
+megahorn:Megahorn
+megahornDescription:Using its tough and impressive horn, the user rams into the target with no letup.
+dragon-breath:Dragon Breath
+dragon-breathDescription:The user exhales a mighty gust that inflicts damage. This may also leave the target with paralysis.
+baton-pass:Baton Pass
+baton-passDescription:The user switches places with a party Pokémon in waiting and passes along any stat changes.
+encore:Encore
+encoreDescription:The user compels the target to keep using the move it encored for three turns.
+pursuit:Pursuit
+pursuitDescription:The power of this attack move is doubled if it’s used on a target that’s switching out of battle.
+rapid-spin:Rapid Spin
+rapid-spinDescription:A spin attack that can also eliminate such moves as Bind, Wrap, Leech Seed, and Spikes.
+sweet-scent:Sweet Scent
+sweet-scentDescription:A sweet scent that harshly lowers opposing Pokémon’s evasiveness.
+iron-tail:Iron Tail
+iron-tailDescription:The target is slammed with a steel-hard tail. This may also lower the target’s Defense stat.
+metal-claw:Metal Claw
+metal-clawDescription:The target is raked with steel claws. This may also raise the user’s Attack stat.
+vital-throw:Vital Throw
+vital-throwDescription:The user attacks last. In return, this throw move never misses.
+morning-sun:Morning Sun
+morning-sunDescription:The user restores its own HP. The amount of HP regained varies with the weather.
+synthesis:Synthesis
+synthesisDescription:The user restores its own HP. The amount of HP regained varies with the weather.
+moonlight:Moonlight
+moonlightDescription:The user restores its own HP. The amount of HP regained varies with the weather.
+hidden-power:Hidden Power
+hidden-powerDescription:A unique attack that varies in type depending on the Pokémon using it.
+cross-chop:Cross Chop
+cross-chopDescription:The user delivers a double chop with its forearms crossed. Critical hits land more easily.
+twister:Twister
+twisterDescription:The user whips up a vicious tornado to tear at the opposing Pokémon. This may also make them flinch.
+rain-dance:Rain Dance
+rain-danceDescription:The user summons a heavy rain that falls for five turns, powering up Water-type moves. It lowers the power of Fire-type moves.
+sunny-day:Sunny Day
+sunny-dayDescription:The user intensifies the sun for five turns, powering up Fire-type moves. It lowers the power of Water-type moves.
+crunch:Crunch
+crunchDescription:The user crunches up the target with sharp fangs. This may also lower the target’s Defense stat.
+mirror-coat:Mirror Coat
+mirror-coatDescription:A retaliation move that counters any special attack, inflicting double the damage taken.
+psych-up:Psych Up
+psych-upDescription:The user hypnotizes itself into copying any stat change made by the target.
+extreme-speed:Extreme Speed
+extreme-speedDescription:The user charges the target at blinding speed. This move always goes first.
+ancient-power:Ancient Power
+ancient-powerDescription:The user attacks with a prehistoric power. This may also raise all the user’s stats at once.
+shadow-ball:Shadow Ball
+shadow-ballDescription:The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.
+future-sight:Future Sight
+future-sightDescription:Two turns after this move is used, a hunk of psychic energy attacks the target.
+rock-smash:Rock Smash
+rock-smashDescription:The user attacks with a punch. This may also lower the target’s Defense stat.
+whirlpool:Whirlpool
+whirlpoolDescription:The user traps the target in a violent swirling whirlpool for four to five turns.
+beat-up:Beat Up
+beat-upDescription:The user gets all party Pokémon to attack the target. The more party Pokémon, the greater the number of attacks.
+fake-out:Fake Out
+fake-outDescription:This attack hits first and makes the target flinch. It only works the first turn the user is in battle.
+uproar:Uproar
+uproarDescription:The user attacks in an uproar for three turns. During that time, no Pokémon can fall asleep.
+stockpile:Stockpile
+stockpileDescription:The user charges up power and raises both its Defense and Sp. Def stats. The move can be used three times.
+spit-up:Spit Up
+spit-upDescription:The power stored using the move Stockpile is released at once in an attack. The more power is stored, the greater the move’s power.
+swallow:Swallow
+swallowDescription:The power stored using the move Stockpile is absorbed by the user to heal its HP. Storing more power heals more HP.
+heat-wave:Heat Wave
+heat-waveDescription:The user attacks by exhaling hot breath on the opposing Pokémon. This may also leave those Pokémon with a burn.
+hail:Hail
+hailDescription:The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.
+torment:Torment
+tormentDescription:The user torments and enrages the target, making it incapable of using the same move twice in a row.
+flatter:Flatter
+flatterDescription:Flattery is used to confuse the target. However, this also raises the target’s Sp. Atk stat.
+will-o-wisp:Will-O-Wisp
+will-o-wispDescription:The user shoots a sinister, bluish-white flame at the target to inflict a burn.
+memento:Memento
+mementoDescription:The user faints when using this move. In return, this harshly lowers the target’s Attack and Sp. Atk stats.
+facade:Facade
+facadeDescription:This attack move doubles its power if the user is poisoned, burned, or paralyzed.
+focus-punch:Focus Punch
+focus-punchDescription:The user focuses its mind before launching a punch. This move fails if the user is hit before it is used.
+smelling-salts:Smelling Salts
+smelling-saltsDescription:This attack’s power is doubled when used on a target with paralysis. This also cures the target’s paralysis, however.
+follow-me:Follow Me
+follow-meDescription:The user draws attention to itself, making all targets take aim only at the user.
+nature-power:Nature Power
+nature-powerDescription:This attack makes use of nature’s power. Its effects vary depending on the user’s environment.
+charge:Charge
+chargeDescription:The user boosts the power of the Electric move it uses on the next turn. This also raises the user’s Sp. Def stat.
+taunt:Taunt
+tauntDescription:The target is taunted into a rage that allows it to use only attack moves for three turns.
+helping-hand:Helping Hand
+helping-handDescription:The user assists an ally by boosting the power of that ally’s attack.
+trick:Trick
+trickDescription:The user catches the target off guard and swaps its held item with its own.
+role-play:Role Play
+role-playDescription:The user mimics the target completely, copying the target’s natural Ability.
+wish:Wish
+wishDescription:One turn after this move is used, the user’s or its replacement’s HP is restored by half the user’s max HP.
+assist:Assist
+assistDescription:The user hurriedly and randomly uses a move among those known by ally Pokémon.
+ingrain:Ingrain
+ingrainDescription:The user lays roots that restore its HP on every turn. Because it’s rooted, it can’t switch out.
+superpower:Superpower
+superpowerDescription:The user attacks the target with great power. However, this also lowers the user’s Attack and Defense stats.
+magic-coat:Magic Coat
+magic-coatDescription:A barrier reflects back to the target moves like Leech Seed and moves that damage status.
+recycle:Recycle
+recycleDescription:The user recycles a held item that has been used in battle so it can be used again.
+revenge:Revenge
+revengeDescription:This attack move’s power is doubled if the user has been hurt by the opponent in the same turn.
+brick-break:Brick Break
+brick-breakDescription:The user attacks with a swift chop. It can also break barriers, such as Light Screen and Reflect.
+yawn:Yawn
+yawnDescription:The user lets loose a huge yawn that lulls the target into falling asleep on the next turn.
+knock-off:Knock Off
+knock-offDescription:The user slaps down the target’s held item, and that item can’t be used in that battle. The move does more damage if the target has a held item.
+eruption:Eruption
+eruptionDescription:The user attacks opposing Pokémon with explosive fury. The lower the user’s HP, the lower the move’s power.
+skill-swap:Skill Swap
+skill-swapDescription:The user employs its psychic power to exchange Abilities with the target.
+imprison:Imprison
+imprisonDescription:If opposing Pokémon know any move also known by the user, they are prevented from using it.
+refresh:Refresh
+refreshDescription:The user rests to cure itself of poisoning, a burn, or paralysis.
+grudge:Grudge
+grudgeDescription:If the user faints, the user’s grudge fully depletes the PP of the opponent’s move that knocked it out.
+snatch:Snatch
+snatchDescription:The user steals the effects of any attempts to use a healing or stat-changing move.
+secret-power:Secret Power
+secret-powerDescription:The additional effects of this attack depend upon where it was used.
+dive:Dive
+diveDescription:Diving on the first turn, the user floats up and attacks on the next turn.
+arm-thrust:Arm Thrust
+arm-thrustDescription:The user lets loose a flurry of open-palmed arm thrusts that hit two to five times in a row.
+camouflage:Camouflage
+camouflageDescription:The user’s type is changed depending on its environment, such as at water’s edge, in grass, or in a cave.
+tail-glow:Tail Glow
+tail-glowDescription:The user stares at flashing lights to focus its mind, drastically raising its Sp. Atk stat.
+luster-purge:Luster Purge
+luster-purgeDescription:The user lets loose a damaging burst of light. This may also lower the target’s Sp. Def stat.
+mist-ball:Mist Ball
+mist-ballDescription:A mist-like flurry of down envelops and damages the target. This may also lower the target’s Sp. Atk stat.
+feather-dance:Feather Dance
+feather-danceDescription:The user covers the target’s body with a mass of down that harshly lowers its Attack stat.
+teeter-dance:Teeter Dance
+teeter-danceDescription:The user performs a wobbly dance that confuses the Pokémon around it.
+blaze-kick:Blaze Kick
+blaze-kickDescription:The user launches a kick that lands a critical hit more easily. This may also leave the target with a burn.
+mud-sport:Mud Sport
+mud-sportDescription:The user kicks up mud on the battlefield. This weakens Electric-type moves for five turns.
+ice-ball:Ice Ball
+ice-ballDescription:The user attacks the target for five turns. The move’s power increases each time it hits.
+needle-arm:Needle Arm
+needle-armDescription:The user attacks by wildly swinging its thorny arms. This may also make the target flinch.
+slack-off:Slack Off
+slack-offDescription:The user slacks off, restoring its own HP by up to half of its max HP.
+hyper-voice:Hyper Voice
+hyper-voiceDescription:The user lets loose a horribly echoing shout with the power to inflict damage.
+poison-fang:Poison Fang
+poison-fangDescription:The user bites the target with toxic fangs. This may also leave the target badly poisoned.
+crush-claw:Crush Claw
+crush-clawDescription:The user slashes the target with hard and sharp claws. This may also lower the target’s Defense stat.
+blast-burn:Blast Burn
+blast-burnDescription:The target is razed by a fiery explosion. The user can’t move on the next turn.
+hydro-cannon:Hydro Cannon
+hydro-cannonDescription:The target is hit with a watery blast. The user can’t move on the next turn.
+meteor-mash:Meteor Mash
+meteor-mashDescription:The target is hit with a hard punch fired like a meteor. This may also raise the user’s Attack stat.
+astonish:Astonish
+astonishDescription:The user attacks the target while shouting in a startling fashion. This may also make the target flinch.
+weather-ball:Weather Ball
+weather-ballDescription:This attack move varies in power and type depending on the weather.
+aromatherapy:Aromatherapy
+aromatherapyDescription:The user releases a soothing scent that heals all status conditions affecting the user’s party.
+fake-tears:Fake Tears
+fake-tearsDescription:The user feigns crying to fluster the target, harshly lowering its Sp. Def stat.
+air-cutter:Air Cutter
+air-cutterDescription:The user launches razor-like wind to slash the opposing Pokémon. Critical hits land more easily.
+overheat:Overheat
+overheatDescription:The user attacks the target at full power. The attack’s recoil harshly lowers the user’s Sp. Atk stat.
+odor-sleuth:Odor Sleuth
+odor-sleuthDescription:Enables a Ghost-type target to be hit by Normal- and Fighting-type attacks. This also enables an evasive target to be hit.
+rock-tomb:Rock Tomb
+rock-tombDescription:Boulders are hurled at the target. This also lowers the target’s Speed stat by preventing its movement.
+silver-wind:Silver Wind
+silver-windDescription:The target is attacked with powdery scales blown by the wind. This may also raise all the user’s stats.
+metal-sound:Metal Sound
+metal-soundDescription:A horrible sound like scraping metal harshly lowers the target’s Sp. Def stat.
+grass-whistle:Grass Whistle
+grass-whistleDescription:The user plays a pleasant melody that lulls the target into a deep sleep.
+tickle:Tickle
+tickleDescription:The user tickles the target into laughing, reducing its Attack and Defense stats.
+cosmic-power:Cosmic Power
+cosmic-powerDescription:The user absorbs a mystical power from space to raise its Defense and Sp. Def stats.
+water-spout:Water Spout
+water-spoutDescription:The user spouts water to damage opposing Pokémon. The lower the user’s HP, the lower the move’s power.
+signal-beam:Signal Beam
+signal-beamDescription:The user attacks with a sinister beam of light. This may also confuse the target.
+shadow-punch:Shadow Punch
+shadow-punchDescription:The user throws a punch from the shadows. This attack never misses.
+extrasensory:Extrasensory
+extrasensoryDescription:The user attacks with an odd, unseeable power. This may also make the target flinch.
+sky-uppercut:Sky Uppercut
+sky-uppercutDescription:The user attacks the target with an uppercut thrown skyward with force.
+sand-tomb:Sand Tomb
+sand-tombDescription:The user traps the target inside a harshly raging sandstorm for four to five turns.
+sheer-cold:Sheer Cold
+sheer-coldDescription:The target faints instantly. It’s less likely to hit the target if it’s used by Pokémon other than Ice types.
+muddy-water:Muddy Water
+muddy-waterDescription:The user attacks by shooting muddy water at the opposing Pokémon. This may also lower their accuracy.
+bullet-seed:Bullet Seed
+bullet-seedDescription:The user forcefully shoots seeds at the target two to five times in a row.
+aerial-ace:Aerial Ace
+aerial-aceDescription:The user confounds the target with speed, then slashes. This attack never misses.
+icicle-spear:Icicle Spear
+icicle-spearDescription:The user launches sharp icicles at the target two to five times in a row.
+iron-defense:Iron Defense
+iron-defenseDescription:The user hardens its body’s surface like iron, sharply raising its Defense stat.
+block:Block
+blockDescription:The user blocks the target’s way with arms spread wide to prevent escape.
+howl:Howl
+howlDescription:The user howls loudly to raise its spirit, which raises its Attack stat.
+dragon-claw:Dragon Claw
+dragon-clawDescription:The user slashes the target with huge sharp claws.
+frenzy-plant:Frenzy Plant
+frenzy-plantDescription:The user slams the target with an enormous tree. The user can’t move on the next turn.
+bulk-up:Bulk Up
+bulk-upDescription:The user tenses its muscles to bulk up its body, raising both its Attack and Defense stats.
+bounce:Bounce
+bounceDescription:The user bounces up high, then drops on the target on the second turn. This may also leave the target with paralysis.
+mud-shot:Mud Shot
+mud-shotDescription:The user attacks by hurling a blob of mud at the target. This also lowers the target’s Speed stat.
+poison-tail:Poison Tail
+poison-tailDescription:The user hits the target with its tail. This may also poison the target. Critical hits land more easily.
+covet:Covet
+covetDescription:The user endearingly approaches the target, then steals the target’s held item.
+volt-tackle:Volt Tackle
+volt-tackleDescription:The user electrifies itself and charges the target. This also damages the user quite a lot. This attack may leave the target with paralysis.
+magical-leaf:Magical Leaf
+magical-leafDescription:The user scatters curious leaves that chase the target. This attack never misses.
+water-sport:Water Sport
+water-sportDescription:The user soaks the battlefield with water. This weakens Fire-type moves for five turns.
+calm-mind:Calm Mind
+calm-mindDescription:The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.
+leaf-blade:Leaf Blade
+leaf-bladeDescription:The user handles a sharp leaf like a sword and attacks by cutting its target. Critical hits land more easily.
+dragon-dance:Dragon Dance
+dragon-danceDescription:The user vigorously performs a mystic, powerful dance that raises its Attack and Speed stats.
+rock-blast:Rock Blast
+rock-blastDescription:The user hurls hard rocks at the target. Two to five rocks are launched in a row.
+shock-wave:Shock Wave
+shock-waveDescription:The user strikes the target with a quick jolt of electricity. This attack never misses.
+water-pulse:Water Pulse
+water-pulseDescription:The user attacks the target with a pulsing blast of water. This may also confuse the target.
+doom-desire:Doom Desire
+doom-desireDescription:Two turns after this move is used, a concentrated bundle of light blasts the target.
+psycho-boost:Psycho Boost
+psycho-boostDescription:The user attacks the target at full power. The attack’s recoil harshly lowers the user’s Sp. Atk stat.
+gravity:Gravity
+gravityDescription:Enables Flying-type Pokémon or Pokémon with the Levitate Ability to be hit by Ground-type moves. Flying moves can’t be used.
+miracle-eye:Miracle Eye
+miracle-eyeDescription:Enables a Dark-type target to be hit by Psychic-type attacks. This also enables an evasive target to be hit.
+wake-up-slap:Wake-Up Slap
+wake-up-slapDescription:This attack inflicts big damage on a sleeping target. This also wakes the target up, however.
+hammer-arm:Hammer Arm
+hammer-armDescription:The user swings and hits with its strong, heavy fist. It lowers the user’s Speed, however.
+gyro-ball:Gyro Ball
+gyro-ballDescription:The user tackles the target with a high-speed spin. The slower the user compared to the target, the greater the move’s power.
+healing-wish:Healing Wish
+healing-wishDescription:The user faints. In return, the Pokémon taking its place will have its HP restored and status conditions cured.
+brine:Brine
+brineDescription:If the target’s HP is half or less, this attack will hit with double the power.
+natural-gift:Natural Gift
+natural-giftDescription:The user draws power to attack by using its held Berry. The Berry determines the move’s type and power.
+feint:Feint
+feintDescription:This attack hits a target using a move such as Protect or Detect. This also lifts the effects of those moves.
+pluck:Pluck
+pluckDescription:The user pecks the target. If the target is holding a Berry, the user eats it and gains its effect.
+tailwind:Tailwind
+tailwindDescription:The user whips up a turbulent whirlwind that ups the Speed stat of the user and its allies for four turns.
+acupressure:Acupressure
+acupressureDescription:The user applies pressure to stress points, sharply boosting one of its or its allies’ stats.
+metal-burst:Metal Burst
+metal-burstDescription:The user retaliates with much greater force against the opponent that last inflicted damage on it.
+u-turn:U-turn
+u-turnDescription:After making its attack, the user rushes back to switch places with a party Pokémon in waiting.
+roost:Roost
+roostDescription:The user lands and rests its body. It restores the user’s HP by up to half of its max HP.
+close-combat:Close Combat
+close-combatDescription:The user fights the target up close without guarding itself. This also lowers the user’s Defense and Sp. Def stats.
+payback:Payback
+paybackDescription:The user stores power, then attacks. If the user moves after the target, this attack’s power will be doubled.
+assurance:Assurance
+assuranceDescription:If the target has already taken some damage in the same turn, this attack’s power is doubled.
+embargo:Embargo
+embargoDescription:This move prevents the target from using its held item for five turns. Its Trainer is also prevented from using items on it.
+fling:Fling
+flingDescription:The user flings its held item at the target to attack. This move’s power and effects depend on the item.
+psycho-shift:Psycho Shift
+psycho-shiftDescription:Using its psychic power of suggestion, the user transfers its status conditions to the target.
+trump-card:Trump Card
+trump-cardDescription:The fewer PP this move has, the greater its power.
+heal-block:Heal Block
+heal-blockDescription:For five turns, the user prevents the opposing team from using any moves, Abilities, or held items that recover HP.
+wring-out:Wring Out
+wring-outDescription:The user powerfully wrings the target. The more HP the target has, the greater the move’s power.
+power-trick:Power Trick
+power-trickDescription:The user employs its psychic power to switch its Attack stat with its Defense stat.
+gastro-acid:Gastro Acid
+gastro-acidDescription:The user hurls up its stomach acids on the target. The fluid eliminates the effect of the target’s Ability.
+lucky-chant:Lucky Chant
+lucky-chantDescription:The user chants an incantation toward the sky, preventing opposing Pokémon from landing critical hits for five turns.
+me-first:Me First
+me-firstDescription:The user cuts ahead of the target to copy and use the target’s intended move with greater power. This move fails if it isn’t used first.
+copycat:Copycat
+copycatDescription:The user mimics the move used immediately before it. The move fails if no other move has been used yet.
+power-swap:Power Swap
+power-swapDescription:The user employs its psychic power to switch changes to its Attack and Sp. Atk stats with the target.
+guard-swap:Guard Swap
+guard-swapDescription:The user employs its psychic power to switch changes to its Defense and Sp. Def stats with the target.
+punishment:Punishment
+punishmentDescription:The more the target has powered up with stat changes, the greater the move’s power.
+last-resort:Last Resort
+last-resortDescription:This move can be used only after the user has used all the other moves it knows in the battle.
+worry-seed:Worry Seed
+worry-seedDescription:A seed that causes worry is planted on the target. It prevents sleep by making the target’s Ability Insomnia.
+sucker-punch:Sucker Punch
+sucker-punchDescription:This move enables the user to attack first. This move fails if the target is not readying an attack.
+toxic-spikes:Toxic Spikes
+toxic-spikesDescription:The user lays a trap of poison spikes at the feet of the opposing team. The spikes will poison opposing Pokémon that switch into battle.
+heart-swap:Heart Swap
+heart-swapDescription:The user employs its psychic power to switch stat changes with the target.
+aqua-ring:Aqua Ring
+aqua-ringDescription:The user envelops itself in a veil made of water. It regains some HP every turn.
+magnet-rise:Magnet Rise
+magnet-riseDescription:The user levitates using electrically generated magnetism for five turns.
+flare-blitz:Flare Blitz
+flare-blitzDescription:The user cloaks itself in fire and charges the target. This also damages the user quite a lot. This attack may leave the target with a burn.
+force-palm:Force Palm
+force-palmDescription:The target is attacked with a shock wave. This may also leave the target with paralysis.
+aura-sphere:Aura Sphere
+aura-sphereDescription:The user lets loose a blast of aura power from deep within its body at the target. This attack never misses.
+rock-polish:Rock Polish
+rock-polishDescription:The user polishes its body to reduce drag. This can sharply raise the Speed stat.
+poison-jab:Poison Jab
+poison-jabDescription:The target is stabbed with a tentacle or arm steeped in poison. This may also poison the target.
+dark-pulse:Dark Pulse
+dark-pulseDescription:The user releases a horrible aura imbued with dark thoughts. This may also make the target flinch.
+night-slash:Night Slash
+night-slashDescription:The user slashes the target the instant an opportunity arises. Critical hits land more easily.
+aqua-tail:Aqua Tail
+aqua-tailDescription:The user attacks by swinging its tail as if it were a vicious wave in a raging storm.
+seed-bomb:Seed Bomb
+seed-bombDescription:The user slams a barrage of hard-shelled seeds down on the target from above.
+air-slash:Air Slash
+air-slashDescription:The user attacks with a blade of air that slices even the sky. This may also make the target flinch.
+x-scissor:X-Scissor
+x-scissorDescription:The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors.
+bug-buzz:Bug Buzz
+bug-buzzDescription:The user generates a damaging sound wave by vibration. This may also lower the target’s Sp. Def stat.
+dragon-pulse:Dragon Pulse
+dragon-pulseDescription:The target is attacked with a shock wave generated by the user’s gaping mouth.
+dragon-rush:Dragon Rush
+dragon-rushDescription:The user tackles the target while exhibiting overwhelming menace. This may also make the target flinch.
+power-gem:Power Gem
+power-gemDescription:The user attacks with a ray of light that sparkles as if it were made of gemstones.
+drain-punch:Drain Punch
+drain-punchDescription:An energy-draining punch. The user’s HP is restored by half the damage taken by the target.
+vacuum-wave:Vacuum Wave
+vacuum-waveDescription:The user whirls its fists to send a wave of pure vacuum at the target. This move always goes first.
+focus-blast:Focus Blast
+focus-blastDescription:The user heightens its mental focus and unleashes its power. This may also lower the target’s Sp. Def stat.
+energy-ball:Energy Ball
+energy-ballDescription:The user draws power from nature and fires it at the target. This may also lower the target’s Sp. Def stat.
+brave-bird:Brave Bird
+brave-birdDescription:The user tucks in its wings and charges from a low altitude. This also damages the user quite a lot.
+earth-power:Earth Power
+earth-powerDescription:The user makes the ground under the target erupt with power. This may also lower the target’s Sp. Def stat.
+switcheroo:Switcheroo
+switcherooDescription:The user trades held items with the target faster than the eye can follow.
+giga-impact:Giga Impact
+giga-impactDescription:The user charges at the target using every bit of its power. The user can’t move on the next turn.
+nasty-plot:Nasty Plot
+nasty-plotDescription:The user stimulates its brain by thinking bad thoughts. This sharply raises the user’s Sp. Atk stat.
+bullet-punch:Bullet Punch
+bullet-punchDescription:The user strikes the target with tough punches as fast as bullets. This move always goes first.
+avalanche:Avalanche
+avalancheDescription:The power of this attack move is doubled if the user has been hurt by the target in the same turn.
+ice-shard:Ice Shard
+ice-shardDescription:The user flash-freezes chunks of ice and hurls them at the target. This move always goes first.
+shadow-claw:Shadow Claw
+shadow-clawDescription:The user slashes with a sharp claw made from shadows. Critical hits land more easily.
+thunder-fang:Thunder Fang
+thunder-fangDescription:The user bites with electrified fangs. This may also make the target flinch or leave it with paralysis.
+ice-fang:Ice Fang
+ice-fangDescription:The user bites with cold-infused fangs. This may also make the target flinch or leave it frozen.
+fire-fang:Fire Fang
+fire-fangDescription:The user bites with flame-cloaked fangs. This may also make the target flinch or leave it with a burn.
+shadow-sneak:Shadow Sneak
+shadow-sneakDescription:The user extends its shadow and attacks the target from behind. This move always goes first.
+mud-bomb:Mud Bomb
+mud-bombDescription:The user launches a hard-packed mud ball to attack. This may also lower the target’s accuracy.
+psycho-cut:Psycho Cut
+psycho-cutDescription:The user tears at the target with blades formed by psychic power. Critical hits land more easily.
+zen-headbutt:Zen Headbutt
+zen-headbuttDescription:The user focuses its willpower to its head and attacks the target. This may also make the target flinch.
+mirror-shot:Mirror Shot
+mirror-shotDescription:The user lets loose a flash of energy at the target from its polished body. This may also lower the target’s accuracy.
+flash-cannon:Flash Cannon
+flash-cannonDescription:The user gathers all its light energy and releases it all at once. This may also lower the target’s Sp. Def stat.
+rock-climb:Rock Climb
+rock-climbDescription:The user attacks the target by smashing into it with incredible force. This may also confuse the target.
+defog:Defog
+defogDescription:A strong wind blows away the target’s barriers such as Reflect or Light Screen. This also lowers the target’s evasiveness.
+trick-room:Trick Room
+trick-roomDescription:The user creates a bizarre area in which slower Pokémon get to move first for five turns.
+draco-meteor:Draco Meteor
+draco-meteorDescription:Comets are summoned down from the sky onto the target. The attack’s recoil harshly lowers the user’s Sp. Atk stat.
+discharge:Discharge
+dischargeDescription:The user strikes everything around it by letting loose a flare of electricity. This may also cause paralysis.
+lava-plume:Lava Plume
+lava-plumeDescription:The user torches everything around it in an inferno of scarlet flames. This may also leave those it hits with a burn.
+leaf-storm:Leaf Storm
+leaf-stormDescription:The user whips up a storm of leaves around the target. The attack’s recoil harshly lowers the user’s Sp. Atk stat.
+power-whip:Power Whip
+power-whipDescription:The user violently whirls its vines, tentacles, or the like to harshly lash the target.
+rock-wrecker:Rock Wrecker
+rock-wreckerDescription:The user launches a huge boulder at the target to attack. The user can’t move on the next turn.
+cross-poison:Cross Poison
+cross-poisonDescription:A slashing attack with a poisonous blade that may also poison the target. Critical hits land more easily.
+gunk-shot:Gunk Shot
+gunk-shotDescription:The user shoots filthy garbage at the target to attack. This may also poison the target.
+iron-head:Iron Head
+iron-headDescription:The user slams the target with its steel-hard head. This may also make the target flinch.
+magnet-bomb:Magnet Bomb
+magnet-bombDescription:The user launches steel bombs that stick to the target. This attack never misses.
+stone-edge:Stone Edge
+stone-edgeDescription:The user stabs the target from below with sharpened stones. Critical hits land more easily.
+captivate:Captivate
+captivateDescription:If any opposing Pokémon is the opposite gender of the user, it is charmed, which harshly lowers its Sp. Atk stat.
+stealth-rock:Stealth Rock
+stealth-rockDescription:The user lays a trap of levitating stones around the opposing team. The trap hurts opposing Pokémon that switch into battle.
+grass-knot:Grass Knot
+grass-knotDescription:The user snares the target with grass and trips it. The heavier the target, the greater the move’s power.
+chatter:Chatter
+chatterDescription:The user attacks the target with sound waves of deafening chatter. This confuses the target.
+judgment:Judgment
+judgmentDescription:The user releases countless shots of light at the target. This move’s type varies depending on the kind of Plate the user is holding.
+bug-bite:Bug Bite
+bug-biteDescription:The user bites the target. If the target is holding a Berry, the user eats it and gains its effect.
+charge-beam:Charge Beam
+charge-beamDescription:The user attacks with an electric charge. The user may use any remaining electricity to raise its Sp. Atk stat.
+wood-hammer:Wood Hammer
+wood-hammerDescription:The user slams its rugged body into the target to attack. This also damages the user quite a lot.
+aqua-jet:Aqua Jet
+aqua-jetDescription:The user lunges at the target at a speed that makes it almost invisible. This move always goes first.
+attack-order:Attack Order
+attack-orderDescription:The user calls out its underlings to pummel the target. Critical hits land more easily.
+defend-order:Defend Order
+defend-orderDescription:The user calls out its underlings to shield its body, raising its Defense and Sp. Def stats.
+heal-order:Heal Order
+heal-orderDescription:The user calls out its underlings to heal it. The user regains up to half of its max HP.
+head-smash:Head Smash
+head-smashDescription:The user attacks the target with a hazardous, full-power headbutt. This also damages the user terribly.
+double-hit:Double Hit
+double-hitDescription:The user slams the target with a long tail, vines, or a tentacle. The target is hit twice in a row.
+roar-of-time:Roar of Time
+roar-of-timeDescription:The user blasts the target with power that distorts even time. The user can’t move on the next turn.
+spacial-rend:Spacial Rend
+spacial-rendDescription:The user tears the target along with the space around it. Critical hits land more easily.
+lunar-dance:Lunar Dance
+lunar-danceDescription:The user faints. In return, the Pokémon taking its place will have its status and HP fully restored.
+crush-grip:Crush Grip
+crush-gripDescription:The target is crushed with great force. The more HP the target has left, the greater this move’s power.
+magma-storm:Magma Storm
+magma-stormDescription:The target becomes trapped within a maelstrom of fire that rages for four to five turns.
+seed-flare:Seed Flare
+seed-flareDescription:The user emits a shock wave from its body to attack its target. This may also harshly lower the target’s Sp. Def stat.
+ominous-wind:Ominous Wind
+ominous-windDescription:The user blasts the target with a gust of repulsive wind. This may also raise all the user’s stats at once.
+shadow-force:Shadow Force
+shadow-forceDescription:The user disappears, then strikes the target on the next turn. This move hits even if the target protects itself.
+wide-guard:Wide Guard
+wide-guardDescription:The user and its allies are protected from wide-ranging attacks for one turn.
+guard-split:Guard Split
+guard-splitDescription:The user employs its psychic power to average its Defense and Sp. Def stats with those of the target.
+power-split:Power Split
+power-splitDescription:The user employs its psychic power to average its Attack and Sp. Atk stats with those of the target.
+wonder-room:Wonder Room
+wonder-roomDescription:The user creates a bizarre area in which Pokémon’s Defense and Sp. Def stats are swapped for five turns.
+psyshock:Psyshock
+psyshockDescription:The user materializes an odd psychic wave to attack the target. This attack does physical damage.
+venoshock:Venoshock
+venoshockDescription:The user drenches the target in a special poisonous liquid. This move’s power is doubled if the target is poisoned.
+autotomize:Autotomize
+autotomizeDescription:The user sheds part of its body to make itself lighter and sharply raise its Speed stat.
+rage-powder:Rage Powder
+rage-powderDescription:The user scatters a cloud of irritating powder to draw attention to itself. Opponents aim only at the user.
+telekinesis:Telekinesis
+telekinesisDescription:The user makes the target float with its psychic power. The target is easier to hit for three turns.
+magic-room:Magic Room
+magic-roomDescription:The user creates a bizarre area in which Pokémon’s held items lose their effects for five turns.
+dark-void:Dark Void
+dark-voidDescription:Opposing Pokémon are dragged into a world of total darkness that makes them sleep.
+smack-down:Smack Down
+smack-downDescription:The user throws a stone or similar projectile to attack an opponent. A flying Pokémon will fall to the ground when it’s hit.
+storm-throw:Storm Throw
+storm-throwDescription:The user strikes the target with a fierce blow. This attack always results in a critical hit.
+flame-burst:Flame Burst
+flame-burstDescription:The user attacks the target with a bursting flame. The bursting flame damages Pokémon next to the target as well.
+sludge-wave:Sludge Wave
+sludge-waveDescription:The user strikes everything around it by swamping the area with a giant sludge wave. This may also poison those hit.
+quiver-dance:Quiver Dance
+quiver-danceDescription:The user lightly performs a beautiful, mystic dance. This boosts the user’s Sp. Atk, Sp. Def, and Speed stats.
+heavy-slam:Heavy Slam
+heavy-slamDescription:The user slams into the target with its heavy body. The more the user outweighs the target, the greater the move’s power.
+synchronoise:Synchronoise
+synchronoiseDescription:Using an odd shock wave, the user inflicts damage on any Pokémon of the same type in the area around it.
+electro-ball:Electro Ball
+electro-ballDescription:The user hurls an electric orb at the target. The faster the user is than the target, the greater the move’s power.
+soak:Soak
+soakDescription:The user shoots a torrent of water at the target and changes the target’s type to Water.
+flame-charge:Flame Charge
+flame-chargeDescription:Cloaking itself in flame, the user attacks. Then, building up more power, the user raises its Speed stat.
+coil:Coil
+coilDescription:The user coils up and concentrates. This raises its Attack and Defense stats as well as its accuracy.
+low-sweep:Low Sweep
+low-sweepDescription:The user makes a swift attack on the target’s legs, which lowers the target’s Speed stat.
+acid-spray:Acid Spray
+acid-sprayDescription:The user spits fluid that works to melt the target. This harshly lowers the target’s Sp. Def stat.
+foul-play:Foul Play
+foul-playDescription:The user turns the target’s power against it. The higher the target’s Attack stat, the greater the move’s power.
+simple-beam:Simple Beam
+simple-beamDescription:The user’s mysterious psychic wave changes the target’s Ability to Simple.
+entrainment:Entrainment
+entrainmentDescription:The user dances with an odd rhythm that compels the target to mimic it, making the target’s Ability the same as the user’s.
+round:Round
+roundDescription:The user attacks the target with a song. Others can join in the Round to increase the power of the attack.
+echoed-voice:Echoed Voice
+echoed-voiceDescription:The user attacks the target with an echoing voice. If this move is used every turn, its power is increased.
+chip-away:Chip Away
+chip-awayDescription:Looking for an opening, the user strikes consistently. The target’s stat changes don’t affect this attack’s damage.
+clear-smog:Clear Smog
+clear-smogDescription:The user attacks by throwing a clump of special mud. All stat changes are returned to normal.
+stored-power:Stored Power
+stored-powerDescription:The user attacks the target with stored power. The more the user’s stats are raised, the greater the move’s power.
+quick-guard:Quick Guard
+quick-guardDescription:The user protects itself and its allies from priority moves.
+ally-switch:Ally Switch
+ally-switchDescription:The user teleports using a strange power and switches places with one of its allies.
+scald:Scald
+scaldDescription:The user shoots boiling hot water at its target. This may also leave the target with a burn.
+shell-smash:Shell Smash
+shell-smashDescription:The user breaks its shell, which lowers Defense and Sp. Def stats but sharply raises its Attack, Sp. Atk, and Speed stats.
+heal-pulse:Heal Pulse
+heal-pulseDescription:The user emits a healing pulse that restores the target’s HP by up to half of its max HP.
+hex:Hex
+hexDescription:This relentless attack does massive damage to a target affected by status conditions.
+sky-drop:Sky Drop
+sky-dropDescription:The user takes the target into the sky, then drops it during the next turn. The target cannot attack while in the sky.
+shift-gear:Shift Gear
+shift-gearDescription:The user rotates its gears, raising its Attack stat and sharply raising its Speed stat.
+circle-throw:Circle Throw
+circle-throwDescription:The target is thrown, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.
+incinerate:Incinerate
+incinerateDescription:The user attacks opposing Pokémon with fire. If a Pokémon is holding a certain item, such as a Berry, the item becomes burned up and unusable.
+quash:Quash
+quashDescription:The user suppresses the target and makes its move go last.
+acrobatics:Acrobatics
+acrobaticsDescription:The user nimbly strikes the target.
+reflect-type:Reflect Type
+reflect-typeDescription:The user reflects the target’s type, making it the same type as the target.
+retaliate:Retaliate
+retaliateDescription:The user gets revenge for a fainted ally. If an ally fainted in the previous turn, this move’s power is increased.
+final-gambit:Final Gambit
+final-gambitDescription:The user risks everything to attack its target. The user faints but does damage equal to its HP.
+bestow:Bestow
+bestowDescription:The user passes its held item to the target when the target isn’t holding an item.
+inferno:Inferno
+infernoDescription:The user attacks by engulfing the target in an intense fire. This leaves the target with a burn.
+water-pledge:Water Pledge
+water-pledgeDescription:A column of water strikes the target. When combined with its fire equivalent, its power increases and a rainbow appears.
+fire-pledge:Fire Pledge
+fire-pledgeDescription:A column of fire hits the target. When used with its grass equivalent, its power increases and a vast sea of fire appears.
+grass-pledge:Grass Pledge
+grass-pledgeDescription:A column of grass hits the target. When used with its water equivalent, its power increases and a vast swamp appears.
+volt-switch:Volt Switch
+volt-switchDescription:After making its attack, the user rushes back to switch places with a party Pokémon in waiting.
+struggle-bug:Struggle Bug
+struggle-bugDescription:While resisting, the user attacks the opposing Pokémon. This lowers the Sp. Atk stat of those hit.
+bulldoze:Bulldoze
+bulldozeDescription:The user strikes everything around it by stomping down on the ground. This lowers the Speed stat of those hit.
+frost-breath:Frost Breath
+frost-breathDescription:The user blows its cold breath on the target. This attack always results in a critical hit.
+dragon-tail:Dragon Tail
+dragon-tailDescription:The target is knocked away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.
+work-up:Work Up
+work-upDescription:The user is roused, and its Attack and Sp. Atk stats increase.
+electroweb:Electroweb
+electrowebDescription:The user attacks and captures opposing Pokémon using an electric net. This lowers their Speed stat.
+wild-charge:Wild Charge
+wild-chargeDescription:The user shrouds itself in electricity and smashes into its target. This also damages the user a little.
+drill-run:Drill Run
+drill-runDescription:The user crashes into its target while rotating its body like a drill. Critical hits land more easily.
+dual-chop:Dual Chop
+dual-chopDescription:The user attacks its target by hitting it with brutal strikes. The target is hit twice in a row.
+heart-stamp:Heart Stamp
+heart-stampDescription:The user unleashes a vicious blow after its cute act makes the target less wary. This may also make the target flinch.
+horn-leech:Horn Leech
+horn-leechDescription:The user drains the target’s energy with its horns. The user’s HP is restored by half the damage taken by the target.
+sacred-sword:Sacred Sword
+sacred-swordDescription:The user attacks by slicing with a long horn. The target’s stat changes don’t affect this attack’s damage.
+razor-shell:Razor Shell
+razor-shellDescription:The user cuts its target with sharp shells. This may also lower the target’s Defense stat.
+heat-crash:Heat Crash
+heat-crashDescription:The user slams its target with its flame-covered body. The more the user outweighs the target, the greater the move’s power.
+leaf-tornado:Leaf Tornado
+leaf-tornadoDescription:The user attacks its target by encircling it in sharp leaves. This attack may also lower the target’s accuracy.
+steamroller:Steamroller
+steamrollerDescription:The user crushes its target by rolling over the target with its rolled-up body. This may also make the target flinch.
+cotton-guard:Cotton Guard
+cotton-guardDescription:The user protects itself by wrapping its body in soft cotton, which drastically raises the user’s Defense stat.
+night-daze:Night Daze
+night-dazeDescription:The user lets loose a pitch-black shock wave at its target. This may also lower the target’s accuracy.
+psystrike:Psystrike
+psystrikeDescription:The user materializes an odd psychic wave to attack the target. This attack does physical damage.
+tail-slap:Tail Slap
+tail-slapDescription:The user attacks by striking the target with its hard tail. It hits the target two to five times in a row.
+hurricane:Hurricane
+hurricaneDescription:The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. This may also confuse the target.
+head-charge:Head Charge
+head-chargeDescription:The user charges its head into its target, using its powerful guard hair. This also damages the user a little.
+gear-grind:Gear Grind
+gear-grindDescription:The user attacks by throwing steel gears at its target twice.
+searing-shot:Searing Shot
+searing-shotDescription:The user torches everything around it in an inferno of scarlet flames. This may also leave those it hits with a burn.
+techno-blast:Techno Blast
+techno-blastDescription:The user fires a beam of light at its target. The move’s type changes depending on the Drive the user holds.
+relic-song:Relic Song
+relic-songDescription:The user sings an ancient song and attacks by appealing to the hearts of the listening opposing Pokémon. This may also induce sleep.
+secret-sword:Secret Sword
+secret-swordDescription:The user cuts with its long horn. The odd power contained in the horn does physical damage to the target.
+glaciate:Glaciate
+glaciateDescription:The user attacks by blowing freezing cold air at opposing Pokémon. This lowers their Speed stat.
+bolt-strike:Bolt Strike
+bolt-strikeDescription:The user surrounds itself with a great amount of electricity and charges its target. This may also leave the target with paralysis.
+blue-flare:Blue Flare
+blue-flareDescription:The user attacks by engulfing the target in an intense, yet beautiful, blue flame. This may also leave the target with a burn.
+fiery-dance:Fiery Dance
+fiery-danceDescription:Cloaked in flames, the user dances and flaps its wings. This may also raise the user’s Sp. Atk stat.
+freeze-shock:Freeze Shock
+freeze-shockDescription:On the second turn, the user hits the target with electrically charged ice. This may also leave the target with paralysis.
+ice-burn:Ice Burn
+ice-burnDescription:On the second turn, an ultracold, freezing wind surrounds the target. This may leave the target with a burn.
+snarl:Snarl
+snarlDescription:The user yells as if it’s ranting about something, which lowers the Sp. Atk stat of opposing Pokémon.
+icicle-crash:Icicle Crash
+icicle-crashDescription:The user attacks by harshly dropping large icicles onto the target. This may also make the target flinch.
+v-create:V-create
+v-createDescription:With a hot flame on its forehead, the user hurls itself at its target. This lowers the user’s Defense, Sp. Def, and Speed stats.
+fusion-flare:Fusion Flare
+fusion-flareDescription:The user brings down a giant flame. This move’s power is increased when influenced by an enormous lightning bolt.
+fusion-bolt:Fusion Bolt
+fusion-boltDescription:The user throws down a giant lightning bolt. This move’s power is increased when influenced by an enormous flame.
+flying-press:Flying Press
+flying-pressDescription:The user dives down onto the target from the sky. This move is Fighting and Flying type simultaneously.
+mat-block:Mat Block
+mat-blockDescription:Using a pulled-up mat as a shield, the user protects itself and its allies from damaging moves. This does not stop status moves.
+belch:Belch
+belchDescription:The user lets out a damaging belch at the target. The user must eat a held Berry to use this move.
+rototiller:Rototiller
+rototillerDescription:Tilling the soil, the user makes it easier for plants to grow. This raises the Attack and Sp. Atk stats of Grass-type Pokémon.
+sticky-web:Sticky Web
+sticky-webDescription:The user weaves a sticky net around the opposing team, which lowers their Speed stat upon switching into battle.
+fell-stinger:Fell Stinger
+fell-stingerDescription:When the user knocks out a target with this move, the user’s Attack stat rises drastically.
+phantom-force:Phantom Force
+phantom-forceDescription:The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself.
+trick-or-treat:Trick-or-Treat
+trick-or-treatDescription:The user takes the target trick-or-treating. This adds Ghost type to the target’s type.
+noble-roar:Noble Roar
+noble-roarDescription:Letting out a noble roar, the user intimidates the target and lowers its Attack and Sp. Atk stats.
+ion-deluge:Ion Deluge
+ion-delugeDescription:The user disperses electrically charged particles, which changes Normal-type moves to Electric-type moves.
+parabolic-charge:Parabolic Charge
+parabolic-chargeDescription:The user attacks everything around it. The user’s HP is restored by half the damage taken by those hit.
+forests-curse:Forest’s Curse
+forests-curseDescription:The user puts a forest curse on the target. The target is now Grass type as well.
+petal-blizzard:Petal Blizzard
+petal-blizzardDescription:The user stirs up a violent petal blizzard and attacks everything around it.
+freeze-dry:Freeze-Dry
+freeze-dryDescription:The user rapidly cools the target. This may also leave the target frozen. This move is super effective on Water types.
+disarming-voice:Disarming Voice
+disarming-voiceDescription:Letting out a charming cry, the user does emotional damage to opposing Pokémon. This attack never misses.
+parting-shot:Parting Shot
+parting-shotDescription:With a parting threat, the user lowers the target’s Attack and Sp. Atk stats. Then it switches with a party Pokémon.
+topsy-turvy:Topsy-Turvy
+topsy-turvyDescription:All stat changes affecting the target turn topsy-turvy and become the opposite of what they were.
+draining-kiss:Draining Kiss
+draining-kissDescription:The user steals the target’s HP with a kiss. The user’s HP is restored by over half of the damage taken by the target.
+crafty-shield:Crafty Shield
+crafty-shieldDescription:The user protects itself and its allies from status moves with a mysterious power. This does not stop moves that do damage.
+flower-shield:Flower Shield
+flower-shieldDescription:The user raises the Defense stat of all Grass-type Pokémon in battle with a mysterious power.
+grassy-terrain:Grassy Terrain
+grassy-terrainDescription:The user turns the ground to grass for five turns. This restores the HP of Pokémon on the ground a little every turn and powers up Grass type-moves.
+misty-terrain:Misty Terrain
+misty-terrainDescription:This protects Pokémon on the ground from status conditions and halves damage from Dragon-type moves for five turns.
+electrify:Electrify
+electrifyDescription:If the target is electrified before it uses a move during that turn, the target’s move becomes Electric type.
+play-rough:Play Rough
+play-roughDescription:The user plays rough with the target and attacks it. This may also lower the target’s Attack stat.
+fairy-wind:Fairy Wind
+fairy-windDescription:The user stirs up a fairy wind and strikes the target with it.
+moonblast:Moonblast
+moonblastDescription:Borrowing the power of the moon, the user attacks the target. This may also lower the target’s Sp. Atk stat.
+boomburst:Boomburst
+boomburstDescription:The user attacks everything around it with the destructive power of a terrible, explosive sound.
+fairy-lock:Fairy Lock
+fairy-lockDescription:By locking down the battlefield, the user keeps all Pokémon from fleeing during the next turn.
+kings-shield:King’s Shield
+kings-shieldDescription:The user takes a defensive stance while it protects itself from damage. It also harshly lowers the Attack stat of any attacker who makes direct contact.
+play-nice:Play Nice
+play-niceDescription:The user and the target become friends, and the target loses its will to fight. This lowers the target’s Attack stat.
+confide:Confide
+confideDescription:The user tells the target a secret, and the target loses its ability to concentrate. This lowers the target’s Sp. Atk stat.
+diamond-storm:Diamond Storm
+diamond-stormDescription:The user whips up a storm of diamonds to damage opposing Pokémon. This may also sharply raise the user’s Defense stat.
+steam-eruption:Steam Eruption
+steam-eruptionDescription:The user immerses the target in superheated steam. This may also leave the target with a burn.
+hyperspace-hole:Hyperspace Hole
+hyperspace-holeDescription:Using a hyperspace hole, the user appears right next to the target and strikes. This also hits a target using a move such as Protect or Detect.
+water-shuriken:Water Shuriken
+water-shurikenDescription:The user hits the target with throwing stars two to five times in a row. This move always goes first.
+mystical-fire:Mystical Fire
+mystical-fireDescription:The user attacks by breathing a special, hot fire. This also lowers the target’s Sp. Atk stat.
+spiky-shield:Spiky Shield
+spiky-shieldDescription:In addition to protecting the user from attacks, this move also damages any attacker who makes direct contact.
+aromatic-mist:Aromatic Mist
+aromatic-mistDescription:The user raises the Sp. Def stat of an ally Pokémon by using a mysterious aroma.
+eerie-impulse:Eerie Impulse
+eerie-impulseDescription:The user’s body generates an eerie impulse. Exposing the target to it harshly lowers the target’s Sp. Atk stat.
+venom-drench:Venom Drench
+venom-drenchDescription:Opposing Pokémon are drenched in an odd poisonous liquid. This lowers the Attack, Sp. Atk, and Speed stats of a poisoned target.
+powder:Powder
+powderDescription:The user covers the target in a combustible powder. If the target uses a Fire-type move, the powder explodes and damages the target.
+geomancy:Geomancy
+geomancyDescription:The user absorbs energy and sharply raises its Sp. Atk, Sp. Def, and Speed stats on the next turn.
+magnetic-flux:Magnetic Flux
+magnetic-fluxDescription:The user manipulates magnetic fields, which raises the Defense and Sp. Def stats of ally Pokémon with the Plus or Minus Ability.
+happy-hour:Happy Hour
+happy-hourDescription:Using Happy Hour doubles the amount of prize money received after battle.
+electric-terrain:Electric Terrain
+electric-terrainDescription:The user electrifies the ground for five turns, powering up Electric-type moves. Pokémon on the ground no longer fall asleep.
+dazzling-gleam:Dazzling Gleam
+dazzling-gleamDescription:The user damages opposing Pokémon by emitting a powerful flash.
+celebrate:Celebrate
+celebrateDescription:The Pokémon congratulates you on your special day!
+hold-hands:Hold Hands
+hold-handsDescription:The user and an ally hold hands. This makes them very happy.
+baby-doll-eyes:Baby-Doll Eyes
+baby-doll-eyesDescription:The user stares at the target with its baby-doll eyes, which lowers its Attack stat. This move always goes first.
+nuzzle:Nuzzle
+nuzzleDescription:The user attacks by nuzzling its electrified cheeks against the target. This also leaves the target with paralysis.
+hold-back:Hold Back
+hold-backDescription:The user holds back when it attacks, and the target is left with at least 1 HP.
+infestation:Infestation
+infestationDescription:The target is infested and attacked for four to five turns. The target can’t flee during this time.
+power-up-punch:Power-Up Punch
+power-up-punchDescription:Striking opponents over and over makes the user’s fists harder. Hitting a target raises the Attack stat.
+oblivion-wing:Oblivion Wing
+oblivion-wingDescription:The user absorbs its target’s HP. The user’s HP is restored by over half of the damage taken by the target.
+thousand-arrows:Thousand Arrows
+thousand-arrowsDescription:This move also hits opposing Pokémon that are in the air. Those Pokémon are knocked down to the ground.
+thousand-waves:Thousand Waves
+thousand-wavesDescription:The user attacks with a wave that crawls along the ground. Those hit can’t flee from battle.
+lands-wrath:Land’s Wrath
+lands-wrathDescription:The user gathers the energy of the land and focuses that power on opposing Pokémon to damage them.
+light-of-ruin:Light of Ruin
+light-of-ruinDescription:Drawing power from the Eternal Flower, the user fires a powerful beam of light. This also damages the user quite a lot.
+origin-pulse:Origin Pulse
+origin-pulseDescription:The user attacks opposing Pokémon with countless beams of light that glow a deep and brilliant blue.
+precipice-blades:Precipice Blades
+precipice-bladesDescription:The user attacks opposing Pokémon by manifesting the power of the land in fearsome blades of stone.
+dragon-ascent:Dragon Ascent
+dragon-ascentDescription:After soaring upward, the user attacks its target by dropping out of the sky at high speeds. But it lowers its own Defense and Sp. Def stats in the process.
+hyperspace-fury:Hyperspace Fury
+hyperspace-furyDescription:Using its many arms, the user unleashes a barrage of attacks that ignore the effects of moves like Protect and Detect. But the user’s Defense stat falls.
+breakneck-blitz--physical:Breakneck Blitz
+breakneck-blitz--physicalDescription:The user builds up its momentum using its Z-Power and crashes into the target at full speed. The power varies, depending on the original move.
+all-out-pummeling--physical:All-Out Pummeling
+all-out-pummeling--physicalDescription:The user rams an energy orb created by its Z-Power into the target with full force. The power varies, depending on the original move.
+supersonic-skystrike--physical:Supersonic Skystrike
+supersonic-skystrike--physicalDescription:The user soars up with its Z-Power and plummets toward the target at full speed. The power varies, depending on the original move.
+supersonic-skystrike--special:Supersonic Skystrike
+supersonic-skystrike--specialDescription:Dummy Data
+acid-downpour--physical:Acid Downpour
+acid-downpour--physicalDescription:The user creates a poisonous swamp using its Z-Power and sinks the target into it at full force. The power varies, depending on the original move.
+acid-downpour--special:Acid Downpour
+acid-downpour--specialDescription:Dummy Data
+tectonic-rage--physical:Tectonic Rage
+tectonic-rage--physicalDescription:The user burrows deep into the ground and slams into the target with the full force of its Z-Power. The power varies, depending on the original move.
+tectonic-rage--special:Tectonic Rage
+tectonic-rage--specialDescription:Dummy Data
+continental-crush--physical:Continental Crush
+continental-crush--physicalDescription:The user summons a huge rock mountain using its Z-Power and drops it onto the target with full force. The power varies, depending on the original move.
+continental-crush--special:Continental Crush
+continental-crush--specialDescription:Dummy Data
+savage-spin-out--physical:Savage Spin-Out
+savage-spin-out--physicalDescription:The user binds the target with full force with threads of silk that the user spits using its Z-Power. The power varies, depending on the original move.
+breakneck-blitz--special:Breakneck Blitz
+breakneck-blitz--specialDescription:Dummy Data
+savage-spin-out--special:Savage Spin-Out
+savage-spin-out--specialDescription:Dummy Data
+all-out-pummeling--special:All-Out Pummeling
+all-out-pummeling--specialDescription:Dummy Data
+never-ending-nightmare--physical:Never-Ending Nightmare
+never-ending-nightmare--physicalDescription:Deep-seated grudges summoned by the user’s Z-Power trap the target. The power varies, depending on the original move.
+never-ending-nightmare--special:Never-Ending Nightmare
+never-ending-nightmare--specialDescription:Dummy Data
+corkscrew-crash--physical:Corkscrew Crash
+corkscrew-crash--physicalDescription:The user spins very fast and rams into the target with the full force of its Z-Power. The power varies, depending on the original move.
+corkscrew-crash--special:Corkscrew Crash
+corkscrew-crash--specialDescription:Dummy Data
+inferno-overdrive--physical:Inferno Overdrive
+inferno-overdrive--physicalDescription:The user breathes a stream of intense fire toward the target with the full force of its Z-Power. The power varies depending on the original move.
+inferno-overdrive--special:Inferno Overdrive
+inferno-overdrive--specialDescription:Dummy Data
+hydro-vortex--physical:Hydro Vortex
+hydro-vortex--physicalDescription:The user creates a huge whirling current using its Z-Power to swallow the target with full force. The power varies, depending on the original move.
+hydro-vortex--special:Hydro Vortex
+hydro-vortex--specialDescription:Dummy Data
+bloom-doom--physical:Bloom Doom
+bloom-doom--physicalDescription:The user collects energy from plants using its Z-Power and attacks the target with full force. The power varies, depending on the original move.
+bloom-doom--special:Bloom Doom
+bloom-doom--specialDescription:Dummy Data
+gigavolt-havoc--physical:Gigavolt Havoc
+gigavolt-havoc--physicalDescription:The user hits the target with a powerful electric current collected by its Z-Power. The power varies, depending on the original move.
+gigavolt-havoc--special:Gigavolt Havoc
+gigavolt-havoc--specialDescription:Dummy Data
+shattered-psyche--physical:Shattered Psyche
+shattered-psyche--physicalDescription:The user controls the target with its Z-Power and hurts the target with full force. The power varies, depending on the original move.
+shattered-psyche--special:Shattered Psyche
+shattered-psyche--specialDescription:Dummy Data
+subzero-slammer--physical:Subzero Slammer
+subzero-slammer--physicalDescription:The user dramatically drops the temperature using its Z-Power and freezes the target with full force. The power varies, depending on the original move.
+subzero-slammer--special:Subzero Slammer
+subzero-slammer--specialDescription:Dummy Data
+devastating-drake--physical:Devastating Drake
+devastating-drake--physicalDescription:The user materializes its aura using its Z-Power and attacks the target with full force. The power varies, depending on the original move.
+devastating-drake--special:Devastating Drake
+devastating-drake--specialDescription:Dummy Data
+black-hole-eclipse--physical:Black Hole Eclipse
+black-hole-eclipse--physicalDescription:The user gathers dark energy using its Z-Power and sucks the target into it. The power varies, depending on the original move.
+black-hole-eclipse--special:Black Hole Eclipse
+black-hole-eclipse--specialDescription:Dummy Data
+twinkle-tackle--physical:Twinkle Tackle
+twinkle-tackle--physicalDescription:The user creates a very charming space using its Z-Power and totally toys with the target. The power varies, depending on the original move.
+twinkle-tackle--special:Twinkle Tackle
+twinkle-tackle--specialDescription:Dummy Data
+catastropika:Catastropika
+catastropikaDescription:The user, Pikachu, surrounds itself with the maximum amount of electricity using its Z-Power and pounces on its target with full force.
+shore-up:Shore Up
+shore-upDescription:The user regains up to half of its max HP. It restores more HP in a sandstorm.
+first-impression:First Impression
+first-impressionDescription:Although this move has great power, it only works the first turn the user is in battle.
+baneful-bunker:Baneful Bunker
+baneful-bunkerDescription:In addition to protecting the user from attacks, this move also poisons any attacker that makes direct contact.
+spirit-shackle:Spirit Shackle
+spirit-shackleDescription:The user attacks while simultaneously stitching the target’s shadow to the ground to prevent the target from escaping.
+darkest-lariat:Darkest Lariat
+darkest-lariatDescription:The user swings both arms and hits the target. The target’s stat changes don’t affect this attack’s damage.
+sparkling-aria:Sparkling Aria
+sparkling-ariaDescription:The user bursts into song, emitting many bubbles. Any Pokémon suffering from a burn will be healed by the touch of these bubbles.
+ice-hammer:Ice Hammer
+ice-hammerDescription:The user swings and hits with its strong, heavy fist. It lowers the user’s Speed, however.
+floral-healing:Floral Healing
+floral-healingDescription:The user restores the target’s HP by up to half of its max HP. It restores more HP when the terrain is grass.
+high-horsepower:High Horsepower
+high-horsepowerDescription:The user fiercely attacks the target using its entire body.
+strength-sap:Strength Sap
+strength-sapDescription:The user restores its HP by the same amount as the target’s Attack stat. It also lowers the target’s Attack stat.
+solar-blade:Solar Blade
+solar-bladeDescription:In this two-turn attack, the user gathers light and fills a blade with the light’s energy, attacking the target on the next turn.
+leafage:Leafage
+leafageDescription:The user attacks by pelting the target with leaves.
+spotlight:Spotlight
+spotlightDescription:The user shines a spotlight on the target so that only the target will be attacked during the turn.
+toxic-thread:Toxic Thread
+toxic-threadDescription:The user shoots poisonous threads to poison the target and lower the target’s Speed stat.
+laser-focus:Laser Focus
+laser-focusDescription:The user concentrates intensely. The attack on the next turn always results in a critical hit.
+gear-up:Gear Up
+gear-upDescription:The user engages its gears to raise the Attack and Sp. Atk stats of ally Pokémon with the Plus or Minus Ability.
+throat-chop:Throat Chop
+throat-chopDescription:The user attacks the target’s throat, and the resultant suffering prevents the target from using moves that emit sound for two turns.
+pollen-puff:Pollen Puff
+pollen-puffDescription:The user attacks the enemy with a pollen puff that explodes. If the target is an ally, it gives the ally a pollen puff that restores its HP instead.
+anchor-shot:Anchor Shot
+anchor-shotDescription:The user entangles the target with its anchor chain while attacking. The target becomes unable to flee.
+psychic-terrain:Psychic Terrain
+psychic-terrainDescription:This protects Pokémon on the ground from priority moves and powers up Psychic-type moves for five turns.
+lunge:Lunge
+lungeDescription:The user makes a lunge at the target, attacking with full force. This also lowers the target’s Attack stat.
+fire-lash:Fire Lash
+fire-lashDescription:The user strikes the target with a burning lash. This also lowers the target’s Defense stat.
+power-trip:Power Trip
+power-tripDescription:The user boasts its strength and attacks the target. The more the user’s stats are raised, the greater the move’s power.
+burn-up:Burn Up
+burn-upDescription:To inflict massive damage, the user burns itself out. After using this move, the user will no longer be Fire type.
+speed-swap:Speed Swap
+speed-swapDescription:The user exchanges Speed stats with the target.
+smart-strike:Smart Strike
+smart-strikeDescription:The user stabs the target with a sharp horn. This attack never misses.
+purify:Purify
+purifyDescription:The user heals the target’s status condition. If the move succeeds, it also restores the user’s own HP.
+revelation-dance:Revelation Dance
+revelation-danceDescription:The user attacks the target by dancing very hard. The user’s type determines the type of this move.
+core-enforcer:Core Enforcer
+core-enforcerDescription:If the Pokémon the user has inflicted damage on have already used their moves, this move eliminates the effect of the target’s Ability.
+trop-kick:Trop Kick
+trop-kickDescription:The user lands an intense kick of tropical origins on the target. This also lowers the target’s Attack stat.
+instruct:Instruct
+instructDescription:The user instructs the target to use the target’s last move again.
+beak-blast:Beak Blast
+beak-blastDescription:The user first heats up its beak, and then it attacks the target. Making direct contact with the Pokémon while it’s heating up its beak results in a burn.
+clanging-scales:Clanging Scales
+clanging-scalesDescription:The user rubs the scales on its entire body and makes a huge noise to attack the opposing Pokémon. The user’s Defense stat goes down after the attack.
+dragon-hammer:Dragon Hammer
+dragon-hammerDescription:The user uses its body like a hammer to attack the target and inflict damage.
+brutal-swing:Brutal Swing
+brutal-swingDescription:The user swings its body around violently to inflict damage on everything in its vicinity.
+aurora-veil:Aurora Veil
+aurora-veilDescription:This move reduces damage from physical and special moves for five turns. This can be used only in a hailstorm.
+sinister-arrow-raid:Sinister Arrow Raid
+sinister-arrow-raidDescription:The user, Decidueye, creates countless arrows using its Z-Power and shoots the target with full force.
+malicious-moonsault:Malicious Moonsault
+malicious-moonsaultDescription:The user, Incineroar, strengthens its body using its Z-Power and crashes into the target with full force.
+oceanic-operetta:Oceanic Operetta
+oceanic-operettaDescription:The user, Primarina, summons a massive amount of water using its Z-Power and attacks the target with full force.
+guardian-of-alola:Guardian of Alola
+guardian-of-alolaDescription:The user, the Land Spirit Pokémon, obtains Alola’s energy using its Z-Power and attacks the target with full force. This reduces the target’s HP greatly.
+soul-stealing-7-star-strike:Soul-Stealing 7-Star Strike
+soul-stealing-7-star-strikeDescription:After obtaining Z-Power, the user, Marshadow, punches and kicks the target consecutively with full force.
+stoked-sparksurfer:Stoked Sparksurfer
+stoked-sparksurferDescription:After obtaining Z-Power, the user, Alolan Raichu, attacks the target with full force. This move leaves the target with paralysis.
+pulverizing-pancake:Pulverizing Pancake
+pulverizing-pancakeDescription:Z-Power brings out the true capabilities of the user, Snorlax. The Pokémon moves its enormous body energetically and attacks the target with full force.
+extreme-evoboost:Extreme Evoboost
+extreme-evoboostDescription:After obtaining Z-Power, the user, Eevee, gets energy from its evolved friends and boosts its stats sharply.
+genesis-supernova:Genesis Supernova
+genesis-supernovaDescription:After obtaining Z-Power, the user, Mew, attacks the target with full force. The terrain will be charged with psychic energy.
+shell-trap:Shell Trap
+shell-trapDescription:The user sets a shell trap. If the user is hit by a physical move, the trap will explode and inflict damage on the opposing Pokémon.
+fleur-cannon:Fleur Cannon
+fleur-cannonDescription:The user unleashes a strong beam. The attack’s recoil harshly lowers the user’s Sp. Atk stat.
+psychic-fangs:Psychic Fangs
+psychic-fangsDescription:The user bites the target with its psychic capabilities. This can also destroy Light Screen and Reflect.
+stomping-tantrum:Stomping Tantrum
+stomping-tantrumDescription:Driven by frustration, the user attacks the target. If the user’s previous move has failed, the power of this move doubles.
+shadow-bone:Shadow Bone
+shadow-boneDescription:The user attacks by beating the target with a bone that contains a spirit. This may also lower the target’s Defense stat.
+accelerock:Accelerock
+accelerockDescription:The user smashes into the target at high speed. This move always goes first.
+liquidation:Liquidation
+liquidationDescription:The user slams into the target using a full-force blast of water. This may also lower the target’s Defense stat.
+prismatic-laser:Prismatic Laser
+prismatic-laserDescription:The user shoots powerful lasers using the power of a prism. The user can’t move on the next turn.
+spectral-thief:Spectral Thief
+spectral-thiefDescription:The user hides in the target’s shadow, steals the target’s stat boosts, and then attacks.
+sunsteel-strike:Sunsteel Strike
+sunsteel-strikeDescription:The user slams into the target with the force of a meteor. This move can be used on the target regardless of its Abilities.
+moongeist-beam:Moongeist Beam
+moongeist-beamDescription:The user emits a sinister ray to attack the target. This move can be used on the target regardless of its Abilities.
+tearful-look:Tearful Look
+tearful-lookDescription:The user gets teary eyed to make the target lose its combative spirit. This lowers the target’s Attack and Sp. Atk stats.
+zing-zap:Zing Zap
+zing-zapDescription:A strong electric blast crashes down on the target, giving it an electric shock. This may also make the target flinch.
+natures-madness:Nature’s Madness
+natures-madnessDescription:The user hits the target with the force of nature. It halves the target’s HP.
+multi-attack:Multi-Attack
+multi-attackDescription:Cloaking itself in high energy, the user slams into the target. The memory held determines the move’s type.
+10-000-000-volt-thunderbolt:10,000,000 Volt Thunderbolt
+10-000-000-volt-thunderboltDescription:The user, Pikachu wearing a cap, powers up a jolt of electricity using its Z-Power and unleashes it. Critical hits land more easily.
+mind-blown:Mind Blown
+mind-blownDescription:The user attacks everything around it by causing its own head to explode. This also damages the user.
+plasma-fists:Plasma Fists
+plasma-fistsDescription:The user attacks with electrically charged fists. This move changes Normal-type moves to Electric-type moves.
+photon-geyser:Photon Geyser
+photon-geyserDescription:The user attacks a target with a pillar of light. This move inflicts Attack or Sp. Atk damage—whichever stat is higher for the user.
+light-that-burns-the-sky:Light That Burns the Sky
+light-that-burns-the-skyDescription:This attack inflicts Attack or Sp. Atk damage— whichever stat is higher for the user, Necrozma. This move ignores the target’s Ability.
+searing-sunraze-smash:Searing Sunraze Smash
+searing-sunraze-smashDescription:After obtaining Z-Power, the user, Solgaleo, attacks the target with full force. This move can ignore the effect of the target’s Ability.
+menacing-moonraze-maelstrom:Menacing Moonraze Maelstrom
+menacing-moonraze-maelstromDescription:After obtaining Z-Power, the user, Lunala, attacks the target with full force. This move can ignore the effect of the target’s Ability.
+lets-snuggle-forever:Let’s Snuggle Forever
+lets-snuggle-foreverDescription:After obtaining Z-Power, the user, Mimikyu, punches the target with full force.
+splintered-stormshards:Splintered Stormshards
+splintered-stormshardsDescription:After obtaining Z-Power, the user, Lycanroc, attacks the target with full force. This move negates the effect on the battlefield.
+clangorous-soulblaze:Clangorous Soulblaze
+clangorous-soulblazeDescription:After obtaining Z-Power, the user, Kommo-o, attacks the opposing Pokémon with full force. This move boosts the user’s stats.
+apple-acid:Apple Acid
+apple-acidDescription:Apple Acid inflicts damage and lowers the target's Special Defense stat by one stage.
+astral-barrage:Astral Barrage
+astral-barrageDescription:Astral Barrage deals damage to all adjacent opponents.
+behemoth-blade:Behemoth Blade
+behemoth-bladeDescription:Behemoth Blade deals damage. If the target is Dynamaxed or Gigantamaxed, its base power is doubled to 200.
+behemoth-bash:Behemoth Bash
+behemoth-bashDescription:Behemoth Bash deals damage. If the target is Dynamaxed or Gigantamaxed, its base power is doubled to 200.
+branch-poke:Branch Poke
+branch-pokeDescription:Branch Poke deals damage and has no secondary effect.
+breaking-swipe:Breaking Swipe
+breaking-swipeDescription:Breaking Swipe deals damage to all opponents. It lowers the Attack of all hit targets by one stage.
+dragon-darts:Dragon Darts
+dragon-dartsDescription:Dragon Darts is a multi-strike move that deals damage twice.
+drum-beating:Drum Beating
+drum-beatingDescription:Drum Beating inflicts damage and lowers the target's Speed stat by one stage.
+dual-wingbeat:Dual Wingbeat
+dual-wingbeatDescription:Dual Wingbeat inflicts damage, hitting twice per use. Each strike has an equal chance to be a critical hit.
+false-surrender:False Surrender
+false-surrenderDescription:False Surrender inflicts damage and bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly.
+fiery-wrath:Fiery Wrath
+fiery-wrathDescription:Fiery Wrath damages all opponents. It has a 20% chance to cause each target to flinch.
+freezing-glare:Freezing Glare
+freezing-glareDescription:Freezing Glare inflicts damage and has a 10% chance to freeze the target.
+grav-apple:Grav Apple
+grav-appleDescription:Grav Apple inflicts damage and lowers the target's Defense stat by one stage.
+overdrive:Overdrive
+overdriveDescription:Overdrive inflicts damage to all opponents.
+pyro-ball:Pyro Ball
+pyro-ballDescription:Pyro Ball will thaw out the user if it is frozen, and then inflict damage on the target. Pyro Ball also has a 10% chance of burning the target.
+scorching-sands:Scorching Sands
+scorching-sandsDescription:Scorching Sands inflicts damage and has a 30% chance of burning the target.
+skitter-smack:Skitter Smack
+skitter-smackDescription:Skitter Smack inflicts damage and lowers the target's Special Attack stat by one stage.
+snipe-shot:Snipe Shot
+snipe-shotDescription:Snipe Shot deals damage and has an increased critical hit ratio.
+spirit-break:Spirit Break
+spirit-breakDescription:Spirit Break inflicts damage and lowers the target's Special Attack stat by one stage.
+thunderous-kick:Thunderous Kick
+thunderous-kickDescription:Thunderous Kick inflicts damage and lowers the target's Defense stat.
+body-press:Body Press
+body-pressDescription:Body Press inflicts damage, but it uses the user's Defense stat instead of its Attack stat to calculate damage.
+strange-steam:Strange Steam
+strange-steamDescription:Strange Steam deals damage and has a 20% chance of confusing the target.
+triple-axel:Triple Axel
+triple-axelDescription:A consecutive three-kick attack that becomes more powerful with each successful hit.
+life-dew:Life Dew
+life-dewDescription:The user scatters mysterious water around and restores the HP of itself and its ally Pokémon in the battle.
+flip-turn:Flip Turn
+flip-turnDescription:Flip Turn deals damage and then switches the user out
+snap-trap:Snap Trap
+snap-trapDescription:In addition to dealing damage, Snap Trap inflicts 1/8 of the target's maximum HP as damage per turn for four to five turns upon use. It also traps the target, preventing switching and escape.
+thunder-cage:Thunder Cage
+thunder-cageDescription:In addition to dealing damage, Thunder Cage inflicts 1/8 of the target's maximum HP as damage per turn for four to five turns upon use. It also traps the target, preventing switching and escape.
+trailblaze:Trailblaze
+trailblazeDescription:Trailblaze inflicts damage and raises the user's Speed by one stage.
+self-attack:autogolpe
+self-attackDescription:hghfjmhfvb

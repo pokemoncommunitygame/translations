@@ -1,0 +1,1514 @@
+swords-dance:Schwerttanz
+swords-danceDescription:Ein wilder Kampftanz, der den eigenen Angriffs-Wert stark erhöht.
+cut:Zerschneider
+cutDescription:Ein Basisangriff mit Schere oder Klaue.
+pound:Pfund
+poundDescription:Ein Hieb mit den Vorderbeinen oder dem Schweif.
+gust:Windstoß
+gustDescription:Trifft das Ziel mit einem Windstoß durch einen Flügelschlag.
+dynamic-punch:Wuchtschlag
+dynamic-punchDescription:Kräftiger Schlag, der das Ziel bei Erfolg verwirrt.
+sand-attack:Sandwirbel
+sand-attackDescription:Senkt Genauigkeit des Zieles, indem ihm Sand ins Gesicht geworfen wird.
+rock-blast:Felswurf
+rock-blastDescription:Wirft zwei- bis fünfmal in Folge Felsblöcke auf das Ziel.
+switcheroo:Wechseldich
+switcherooDescription:Item wird in Windeseile mit dem Ziel getauscht.
+wing-attack:Flügelschlag
+wing-attackDescription:Trifft das Ziel mit ausgebreiteten Flügeln.
+storm-throw:Bergsturm
+storm-throwDescription:Ein Angriff mit voller Wucht und Volltreffergarantie.
+headbutt:Kopfnuss
+headbuttDescription:Rammt das Ziel mit einer Kopfnuss. Ziel schreckt eventuell zurück.
+breakneck-blitz--special:Hyper-Sprintangriff
+breakneck-blitz--specialDescription:Dummy data
+supersonic-skystrike--special:Finaler Steilflug
+supersonic-skystrike--specialDescription:Dummy data
+subzero-slammer--special:Tobender Geofrost
+subzero-slammer--specialDescription:Dummy data
+self-attack:selfattack
+self-attackDescription:serresd
+whirlwind:Wirbelwind
+whirlwindDescription:Weht das Ziel weg und ersetzt es durch ein anderes Pokémon. In der Wildnis endet der Kampf.
+fly:Fliegen
+flyDescription:Steigt in Runde 1 empor und trifft das Ziel in Runde 2.
+fury-attack:Furienschlag
+fury-attackDescription:Spießt das Ziel zwei- bis fünfmal mit spitzem Horn oder Schnabel auf.
+bind:Klammergriff
+bindDescription:Umklammert und quetscht das Ziel über vier bis fünf Runden.
+horn-drill:Hornbohrer
+horn-drillDescription:Attacke, bei der ein Horn als Bohrer eingesetzt wird. Ist sie erfolgreich, führt sie zu einem K.O.
+slam:Slam
+slamDescription:Schlag mit einem langen Schweif, einer Ranke oder Ähnlichem.
+tackle:Tackle
+tackleDescription:Trifft das Ziel mit vollem Körpereinsatz.
+vine-whip:Rankenhieb
+vine-whipDescription:Peitschenähnlicher Schlag mit Ranken.
+body-slam:Bodyslam
+body-slamDescription:Trifft das Ziel mit vollem Körpereinsatz. Bewirkt eventuell Paralyse.
+stomp:Stampfer
+stompDescription:Stampfen mit dem Fuß. Das Ziel schreckt eventuell zurück.
+double-kick:Doppelkick
+double-kickDescription:Der Anwender tritt in einer Runde zweimal schnell zu.
+wrap:Wickel
+wrapDescription:Umwickelt das Ziel über vier bis fünf Runden mit Ranken oder Ähnlichem und fügt ihm Schaden zu.
+mega-kick:Megakick
+mega-kickDescription:Das Ziel wird mit einem extrem heftigen Tritt angegriffen.
+take-down:Bodycheck
+take-downDescription:Rücksichtslose Attacke, bei der sich der Angreifer selbst leicht verletzt.
+jump-kick:Sprungkick
+jump-kickDescription:Der Angreifer hüpft hoch und tritt zu. Bei Misserfolg schadet er sich selbst.
+thrash:Fuchtler
+thrashDescription:Attacke über zwei bis drei Runden, die den Angreifer verwirrt.
+double-edge:Risikotackle
+double-edgeDescription:Lebensgefährlicher Angriff, bei dem sich der Angreifer selbst verletzt.
+karate-chop:Karateschlag
+karate-chopDescription:Gute Möglichkeit, einen Volltreffer zu landen.
+rolling-kick:Fegekick
+rolling-kickDescription:Heftiger Tritt aus einer schnellen Drehbewegung. Lässt das Ziel eventuell zurückschrecken.
+double-slap:Duplexhieb
+double-slapDescription:Trifft das Ziel zwei- bis fünfmal hintereinander mit einem Duplexhieb.
+comet-punch:Kometenhieb
+comet-punchDescription:Trifft das Ziel zwei- bis fünfmal hintereinander mit kräftigen Hieben.
+mega-punch:Megahieb
+mega-punchDescription:Ein unglaublich kräftiger Hieb.
+pay-day:Zahltag
+pay-dayDescription:Das Ziel wird mit Münzen beworfen.
+fire-punch:Feuerschlag
+fire-punchDescription:Feuriger Schlag, der dem Ziel eventuell Verbrennungen zufügt.
+ice-punch:Eishieb
+ice-punchDescription:Ein eisiger Schlag, der das Ziel eventuell einfriert.
+thunder-punch:Donnerschlag
+thunder-punchDescription:Ein elektrischer Schlag, der das Ziel eventuell paralysiert.
+scratch:Kratzer
+scratchDescription:Das Ziel wird mit scharfen Klauen zerkratzt.
+vice-grip:Klammer
+vice-gripDescription:Das Ziel wird umklammert und zusammengequetscht.
+guillotine:Guillotine
+guillotineDescription:Kräftige Scheren-Attacke. Führt beim Ziel sofort zum K.O.
+razor-wind:Klingensturm
+razor-windDescription:Eine Attacke, die über zwei Runden geht. Hohe Volltrefferquote.
+tail-whip:Rutenschlag
+tail-whipDescription:Hieb mit dem Schweif. Senkt die Verteidigung des Zieles.
+poison-sting:Giftstachel
+poison-stingDescription:Angriff mit Giftstachel. Das Ziel wird eventuell vergiftet.
+twineedle:Duonadel
+twineedleDescription:Stacheln treffen das Ziel zweimal. Das Ziel wird eventuell vergiftet.
+pin-missile:Nadelrakete
+pin-missileDescription:Spitze Nadeln treffen das Ziel zwei- bis fünfmal hintereinander.
+leer:Silberblick
+leerDescription:Gegnerischer Verteidigungs-Wert wird durch angsteinflößenden Blick gesenkt.
+bite:Biss
+biteDescription:Beißt zu und lässt das Ziel eventuell zurückschrecken.
+horn-attack:Hornattacke
+horn-attackDescription:Spießt das Ziel mit einem spitzen Horn auf.
+growl:Heuler
+growlDescription:Der Anwender nimmt das Ziel für sich ein und senkt dessen Angriffs-Wert.
+roar:Brüller
+roarDescription:Verjagt das Ziel und ersetzt es durch ein anderes Pokémon. Beendet den Kampf in der Wildnis.
+sing:Gesang
+singDescription:Ein Lied, das das Ziel in tiefen Schlaf versetzt.
+supersonic:Superschall
+supersonicDescription:Ausstoß bizarrer Schallwellen. Das Ziel wird verwirrt.
+sonic-boom:Ultraschall
+sonic-boomDescription:Das Ziel wird von einer Schockwelle getroffen, die stets 20 KP Schaden anrichtet.
+disable:Aussetzer
+disableDescription:Die zuletzt eingesetzte Attacke des Zieles wird für vier Runden blockiert.
+acid:Säure
+acidDescription:Versprüht ätzende Flüssigkeit, die eventuell die Spezial-Verteidigung der Gegner in der Nähe des Anwenders senkt.
+ember:Glut
+emberDescription:Schwache Feuer-Attacke, durch die das Ziel eventuell Verbrennungen erleidet.
+flamethrower:Flammenwurf
+flamethrowerDescription:Starke Feuer-Attacke, durch die das Ziel eventuell Verbrennungen erleidet.
+mist:Weißnebel
+mistDescription:Anwender schützt das Team mit einem Nebel. Verhindert Statussenkungen für fünf Runden.
+water-gun:Aquaknarre
+water-gunDescription:Das Ziel wird mit Wasser bespritzt.
+hydro-pump:Hydropumpe
+hydro-pumpDescription:Spritzt eine Menge Wasser mit Hochdruck auf das Ziel.
+surf:Surfer
+surfDescription:Eine Welle bricht über alle Pokémon in der Nähe des Anwenders herein.
+ice-beam:Eisstrahl
+ice-beamDescription:Das Ziel wird von einem Eisstrahl getroffen und friert eventuell ein.
+blizzard:Blizzard
+blizzardDescription:Ein Schneesturm wütet, der das Ziel einfrieren kann.
+psybeam:Psystrahl
+psybeamDescription:Feuert einen Strahl ab, der das Ziel verwirren kann.
+bubble-beam:Blubbstrahl
+bubble-beamDescription:Versprüht Blasen, die eventuell den Initiative-Wert des Zieles senken.
+aurora-beam:Aurorastrahl
+aurora-beamDescription:Regenbogenfarbener Strahl, der eventuell den Angriffs-Wert des Zieles senkt.
+hyper-beam:Hyperstrahl
+hyper-beamDescription:Starke Attacke, die den Anwender zwingt, eine Runde auszusetzen.
+peck:Schnabel
+peckDescription:Greift das Ziel mit dem Schnabel oder Horn an.
+drill-peck:Bohrschnabel
+drill-peckDescription:Korkenzieherangriff, bei dem der Schnabel als Bohrer dient.
+submission:Überroller
+submissionDescription:Harte Körperattacke, bei der sich der Angreifer selbst leicht verletzt.
+low-kick:Fußkick
+low-kickDescription:Ein Tritt, der das Ziel umwirft. Je schwerer das Ziel ist, desto mehr Schaden fügt ihm die Attacke zu.
+counter:Konter
+counterDescription:Kontert physische Treffer und fügt dem Ziel das Doppelte des Schadens zu, den der Anwender erlitten hat.
+seismic-toss:Geowurf
+seismic-tossDescription:Ziel wird mit der Kraft der Gravitation umgeworfen. Richtet Schaden gemäß Level des Angreifers an.
+strength:Stärke
+strengthDescription:Das Ziel wird extrem stark getroffen.
+absorb:Absorber
+absorbDescription:Attacke, die die Hälfte des Schadens absorbiert.
+mega-drain:Megasauger
+mega-drainDescription:Attacke, die die Hälfte des Schadens absorbiert.
+leech-seed:Egelsamen
+leech-seedDescription:Ziel wird bepflanzt und verliert jede Runde KP, die ein Pokémon aus dem Team des Anwenders heilen.
+growth:Wachstum
+growthDescription:Der Körper wächst. Dadurch steigen Angriff und Spezial-Angriff.
+razor-leaf:Rasierblatt
+razor-leafDescription:Trifft das Ziel mit Blättern. Hohe Volltrefferquote.
+solar-beam:Solarstrahl
+solar-beamDescription:Absorbiert Licht in Runde 1. In Runde 2 erfolgt der Angriff.
+stun-spore:Stachelspore
+stun-sporeDescription:Verstreut lähmenden Puder, der das Ziel eventuell paralysiert.
+sleep-powder:Schlafpuder
+sleep-powderDescription:Verstreut Schlafpuder, der das Ziel eventuell in Schlaf versetzt.
+petal-dance:Blättertanz
+petal-danceDescription:Angriff mit Blütenblättern für zwei bis drei Runden. Angreifer wird verwirrt.
+string-shot:Fadenschuss
+string-shotDescription:Umwickelt Gegner in der Nähe mit Fäden aus dem Mund und senkt den Initiative-Wert.
+dragon-rage:Drachenwut
+dragon-rageDescription:Stößt eine wutgeladene Schockwelle aus, die stets 40 KP Schaden anrichtet.
+fire-spin:Feuerwirbel
+fire-spinDescription:Das Ziel wird für vier bis fünf Runden in einem Feuerkreis gefangen.
+thunder-shock:Donnerschock
+thunder-shockDescription:Eine Elektro-Attacke, die das Ziel eventuell paralysiert.
+thunderbolt:Donnerblitz
+thunderboltDescription:Eine starke Elektro-Attacke, die das Ziel eventuell paralysiert.
+thunder-wave:Donnerwelle
+thunder-waveDescription:Ein schwacher Stromstoß, der das Ziel paralysiert.
+thunder:Donner
+thunderDescription:Eine verheerende Elektro-Attacke, die das Ziel eventuell paralysiert.
+rock-throw:Steinwurf
+rock-throwDescription:Das Ziel wird mit einem kleinen Stein beworfen.
+earthquake:Erdbeben
+earthquakeDescription:Ein mächtiges Beben, das die anderen Pokémon in der Nähe des Anwenders trifft.
+fissure:Geofissur
+fissureDescription:Das Ziel wird in eine Erdspalte geworfen. Ist die Attacke erfolgreich, führt sie zu einem K.O.
+dig:Schaufler
+digDescription:In Runde 1 gräbt sich der Anwender ein und in Runde 2 greift er an.
+toxic:Toxin
+toxicDescription:Vergiftet das Ziel mit einem potenten Toxin schwer. Die Vergiftung wird von Runde zu Runde stärker.
+confusion:Konfusion
+confusionDescription:Das Ziel wird von schwacher telekinetischer Energie getroffen und eventuell verwirrt.
+psychic:Psychokinese
+psychicDescription:Starke Psycho-Attacke, die eventuell die Spezial-Verteidigung des Zieles senkt.
+hypnosis:Hypnose
+hypnosisDescription:Hypnose-Attacke, die das Ziel in Schlaf versetzt.
+meditate:Meditation
+meditateDescription:Anwender aktiviert Kräfte, die tief in seinem Inneren schlummern, und erhöht so seinen Angriffs-Wert.
+agility:Agilität
+agilityDescription:Entspannt den Körper, um den Initiative-Wert stark zu erhöhen.
+quick-attack:Ruckzuckhieb
+quick-attackDescription:Sehr schneller Angriff mit hoher Erstschlagquote.
+rage:Raserei
+rageDescription:Erhöht Angriff des Anwenders, wenn dieser getroffen wird, solange die Attacke aktiviert ist.
+teleport:Teleport
+teleportDescription:Ermöglicht die sofortige Flucht vor wilden Pokémon.
+night-shade:Nachtnebel
+night-shadeDescription:Das Ziel sieht eine Illusion. Richtet Schaden gemäß dem Level des Anwenders an.
+mimic:Mimikry
+mimicDescription:Kopiert die zuvor ausgeführte Attacke des Zieles. Kann im Kampf bis zur Auswechslung verwendet werden.
+screech:Kreideschrei
+screechDescription:Stößt einen Schrei aus, um die Verteidigung des Zieles stark zu senken.
+poison-powder:Giftpuder
+poison-powderDescription:Verstreut giftigen Puder, der das Ziel eventuell vergiftet.
+double-team:Doppelteam
+double-teamDescription:Erzeugt durch schnelle Bewegungen Ebenbilder, um den Fluchtwert zu erhöhen.
+recover:Genesung
+recoverDescription:Eine Selbstheilung. KP des Anwenders werden um 50 % des maximalen Wertes aufgefüllt.
+harden:Härtner
+hardenDescription:Stärkt die Muskulatur und erhöht den Verteidigungs-Wert.
+minimize:Komprimator
+minimizeDescription:Anwender schrumpft, um seinen Fluchtwert stark zu erhöhen.
+smokescreen:Rauchwolke
+smokescreenDescription:Senkt Genauigkeit des Zieles mit Rauch, Tinte oder Ähnlichem.
+confuse-ray:Konfustrahl
+confuse-rayDescription:Ein fieser Strahl, der das Ziel verwirrt.
+withdraw:Panzerschutz
+withdrawDescription:Rückzug in den harten Panzer. Erhöht den Verteidigungs-Wert.
+defense-curl:Einigler
+defense-curlDescription:Verbirgt Schwächen durch Einrollen und hebt gleichzeitig den Verteidigungs-Wert.
+barrier:Barriere
+barrierDescription:Erzeugt eine Barriere, die den Verteidigungs-Wert stark erhöht.
+light-screen:Lichtschild
+light-screenDescription:Erzeugt eine Lichtwand und senkt den Schaden durch Spezial-Angriffe für fünf Runden.
+haze:Dunkelnebel
+hazeDescription:Erzeugt einen dunklen Nebel. Alle Veränderungen der Statuswerte der Kampfteilnehmer werden annulliert.
+reflect:Reflektor
+reflectDescription:Eine mysteriöse Wand, die fünf Runden den Schaden von physischen gegnerischen Treffern reduziert.
+focus-energy:Energiefokus
+focus-energyDescription:Anwender atmet ein und bündelt Kraft. Die Volltrefferquote steigt dadurch.
+bide:Geduld
+bideDescription:Erträgt zwei Runden Angriffe und schlägt dann mit dem doppelten Wert des erlittenen Schadens zurück.
+metronome:Metronom
+metronomeDescription:Bewegt Finger, um das Gehirn zu stimulieren. Wählt zufällig eine Attacke aus.
+mirror-move:Spiegeltrick
+mirror-moveDescription:Kopiert die letzte Attacke des Zieles und greift es an.
+self-destruct:Finale
+self-destructDescription:Anwender verursacht eine Explosion, mit der er rundum Riesenschaden anrichtet und selbst kampfunfähig wird.
+egg-bomb:Eierbombe
+egg-bombDescription:Ein großes Ei wird auf das Ziel abgefeuert, um ihm zu schaden.
+lick:Schlecker
+lickDescription:Leck-Attacke mit langer Zunge. Das Ziel wird eventuell paralysiert.
+smog:Smog
+smogDescription:Angriff mit Gas. Das Ziel kann eventuell vergiftet werden.
+sludge:Schlammbad
+sludgeDescription:Wirft Schlamm auf das Ziel. Dieses wird eventuell vergiftet.
+bone-club:Knochenkeule
+bone-clubDescription:Schlägt das Ziel mit einer Keule und lässt es eventuell zurückschrecken.
+fire-blast:Feuersturm
+fire-blastDescription:Feuersbrunst, die das Ziel versengt und ihm eventuell eine Verbrennung zufügt.
+waterfall:Kaskade
+waterfallDescription:Eine mächtige Attacke, durch die das Ziel eventuell zurückschreckt.
+clamp:Schnapper
+clampDescription:Fängt und quetscht das Ziel über vier bis fünf Runden durch die harte Schale des Anwenders.
+swift:Sternschauer
+swiftDescription:Verschießt sternförmige Strahlen, die stets treffen, auf Gegner in der Umgebung.
+skull-bash:Schädelwumme
+skull-bashDescription:Der Anwender erhöht in Runde 1 seine Verteidigung und greift in Runde 2 an.
+spike-cannon:Dornkanone
+spike-cannonDescription:Spitze Nadeln treffen das Ziel zwei- bis fünfmal hintereinander.
+constrict:Umklammerung
+constrictDescription:Angriff mit langen Tentakeln oder Ranken. Senkt eventuell den Initiative-Wert.
+amnesia:Amnesie
+amnesiaDescription:Gedächtnisverlust, der die Spezial-Verteidigung stark erhöht.
+kinesis:Psykraft
+kinesisDescription:Lenkt Ziel durch Verbiegen eines Löffels ab. Senkt dessen Genauigkeit.
+soft-boiled:Weichei
+soft-boiledDescription:KP des Anwenders werden um 50 % der maximalen KP aufgefüllt.
+high-jump-kick:Turmkick
+high-jump-kickDescription:Sprungtritt mit Knie. Bei Misserfolg verletzt sich der Anwender selbst.
+glare:Giftblick
+glareDescription:Schüchtert Ziel ein, sodass dieses paralysiert wird.
+dream-eater:Traumfresser
+dream-eaterDescription:Attacke gegen schlafendes Ziel. Die Hälfte des zugefügten Schadens wird dem Anwender gutgeschrieben.
+poison-gas:Giftwolke
+poison-gasDescription:Hüllt Gegner in der Umgebung in Gas ein, das sie vergiftet.
+barrage:Stakkato
+barrageDescription:Wirft zwei- bis fünfmal runde Gegenstände auf das Ziel.
+leech-life:Blutsauger
+leech-lifeDescription:Die Hälfte des zugefügten Schadens wird dem Anwender gutgeschrieben.
+lovely-kiss:Todeskuss
+lovely-kissDescription:Anwender zwingt dem Ziel einen Kuss auf, der Schlaf verursacht.
+sky-attack:Himmelsfeger
+sky-attackDescription:Anwender greift in der zweiten Runde mit hoher Volltrefferquote an. Ziel schreckt eventuell zurück.
+transform:Wandler
+transformDescription:Anwender verwandelt sich in ein Abbild des Zieles und kann so auf die gleichen Attacken zugreifen.
+bubble:Blubber
+bubbleDescription:Angriff mit Blasen. Initiative-Wert des Zieles wird eventuell gesenkt.
+dizzy-punch:Irrschlag
+dizzy-punchDescription:Rhythmische Schläge, die das Ziel verwirren können.
+spore:Pilzspore
+sporeDescription:Erzeugt eine Sporenwolke, die das Ziel in Schlaf versetzt.
+flash:Blitz
+flashDescription:Erzeugt helles Licht, das die Genauigkeit des Zieles senkt.
+psywave:Psywelle
+psywaveDescription:Anwender erzeugt eine mysteriöse Energiewelle, deren Intensität von Mal zu Mal anders ausfällt.
+splash:Platscher
+splashDescription:Nur ein Platscher, der überhaupt nichts bewirkt.
+acid-armor:Säurepanzer
+acid-armorDescription:Verflüssigt Körperzellen des Anwenders. Erhöht den Verteidigungs-Wert stark.
+crabhammer:Krabbhammer
+crabhammerDescription:Schlägt mit Schere zu. Hohe Volltrefferquote.
+explosion:Explosion
+explosionDescription:Anwender explodiert, richtet bei allen Pokémon in seiner Umgebung großen Schaden an und wird selbst kampfunfähig.
+fury-swipes:Kratzfurie
+fury-swipesDescription:Beharkt das Ziel zwei- bis fünfmal mit scharfen Klauen oder Sicheln.
+bonemerang:Knochmerang
+bonemerangDescription:Ein Bumerang aus Knochen, der zweimal trifft.
+rest:Erholung
+restDescription:Anwender wird vollkommen geheilt, von allen Statusproblemen befreit und schläft die folgenden zwei Runden.
+rock-slide:Steinhagel
+rock-slideDescription:Schleudert riesige Felsen auf Ziele in der Umgebung, die eventuell zurückschrecken.
+hyper-fang:Hyperzahn
+hyper-fangDescription:Angriff mit scharfen Reißzähnen. Ziel schreckt eventuell zurück.
+sharpen:Schärfer
+sharpenDescription:Anwender macht seinen Körper kantiger und erhöht so seinen Angriffs-Wert.
+conversion:Umwandlung
+conversionDescription:Wandelt den Typ des Anwenders in den Typ der ersten Attacke des Anwenders um.
+tri-attack:Triplette
+tri-attackDescription:Feuert drei Strahlen ab. Verursacht eventuell Paralyse, Verbrennung oder Einfrieren.
+super-fang:Superzahn
+super-fangDescription:Greift mit scharfen Reißzähnen an. KP des Zieles werden halbiert.
+slash:Schlitzer
+slashDescription:Hieb mit Klauen oder Ähnlichem. Hohe Volltrefferquote.
+substitute:Delegator
+substituteDescription:Anwender setzt eine kleine Menge an KP ein, um einen Doppelgänger zu erzeugen, der für ihn Schläge einsteckt.
+struggle:Verzweifler
+struggleDescription:Angriff nur bei verbrauchten AP. Anwender verletzt sich selbst leicht.
+sketch:Nachahmer
+sketchDescription:Anwender erlernt die letzte Attacke des Zieles dauerhaft. Nachahmer verschwindet nach Gebrauch.
+triple-kick:Dreifachkick
+triple-kickDescription:Tritt das Ziel ein- bis dreimal nacheinander. Die Härte der Tritte nimmt von Treffer zu Treffer zu.
+thief:Raub
+thiefDescription:Ermöglicht es, das Item des Zieles zu stehlen, solang der Anwender selbst keins bei sich trägt.
+mind-reader:Willensleser
+mind-readerDescription:Ahnt Bewegungen des Zieles voraus, um zu gewährleisten, dass die nächste eigene Attacke trifft.
+nightmare:Nachtmahr
+nightmareDescription:Dem schlafenden Ziel wird durch einen Alptraum in jeder Runde Schaden zugefügt, solang es schläft.
+flame-wheel:Flammenrad
+flame-wheelDescription:Feuer-Attacke, die beim Ziel eventuell Verbrennungen verursacht.
+snore:Schnarcher
+snoreDescription:Attacke nur im Schlaf möglich. Ziel schreckt eventuell zurück.
+curse:Fluch
+curseDescription:Attacke, deren Wirkung davon abhängt, ob der Anwender ein Geister-Pokémon ist.
+flail:Dreschflegel
+flailDescription:Attacke richtet mehr Schaden an, wenn eigene KP niedrig sind.
+conversion-2:Umwandlung2
+conversion-2Description:Anwender ändert Typ und wird gegen letzten Angriffstyp resistent.
+aeroblast:Luftstoß
+aeroblastDescription:Erzeugt Luftstrudel gegen das Ziel. Hohe Volltrefferquote.
+cotton-spore:Baumwollsaat
+cotton-sporeDescription:Wattebäusche heften sich an das Ziel. Der Initiative-Wert sinkt stark.
+reversal:Gegenschlag
+reversalDescription:Richtet mehr Schaden an, wenn eigene KP niedrig sind.
+spite:Groll
+spiteDescription:AP der letzten Attacke des Zieles werden um 4 gesenkt.
+powder-snow:Pulverschnee
+powder-snowDescription:Angriff mit Schnee. Das Ziel wird eventuell eingefroren.
+protect:Schutzschild
+protectDescription:Anwender weicht jeder Attacke aus. Scheitert eventuell bei Wiederholung.
+mach-punch:Tempohieb
+mach-punchDescription:Extrem schneller Hieb mit hoher Erstschlagquote.
+scary-face:Grimasse
+scary-faceDescription:Jagt dem Ziel mit einer Grimasse Angst ein. Dessen Initiative-Wert sinkt stark.
+feint-attack:Finte
+feint-attackDescription:Anwender nähert sich mit Unschuldsmiene dem Ziel und schlägt zu, sobald dieses unachtsam wird. Ein Treffer ist gewiss.
+sweet-kiss:Bitterkuss
+sweet-kissDescription:Anwender küsst das Ziel, das durch diese Niedlichkeit verwirrt wird.
+belly-drum:Bauchtrommel
+belly-drumDescription:Der Anwender maximiert den Angriffs-Wert auf Kosten der Hälfte seiner maximalen KP.
+sludge-bomb:Matschbombe
+sludge-bombDescription:Wirft Schlamm auf das Ziel. Dieses wird eventuell vergiftet.
+mud-slap:Lehmschelle
+mud-slapDescription:Schadet dem Ziel durch Matsch. Dessen Genauigkeit sinkt.
+octazooka:Octazooka
+octazookaDescription:Schießt mit Tinte, um Schaden anzurichten und die Genauigkeit zu senken.
+spikes:Stachler
+spikesDescription:Der Anwender legt Stacheln aus, die gegnerische Pokémon verletzen, die in den Kampf gerufen werden.
+zap-cannon:Blitzkanone
+zap-cannonDescription:Kanonenähnlicher Elektro-Schuss, der schadet und paralysiert.
+foresight:Gesichte
+foresightDescription:Ermöglicht es, Geister-Pokémon mit Normal- und Kampf-Attacken anzugreifen. Ignoriert den Fluchtwert des Zieles.
+destiny-bond:Abgangsbund
+destiny-bondDescription:Wird der Anwender nach Einsatz dieser Attacke kampfunfähig, führt dies auch beim Pokémon, das ihn besiegt hat, zum K.O. Scheitert bei Wiederholung.
+spider-web:Spinnennetz
+spider-webDescription:Wickelt das Ziel ein. Flucht oder Tausch unmöglich.
+perish-song:Abgesang
+perish-songDescription:Wer diese Musik hört, wird nach drei Runden besiegt. Rettung ist durch den Eintausch eines neuen Pokémon möglich.
+icy-wind:Eissturm
+icy-windDescription:Eis-Attacke, die dem Ziel Schaden zufügt und seinen Initiative-Wert senkt.
+detect:Scanner
+detectDescription:Anwender weicht jeder Attacke aus. Scheitert eventuell bei Wiederholung.
+bone-rush:Knochenhatz
+bone-rushDescription:Greift Ziel zwei- bis fünfmal in Folge mit einem harten Knochen an.
+lock-on:Zielschuss
+lock-onDescription:Visiert das Ziel an und trifft in der nächsten Runde garantiert.
+outrage:Wutanfall
+outrageDescription:Attacke über zwei bis drei Runden, die den Anwender verwirrt.
+sandstorm:Sandsturm
+sandstormDescription:Sandsturm für fünf Runden. Schadet Pokémon aller Typen außer Gestein, Boden und Stahl. Erhöht die Spezial-Verteidigung von Gesteins-Pokémon.
+giga-drain:Gigasauger
+giga-drainDescription:Das Ziel wird angegriffen und die Hälfte des zugefügten Schadens dem Angreifer als KP gutgeschrieben.
+endure:Ausdauer
+endureDescription:Nach fatalen Attacken bleibt stets 1 KP übrig. Misserfolg bei Wiederholung möglich.
+charm:Charme
+charmDescription:Betört das Ziel und reduziert dessen Angriffs-Wert stark.
+rollout:Walzer
+rolloutDescription:Attacke, die fünf Runden dauert. Die Härte nimmt von Mal zu Mal zu.
+swagger:Angeberei
+swaggerDescription:Verwirrt das Ziel und erhöht dessen Angriffs-Wert stark.
+milk-drink:Milchgetränk
+milk-drinkDescription:KP des Anwenders werden um 50 % der maximalen KP aufgefüllt.
+spark:Funkensprung
+sparkDescription:Elektro-Hieb, der das Ziel paralysieren kann.
+fury-cutter:Zornklinge
+fury-cutterDescription:Eine Attacke mit Scheren oder Klauen, deren Härte bei aufeinanderfolgenden Treffern zunimmt.
+steel-wing:Stahlflügel
+steel-wingDescription:Trifft das Ziel mit Stahlflügeln. Verteidigungs-Wert des Anwenders steigt eventuell.
+mean-look:Horrorblick
+mean-lookDescription:Böser Blick, der die Flucht des Zieles vereitelt.
+attract:Anziehung
+attractDescription:Wenn das Ziel nicht dem Geschlecht des Anwenders angehört, fühlt es sich zu ihm hingezogen und greift eventuell nicht an.
+sleep-talk:Schlafrede
+sleep-talkDescription:Anwender setzt per Zufall eine ihm bekannte Attacke ein. Klappt nur, wenn der Anwender gerade schläft.
+heal-bell:Vitalglocke
+heal-bellDescription:Läutet beruhigend und heilt alle Statusprobleme im Team.
+return:Rückkehr
+returnDescription:Die Attacke wird stärker, je mehr der Anwender seinen Trainer mag.
+present:Geschenk
+presentDescription:Eine Bombe als Geschenk. Kann auch KP des Zieles wiederherstellen.
+frustration:Frustration
+frustrationDescription:Die Attacke wird stärker, je weniger der Anwender seinen Trainer mag.
+safeguard:Bodyguard
+safeguardDescription:Team des Anwenders ist fünf Runden vor Statusproblemen geschützt.
+pain-split:Leidteiler
+pain-splitDescription:Addiert KP von Anwender und Ziel. Teilt sie gerecht auf.
+sacred-fire:Läuterfeuer
+sacred-fireDescription:Mystische Feuer-Attacke, durch die das Ziel eventuell Verbrennungen erleidet.
+false-swipe:Trugschlag
+false-swipeDescription:Ein Angriff, der dem Ziel zumindest 1 KP lässt.
+magnitude:Intensität
+magnitudeDescription:Erdbebenartiger Angriff von zufälliger Stärke gegen andere Pokémon in der Umgebung des Anwenders.
+megahorn:Vielender
+megahornDescription:Brutaler Ramm-Angriff mit spitzem, beeindruckendem Horn.
+dragon-breath:Feuerodem
+dragon-breathDescription:Fegt das Ziel mit zerstörerisch heißem Atem weg. Paralysiert das Ziel eventuell.
+baton-pass:Stafette
+baton-passDescription:Tauscht den Anwender aus und überträgt alle Statusveränderungen auf das eingewechselte Pokémon.
+encore:Zugabe
+encoreDescription:Das Ziel wiederholt die letzte Attacke drei Runden lang.
+pursuit:Verfolgung
+pursuitDescription:Die Attacke richtet beim Ziel doppelten Schaden an, falls es ausgetauscht wird.
+rapid-spin:Turbodreher
+rapid-spinDescription:Trifft das Ziel mit einer Dreh-Attacke. Befreit den Anwender unter anderem von Wickel, Klammergriff, Egelsamen und Stachler. Erhöht die Initiative des Anwenders.
+sweet-scent:Lockduft
+sweet-scentDescription:Senkt den Fluchtwert des Zieles stark.
+iron-tail:Eisenschweif
+iron-tailDescription:Attacke mit hartem Eisenschweif. Senkt eventuell den Verteidigungs-Wert des Zieles.
+metal-claw:Metallklaue
+metal-clawDescription:Klauen-Attacke, die eventuell den Angriffs-Wert des Anwenders erhöht.
+vital-throw:Überwurf
+vital-throwDescription:Anwender greift als Letzter an, hat dafür aber eine Treffergarantie beim eigenen Angriff.
+morning-sun:Morgengrauen
+morning-sunDescription:Füllt KP des Anwenders auf. Die Menge hängt vom Wetter ab.
+synthesis:Synthese
+synthesisDescription:Füllt KP des Anwenders auf. Die Menge hängt vom Wetter ab.
+moonlight:Mondschein
+moonlightDescription:Füllt KP des Anwenders auf. Die Menge hängt vom Wetter ab.
+hidden-power:Kraftreserve
+hidden-powerDescription:Wirkung und Typ der Attacke hängen vom Anwender ab.
+cross-chop:Kreuzhieb
+cross-chopDescription:Doppelter Hieb mit den Unterarmen. Hohe Volltrefferquote.
+twister:Windhose
+twisterDescription:Trifft Ziele in der Umgebung mit einem heftigen Wirbelsturm, was diese eventuell zurückschrecken lässt.
+rain-dance:Regentanz
+rain-danceDescription:Anwender erzeugt starken Regen. Die Stärke von Wasser-Attacken erhöht sich fünf Runden lang, während die Stärke von Feuer-Attacken sinkt.
+sunny-day:Sonnentag
+sunny-dayDescription:Die Sonne brennt unbarmherzig fünf Runden lang. Dadurch werden Attacken vom Typ Feuer verstärkt, während Wasser-Attacken abgeschwächt werden.
+crunch:Knirscher
+crunchDescription:Beißt mit scharfen Reißzähnen zu und senkt eventuell die Verteidigung.
+mirror-coat:Spiegelcape
+mirror-coatDescription:Kontert den Spezial-Angriff des Gegners mit doppeltem Schaden.
+psych-up:Psycho-Plus
+psych-upDescription:Der Anwender hypnotisiert sich selbst, um die Statusveränderungen des Zieles zu kopieren.
+extreme-speed:Turbotempo
+extreme-speedDescription:Extrem schnelle und kraftvolle Attacke mit hoher Erstschlagquote.
+ancient-power:Antik-Kraft
+ancient-powerDescription:Angriff mit antiker Kraft, der alle Statuswerte erhöhen kann.
+shadow-ball:Spukball
+shadow-ballDescription:Bewirft das Ziel mit gruseligem Ball und senkt eventuell die Spezial-Verteidigung.
+future-sight:Seher
+future-sightDescription:Zwei Runden, nachdem Seher eingesetzt wurde, erfolgt der Angriff.
+rock-smash:Zertrümmerer
+rock-smashDescription:Diese steinbrechende Attacke kann den Verteidigungs-Wert des Zieles senken.
+whirlpool:Whirlpool
+whirlpoolDescription:Das Ziel wird für vier bis fünf Runden in einer Wasserhose gefangen.
+beat-up:Prügler
+beat-upDescription:Das gesamte Team nimmt aktiv am Kampf teil. Je mehr Pokémon, desto höher die Anzahl der Angriffe.
+fake-out:Mogelhieb
+fake-outDescription:Attacke mit hoher Erstschlagquote. Das Ziel schreckt zurück. Gelingt nur in der ersten Runde eines Kampfes.
+uproar:Aufruhr
+uproarDescription:Anwender greift an, indem er über drei Runden hinweg einen Aufruhr erzeugt. Verhindert Schlaf.
+stockpile:Horter
+stockpileDescription:Lädt Kraft für später auf. Erhöht Verteidigung und Spezial-Verteidigung. Kann bis zu dreimal eingesetzt werden.
+spit-up:Entfessler
+spit-upDescription:Entlädt die Kraft, die während des Einsatzes von Horter gesammelt wurde. Je mehr Energie gehortet wurde, desto stärker der Angriff.
+swallow:Verzehrer
+swallowDescription:Absorbiert die gehortete Kraft, um KP aufzufüllen. Je mehr Energie gehortet wurde, desto mehr KP werden aufgefüllt.
+heat-wave:Hitzewelle
+heat-waveDescription:Ziele werden von Sturm aus heißer Luft getroffen und verbrennen sich eventuell.
+torment:Folterknecht
+tormentDescription:Erzürnt das Ziel, um wiederholten Einsatz derselben Attacke zu verhindern.
+flatter:Schmeichler
+flatterDescription:Schmeichelt dem Ziel, um es zu verwirren. Erhöht dessen Spezial-Angriff.
+will-o-wisp:Irrlicht
+will-o-wispDescription:Angriff mit unheimlicher Flamme, die beim Ziel Verbrennungen verursacht.
+memento:Memento-Mori
+mementoDescription:Der Anwender wird besiegt. Gleichzeitig werden der Angriff und Spezial-Angriff des Zieles stark gesenkt.
+facade:Fassade
+facadeDescription:Ist der Anwender vergiftet, paralysiert oder leidet er unter Verbrennungen, verdoppelt sich die Kraft der Attacke.
+focus-punch:Power-Punch
+focus-punchDescription:Anwender konzentriert sich, bevor er angreift. Wird er vorher getroffen, ist die Attacke erfolglos.
+smelling-salts:Riechsalz
+smelling-saltsDescription:Doppelt wirksam gegen paralysierte Ziele, heilt sie aber auch von der Paralyse.
+follow-me:Spotlight
+follow-meDescription:Zieht Aufmerksamkeit auf sich. Gegner greift nur Anwender an.
+nature-power:Natur-Kraft
+nature-powerDescription:Angriff mit der Kraft der Natur. Die Wirkung dieser Attacke ist ortsabhängig.
+charge:Ladevorgang
+chargeDescription:Hebt die Stärke für die kommende Elektro-Attacke an und erhöht die Spezial-Verteidigung.
+taunt:Verhöhner
+tauntDescription:Bringt das Ziel in Rage. Dieses kann über drei Runden hinweg nur noch angreifen.
+helping-hand:Rechte Hand
+helping-handDescription:Anwender steigert die Kraft eines Angriffes eines Mitstreiters.
+trick:Trickbetrug
+trickDescription:Der Anwender überrumpelt das Ziel und tauscht mit ihm die getragenen Items.
+role-play:Rollentausch
+role-playDescription:Ahmt das Ziel nach und kopiert seine Fähigkeit.
+wish:Wunschtraum
+wishDescription:Ein Wunsch füllt in der nächsten Runde 50 % der KP des Anwenders bei diesem oder einem eingewechselten Pokémon auf.
+assist:Zuschuss
+assistDescription:Greift zufällig mit einer Attacke eines Mitstreiters an.
+ingrain:Verwurzler
+ingrainDescription:Verwurzelung füllt jede Runde KP auf. Austausch und Flucht sind unmöglich.
+superpower:Kraftkoloss
+superpowerDescription:Starke Attacke, die jedoch auch den Angriff und die Verteidigung des Anwenders senkt.
+magic-coat:Magiemantel
+magic-coatDescription:Alle Status-Attacken wie Egelsamen werden reflektiert.
+recycle:Aufbereitung
+recycleDescription:Recycling eines getragenen Items, das zuvor im Kampf verwendet wurde.
+revenge:Vergeltung
+revengeDescription:Schaden verdoppelt sich, wenn der Anwender in der Runde bereits Schaden durch das Ziel erlitten hat.
+brick-break:Durchbruch
+brick-breakDescription:Ein beherzter Handkantenschlag. Durchbricht Barrieren wie Lichtschild und Reflektor.
+yawn:Gähner
+yawnDescription:Angreifer gähnt und das Ziel schläft in der nächsten Runde ein.
+hail:Hagelsturm
+hailDescription:Hagelsturm für fünf Runden. Schadet allen außer Eis-Pokémon.
+knock-off:Abschlag
+knock-offDescription:Schlägt das Item des Zieles weg und vereitelt so dessen Gebrauch während des Kampfes. Mehr Schaden gegen Ziele, die ein Item bei sich tragen.
+endeavor:Notsituation
+endeavorDescription:Trifft nur, wenn KP des Anwenders geringer als KP des Zieles sind. Senkt dessen KP auf die Höhe der KP des Anwenders.
+eruption:Eruption
+eruptionDescription:Explosiver Angriff. Je höher die KP des Anwenders sind, desto mehr Schaden wird angerichtet.
+imprison:Begrenzer
+imprisonDescription:Hindert Gegner am Einsatz von Attacken, die der Anwender selbst auch kennt.
+refresh:Heilung
+refreshDescription:Selbstheilung bei Vergiftung, Paralyse und Verbrennung.
+grudge:Nachspiel
+grudgeDescription:Bei K.O. des Anwenders werden die AP der Attacke, durch die er besiegt wurde, auf 0 herabgesetzt.
+snatch:Übernahme
+snatchDescription:Raubt den Effekt heilender oder Werte verändernder Attacken des Zieles.
+secret-power:Geheimpower
+secret-powerDescription:Die Wirkung dieser Attacke ist ortsabhängig.
+dive:Taucher
+diveDescription:Anwender taucht in Runde 1 ab und greift in Runde 2 aus der Tiefe an.
+arm-thrust:Armstoß
+arm-thrustDescription:Schläge mit geradem Arm, die das Ziel zwei- bis fünfmal treffen.
+camouflage:Tarnung
+camouflageDescription:Der Typ des Anwenders passt sich der Umgebung an, sei es im Wasser, im Gras oder in einer Höhle.
+tail-glow:Schweifglanz
+tail-glowDescription:Ein blinkendes Licht, das den Spezial-Angriff drastisch erhöht.
+luster-purge:Scheinwerfer
+luster-purgeDescription:Angriff mit einem grellem Licht, der die Spezial-Verteidigung des Zieles eventuell senkt.
+mist-ball:Nebelball
+mist-ballDescription:Angriff mit einer Nebelwolke aus Daunen. Senkt eventuell den Spezial-Angriff des Zieles.
+feather-dance:Daunenreigen
+feather-danceDescription:Hüllt das Ziel in Daunen und senkt dessen Angriffs-Wert stark.
+teeter-dance:Taumeltanz
+teeter-danceDescription:Ein Wackeltanz, der andere Pokémon in der Umgebung des Anwenders verwirrt.
+blaze-kick:Feuerfeger
+blaze-kickDescription:Starker Tritt mit hoher Volltrefferquote. Verursacht eventuell Verbrennungen.
+mud-sport:Lehmsuhler
+mud-sportDescription:Schwächt Elektro-Attacken für die Dauer von fünf Runden.
+ice-ball:Frostbeule
+ice-ballDescription:Attacke, die fünf Runden dauert. Mit jedem Treffer steigt der Schaden in der nächsten Runde.
+needle-arm:Nietenranke
+needle-armDescription:Angriff mit dornigen Armen. Das Ziel schreckt eventuell zurück.
+slack-off:Tagedieb
+slack-offDescription:Durch Müßiggang werden KP des Anwenders um 50 % der maximalen KP aufgefüllt.
+hyper-voice:Schallwelle
+hyper-voiceDescription:Laute Attacke mit Schallwellen.
+poison-fang:Giftzahn
+poison-fangDescription:Angriff mit giftigen Reißzähnen. Das Ziel wird eventuell schwer vergiftet.
+crush-claw:Zermalmklaue
+crush-clawDescription:Angriff mit scharfen Klauen. Senkt eventuell den Verteidigungs-Wert.
+blast-burn:Lohekanonade
+blast-burnDescription:Das Ziel wird von einer starken Explosion getroffen. Angreifer setzt eine Runde aus.
+hydro-cannon:Aquahaubitze
+hydro-cannonDescription:Das Ziel wird von einer Wasserkanone getroffen. Angreifer setzt eine Runde aus.
+meteor-mash:Sternenhieb
+meteor-mashDescription:Angriff mit einem harten, schnellen Schlag. Erhöht eventuell Angriffs-Wert des Anwenders.
+skill-swap:Wertewechsel
+skill-swapDescription:Anwender tauscht Fähigkeit mit dem Ziel.
+astonish:Erstauner
+astonishDescription:Anwender greift mit einem Schrei an. Ein Angriff, der das Ziel eventuell zurückschrecken lässt.
+weather-ball:Meteorologe
+weather-ballDescription:Typ und Stärke der Attacke sind vom Wetter zum Zeitpunkt der Anwendung abhängig.
+fake-tears:Trugträne
+fake-tearsDescription:Täuscht Weinen vor, um die Spezial-Verteidigung des Zieles stark zu senken.
+air-cutter:Windschnitt
+air-cutterDescription:Greift mit rasierklingenartigem Wind an. Hohe Volltrefferquote.
+overheat:Hitzekoller
+overheatDescription:Angriff mit voller Kraft, der den Spezial-Angriff des Anwenders durch den Rückstoß stark senkt.
+odor-sleuth:Schnüffler
+odor-sleuthDescription:Ermöglicht es, Geister-Pokémon mit Normal- und Kampf-Attacken anzugreifen. Ignoriert den Fluchtwert des Zieles.
+rock-tomb:Felsgrab
+rock-tombDescription:Angriff mit Felsen. Bei Erfolg wird der Initiative-Wert des Zieles gesenkt.
+silver-wind:Silberhauch
+silver-windDescription:Angriff mit Silberstaub. Eventuell werden alle Statuswerte des Anwenders erhöht.
+metal-sound:Metallsound
+metal-soundDescription:Stößt einen spitzen Schrei aus, der die Spezial-Verteidigung des Zieles stark senkt.
+grass-whistle:Grasflöte
+grass-whistleDescription:Versetzt das Ziel durch eine schöne Melodie in Tiefschlaf.
+tickle:Spaßkanone
+tickleDescription:Bringt das Ziel zum Lachen und senkt dadurch dessen Angriff und Verteidigung.
+cosmic-power:Kosmik-Kraft
+cosmic-powerDescription:Erhöht Verteidigung und Spezial-Verteidigung durch eine mystische Kraft.
+water-spout:Fontränen
+water-spoutDescription:Wasser-Attacke, die wirkungsvoller ist, wenn KP des Anwenders hoch sind.
+signal-beam:Ampelleuchte
+signal-beamDescription:Strahlenattacke, die das Ziel eventuell verwirrt.
+shadow-punch:Finsterfaust
+shadow-punchDescription:Angriff mit der Faust aus dem Schattenreich. Ausweichen unmöglich.
+extrasensory:Sondersensor
+extrasensoryDescription:Besonderer Angriff mit einer unsichtbaren Kraft, die das Ziel eventuell zurückschrecken lässt.
+sky-uppercut:Himmelhieb
+sky-uppercutDescription:Kinnhaken, der das Ziel gen Himmel schickt.
+sand-tomb:Sandgrab
+sand-tombDescription:Das Ziel leidet für vier bis fünf Runden in einer Sandhose.
+sheer-cold:Eiseskälte
+sheer-coldDescription:Diese Attacke führt beim Ziel sofort zum K.O. Wird sie von einem Pokémon eingesetzt, das nicht dem Typ Eis angehört, trifft sie seltener.
+muddy-water:Lehmbrühe
+muddy-waterDescription:Greift mit Matsch an und senkt eventuell die Genauigkeit des Zieles.
+bullet-seed:Kugelsaat
+bullet-seedDescription:Der Anwender wirft zwei- bis fünfmal in rascher Folge Samen auf das Ziel.
+aerial-ace:Aero-Ass
+aerial-aceDescription:Eine extrem schnelle Attacke, der das Ziel nicht ausweichen kann.
+icicle-spear:Eisspeer
+icicle-spearDescription:Feuert zwei bis fünf Eiszapfen auf das Ziel.
+iron-defense:Eisenabwehr
+iron-defenseDescription:Anwender stärkt den Körper, um den Verteidigungs-Wert stark zu erhöhen.
+block:Rückentzug
+blockDescription:Anwender versperrt den Fluchtweg des Zieles.
+howl:Jauler
+howlDescription:Anwender jault, um seinen Kampfgeist und seinen Angriffs-Wert zu erhöhen.
+aromatherapy:Aromakur
+aromatherapyDescription:Heilt alle Statusprobleme des Teams mit beruhigendem Duft.
+dragon-claw:Drachenklaue
+dragon-clawDescription:Das Ziel wird mit riesigen, scharfen Klauen stark verletzt.
+frenzy-plant:Flora-Statue
+frenzy-plantDescription:Mächtiger Angriff mit Ästen. Der Angreifer muss eine Runde aussetzen.
+bulk-up:Protzer
+bulk-upDescription:Der Anwender spannt seine Muskeln an, um den Angriff und die Verteidigung zu erhöhen.
+bounce:Sprungfeder
+bounceDescription:Angreifer springt und landet in der nächsten Runde auf dem Ziel. Das Ziel wird eventuell paralysiert.
+mud-shot:Lehmschuss
+mud-shotDescription:Angriff mit Lehm, der den Initiative-Wert des Zieles senkt.
+poison-tail:Giftschweif
+poison-tailDescription:Angriff mit hoher Volltrefferquote. Diese Schweifattacke vergiftet das Ziel eventuell.
+covet:Bezirzer
+covetDescription:Der Anwender schmeichelt sich beim Ziel ein und stiehlt dann das von ihm getragene Item.
+volt-tackle:Volttackle
+volt-tackleDescription:Angriff mit Elektro-Tackle. Der Anwender nimmt dabei selbst großen Schaden. Das Ziel wird eventuell paralysiert.
+magical-leaf:Zauberblatt
+magical-leafDescription:Magischer Blattangriff, dem nicht auszuweichen ist.
+water-sport:Nassmacher
+water-sportDescription:Der Anwender lässt Wasser herabregnen und schwächt damit fünf Runden lang Feuer-Attacken.
+calm-mind:Gedankengut
+calm-mindDescription:Erhöht Spezial-Angriff und Spezial-Verteidigung durch Konzentration.
+leaf-blade:Laubklinge
+leaf-bladeDescription:Hieb mit scharfkantigem Blatt. Hohe Volltrefferquote.
+dragon-dance:Drachentanz
+dragon-danceDescription:Ein mystischer Tanz, der den Angriffs- und Initiative-Wert erhöht.
+shock-wave:Schockwelle
+shock-waveDescription:Angriff mit schnellem Elektro-Schlag. Ausweichen nicht möglich.
+water-pulse:Aquawelle
+water-pulseDescription:Angriff mit Wasserwelle, die das Ziel eventuell verwirren kann.
+doom-desire:Kismetwunsch
+doom-desireDescription:Angriff mit gebündeltem Licht erfolgt zwei Runden nach Attackeneinsatz.
+psycho-boost:Psyschub
+psycho-boostDescription:Angriff mit voller Kraft, der den Spezial-Angriff des Anwenders durch den Rückstoß stark senkt.
+roost:Ruheort
+roostDescription:Anwender landet und ruht sich aus. KP des Anwenders werden um 50 % der maximalen KP aufgefüllt.
+gravity:Erdanziehung
+gravityDescription:Ermöglicht es, Flug-Pokémon oder Pokémon mit der Fähigkeit Schwebe mit Boden-Attacken zu treffen. Verhindert Attacken, bei denen der Anwender fliegt.
+miracle-eye:Wunderauge
+miracle-eyeDescription:Ermöglicht es, Unlicht-Pokémon mit Psycho-Attacken anzugreifen. Ignoriert den Fluchtwert des Zieles.
+wake-up-slap:Weckruf
+wake-up-slapDescription:Richtet großen Schaden bei einem schlafenden Ziel an, weckt es aber auch auf.
+hammer-arm:Hammerarm
+hammer-armDescription:Anwender trifft mit einem starken Hieb. Senkt Initiative des Anwenders.
+gyro-ball:Gyroball
+gyro-ballDescription:Angriff mit hoher Geschwindigkeit. Je niedriger die Initiative des Anwenders im Vergleich zum Ziel ist, desto höher der Schaden.
+healing-wish:Heilopfer
+healing-wishDescription:Anwender geht K.O. Das an seine Stelle tretende Pokémon hat volle KP. Statusprobleme werden geheilt.
+brine:Lake
+brineDescription:Hat das Ziel die Hälfte oder weniger seiner maximalen KP, trifft diese Attacke mit doppelter Kraft.
+natural-gift:Beerenkräfte
+natural-giftDescription:Anwender zieht aus seiner derzeitigen Beere Kraft. Sie bestimmt Typ und Stärke der Attacke.
+feint:Offenlegung
+feintDescription:Ziele, die Attacken wie Schutzschild oder Scanner eingesetzt haben, werden getroffen. Entfernt Effekte dieser Attacken.
+pluck:Pflücker
+pluckDescription:Anwender pickt das Ziel, nimmt die Beere, falls das Ziel eine trägt, und erhält ihren Effekt.
+tailwind:Rückenwind
+tailwindDescription:Anwender erzeugt einen Wirbelwind, der die Initiative aller Pokémon im Team für vier Runden erhöht.
+acupressure:Akupressur
+acupressureDescription:Anwender übt Druck auf Stresspunkte aus und erhöht einen Statuswert stark.
+metal-burst:Metallstoß
+metal-burstDescription:Attacke mit großer Kraft gegen den Gegner, der dem Anwender in derselben Runde zuletzt Schaden zufügte.
+u-turn:Kehrtwende
+u-turnDescription:Nach der Attacke eilt der Anwender zurück und tauscht den Platz mit einem anderen Pokémon.
+close-combat:Nahkampf
+close-combatDescription:Nahkampf-Attacke ohne Rücksicht auf Verluste. Senkt Verteidigung und Spezial-Verteidigung des Anwenders.
+payback:Gegenstoß
+paybackDescription:Der Anwender lädt die Attacke auf. Handelt das Ziel vor dem Anwender, verdoppelt sich die Stärke der Attacke.
+assurance:Gewissheit
+assuranceDescription:Hat das Ziel während der Runde schon Schaden genommen, wird die Stärke der Attacke verdoppelt.
+embargo:Itemsperre
+embargoDescription:Das Ziel kann fünf Runden lang weder getragene Items nutzen, noch kann sein Trainer Items auf es anwenden.
+fling:Schleuder
+flingDescription:Anwender schleudert sein Item auf das Ziel. Stärke und Effekt der Attacke hängen vom Item ab.
+psycho-shift:Psybann
+psycho-shiftDescription:Anwender nutzt seine Suggestivkräfte, um eigene Statusprobleme auf das Ziel zu transferieren.
+trump-card:Trumpfkarte
+trump-cardDescription:Je weniger AP diese Attacke hat, desto höher fällt ihre Stärke aus.
+heal-block:Heilblockade
+heal-blockDescription:Anwender verhindert für fünf Runden, dass Ziele durch Attacken, Fähigkeiten oder Items KP regenerieren.
+wring-out:Auswringen
+wring-outDescription:Anwender presst sein Ziel aus. Je höher die KP des Zieles sind, desto höher fällt die Stärke der Attacke aus.
+power-trick:Krafttrick
+power-trickDescription:Anwender setzt Psycho-Kräfte ein, um eigenen Angriffs- mit Verteidigungs-Wert auszutauschen.
+gastro-acid:Magensäfte
+gastro-acidDescription:Anwender greift das Ziel mit eigenen Magensäften an. Entfernt Effekte von dessen Fähigkeit.
+lucky-chant:Beschwörung
+lucky-chantDescription:Anwender singt eine Beschwörungsformel, die fünf Runden lang Volltreffer gegen sein Team verhindert.
+me-first:Egotrip
+me-firstDescription:Anwender führt die Attacke des Zieles zuerst und mit höherer Stärke aus. Dies schlägt fehl, falls der Anwender nicht vor dem Ziel zum Zug kommt.
+copycat:Imitator
+copycatDescription:Anwender imitiert die gerade verwendete Attacke. Dies schlägt fehl, falls zuvor keine Attacke verwendet wurde.
+power-swap:Krafttausch
+power-swapDescription:Psychische Kräfte tauschen Änderungen an Angriff und Spezial-Angriff mit denen des Zieles.
+guard-swap:Schutztausch
+guard-swapDescription:Psychische Kräfte tauschen Änderungen an Verteidigung und Spezial-Verteidigung mit denen des Zieles.
+punishment:Strafattacke
+punishmentDescription:Je stärker das Ziel durch Statusveränderungen ist, desto stärker wirkt diese Attacke.
+last-resort:Zuflucht
+last-resortDescription:Diese Attacke kann nur eingesetzt werden, nachdem alle verfügbaren Attacken ausgeführt worden sind.
+worry-seed:Sorgensamen
+worry-seedDescription:Ziel wird bepflanzt. Seine Fähigkeit wandelt sich zu Insomnia und hindert es daran, einzuschlafen.
+sucker-punch:Tiefschlag
+sucker-punchDescription:Attacke mit hoher Erstschlagquote. Gelingt aber nur, wenn das Ziel gerade eine Attacke vorbereitet, die KP-Schaden zufügen würde.
+toxic-spikes:Giftspitzen
+toxic-spikesDescription:Anwender legt eine Falle mit Giftdornen aus. In den Kampf eingewechselte gegnerische Pokémon werden vergiftet.
+heart-swap:Statustausch
+heart-swapDescription:Anwender setzt Psycho-Kräfte ein, um Statusveränderungen des Zieles mit den eigenen zu tauschen.
+aqua-ring:Wasserring
+aqua-ringDescription:Anwender umgibt sich mit einem Schleier aus Wasser. Dabei regeneriert er einige KP pro Runde.
+magnet-rise:Magnetflug
+magnet-riseDescription:Anwender schwebt für fünf Runden durch elektrisch erzeugten Magnetismus.
+flare-blitz:Flammenblitz
+flare-blitzDescription:Anwender hüllt sich in Flammen und stürmt auf das Ziel zu, das dadurch eventuell Verbrennungen erleidet. Anwender nimmt selbst großen Schaden.
+force-palm:Kraftwelle
+force-palmDescription:Das Ziel wird mit einer Schockwelle angegriffen, die es eventuell paralysiert.
+aura-sphere:Aurasphäre
+aura-sphereDescription:Tief aus dem Inneren des Anwenders löst sich ein kraftvoller Stoß Aura-Energie. Trifft in jedem Fall.
+rock-polish:Steinpolitur
+rock-polishDescription:Anwender reduziert so gut wie möglich den Luftwiderstand. Erhöht den Initiative-Wert stark.
+poison-jab:Gifthieb
+poison-jabDescription:Ziel wird mit vergiftetem Arm oder Tentakel verletzt. Es wird dabei eventuell vergiftet.
+dark-pulse:Finsteraura
+dark-pulseDescription:Anwender greift mit fürchterlicher Aura schlechter Gedanken an. Ziel schreckt eventuell zurück.
+night-slash:Nachthieb
+night-slashDescription:Anwender greift bei der ersten Gelegenheit mit scharfen Klauen an. Hohe Volltrefferquote.
+aqua-tail:Nassschweif
+aqua-tailDescription:Anwender attackiert mit dem Schweif, als ob dieser eine brutale Welle in einem tosenden Sturm sei.
+seed-bomb:Samenbomben
+seed-bombDescription:Anwender lässt eine Menge Samen mit harter Schale von oben auf das Ziel fallen.
+air-slash:Luftschnitt
+air-slashDescription:Das Ziel wird mit einer Luftklinge angegriffen. Ziel schreckt eventuell zurück.
+x-scissor:Kreuzschere
+x-scissorDescription:Der Anwender führt eine Attacke aus, die einer Scherenbewegung ähnelt.
+bug-buzz:Käfergebrumm
+bug-buzzDescription:Anwender erzeugt Schallwellen, die beim Ziel Schaden verursachen und eventuell dessen Spezial-Verteidigung senken.
+dragon-pulse:Drachenpuls
+dragon-pulseDescription:Das Ziel wird mit einer Schockwelle angegriffen, die aus dem offenen Maul des Anwenders kommt.
+dragon-rush:Drachenstoß
+dragon-rushDescription:Anwender führt einen furchteinflößenden Angriff aus. Das Ziel schreckt eventuell zurück.
+power-gem:Juwelenkraft
+power-gemDescription:Anwender attackiert mit einem Lichtstrahl, der funkelt, als sei er aus Juwelen.
+drain-punch:Ableithieb
+drain-punchDescription:Entzieht dem Ziel Energie. Die Hälfte des Schadens wird den KP des Anwenders zugerechnet.
+vacuum-wave:Vakuumwelle
+vacuum-waveDescription:Ein Faustwirbel sendet eine Vakuumwelle auf das Ziel. Hohe Erstschlagquote.
+focus-blast:Fokusstoß
+focus-blastDescription:Anwender erhöht seinen mentalen Fokus und greift dann an. Senkt eventuell Spezial-Verteidigung des Zieles.
+energy-ball:Energieball
+energy-ballDescription:Anwender zieht Kraft aus der Natur und feuert sie auf das Ziel. Senkt eventuell Spezial-Verteidigung des Zieles.
+brave-bird:Sturzflug
+brave-birdDescription:Anwender greift aus niedriger Höhe an. Er erleidet bei dieser Attacke selbst großen Schaden.
+earth-power:Erdkräfte
+earth-powerDescription:Der Boden unter dem Ziel erzittert durch die Kraft der Erde. Senkt eventuell Spezial-Verteidigung.
+giga-impact:Gigastoß
+giga-impactDescription:Anwender rennt mit seiner ganzen Kraft gegen das Ziel an und muss dann eine Runde ruhen.
+nasty-plot:Ränkeschmied
+nasty-plotDescription:Anwender stimuliert sein Gehirn und hat finstere Gedanken. Erhöht Spezial-Angriff stark.
+bullet-punch:Patronenhieb
+bullet-punchDescription:Das Ziel wird von ultraschnellen Hieben getroffen. Hohe Erstschlagquote.
+avalanche:Lawine
+avalancheDescription:Wurde der Anwender in dieser Runde vom Ziel getroffen, verdoppelt sich die Stärke der Attacke bei Angriffen auf dieses Ziel.
+ice-shard:Eissplitter
+ice-shardDescription:Das Ziel wird mit Eisklumpen beworfen. Hohe Erstschlagquote.
+shadow-claw:Dunkelklaue
+shadow-clawDescription:Das Ziel wird mit scharfen Klauen aus der Schattenwelt attackiert. Hohe Volltrefferquote.
+thunder-fang:Donnerzahn
+thunder-fangDescription:Anwender beißt mit elektrifizierten Reißzähnen zu. Das Ziel schreckt eventuell zurück oder wird paralysiert.
+ice-fang:Eiszahn
+ice-fangDescription:Anwender beißt mit eiskalten Reißzähnen zu. Ziel schreckt eventuell zurück oder friert ein.
+fire-fang:Feuerzahn
+fire-fangDescription:Anwender beißt mit flammenden Reißzähnen zu. Ziel schreckt eventuell zurück oder erleidet Verbrennungen.
+shadow-sneak:Schattenstoß
+shadow-sneakDescription:Anwender erweitert Schatten und greift das Ziel von hinten an. Hohe Erstschlagquote.
+mud-bomb:Schlammbombe
+mud-bombDescription:Anwender greift mit einem festen Schlammklumpen an. Senkt eventuell Genauigkeit des Zieles.
+psycho-cut:Psychoklinge
+psycho-cutDescription:Das Ziel wird mit Klingen attackiert, die aus Psycho-Energie bestehen. Hohe Volltrefferquote.
+zen-headbutt:Zen-Kopfstoß
+zen-headbuttDescription:Anwender konzentriert seinen Willen und rammt das Ziel. Dieses schreckt eventuell zurück.
+mirror-shot:Spiegelsalve
+mirror-shotDescription:Anwender feuert Energiestrahl aus seinem Körper ab. Senkt eventuell Genauigkeit des Zieles.
+flash-cannon:Lichtkanone
+flash-cannonDescription:Anwender sammelt Lichtenergie und feuert sie auf einmal ab. Senkt eventuell Spezial-Verteidigung des Zieles.
+rock-climb:Kraxler
+rock-climbDescription:Eine stürmische Attacke, die das Ziel eventuell verwirrt.
+defog:Auflockern
+defogDescription:Starker Wind hebt Attacken wie Reflektor und Lichtschild des Zieles auf. Senkt außerdem den Fluchtwert.
+trick-room:Bizarroraum
+trick-roomDescription:Anwender erzeugt einen bizarren Raum, in dem langsame Pokémon fünf Runden lang zuerst agieren.
+draco-meteor:Draco Meteor
+draco-meteorDescription:Kometen werden heraufbeschworen. Der Rückstoß reduziert den Spezial-Angriff des Anwenders stark.
+discharge:Ladungsstoß
+dischargeDescription:Anwender greift die Pokémon in seiner Umgebung mit Elektrizität an. Paralysiert eventuell.
+lava-plume:Flammensturm
+lava-plumeDescription:Greift alles in seiner Umgebung mit tiefroten Flammen an. Ziel kann Verbrennungen erleiden.
+leaf-storm:Blättersturm
+leaf-stormDescription:Anwender erzeugt einen Sturm aus scharfen Blättern. Rückstoß senkt Spezial-Angriff des Anwenders stark.
+power-whip:Blattgeißel
+power-whipDescription:Anwender wirbelt seine Ranken oder Tentakel peitschenartig gegen das Ziel.
+rock-wrecker:Felswerfer
+rock-wreckerDescription:Anwender wirft einen riesigen Felsen auf das Ziel. In der nächsten Runde muss der Anwender ruhen.
+cross-poison:Giftstreich
+cross-poisonDescription:Ein schneidender Hieb, der das Ziel eventuell vergiftet. Hat eine hohe Volltrefferquote.
+gunk-shot:Mülltreffer
+gunk-shotDescription:Anwender schießt mit Müll auf das Ziel. Vergiftet dieses eventuell.
+iron-head:Eisenschädel
+iron-headDescription:Ziel wird durch stahlharten Kopf des Anwenders getroffen und schreckt eventuell zurück.
+magnet-bomb:Magnetbombe
+magnet-bombDescription:Ziel wird durch Haftbomben getroffen. Diese Attacke trifft immer.
+stone-edge:Steinkante
+stone-edgeDescription:Anwender sticht das Ziel mit spitzen Steinen. Hohe Volltrefferquote.
+captivate:Liebreiz
+captivateDescription:Charme-Attacke, die den Spezial-Angriff des Zieles stark senkt, falls es dem anderen Geschlecht angehört.
+stealth-rock:Tarnsteine
+stealth-rockDescription:Falle mit schwebenden Steinen. In den Kampf eingewechselte Ziele nehmen Schaden.
+grass-knot:Strauchler
+grass-knotDescription:Ziel wird durch Gras ins Straucheln gebracht. Je schwerer das Ziel, desto mehr Schaden.
+chatter:Geschwätz
+chatterDescription:Der Anwender labert das Ziel zu und greift es mit den dadurch entstehenden Schallwellen an, wodurch das Ziel verwirrt wird.
+judgment:Urteilskraft
+judgmentDescription:Anwender feuert unzählige Lichtstrahlen ab. Deren Typ hängt von der gehaltenen Tafel ab.
+bug-bite:Käferbiss
+bug-biteDescription:Anwender beißt das Ziel. Trägt dieses eine Beere, isst der Anwender sie und erhält ihren Effekt.
+charge-beam:Ladestrahl
+charge-beamDescription:Ziel wird von einem Elektrostrahl getroffen. Erhöht eventuell Spezial-Angriff des Anwenders.
+wood-hammer:Holzhammer
+wood-hammerDescription:Anwender attackiert mit seinem robusten Körper. Er erleidet dabei auch selbst großen Schaden.
+aqua-jet:Wasserdüse
+aqua-jetDescription:Sehr schneller Angriff mit hoher Erstschlagquote.
+attack-order:Schlagbefehl
+attack-orderDescription:Anwender ruft seine Untergebenen zum Angriff. Hat eine hohe Volltrefferquote.
+defend-order:Blockbefehl
+defend-orderDescription:Untergebene bilden einen lebenden Schild um den Anwender. Erhöht Verteidigung und Spezial-Verteidigung.
+head-smash:Kopfstoß
+head-smashDescription:Anwender greift unter Einsatz seines Lebens mit einem Kopfstoß an und nimmt dabei selbst jede Menge Schaden.
+double-hit:Doppelschlag
+double-hitDescription:Anwender trifft das Ziel mit dem Schweif oder Ähnlichem. Ziel wird doppelt getroffen.
+roar-of-time:Zeitenlärm
+roar-of-timeDescription:Anwender attackiert mit einer Kraft, die selbst die Zeit verzerrt. In der nächsten Runde muss er ruhen.
+spacial-rend:Raumschlag
+spacial-rendDescription:Schwere, raumgreifende Attacke. Hohe Volltrefferquote.
+lunar-dance:Lunartanz
+lunar-danceDescription:Anwender geht K.O. Das an seine Stelle tretende Pokémon hat dafür volle KP sowie AP und wird von Statusproblemen geheilt.
+crush-grip:Quetschgriff
+crush-gripDescription:Ziel wird mit großer Kraft getroffen. Je höher die KP des Zieles, desto stärker die Attacke.
+magma-storm:Lavasturm
+magma-stormDescription:Das Ziel wird in einen Feuersog gezogen, der vier bis fünf Runden aktiv ist.
+dark-void:Schlummerort
+dark-voidDescription:Das Ziel wird in eine Welt der Dunkelheit gezogen und in Schlaf versetzt.
+seed-flare:Schocksamen
+seed-flareDescription:Anwender erzeugt eine Schockwelle. Spezial-Verteidigung des Zieles wird eventuell stark gesenkt.
+ominous-wind:Unheilböen
+ominous-windDescription:Das Ziel treffen abscheuliche Winde. Erhöht eventuell alle Statuswerte des Anwenders.
+shadow-force:Schemenkraft
+shadow-forceDescription:Anwender verschwindet in Runde 1 und attackiert in Runde 2. Trifft auch, wenn sich das Ziel selbst schützt.
+hone-claws:Klauenwetzer
+hone-clawsDescription:Wetzt seine Klauen, um sie zu schärfen. Erhöht Angriff und Genauigkeit des Anwenders.
+wide-guard:Rundumschutz
+wide-guardDescription:Schützt eine Runde lang vor Angriffen, die alle Pokémon auf deiner Seite treffen.
+guard-split:Schutzteiler
+guard-splitDescription:Durch Psycho-Kräfte werden Verteidigung und Spezial-Verteidigung des Anwenders und des Zieles addiert und in zwei gleiche Hälften geteilt.
+heal-order:Heilbefehl
+heal-orderDescription:Untergebene heilen den Anwender. KP des Anwenders werden um 50 % der maximalen KP aufgefüllt.
+power-split:Kraftteiler
+power-splitDescription:Durch Psycho-Kräfte werden Angriff und Spezial-Angriff des Anwenders und des Zieles addiert und in zwei gleiche Hälften geteilt.
+wonder-room:Wunderraum
+wonder-roomDescription:Anwender erzeugt bizarren Raum, in dem über fünf Runden die Verteidigung aller Pokémon mit ihrer Spezial-Verteidigung getauscht wird.
+psyshock:Psychoschock
+psyshockDescription:Anwender erzeugt eine seltsame Energiewelle, die dem Ziel physischen Schaden zufügt.
+venoshock:Giftschock
+venoshockDescription:Überschüttet das Ziel mit einer speziellen toxischen Flüssigkeit. Doppelt so stark gegen vergiftete Ziele.
+autotomize:Autotomie
+autotomizeDescription:Anwender trennt sich von überflüssigen Körperteilen und erhöht seine Initiative stark. Sein Gewicht nimmt deutlich ab.
+rage-powder:Wutpulver
+rage-powderDescription:Anwender zieht gegnerische Aufmerksamkeit und Angriffe auf sich, indem er ein Wut erzeugendes Pulver über sich streut.
+telekinesis:Telekinese
+telekinesisDescription:Bringt das Ziel durch Psycho-Kräfte zum Schweben. Dieses lässt sich so über drei Runden hinweg besonders leicht treffen.
+magic-room:Magieraum
+magic-roomDescription:Anwender erzeugt einen bizarren Raum, in dem über fünf Runden die Wirkung aller von Pokémon getragenen Items aufgehoben ist.
+smack-down:Katapult
+smack-downDescription:Greift das Ziel mit Steinen und Wurfgeschossen an. Fliegende Ziele fallen dabei vom Himmel und landen auf dem Boden.
+flame-burst:Funkenflug
+flame-burstDescription:Bei Erfolg greift der Anwender mit berstenden Feuerblasen an. Die Funken der geplatzten Blasen treffen auch benachbarte Ziele.
+sludge-wave:Schlammwoge
+sludge-waveDescription:Greift Pokémon in der Nähe des Anwenders mit einer Schlammwelle an. Diese werden eventuell vergiftet.
+quiver-dance:Falterreigen
+quiver-danceDescription:Anwender legt behände einen mystischen, formvollendeten Tanz aufs Parkett. Spezial-Angriff, Spezial-Verteidigung und Initiative steigen.
+heavy-slam:Rammboss
+heavy-slamDescription:Anwender rammt das Ziel mit massivem Körper. Je schwerer er im Vergleich zum Ziel ist, desto stärker die Attacke.
+synchronoise:Synchrolärm
+synchronoiseDescription:Fügt Pokémon vom selben Typ, die sich in der Nähe des Anwenders aufhalten, mit seltsamen Druckwellen Schaden zu.
+electro-ball:Elektroball
+electro-ballDescription:Je höher die Initiative des Anwenders im Vergleich zum Ziel ist, desto stärker trifft dieses eine geballte Ladung Strom.
+soak:Überflutung
+soakDescription:Überschüttet das Ziel mit Unmengen an Wasser und ändert den Typ damit in Wasser um.
+flame-charge:Nitroladung
+flame-chargeDescription:Anwender hüllt sich in Flammen und greift das Ziel an. Sammelt seine Energie und erhöht dadurch die eigene Initiative.
+coil:Einrollen
+coilDescription:Anwender rollt sich zusammen und sammelt sich. Dabei werden Angriff, Verteidigung und Genauigkeit erhöht.
+low-sweep:Fußtritt
+low-sweepDescription:Anwender greift mit blitzschnellen Bewegungen die Beine des Zieles an und senkt dessen Initiative.
+acid-spray:Säurespeier
+acid-sprayDescription:Anwender greift an, indem er eine ätzende Flüssigkeit auf das Ziel speit. Senkt dessen Spezial-Verteidigung stark.
+foul-play:Schmarotzer
+foul-playDescription:Anwender macht sich die Kraft des Zieles zunutze. Je höher dessen Angriff, desto mehr Schaden richtet die Attacke an.
+simple-beam:Wankelstrahl
+simple-beamDescription:Bestrahlt das Ziel mit mysteriösen Energiewellen. Bei einem Treffer wird dessen Fähigkeit zu Wankelmut.
+entrainment:Zwango
+entrainmentDescription:Anwender tanzt zu einem seltsamen Rhythmus und zwingt das Ziel mitzumachen. Dieses nimmt dabei die Fähigkeit des Anwenders an.
+after-you:Galanterie
+after-youDescription:Anwender ermöglicht dem Ziel direkt nach ihm zu handeln, solange der Anwender als Erstes zum Zug kommt.
+round:Kanon
+roundDescription:Angriff mit Gesang. Singt der Anwender mit allen im Kanon, steigt die Stärke.
+echoed-voice:Widerhall
+echoed-voiceDescription:Angriff mit widerhallender Stimme. Wenn in jeder Runde ein Teilnehmer wiederholt die Attacke einsetzt, steigt die Stärke.
+chip-away:Zermürben
+chip-awayDescription:Eine durchdachte Attacke zur rechten Zeit. Richtet unabhängig von den Statusveränderungen des Zieles Schaden an.
+clear-smog:Klärsmog
+clear-smogDescription:Anwender greift das Ziel mit spezialgefertigtem Smog an. Setzt dessen Statusveränderungen zurück.
+stored-power:Kraftvorrat
+stored-powerDescription:Angriff mit angesparter Energie. Je höher die Statuswerte des Anwenders, desto stärker fällt die Attacke aus.
+quick-guard:Rapidschutz
+quick-guardDescription:Schützt Anwender und Mitstreiter vor Erstschlag-Attacken.
+ally-switch:Seitentausch
+ally-switchDescription:Wundersame Kräfte teleportieren den Anwender an den Platz eines Mitstreiters.
+scald:Siedewasser
+scaldDescription:Heizt dem Ziel mit einem Schwall siedend heißen Kochwassers ein. Das Ziel erleidet dabei eventuell Verbrennungen.
+shell-smash:Hausbruch
+shell-smashDescription:Anwender zerbricht seine Schale und senkt seine Verteidigung und Spezial-Verteidigung, aber dafür steigen Angriff, Spezial-Angriff und Initiative stark.
+heal-pulse:Heilwoge
+heal-pulseDescription:Anwender löst eine Schmerzen lindernde Welle aus und heilt dabei das Ziel mit der Hälfte von dessen maximalen KP.
+hex:Bürde
+hexDescription:Eine Attacke, bei der der Anwender das Ziel bedrängt. Fügt Zielen mit Statusproblemen hohen Schaden zu.
+sky-drop:Freier Fall
+sky-dropDescription:Steigt in Runde 1 mit dem Ziel in die Luft auf und lässt es in Runde 2 fallen. Das Ziel kann dabei nicht angreifen.
+shift-gear:Gangwechsel
+shift-gearDescription:Durch Drehen der Zahnräder erhöht sich nicht nur der Angriffs-Wert, sondern auch die Initiative des Anwenders stark.
+circle-throw:Überkopfwurf
+circle-throwDescription:Schleudert das Ziel davon und bewirkt damit, dass ein anderes Pokémon eingewechselt wird. Beendet Kämpfe gegen wilde Pokémon.
+incinerate:Einäschern
+incinerateDescription:Eine Feuer-Attacke. Trägt das Ziel eine Beere oder ein ähnliches Item bei sich, wird dieses von den Flammen verzehrt und geht verloren.
+quash:Verzögerung
+quashDescription:Anwender stemmt sich gegen das Ziel und bewirkt, dass dieses erst als Letztes angreift.
+acrobatics:Akrobatik
+acrobaticsDescription:Ein graziler Angriff auf das Ziel.
+reflect-type:Typenspiegel
+reflect-typeDescription:Anwender ahmt das Ziel nach und nimmt dabei dessen Typ an.
+retaliate:Heimzahlung
+retaliateDescription:Anwender nimmt Rache für einen besiegten Mitstreiter. Wurde in der vorigen Runde ein Mitstreiter besiegt, steigt die Stärke.
+final-gambit:Wagemut
+final-gambitDescription:Ein Angriff, der dem Ziel Schaden in Höhe der aktuellen KP des Anwenders zufügt. Letzterer wird dadurch selbst besiegt.
+bestow:Offerte
+bestowDescription:Trägt das Ziel gerade kein Item bei sich, erhält es das Item, das sich aktuell im Besitz des Anwenders befindet.
+inferno:Inferno
+infernoDescription:Anwender greift das Ziel an, indem er es mit dichten Flammen umhüllt. Ziel erleidet Verbrennungen.
+water-pledge:Wassersäulen
+water-pledgeDescription:Ein Angriff mit Wassersäulen. Mit Feuersäulen kombiniert steigt die Wirkung und ein Regenbogen erscheint.
+fire-pledge:Feuersäulen
+fire-pledgeDescription:Ein Angriff mit Feuersäulen. Mit Pflanzensäulen kombiniert steigt die Wirkung und die Umgebung wird zu einem Meer aus Feuer.
+grass-pledge:Pflanzensäulen
+grass-pledgeDescription:Ein Angriff mit Pflanzensäulen. Mit Wassersäulen kombiniert steigt die Wirkung und die Umgebung wird zu einem Sumpf.
+volt-switch:Voltwechsel
+volt-switchDescription:Anwender kehrt nach dem Angriff mit atemberaubender Geschwindigkeit zurück und tauscht Platz mit einem anderen Pokémon.
+struggle-bug:Käfertrutz
+struggle-bugDescription:Anwender leistet Widerstand und greift an. Der Spezial-Angriff der Ziele sinkt.
+bulldoze:Dampfwalze
+bulldozeDescription:Anwender greift an, indem er den Boden um sich herum plattwalzt. Die Initiative aller betroffenen Pokémon sinkt.
+frost-breath:Eisesodem
+frost-breathDescription:Anwender greift an, indem er dem Ziel eisigen Atem entgegenhaucht. Volltreffergarantie.
+dragon-tail:Drachenrute
+dragon-tailDescription:Putzt das Ziel vom Feld und wechselt es mit einem anderen Pokémon aus. Beendet Kämpfe gegen wilde Pokémon.
+work-up:Kraftschub
+work-upDescription:Anwender erhält einen Kraftschub, der seinen Angriff und Spezial-Angriff erhöht.
+electroweb:Elektronetz
+electrowebDescription:Fängt Ziele mit einem elektrischen Netz und senkt deren Initiative.
+wild-charge:Stromstoß
+wild-chargeDescription:Anwender erzeugt Spannung und greift an, indem er auf Kollisionskurs geht. Er selbst erleidet dabei ebenfalls leichten Schaden.
+drill-run:Schlagbohrer
+drill-runDescription:Anwender rammt das Ziel, während er seinen Körper wie einen Bohrer dreht. Hohe Volltrefferquote.
+dual-chop:Doppelhieb
+dual-chopDescription:Versetzt dem Ziel mit massiven Extremitäten Hiebe. Angriff erfolgt zweimal hintereinander.
+heart-stamp:Herzstempel
+heart-stampDescription:Verleitet Ziel durch Kokettieren zu Unachtsamkeit und verpasst ihm dann einen harten Schlag. Ziel schreckt eventuell zurück.
+horn-leech:Holzgeweih
+horn-leechDescription:Greift Ziel mit einem Astgeweih an und zapft diesem Energie ab. Anwender wird um die Hälfte des zugefügten Schadens geheilt.
+sacred-sword:Sanctoklinge
+sacred-swordDescription:Schneideangriff mit langem Horn. Richtet unabhängig von den Statusveränderungen des Zieles Schaden an.
+heat-crash:Brandstempel
+heat-crashDescription:Rempelattacke mit brennendem Körper. Je schwerer der Anwender im Vergleich zum Ziel ist, desto stärker die Attacke.
+leaf-tornado:Grasmixer
+leaf-tornadoDescription:Anwender greift an, indem er das Ziel in scharfes Blattwerk einwickelt. Kann die Genauigkeit des Zieles senken.
+steamroller:Quetschwalze
+steamrollerDescription:Anwender rollt mit rundlichem Körper über das Ziel und drückt es platt. Ziel schreckt eventuell zurück.
+cotton-guard:Watteschild
+cotton-guardDescription:Anwender schützt sich, indem er sich in einen luftigen Flaum hüllt. Erhöht die Verteidigung drastisch.
+night-daze:Nachtflut
+night-dazeDescription:Anwender greift Ziel mit finsteren Schockwellen an. Senkt eventuell die Genauigkeit.
+psystrike:Psychostoß
+psystrikeDescription:Anwender erzeugt eine seltsame Energiewelle, die dem Ziel physischen Schaden zufügt.
+tail-slap:Kehrschelle
+tail-slapDescription:Anwender greift das Ziel mit seiner schlagfesten Rute zwei- bis fünfmal hintereinander an.
+hurricane:Orkan
+hurricaneDescription:Anwender greift das Ziel an, indem er es mit heftigen Windböen umgibt. Ziel wird eventuell verwirrt.
+head-charge:Steinschädel
+head-chargeDescription:Rempelattacke mit ausgeflippter Retrofrisur. Anwender nimmt selbst leichten Schaden.
+gear-grind:Klikkdiskus
+gear-grindDescription:Anwender greift an, indem er stählerne Zahnräder auf das Ziel schleudert. Angriff erfolgt zweimal hintereinander.
+searing-shot:Flammenball
+searing-shotDescription:Anwender greift alles in seiner Umgebung mit tiefroten Flammen an. Ziele erleiden eventuell Verbrennungen.
+techno-blast:Techblaster
+techno-blastDescription:Anwender feuert ein Lichtgeschoss auf das Ziel ab. Der Typ der Attacke hängt von dem des Moduls ab.
+razor-shell:Kalkklinge
+razor-shellDescription:Schneideangriff mit einer scharfen Muschelschale. Senkt eventuell die Verteidigung des Zieles.
+relic-song:Urgesang
+relic-songDescription:Anwender greift mit Urgesang an, der Ziele in der Nähe im tiefsten Inneren anspricht. Diese schlafen eventuell ein.
+secret-sword:Mystoschwert
+secret-swordDescription:Schneideangriff mit dem langen Horn des Anwenders. Die mysteriöse Kraft aus dem Horn erzeugt physischen Schaden.
+glaciate:Eiszeit
+glaciateDescription:Anwender greift an, indem er dem Ziel klirrend kalte Luft entgegenbläst. Senkt die Initiative des Zieles.
+bolt-strike:Blitzschlag
+bolt-strikeDescription:Lädt seinen Körper mit einer gewaltigen Menge an Elektrizität auf und rammt damit das Ziel. Ziel wird eventuell paralysiert.
+blue-flare:Blauflammen
+blue-flareDescription:Anwender greift an, indem er das Ziel in wunderschöne, intensivblaue Flammen hüllt, durch die es eventuell Verbrennungen erleidet.
+fiery-dance:Feuerreigen
+fiery-danceDescription:Hüllt das Ziel mit einer Feuerhose in Flammen. Kann den Spezial-Angriff des Anwenders erhöhen.
+freeze-shock:Frostvolt
+freeze-shockDescription:Feuert in der zweiten Runde elektrisch geladene Eisklumpen auf das Ziel ab. Paralysiert das Ziel eventuell.
+ice-burn:Frosthauch
+ice-burnDescription:Umgibt das Ziel in der nächsten Runde mit heftigen, alles gefrierenden Eisböen. Fügt dem Ziel eventuell Verbrennungen zu.
+snarl:Standpauke
+snarlDescription:Wäscht Zielen in der Nähe mit einer ausführlichen Standpauke den Kopf und senkt dabei deren Spezial-Angriff.
+icicle-crash:Eiszapfhagel
+icicle-crashDescription:Lässt große, schwere Eiszapfen auf das Ziel herabregnen. Ziel schreckt eventuell zurück.
+v-create:V-Generator
+v-createDescription:Eine Verzweiflungsattacke. Anwender entfacht glühend heißes Feuer. Senkt dessen Verteidigung, Spezial-Verteidigung und Initiative.
+fusion-flare:Kreuzflamme
+fusion-flareDescription:Feuert eine monströse Flamme ab. Wird die Attacke durch einen gigantischen Blitz modifiziert, steigt die Stärke.
+fusion-bolt:Kreuzdonner
+fusion-boltDescription:Feuert einen monströsen Blitz ab. Wird die Attacke durch eine gigantische Flamme modifiziert, steigt die Stärke.
+flying-press:Flying Press
+flying-pressDescription:Der Anwender stürzt sich aus der Luft auf das Ziel. Die Attacke gehört sowohl dem Typ Kampf als auch dem Typ Flug an.
+mat-block:Tatami-Schild
+mat-blockDescription:Der Anwender richtet eine Tatami-Matte auf, um sich und sein Team vor Schaden zu schützen. Kein Schutz vor Status-Attacken.
+belch:Rülpser
+belchDescription:Der Anwender fügt dem Ziel Schaden zu, indem er es anrülpst. Diese Attacke gelingt nur nach dem Konsum einer getragenen Beere.
+rototiller:Pflüger
+rototillerDescription:Der Anwender pflügt den Boden und macht die Erde fruchtbarer. Erhöht den Angriff und den Spezial-Angriff von Pflanzen-Pokémon.
+sticky-web:Klebenetz
+sticky-webDescription:Der Anwender spinnt in der Umgebung des gegnerischen Teams ein klebriges Netz und senkt so die Initiative neu eingewechselter Pokémon.
+fell-stinger:Stachelfinale
+fell-stingerDescription:Gelingt es dem Anwender, das Ziel mit dieser Attacke zu besiegen, steigt sein Angriffs-Wert drastisch.
+phantom-force:Phantomkraft
+phantom-forceDescription:Der Anwender verschwindet, um eine Runde lang seine Kraft zu sammeln und in der nächsten Runde anzugreifen. Durchbricht die Defensive des Zieles.
+trick-or-treat:Halloween
+trick-or-treatDescription:Der Anwender lehrt das Ziel das Fürchten. Dieses nimmt dadurch zusätzlich den Typ Geist an.
+noble-roar:Kampfgebrüll
+noble-roarDescription:Der Anwender stößt ein Kampfgebrüll aus, das das Ziel einschüchtert und zugleich seinen Angriffs- und Spezial-Angriffs-Wert senkt.
+ion-deluge:Plasmaschauer
+ion-delugeDescription:Versprüht elektrisch geladene Partikel und bewirkt, dass Normal-Attacken den Typ Elektro annehmen.
+parabolic-charge:Parabolladung
+parabolic-chargeDescription:Fügt allen Pokémon in der Umgebung Schaden zu. Der Anwender wird um die Hälfte des insgesamt angerichteten Schadens geheilt.
+forests-curse:Waldesfluch
+forests-curseDescription:Der Anwender belegt das Ziel mit einem Waldesfluch, durch den dieses zusätzlich den Typ Pflanze annimmt.
+petal-blizzard:Blütenwirbel
+petal-blizzardDescription:Der Anwender erzeugt einen turbulenten Blütenwirbel, der alle Pokémon in der Nähe erfasst und ihnen Schaden zufügt.
+freeze-dry:Gefriertrockner
+freeze-dryDescription:Das Ziel wird stark abgekühlt und manchmal sogar eingefroren. Die Attacke ist sehr effektiv gegen Wasser-Pokémon.
+disarming-voice:Säuselstimme
+disarming-voiceDescription:Der Anwender stößt einen bezirzenden Ruf aus, mit dem er das Ziel in seinen Bann schlägt und ihm immer mentalen Schaden zufügt.
+parting-shot:Abgangstirade
+parting-shotDescription:Schüchtert das Ziel mit einer Abgangstirade ein, sodass dessen Angriffs- und Spezial-Angriffs-Wert sinken. Danach wird der Anwender ausgewechselt.
+topsy-turvy:Invertigo
+topsy-turvyDescription:Invertiert alle Statusveränderungen des Zieles.
+draining-kiss:Diebeskuss
+draining-kissDescription:Der Anwender stiehlt dem Ziel mit einem Kuss KP. Die Höhe der Heilung beträgt mehr als die Hälfte des beim Ziel angerichteten Schadens.
+crafty-shield:Trickschutz
+crafty-shieldDescription:Schützt mit einer mysteriösen Macht seine Mitstreiter und sich vor Status-Attacken, nicht jedoch vor Attacken, die Schaden verursachen.
+flower-shield:Floraschutz
+flower-shieldDescription:Erhöht mit einer mysteriösen Macht die Verteidigung aller am Kampf beteiligten Pflanzen-Pokémon.
+grassy-terrain:Grasfeld
+grassy-terrainDescription:Regeneriert fünf Runden lang in jeder neuen Runde ein paar KP aller Pokémon, die den Boden berühren. Erhöht die Stärke von Pflanzen-Attacken.
+misty-terrain:Nebelfeld
+misty-terrainDescription:Schützt fünf Runden lang alle Pokémon, die den Boden berühren, vor Statusproblemen. Der erlittene Schaden durch Drachen-Attacken wird halbiert.
+electrify:Elektrifizierung
+electrifyDescription:Kommt die Attacke zum Einsatz, bevor das Ziel seine Attacke ausführt, nimmt diese für die Dauer dieser Runde den Typ Elektro an.
+play-rough:Knuddler
+play-roughDescription:Der Anwender knuddelt das Ziel und greift es an. Gelegentlich sinkt dabei auch dessen Angriffs-Wert.
+fairy-wind:Feenbrise
+fairy-windDescription:Lässt eine Feenbrise aufkommen, die das Ziel erfasst und ihm Schaden zufügt.
+moonblast:Mondgewalt
+moonblastDescription:Der Anwender macht sich die Kraft des Mondes zunutze, um anzugreifen. Gelegentlich wird dabei der Spezial-Angriff des Zieles gesenkt.
+boomburst:Überschallknall
+boomburstDescription:Der Anwender greift alle Pokémon in der Umgebung mit einem gewaltigen Knall an.
+fairy-lock:Feenschloss
+fairy-lockDescription:Der Anwender sperrt alle Pokémon ein und hindert sie damit in der nächsten Runde an der Flucht.
+kings-shield:Königsschild
+kings-shieldDescription:Der Anwender geht in die Defensive und wird vor Angriffen geschützt. Berührt ihn nun ein Pokémon, sinkt dessen Angriffs-Wert stark.
+play-nice:Kameradschaft
+play-niceDescription:Der Anwender schließt mit dem Ziel Freundschaft und nimmt ihm seine Angriffslust. Der Angriffs-Wert des Zieles sinkt.
+confide:Vertrauenssache
+confideDescription:Der Anwender vertraut dem Ziel ein Geheimnis an und stört auf diese Weise dessen Konzentration. Der Spezial-Angriff des Zieles sinkt.
+diamond-storm:Diamantsturm
+diamond-stormDescription:Der Anwender beschwört einen zerstörerischen Diamantsturm herauf. Kann die Verteidigung des Anwenders stark erhöhen.
+steam-eruption:Dampfschwall
+steam-eruptionDescription:Der Anwender feuert einen siedend heißen Dampfschwall auf das Ziel ab. Dieses kann dabei Verbrennungen erleiden.
+hyperspace-hole:Dimensionsloch
+hyperspace-holeDescription:Der Anwender positioniert sich mithilfe eines Dimensionslochs direkt neben dem Ziel und durchbricht selbst Schutzschild, Scanner etc.
+water-shuriken:Wasser-Shuriken
+water-shurikenDescription:Der Anwender schleudert dem Ziel Wurfsterne aus einem verdickten Sekret entgegen. Die Attacke trifft zwei- bis fünfmal. Hohe Erstschlagquote.
+mystical-fire:Magieflamme
+mystical-fireDescription:Der Anwender greift das Ziel an, indem er ihm eine besondere, heiße Flamme entgegenbläst. Der Spezial-Angriff des Zieles sinkt.
+spiky-shield:Schutzstacheln
+spiky-shieldDescription:Der Anwender wird vor Angriffen geschützt. Gleichzeitig nehmen alle Pokémon, die mit ihm in Berührung kommen, Schaden.
+aromatic-mist:Duftwolke
+aromatic-mistDescription:Der Anwender erhöht mithilfe eines mysteriösen Duftes die Spezial-Verteidigung eines Mitstreiters.
+eerie-impulse:Mystowellen
+eerie-impulseDescription:Der Körper des Anwenders erzeugt mysteriöse Wellen und senkt den Spezial-Angriff des Zieles dadurch stark.
+venom-drench:Giftfalle
+venom-drenchDescription:Anwender bespritzt das Ziel mit einer speziellen Giftflüssigkeit. Senkt den Angriff, den Spezial-Angriff und die Initiative von vergifteten Zielen.
+powder:Pulverschleuder
+powderDescription:Setzt das Ziel nach Einsatz von Pulverschleuder in derselben Runde eine Feuer-Attacke ein, kommt es zu einer Explosion, die ihm schadet.
+geomancy:Geokontrolle
+geomancyDescription:Der Anwender saugt in Runde 1 Energie auf. In Runde 2 steigen der Spezial-Angriff, die Spezial-Verteidigung und die Initiative stark.
+magnetic-flux:Magnetregler
+magnetic-fluxDescription:Das Magnetfeld wird so manipuliert, dass Spezial- Verteidigung und Verteidigung von Team-Pokémon mit der Fähigkeit Plus oder Minus steigen.
+happy-hour:Goldene Zeiten
+happy-hourDescription:Nach Einsatz der Attacke Goldene Zeiten verdoppelt sich das Preisgeld, das du im Falle eines Sieges erhältst.
+electric-terrain:Elektrofeld
+electric-terrainDescription:Hindert fünf Runden lang alle Pokémon, die den Boden berühren, am Einschlafen. Erhöht die Stärke von Elektro-Attacken.
+dazzling-gleam:Zauberschein
+dazzling-gleamDescription:Der Anwender feuert einen mächtigen Lichtblitz ab, der dem Ziel Schaden zufügt.
+hold-hands:Händchenhalten
+hold-handsDescription:Der Anwender und ein Mitstreiter reichen einander die Hände und verfallen in einen Zustand tiefster Zufriedenheit.
+baby-doll-eyes:Kulleraugen
+baby-doll-eyesDescription:Der Anwender erobert das Herz des Zieles, indem er es mit Kulleraugen ansieht. Senkt den Angriffs-Wert des Zieles. Hohe Erstschlagquote.
+nuzzle:Wangenrubbler
+nuzzleDescription:Der Anwender lädt seine Wangen elektrisch auf und greift an, indem er sich damit am Ziel reibt. Das Ziel wird paralysiert.
+hold-back:Zurückhaltung
+hold-backDescription:Der Anwender hält sich beim Angriff zurück und sorgt auf diese Weise dafür, dass dem Ziel danach mindestens 1 KP verbleibt.
+infestation:Plage
+infestationDescription:Der Anwender fällt vier bis fünf Runden lang wie eine Plage über das Ziel her und greift es an. In diesem Zeitraum kann es nicht fliehen.
+power-up-punch:Steigerungshieb
+power-up-punchDescription:Die Fäuste des Anwenders härten durch wiederholtes Zuschlagen ab. Mit jedem Treffer steigt sein Angriffs-Wert.
+oblivion-wing:Unheilsschwingen
+oblivion-wingDescription:Der Anwender raubt dem Ziel KP. Die Höhe der Heilung beträgt mehr als die Hälfte des beim Ziel angerichteten Schadens.
+thousand-arrows:Tausend Pfeile
+thousand-arrowsDescription:Die Attacke erfasst auch fliegende und schwebende Pokémon. Werden sie getroffen, fallen sie zu Boden.
+thousand-waves:Tausend Wellen
+thousand-wavesDescription:Der Anwender greift mit einer Welle an, die dicht über dem Boden verläuft und alle Pokémon, die sie erfasst, an der Flucht hindert.
+lands-wrath:Bodengewalt
+lands-wrathDescription:Der Anwender sammelt die Kraft des weiten Landes und greift an, indem er sie gebündelt auf das Ziel lenkt.
+light-of-ruin:Lux Calamitatis
+light-of-ruinDescription:Die Attacke basiert auf der Kraft des Ewigblütlers, die als mächtiger Lichtstrahl abgefeuert wird. Der Anwender nimmt dabei selbst großen Schaden.
+origin-pulse:Ursprungswoge
+origin-pulseDescription:Der Anwender greift das Ziel mit unzähligen blau leuchtenden Strahlen an.
+celebrate:Ehrentag
+celebrateDescription:Das Pokémon gratuliert dir zu deinem Geburtstag!
+precipice-blades:Abgrundsklinge
+precipice-bladesDescription:Der Anwender wandelt die Kraft des Erdreichs in Klingen um, mit denen er das Ziel angreift.
+dragon-ascent:Zenitstürmer
+dragon-ascentDescription:Der Anwender greift das Ziel aus atemberaubender Höhe im Sturzflug an. Senkt Verteidigung und Spezial-Verteidigung des Anwenders.
+hyperspace-fury:Dimensionswahn
+hyperspace-furyDescription:Eine Angriffsserie mit vielen Armen, die die Wirkung von Attacken wie Schutzschild und Scanner durch- bricht. Dabei sinkt die Verteidigung des Anwenders.
+breakneck-blitz--physical:Hyper-Sprintangriff
+breakneck-blitz--physicalDescription:Der durch Z-Kraft energiegeladene Anwender rennt mit ganzer Kraft gegen das Ziel. Die Stärke variiert je nach zugrunde liegender Attacke.
+all-out-pummeling--physical:Fulminante Faustschläge
+all-out-pummeling--physicalDescription:Aus Z-Kraft hergestellte Energiebälle prallen mit voller Wucht auf das Ziel. Die Stärke variiert je nach zugrunde liegender Attacke.
+all-out-pummeling--special:Fulminante Faustschläge
+all-out-pummeling--specialDescription:Dummy data
+supersonic-skystrike--physical:Finaler Steilflug
+supersonic-skystrike--physicalDescription:Der Anwender schwingt sich durch Z-Kraft in die Lüfte und stürzt sich dann auf das Ziel hinab. Die Stärke variiert je nach zugrunde liegender Attacke.
+acid-downpour--physical:Vernichtender Säureregen
+acid-downpour--physicalDescription:Der Anwender kreiert mit Z-Kraft ein giftiges Moor, in dem das Ziel versinkt. Die Stärke variiert je nach zugrunde liegender Attacke.
+tectonic-rage--physical:Seismische Eruption
+tectonic-rage--physicalDescription:Der Anwender zerrt das Ziel mit Z-Kraft tief in den Boden und kollidiert dort mit ihm. Die Stärke variiert je nach zugrunde liegender Attacke.
+tectonic-rage--special:Seismische Eruption
+tectonic-rage--specialDescription:Dummy data
+continental-crush--physical:Apokalyptische Steinpresse
+continental-crush--physicalDescription:Der Anwender beschwört mit Z-Kraft einen großen Felsen herbei und lässt ihn auf das Ziel fallen. Die Stärke variiert je nach zugrunde liegender Attacke.
+continental-crush--special:Apokalyptische Steinpresse
+continental-crush--specialDescription:Dummy data
+savage-spin-out--physical:Wirbelnder Insektenhieb
+savage-spin-out--physicalDescription:Mithilfe von Z-Kraft umwickelt der Anwender das Ziel mit Fäden. Die Stärke variiert je nach zugrunde liegender Attacke.
+savage-spin-out--special:Wirbelnder Insektenhieb
+savage-spin-out--specialDescription:Dummy data
+never-ending-nightmare--physical:Ewige Nacht
+never-ending-nightmare--physicalDescription:Der Anwender beschwört mit Z-Kraft tiefen Groll herbei und lässt diesen auf das Ziel los. Die Stärke variiert je nach zugrunde liegender Attacke.
+never-ending-nightmare--special:Ewige Nacht
+never-ending-nightmare--specialDescription:Dummy data
+corkscrew-crash--physical:Turbo-Spiralkombo
+corkscrew-crash--physicalDescription:Der Anwender wirbelt durch Z-Kraft sehr schnell umher und prallt mit dem Ziel zusammen. Die Stärke variiert je nach zugrunde liegender Attacke.
+corkscrew-crash--special:Turbo-Spiralkombo
+corkscrew-crash--specialDescription:Dummy data
+inferno-overdrive--physical:Dynamische Maxiflamme
+inferno-overdrive--physicalDescription:Der Anwender speit dank Z-Kraft eine gewaltige Kugel aus Flammen auf das Ziel. Die Stärke variiert je nach zugrunde liegender Attacke.
+inferno-overdrive--special:Dynamische Maxiflamme
+inferno-overdrive--specialDescription:Dummy data
+hydro-vortex--physical:Super-Wassertornado
+hydro-vortex--physicalDescription:Der Anwender kreiert mit Z-Kraft einen riesigen Wasserstrudel, der das Ziel verschluckt. Die Stärke variiert je nach zugrunde liegender Attacke.
+hydro-vortex--special:Super-Wassertornado
+hydro-vortex--specialDescription:Dummy data
+bloom-doom--physical:Brillante Blütenpracht
+bloom-doom--physicalDescription:Der Anwender leiht sich durch Z-Kraft die Energie von Wiesenblumen und greift das Ziel damit an. Die Stärke variiert je nach zugrunde liegender Attacke.
+acid-downpour--special:Vernichtender Säureregen
+acid-downpour--specialDescription:Dummy data
+bloom-doom--special:Brillante Blütenpracht
+bloom-doom--specialDescription:Dummy data
+gigavolt-havoc--physical:Gigavolt-Funkensalve
+gigavolt-havoc--physicalDescription:Der Anwender greift das Ziel mit durch Z-Kraft gesammelter starker Elektrizität an. Die Stärke variiert je nach zugrunde liegender Attacke.
+gigavolt-havoc--special:Gigavolt-Funkensalve
+gigavolt-havoc--specialDescription:Dummy data
+shattered-psyche--physical:Psycho-Schmetterschlag
+shattered-psyche--physicalDescription:Der Anwender kontrolliert das Ziel mit Z-Kraft und macht ihm so das Leben schwer. Die Stärke variiert je nach zugrunde liegender Attacke.
+subzero-slammer--physical:Tobender Geofrost
+subzero-slammer--physicalDescription:Der Anwender senkt mit Z-Kraft die Temperatur drastisch und lässt das Ziel einfrieren. Die Stärke variiert je nach zugrunde liegender Attacke.
+devastating-drake--physical:Drastisches Drachendröhnen
+devastating-drake--physicalDescription:Der Anwender materialisiert durch Z-Kraft seine Aura und greift damit das Ziel an. Die Stärke variiert je nach zugrunde liegender Attacke.
+devastating-drake--special:Drastisches Drachendröhnen
+devastating-drake--specialDescription:Dummy data
+black-hole-eclipse--physical:Schwarzes Loch des Grauens
+black-hole-eclipse--physicalDescription:Der Anwender sammelt mit Z-Kraft dunkle Energie an, die das Ziel verschlingt. Die Stärke variiert je nach zugrunde liegender Attacke.
+black-hole-eclipse--special:Schwarzes Loch des Grauens
+black-hole-eclipse--specialDescription:Dummy data
+twinkle-tackle--physical:Entzückender Sternenstoß
+twinkle-tackle--physicalDescription:Der Anwender kreiert mit Z-Kraft eine zauberhafte Dimension und treibt dort sein Spiel mit dem Ziel. Die Stärke variiert je nach zugrunde liegender Attacke.
+twinkle-tackle--special:Entzückender Sternenstoß
+twinkle-tackle--specialDescription:Dummy data
+catastropika:Perfektes Pika-Projektil
+catastropikaDescription:Pikachu umhüllt sich durch Z-Kraft mit gewaltiger elektrischer Energie und stürzt sich mit voller Kraft auf das Ziel.
+shore-up:Sandsammler
+shore-upDescription:KP des Anwenders werden um 50 % der maximalen KP aufgefüllt. Tobt ein Sandsturm, werden noch mehr KP aufgefüllt.
+first-impression:Überrumpler
+first-impressionDescription:Eine sehr starke Attacke, die jedoch nur erfolgreich ist, wenn sie sofort eingesetzt wird, nachdem der Anwender das Kampffeld betreten hat.
+baneful-bunker:Bunker
+baneful-bunkerDescription:Der Anwender wird vor Angriffen geschützt. Gleichzeitig werden alle Pokémon, die mit ihm in Berührung kommen, vergiftet.
+spirit-shackle:Schattenfessel
+spirit-shackleDescription:Der Anwender greift das Ziel an und näht zugleich dessen Schatten am Boden fest, sodass es nicht entkommen kann.
+darkest-lariat:Dark Lariat
+darkest-lariatDescription:Der Anwender wirbelt mit beiden Armen und prallt so auf das Ziel. Richtet unabhängig von den Statusveränderungen des Zieles Schaden an.
+sparkling-aria:Schaumserenade
+sparkling-ariaDescription:Durch Gesang erzeugte Blasen werden auf das Ziel geschleudert. Alle Pokémon, die dadurch Schaden erleiden, werden auch von Verbrennungen geheilt.
+ice-hammer:Eishammer
+ice-hammerDescription:Anwender trifft mit einem starken Hieb. Senkt Initiative des Anwenders.
+floral-healing:Florakur
+floral-healingDescription:KP des Zieles werden um 50 % der maximalen KP aufgefüllt. Die Wirkung steigt, wenn der Untergrund in ein Grasfeld verwandelt wurde.
+high-horsepower:Pferdestärke
+high-horsepowerDescription:Der Anwender greift das Ziel mit einer heftigen Ganzkörper-Attacke an.
+strength-sap:Kraftabsorber
+strength-sapDescription:Ein Angriff, der die KP des Anwenders um die Höhe des Angriffs-Werts des Zieles heilt. Anschließend wird der Angriff des Zieles gesenkt.
+solar-blade:Solarklinge
+solar-bladeDescription:Der Anwender absorbiert in der 1. Runde Licht, das er in der 2. Runde zu einem Schwert formt, mit dem er angreift.
+leafage:Blattwerk
+leafageDescription:Der Anwender greift das Ziel mit Blättern an.
+shattered-psyche--special:Psycho-Schmetterschlag
+shattered-psyche--specialDescription:Dummy data
+spotlight:Rampenlicht
+spotlightDescription:Der Anwender lenkt die Aufmerksamkeit auf das Ziel, sodass in dieser Runde nur noch dieses Pokémon angegriffen wird.
+toxic-thread:Giftfaden
+toxic-threadDescription:Der Anwender schießt giftige Fäden auf das Ziel, das dadurch vergiftet wird. Außerdem sinkt seine Initiative.
+laser-focus:Konzentration
+laser-focusDescription:Der Anwender konzentriert sich, wodurch sein nächster Angriff garantiert ein Volltreffer wird.
+gear-up:Hilfsmechanik
+gear-upDescription:Der Anwender erhöht mithilfe von Zahnrädern Angriff und Spezial-Angriff von Team-Pokémon mit der Fähigkeit Plus oder Minus.
+throat-chop:Neck Strike
+throat-chopDescription:Das Pokémon, das von dieser Attacke getroffen wird, erleidet starke Schmerzen und kann deswegen zwei Runden lang keine Lärm-Attacken mehr einsetzen.
+pollen-puff:Pollenknödel
+pollen-puffDescription:Der Anwender greift mit einem Ball aus Pollen an, der beim Ziel explodiert. Mitstreiter werden von einem Ball getroffen, der ihre KP auffüllt.
+anchor-shot:Ankerschuss
+anchor-shotDescription:Der Anwender greift das Ziel an, indem er es mit einer Ankerkette umwickelt. Dadurch wird das Ziel an der Flucht gehindert.
+psychic-terrain:Psychofeld
+psychic-terrainDescription:Verhindert für fünf Runden, dass Pokémon am Boden von Attacken mit hoher Erstschlagquote getroffen werden. Erhöht die Stärke von Psycho-Attacken.
+lunge:Anfallen
+lungeDescription:Der Anwender greift das Ziel mit ganzer Kraft an, wodurch auch der Angriffs-Wert des Zieles sinkt.
+fire-lash:Feuerpeitsche
+fire-lashDescription:Der Anwender greift das Ziel mit einer brennenden Peitsche an und senkt dabei zusätzlich dessen Verteidigungs-Wert.
+power-trip:Überheblichkeit
+power-tripDescription:Der Anwender prahlt mit seiner Stärke und greift das Ziel an. Dieser Angriff ist umso stärker, je weiter die Statuswerte des Anwenders erhöht sind.
+burn-up:Ausbrennen
+burn-upDescription:Der Anwender nutzt das gesamte Feuer in seinem Körper, um großen Schaden auszuteilen. Die restliche Kampfdauer gehört er nicht mehr dem Typ Feuer an.
+speed-swap:Initiativetausch
+speed-swapDescription:Der Anwender tauscht seinen Initiative-Wert mit dem des Zieles.
+smart-strike:Schmalhorn
+smart-strikeDescription:Der Anwender durchbohrt das Ziel mit seinem spitzen Horn. Diese Attacke trifft immer.
+purify:Läuterung
+purifyDescription:Der Anwender heilt das Statusproblem des Zieles und füllt dadurch seine eigenen KP auf.
+revelation-dance:Wecktanz
+revelation-danceDescription:Der Anwender tanzt und greift dabei das Ziel mit voller Kraft an. Die Attacke hat denselben Typ wie das Pokémon, das sie einsetzt.
+core-enforcer:Sanktionskern
+core-enforcerDescription:Hat das Pokémon, das durch diese Attacke Schaden genommen hat, in dieser Runde bereits gehandelt, verliert es seine Fähigkeit.
+trop-kick:Tropenkick
+trop-kickDescription:Der Anwender greift den Gegner mit einem heftigen Tritt tropischer Herkunft an. Dabei sinkt auch der Angriffs-Wert des Gegners.
+instruct:Kommando
+instructDescription:Der Anwender befiehlt dem Ziel, dessen zuletzt ausgeführte Attacke sofort wieder einzusetzen.
+beak-blast:Schnabelkanone
+beak-blastDescription:Der Anwender erhitzt zuerst seinen Schnabel und greift dann an. Pokémon, die ihn während des Erhitzens berühren, erleiden Verbrennungen.
+clanging-scales:Schuppenrasseln
+clanging-scalesDescription:Der Anwender erzeugt durch das Rasseln mit seinen Schuppen ein lautes Geräusch und greift an. Anschließend sinkt seine Verteidigung.
+dragon-hammer:Drachenhammer
+dragon-hammerDescription:Der Anwender nutzt seinen Körper wie einen Hammer und stürzt sich auf das Ziel, wodurch dieses Schaden erleidet.
+brutal-swing:Wirbler
+brutal-swingDescription:Der Anwender dreht schwungvoll seinen Körper und fügt den Pokémon in seiner Nähe dabei Schaden zu.
+aurora-veil:Auroraschleier
+aurora-veilDescription:Diese Attacke schwächt fünf Runden lang den durch physische sowie durch Spezial-Attacken erhaltenen Schaden. Kann nur bei Hagel eingesetzt werden.
+sinister-arrow-raid:Schatten-Pfeilregen
+sinister-arrow-raidDescription:Silvarro stellt mit Z-Kraft unzählige Pfeile her und lässt diese auf das Ziel niederprasseln.
+malicious-moonsault:Hyper Dark Crusher
+malicious-moonsaultDescription:Mit seinem durch Z-Kraft gestählten Körper stürzt sich Fuegro mit ganzer Kraft auf das Ziel.
+oceanic-operetta:Grandiose Meeressymphonie
+oceanic-operettaDescription:Primarene ruft mit Z-Kraft große Mengen an Wasser herbei und greift damit das Ziel an.
+guardian-of-alola:Alolas Wächter
+guardian-of-alolaDescription:Ein gewaltiger Angriff des Schutzpatrons, der durch Z-Kraft die Kraft Alolas erlangt hat. Reduziert die verbleibenden KP des Zieles stark.
+soul-stealing-7-star-strike:Sternbild des Seelenraubes
+soul-stealing-7-star-strikeDescription:Marshadow schlägt mit durch Z-Kraft gestärkten Schlägen und Tritten in einer Serien-Attacke auf das Ziel ein.
+stoked-sparksurfer:Blitz-Wellenritt
+stoked-sparksurferDescription:Das Alola-Raichu greift das Ziel mithilfe von Z-Kraft mit voller Wucht an und paralysiert es.
+pulverizing-pancake:Schluss mit lustig
+pulverizing-pancakeDescription:Relaxo wird von Z-Kraft erfüllt und macht Ernst. Es bringt seinen riesigen Körper in Schwung und stürzt sich mit ganzer Kraft auf das Ziel.
+extreme-evoboost:Macht der Neun
+extreme-evoboostDescription:Evoli macht sich durch Z-Kraft die Stärke seiner Weiterentwicklungen zunutze und erhöht seine Statuswerte stark.
+genesis-supernova:Supernova des Ursprungs
+genesis-supernovaDescription:Mew greift das Ziel mithilfe von Z-Kraft mit voller Wucht an. Der Untergrund wird dabei in ein Psychofeld verwandelt.
+shell-trap:Panzerfalle
+shell-trapDescription:Der Anwender legt eine Panzerfalle. Wird er von einer physischen Attacke getroffen, explodiert die Falle und fügt dem Angreifer Schaden zu.
+fleur-cannon:Kanonenbouquet
+fleur-cannonDescription:Der Anwender greift das Ziel mit einem gewaltigen Strahl an. Sein eigener Spezial-Angriff sinkt dadurch stark.
+psychic-fangs:Psychobeißer
+psychic-fangsDescription:Der Anwender beißt das Ziel mithilfe von Psycho-Kräften. Die Attacke durchbricht auch Barrieren wie Lichtschild und Reflektor.
+stomping-tantrum:Fruststampfer
+stomping-tantrumDescription:Von Frust getrieben greift der Anwender an. Wenn seine vorige Attacke fehlgeschlagen ist, verdoppelt sich die Stärke der Attacke.
+shadow-bone:Schattenknochen
+shadow-boneDescription:Der Anwender greift das Ziel mit einem Knochen an, in dem eine Seele haust. Senkt eventuell die Verteidigung des Zieles.
+accelerock:Turbofelsen
+accelerockDescription:Der Anwender prallt mit großer Geschwindigkeit auf das Ziel. Hohe Erstschlagquote.
+liquidation:Aquadurchstoß
+liquidationDescription:Der Anwender greift das Ziel mit der Kraft des Wassers an. Senkt eventuell die Verteidigung des Zieles.
+prismatic-laser:Prisma-Laser
+prismatic-laserDescription:Der Anwender feuert mithilfe von Prisma-Kraft mächtige Lichtstrahlen ab. In der nächsten Runde kann er nicht handeln.
+spectral-thief:Diebesschatten
+spectral-thiefDescription:Der Anwender schleicht sich in den Schatten des Zieles, stiehlt dessen erhöhte Statuswerte und fügt ihm Schaden zu.
+sunsteel-strike:Stahlgestirn
+sunsteel-strikeDescription:Der Anwender stürzt mit der Gewalt eines Meteors auf das Ziel. Die Fähigkeit des Zieles wird dabei ignoriert.
+moongeist-beam:Schattenstrahl
+moongeist-beamDescription:Der Anwender greift mit einem unheimlichen Lichtstrahl an. Diese Attacke ignoriert die Fähigkeit des Zieles.
+tearful-look:Tränendrüse
+tearful-lookDescription:Dem Anwender stehen Tränen in den Augen, wodurch das Ziel seinen Kampfeswillen verliert. Angriff und Spezial-Angriff des Zieles sinken.
+zing-zap:Elektropikser
+zing-zapDescription:Der Anwender rammt das Ziel und schockt es mit starkem Strom. Das Ziel schreckt eventuell zurück.
+natures-madness:Naturzorn
+natures-madnessDescription:Das Ziel wird vom Zorn der Natur getroffen und verliert dadurch die Hälfte seiner KP.
+multi-attack:Multi-Angriff
+multi-attackDescription:Der Anwender sammelt eine große Menge Energie und greift das Ziel damit an. Der Typ der Attacke hängt von dem der Disc ab.
+10-000-000-volt-thunderbolt:Tausendfacher Donnerblitz
+10-000-000-volt-thunderboltDescription:Das eine Kappe tragende Pikachu greift das Ziel mit einem durch Z-Kraft verstärkten Elektroschock an. Hohe Volltrefferquote.
+mind-blown:Knallkopf
+mind-blownDescription:Der Anwender greift alle Pokémon in der Umgebung an, indem er seinen Kopf explodieren lässt. Dabei verletzt er sich auch selbst.
+plasma-fists:Plasmafäuste
+plasma-fistsDescription:Ein Angriff mit elektrisch geladenen Fäusten, der bewirkt, dass Normal-Attacken den Typ Elektro annehmen.
+photon-geyser:Photonen-Geysir
+photon-geyserDescription:Ein Angriff mit einer Lichtsäule. Ist der Angriff höher als der Spezial-Angriff, wird die Höhe des Schadens durch den Angriff bestimmt und umgekehrt.
+light-that-burns-the-sky:Licht des Erlöschens
+light-that-burns-the-skyDescription:Ist der Angriff höher als der Spezial-Angriff, wird die Höhe des Schadens durch den Angriff bestimmt und umgekehrt. Ignoriert die Fähigkeit des Zieles.
+searing-sunraze-smash:Schmetternde Sonnenwalze
+searing-sunraze-smashDescription:Solgaleo greift das Ziel mithilfe von Z-Kraft mit voller Wucht an. Ignoriert die Fähigkeit des Zieles.
+menacing-moonraze-maelstrom:Geballter Mondlaser
+menacing-moonraze-maelstromDescription:Lunala greift das Ziel mithilfe von Z-Kraft mit voller Wucht an. Ignoriert die Fähigkeit des Zieles.
+lets-snuggle-forever:Herzliche Knuddelkloppe
+lets-snuggle-foreverDescription:Mimigma greift das Ziel mithilfe von Z-Kraft mit voller Wucht und viel Liebe an.
+splintered-stormshards:Fataler Steinregen
+splintered-stormshardsDescription:Wolwerock greift das Ziel mithilfe von Z-Kraft mit voller Wucht an. Herrschen besondere Feldeffekte, werden diese zusätzlich neutralisiert.
+clangorous-soulblaze:Rasselnder Seelentanz
+clangorous-soulblazeDescription:Grandiras greift Gegner mithilfe von Z-Kraft mit voller Wucht an. Zusätzlich werden seine Statuswerte erhöht.
+apple-acid:Apfelsäure
+apple-acidDescription:Der Anwender greift mit einer aus einem sauren Apfel hergestellten säurehaltigen Flüssigkeit an. Dabei wird die Spezial-Verteidigung des Zieles gesenkt.
+astral-barrage:Astralfragmente
+astral-barrageDescription:Astralfragmente
+behemoth-blade:Gigantenhieb
+behemoth-bladeDescription:Gigantenhieb
+behemoth-bash:Gigantenstoß
+behemoth-bashDescription:Gigantenstoß
+branch-poke:Zweigstoß
+branch-pokeDescription:Branch Poke deals damage and has no secondary effect.
+breaking-swipe:Breitseite
+breaking-swipeDescription:Breaking Swipe deals damage to all opponents. It lowers the Attack of all hit targets by one stage.
+dragon-darts:Drachenpfeile
+dragon-dartsDescription:Drachenpfeile
+drum-beating:Trommelschläge
+drum-beatingDescription:Der Anwender kontrolliert durch Trommeln Wurzeln, die das Ziel angreifen und dessen Initiative senken.
+dual-wingbeat:Doppelflügel
+dual-wingbeatDescription:Der Anwender trifft das Ziel zweimal hintereinander mit seinen Flügeln und fügt ihm so Schaden zu.
+false-surrender:Kniefalltrick
+false-surrenderDescription:Der Anwender tut so, als würde er sich verneigen, und sticht dann mit seinem zerzausten Fell zu. Diese Attacke trifft immer.
+fiery-wrath:Brennender Zorn
+fiery-wrathDescription:Brennender Zorn
+freezing-glare:Eisiger Blick
+freezing-glareDescription:Der Anwender greift das Ziel mit Psycho-Kräften an, die er aus seinen Augen abschießt. Das Ziel friert eventuell ein.
+grav-apple:Gravitation
+grav-appleDescription:Ein Apfel fällt aus großer Höhe herab und richtet Schaden an. Dabei wird die Verteidigung des Zieles gesenkt.
+overdrive:Overdrive
+overdriveDescription:Overdrive
+pyro-ball:Feuerball
+pyro-ballDescription:Feuerball
+scorching-sands:Brandsand
+scorching-sandsDescription:Der Anwender greift das Ziel mit brennend heißem Sand an und fügt ihm eventuell Verbrennungen zu.
+skitter-smack:Krabbelkracher
+skitter-smackDescription:Krabbelkracher
+snipe-shot:Präzisionsschuss
+snipe-shotDescription:Präzisionsschuss
+spirit-break:Seelenbruch
+spirit-breakDescription:Die Attacke trifft das Ziel mit so viel Wucht, dass es den Mut verliert. Dabei wird sein Spezial-Angriff gesenkt.
+strange-steam:Wunderdampf
+strange-steamDescription:Schadet dem Ziel und verwirrt es mit einer Wahrscheinlichkeit von 20 %.
+thunderous-kick:Donnernder Tritt
+thunderous-kickDescription:Donnernder Tritt
+body-press:Body Press
+body-pressDescription:Der Anwender greift mit seinem ganzen Körper an. Je höher seine Verteidigung ist, desto mehr Schaden richtet er an.
+triple-axel:Dreifach-Axel
+triple-axelDescription:Tritt das Ziel ein- bis dreimal nacheinander. Die Härte der Tritte nimmt von Treffer zu Treffer zu.
+life-dew:Lebenstropfen
+life-dewDescription:Wundersames Wasser heilt die KP des Anwenders und seiner am Kampf beteiligten Mitstreiter.
+flip-turn:Rollwende
+flip-turnDescription:Flip Turn deals damage and then switches the user out
+snap-trap:Fangeisen
+snap-trapDescription:Fangeisen verursacht Schaden. Zusätzlich dazu, werden dem Ziel für vier bis fünf Runden lang am Ende jeder Runde ⅛ der maximalen KP abgezogen. Der Gegner kann während dieser Zeit normal agieren, außer sich austauschen lassen oder fliehen.
+thunder-cage:Blitzgefängnis
+thunder-cageDescription:Das Ziel wird für vier bis fünf Runden in einem elektrischen Käfig gefangen.
+trailblaze:Wegbereiter
+trailblazeDescription:Trailblaze inflicts damage and raises the user's Speed by one stage.

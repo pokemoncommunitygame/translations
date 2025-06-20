@@ -1,0 +1,168 @@
+event_coin:Cake
+event_coinDescription:Exchange Cakes for event rewards of your choice during the PCG Easter Event 2025. This item will disappear one week after the event.
+mach_ball:Mach Ball
+mach_ballDescription:A sturdy ball, most effective when used on Fighting or Flying-type Pokemon.
+basic_ball:Basic Ball
+basic_ballDescription:An ordinary pokeball that is useful when attempting to catch Normal Type Pokemon
+phantom_ball:Phantom Ball
+phantom_ballDescription:A creepy looking ball. Higher catch rate on Ghost type Pokémon.
+night_ball:Night Ball
+night_ballDescription:A gloomy ball. Works better on Dark-type Pokémon.
+frozen_ball:Frozen Ball
+frozen_ballDescription:An icy Ball. Most effective if used on Ice-type Pokémon.
+easter_egg:Easter Egg
+easter_eggDescription:Collect 100 Easter Eggs to receive the evolved starter Dewott
+empty_disc:Empty Disc
+empty_discDescription:An empty disc used to teach your Pokémon a full new move set. Use it with caution.
+iv_reset:IV Reset
+iv_resetDescription:Completely changes the individual values of a Pokémon.
+wonder_pass:Wonder Pass
+wonder_passDescription:A rare pass that permits you to wonder trade again instantly.
+friend_ball:Friend Ball
+friend_ballDescription:A nice looking ball which is more effective on Pokémon that share a type with your Buddy-Pokémon.
+mood_mint:Mood Mint
+mood_mintDescription:Delicious mint, which completely changes the nature of your pokemon.
+battle_coin:Golden Coin
+battle_coinDescription:Reward for completing weekly missions and participating in a PCG tournament. This token can be spent on various rare items and Pokémon in the Golden Coin Shop or kept as a keepsake.
+present:Present
+presentDescription:Enter a chat and type !pokegift to make other players happy! 🎅
+rare_present:Rare Present
+rare_presentDescription:Enter a chat and type !pokegift rare to make other players happy! 🎅
+team_enhancer:Team enhancer
+team_enhancerDescription:Use this item to increase the amount of teams by 1! You can have up to 30 teams.
+shiny_charm:Shiny Charm
+shiny_charmDescription:Reward for finishing the spawnable pokedex. Doubles the shiny chance for all catches (exception: cherish balls)
+pokedaily_reset:Pokedaily Reset
+pokedaily_resetDescription:This item will reset the cooldown of your pokedaily!
+total_reset:Total Reset
+total_resetDescription:Total Reset used to teach your Pokémon a full new move set, completely changes the nature of your pokemon and changes the individual values of a Pokémon. Use it with caution.
+safari_ball:Safari Ball
+safari_ballDescription:🪶 Has a 2x chance to catch a shiny safari event Pokemon. You can recognize them by a different spawn message! 🪶
+park_ball:Park Ball
+park_ballDescription:🪶 Has a 10x chance to catch a shiny safari event Pokemon. You can recognize them by a different spawn message! 🪶
+beast_ball:Beast Ball
+beast_ballDescription:Perfect for catching an ultra beast! Catch chance: 75%
+ghost_pumpkin:Ghost Pumpkin
+ghost_pumpkinDescription:A ghost Pumpkin. Collect more to unlock different rewards of the Halloween Event 2022.
+dark_pumpkin:Dark Pumpkin
+dark_pumpkinDescription:A dark Pumpkin. Collect more to unlock different rewards of the Halloween Event 2022.
+team_ghost_badge:Team Ghost Badge
+team_ghost_badgeDescription:Membership token of Team Ghost during the Halloween Event 2022
+team_dark_badge:Team Dark Badge
+team_dark_badgeDescription:Membership token of Team Dark during the Halloween Event 2022
+bottle_cap:Bottle Cap
+bottle_capDescription:Randomly maximizes one of the Pokemon's individual values. Only usable 1x per Pokemon.
+normal_stone:Normal Stone
+normal_stoneDescription:A stone that makes certain species of Pokémon evolve. It is said that the stone's color determines the Pokémon that will evolve.
+fighting_stone:Fighting Stone
+fighting_stoneDescription:A stone that makes certain species of Pokémon evolve. It is said that the stone's color determines the Pokémon that will evolve.
+flying_stone:Flying Stone
+flying_stoneDescription:A stone that makes certain species of Pokémon evolve. It is said that the stone's color determines the Pokémon that will evolve.
+poison_stone:Poison Stone
+poison_stoneDescription:A stone that makes certain species of Pokémon evolve. It is said that the stone's color determines the Pokémon that will evolve.
+ground_stone:Ground Stone
+ground_stoneDescription:A stone that makes certain species of Pokémon evolve. It is said that the stone's color determines the Pokémon that will evolve.
+rock_stone:Rock Stone
+rock_stoneDescription:A stone that makes certain species of Pokémon evolve. It is said that the stone's color determines the Pokémon that will evolve.
+bug_stone:Bug Stone
+bug_stoneDescription:A stone that makes certain species of Pokémon evolve. It is said that the stone's color determines the Pokémon that will evolve.
+ghost_stone:Ghost Stone
+ghost_stoneDescription:A stone that makes certain species of Pokémon evolve. It is said that the stone's color determines the Pokémon that will evolve.
+steel_stone:Steel Stone
+steel_stoneDescription:A stone that makes certain species of Pokémon evolve. It is said that the stone's color determines the Pokémon that will evolve.
+fire_stone:Fire Stone
+fire_stoneDescription:A stone that makes certain species of Pokémon evolve. It is said that the stone's color determines the Pokémon that will evolve.
+water_stone:Water Stone
+water_stoneDescription:A stone that makes certain species of Pokémon evolve. It is said that the stone's color determines the Pokémon that will evolve.
+grass_stone:Grass Stone
+grass_stoneDescription:A stone that makes certain species of Pokémon evolve. It is said that the stone's color determines the Pokémon that will evolve.
+electric_stone:Electric Stone
+electric_stoneDescription:A stone that makes certain species of Pokémon evolve. It is said that the stone's color determines the Pokémon that will evolve.
+psychic_stone:Psychic Stone
+psychic_stoneDescription:A stone that makes certain species of Pokémon evolve. It is said that the stone's color determines the Pokémon that will evolve.
+ice_stone:Ice Stone
+ice_stoneDescription:A stone that makes certain species of Pokémon evolve. It is said that the stone's color determines the Pokémon that will evolve.
+dragon_stone:Dragon Stone
+dragon_stoneDescription:A stone that makes certain species of Pokémon evolve. It is said that the stone's color determines the Pokémon that will evolve.
+dark_stone:Dark Stone
+dark_stoneDescription:A stone that makes certain species of Pokémon evolve. It is said that the stone's color determines the Pokémon that will evolve.
+fairy_stone:Fairy Stone
+fairy_stoneDescription:A stone that makes certain species of Pokémon evolve. It is said that the stone's color determines the Pokémon that will evolve.
+shimmering_stone:Shimmering Stone
+shimmering_stoneDescription:A stone that makes certain species of Pokémon evolve.
+quick_ball:Quick Ball
+quick_ballDescription:A somewhat different Poké Ball that has a more successful catch rate if used at the start of a wild encounter.
+snowball:Snowball
+snowballDescription:A snowball. It will melt if you don't use it until february! Throw it at other players with !pokesnowball <player-name>
+dive_ball:Dive Ball
+dive_ballDescription:A Ball that is more effective when attempting to catch🐟 Fish 🐟Pokémon.
+cipher_ball:Cipher Ball
+cipher_ballDescription:A somewhat different Poké Ball that is more effective when attempting to catch Poison- or Psychic-type Pokémon.
+golden_ticket:Golden Ticket
+golden_ticketDescription:What could it be used for? Type !poketicket to find out!
+magnet_ball:Magnet Ball
+magnet_ballDescription:A somewhat different Poké Ball that is more effective when attempting to catch Steel- or Electric-type Pokémon.
+nest_ball:Nest Ball
+nest_ballDescription:A somewhat different Poké Ball that is more effective when used on a first stage evolution Pokémon that can evolve two more times.
+fast_ball:Fast Ball
+fast_ballDescription:A rare Poke Ball that is especially useful on Pokemon with a base speed stat of 100 or higher.
+level_ball:Level Ball
+level_ballDescription:A special ball that guarantees a Pokemon to have a high enough level to be evolved immediately!
+heal_ball:Heal Ball
+heal_ballDescription:A rare Poke Ball that is especially useful on Pokemon with a base HP stat of 100 or higher.
+stone_grab_bag:Stone Grab Bag
+stone_grab_bagDescription:A marvelous Bag containing 3 random Evolution Stones.
+luxury_ball:Luxury Ball
+luxury_ballDescription:A rare ball with a fancy appearance. Massively increases the sell price of a Pokemon caught with it.
+clone_ball:Clone Ball
+clone_ballDescription:An experimental Ball which generates a second Pokemon from the one you originally catch with this ball
+ultra_cherish_ball:Ultra Cherish Ball
+ultra_cherish_ballDescription:A modified Cherish Ball with a better catch rate. Has a higher chance to catch a shiny Pokemon.
+premier_ball:Premier Ball
+premier_ballDescription:A somewhat rare Poké Ball that was made as a commemorative item used to celebrate an event of some sort. Will be automatically thrown if you don't have a Poké Ball.
+heavy_ball:Heavy Ball
+heavy_ballDescription:A Poké Ball that is better than usual at catching very heavy Pokémon.
+feather_ball:Feather Ball
+feather_ballDescription:A Poké Ball that is better than usual at catching very light Pokémon.
+repeat_ball:Repeat Ball
+repeat_ballDescription:A somewhat different Poké Ball that works especially well on a Pokémon species that has been caught before.
+net_ball:Net Ball
+net_ballDescription:A somewhat different Poké Ball that is more effective when attempting to catch Water- or Bug-type Pokémon.
+timer_ball:Timer Ball
+timer_ballDescription:A somewhat different Poké Ball that becomes progressively more effective at catching Pokémon the closer the Pokémon is to escaping.
+master_ball:Master Ball
+master_ballDescription:The best Poké Ball with the ultimate level of performance. With it, you will catch any wild Pokémon without fail.
+poke_ball:Poke Ball
+poke_ballDescription:A device for catching wild Pokémon. It's thrown like a ball at a Pokémon, comfortably encapsulating its target.
+great_ball:Great Ball
+great_ballDescription:A good, high-performance Poké Ball that provides a higher success rate for catching Pokémon than a standard Poké Ball.
+ultra_ball:Ultra Ball
+ultra_ballDescription:An ultra-high-performance Poké Ball that provides a higher success rate for catching Pokémon than a Great Ball.
+rare_candy:Rare Candy
+rare_candyDescription:Raises the level of the selected Pokémon by five.
+cherish_ball:Cherish Ball
+cherish_ballDescription:A quite rare Poké Ball that has been crafted in order to commemorate a special occasion of some sort. Increased chance to obtain a shiny Pokémon.
+alpha_ball:Alpha Ball
+alpha_ballDescription:nix
+mysterious_crystal:Mysterious Crystal
+mysterious_crystalDescription:A shimmering Crystal. Origin and usage are unknown. 👀 Shiny owners 👀
+great_cherish_ball:Great Cherish Ball
+great_cherish_ballDescription:A modified Cherish Ball with a better catch rate. Has a higher chance to catch a shiny Pokemon.
+stone_ball:Stone Ball
+stone_ballDescription:A rare  ball with an increased chance to drop an evolution stone.
+event_bundle:Event Bundle
+event_bundleDescription:An event exclusive bundle containing 1x Random Past Event Legendary, 2x Golden Ticket and 2x Rare Present
+battle_bundle:Battle Bundle
+battle_bundleDescription:A special bundle offer containing: 2x Total Reset, 2x Mood Mints, 2x IV Resets, 3x Empty Discs
+team_gold_badge:Rainbow Wing
+team_gold_badgeDescription:Membership token of Team Gold during the Gold vs Silver Event 2024
+team_silver_badge:Silver Wing
+team_silver_badgeDescription:Membership token of Team Silver during the Gold vs Silver Event 2024
+rocket_part:Cogwheel
+rocket_partDescription:Collect Cogwheels to build a rocket using: !pokerocket 1/2/3 🚀 Tier 1: Requires 3 Cogwheels 🚀 Tier 2: Requires 6 Cogwheels🚀 Tier 3: Requires 10 Cogwheels
+sun_ball:Sun Ball
+sun_ballDescription:A radiant ball, most effective when used on Fire and Grass-type Pokémon.
+fantasy_ball:Fantasy Ball
+fantasy_ballDescription:An enchanted ball, most effective when used on Fairy and Dragon-type creatures.
+geo_ball:Geo Ball
+geo_ballDescription:A sturdy ball, most effective when used on Rock and Ground-type creatures.

@@ -1,0 +1,1514 @@
+pound:Botta
+poundDescription:Colpisce il bersaglio con la coda o le zampe anteriori.
+karate-chop:Colpokarate
+karate-chopDescription:Colpisce il bersaglio con un colpo netto. Probabile brutto colpo.
+double-slap:Doppiasberla
+double-slapDescription:Schiaffeggia il bersaglio da due a cinque volte di fila.
+comet-punch:Cometapugno
+comet-punchDescription:Colpisce il bersaglio con una scarica di pugni da due a cinque volte di fila.
+mega-punch:Megapugno
+mega-punchDescription:Colpisce il bersaglio con un pugno poderoso.
+pay-day:Giornopaga
+pay-dayDescription:Colpisce il bersaglio con una gran quantità di monete recuperabili dopo la lotta.
+fire-punch:Fuocopugno
+fire-punchDescription:Colpisce il bersaglio con un pugno ardente che può scottarlo.
+ice-punch:Gelopugno
+ice-punchDescription:Colpisce il bersaglio con un pugno di ghiaccio che può congelarlo.
+thunder-punch:Tuonopugno
+thunder-punchDescription:Colpisce il bersaglio con un pugno elettrico che può paralizzarlo.
+scratch:Graffio
+scratchDescription:Infligge danni al bersaglio con artigli acuminati, duri e affilati.
+vice-grip:Presa
+vice-gripDescription:Stringe il bersaglio in una morsa.
+guillotine:Ghigliottina
+guillotineDescription:Attacca il bersaglio con pericolose tenaglie. Se l’attacco va a segno, il Pokémon colpito va subito KO.
+razor-wind:Ventagliente
+razor-windDescription:Chi la usa genera un turbine al primo turno e attacca al secondo. Probabile brutto colpo.
+swords-dance:Danzaspada
+swords-danceDescription:Danza frenetica che incrementa lo spirito combattivo. Chi la usa aumenta di molto il suo Attacco.
+cut:Taglio
+cutDescription:Attacca il bersaglio con artigli o falci affilate.
+gust:Raffica
+gustDescription:Infligge danni al bersaglio con una folata di vento sollevata dalle ali.
+wing-attack:Attacco d’Ala
+wing-attackDescription:Infligge danni al bersaglio spiegando delle grandi ali possenti.
+whirlwind:Turbine
+whirlwindDescription:Il bersaglio lascia il campo e viene sostituito. Mette fine alle lotte contro singoli Pokémon selvatici.
+fly:Volo
+flyDescription:Chi la usa si alza in volo per attaccare al turno seguente.
+bind:Legatutto
+bindDescription:Il lungo corpo o i tentacoli di chi la usa legano e stritolano il bersaglio per quattro o cinque turni.
+slam:Schianto
+slamDescription:Infligge danni al bersaglio con la coda, con una liana o con qualcosa di simile.
+vine-whip:Frustata
+vine-whipDescription:Infligge danni al bersaglio con liane sottili simili a fruste.
+stomp:Pestone
+stompDescription:Colpisce il bersaglio con un grosso piede e può anche farlo tentennare.
+double-kick:Doppiocalcio
+double-kickDescription:Colpisce il bersaglio due volte con una raffica di calci inferti con entrambi i piedi.
+mega-kick:Megacalcio
+mega-kickDescription:Colpisce il bersaglio con un calcio sferrato con la forza di muscoli poderosi.
+jump-kick:Calciosalto
+jump-kickDescription:Permette di saltare in alto per attaccare con un calcio. Se non va a buon fine, chi la usa si ferisce.
+rolling-kick:Calciorullo
+rolling-kickDescription:Chi la usa infierisce sul bersaglio con un calcio rotante. Può anche farlo tentennare.
+sand-attack:Turbosabbia
+sand-attackDescription:Getta sabbia in faccia al bersaglio e ne riduce la precisione.
+headbutt:Bottintesta
+headbuttDescription:Chi la usa si lancia diritto di testa contro il bersaglio. Può anche farlo tentennare.
+horn-attack:Incornata
+horn-attackDescription:Danneggia il bersaglio infilzandolo con un corno affilato.
+fury-attack:Furia
+fury-attackDescription:Infilza il bersaglio con corna affilate o con il becco da due a cinque volte di fila.
+horn-drill:Perforcorno
+horn-drillDescription:Colpisce il bersaglio con un corno perforante come un trapano. Se il colpo va a segno, il Pokémon colpito va KO.
+tackle:Azione
+tackleDescription:Attacco fisico che colpisce il bersaglio investendolo con tutto il corpo.
+body-slam:Corposcontro
+body-slamDescription:Chi la usa carica il bersaglio con tutto il corpo. Può causarne anche la paralisi.
+wrap:Avvolgibotta
+wrapDescription:Il lungo corpo o le liane di chi la usa avvolgono e stritolano il bersaglio per quattro o cinque turni.
+take-down:Riduttore
+take-downDescription:Carica spericolata con tutto il corpo contro il bersaglio. Danneggia un po’ anche chi la usa.
+thrash:Colpo
+thrashDescription:Assale e attacca il nemico per due o tre turni, ma confonde chi la usa.
+double-edge:Sdoppiatore
+double-edgeDescription:Carica spietata e pericolosa che danneggia molto anche chi la usa.
+tail-whip:Colpocoda
+tail-whipDescription:Chi la usa agita la coda per distrarre i nemici che ha intorno, riducendone la Difesa.
+poison-sting:Velenospina
+poison-stingDescription:Colpisce il bersaglio con un aculeo tossico che può anche avvelenarlo.
+twineedle:Doppio Ago
+twineedleDescription:Colpisce il bersaglio due volte di seguito con due spine. Può anche avvelenarlo.
+pin-missile:Missilspillo
+pin-missileDescription:Il bersaglio viene colpito da due a cinque volte in rapida successione con delle spine.
+leer:Fulmisguardo
+leerDescription:Terrorizza i nemici intorno con uno sguardo fulminante e intimidatorio, riducendone la Difesa.
+bite:Morso
+biteDescription:Il bersaglio viene morso da denti affilatissimi che possono farlo tentennare.
+growl:Ruggito
+growlDescription:Distrae i nemici intorno con un ruggito potente e ne riduce l’Attacco.
+roar:Boato
+roarDescription:Il bersaglio lascia il campo e viene sostituito. Mette fine alle lotte contro singoli Pokémon selvatici.
+sing:Canto
+singDescription:Dolce ninnananna, cantata da una voce suadente, che fa addormentare il bersaglio.
+supersonic:Supersuono
+supersonicDescription:Chi la usa genera dal proprio corpo strane onde acustiche che possono confondere il bersaglio.
+sonic-boom:Sonicboom
+sonic-boomDescription:Il bersaglio viene colpito da onde acustiche devastanti che gli provocano un danno pari a 20 PS.
+disable:Inibitore
+disableDescription:Per quattro turni impedisce al bersaglio di riutilizzare l’ultima mossa usata.
+acid:Acido
+acidDescription:Colpisce i nemici intorno spruzzando un acido corrosivo. Può anche ridurne la Difesa Speciale.
+ember:Braciere
+emberDescription:Il bersaglio viene colpito da fiammelle che possono anche scottarlo.
+flamethrower:Lanciafiamme
+flamethrowerDescription:Il bersaglio viene colpito da intense fiammate che possono anche scottarlo.
+mist:Nebbia
+mistDescription:Chi la usa attira una nebbia che blocca la riduzione delle statistiche per sé e gli alleati per cinque turni.
+water-gun:Pistolacqua
+water-gunDescription:Il bersaglio è colpito da un potente getto d’acqua.
+hydro-pump:Idropompa
+hydro-pumpDescription:Il bersaglio è travolto da un potente getto d’acqua spruzzato ad altissima pressione.
+surf:Surf
+surfDescription:Un’onda enorme sommerge il campo di lotta, colpendo tutti i Pokémon intorno a chi la scatena.
+ice-beam:Geloraggio
+ice-beamDescription:Il bersaglio è colpito da un raggio di energia gelida che può anche congelarlo.
+blizzard:Bora
+blizzardDescription:Colpisce i nemici intorno con una tremenda tempesta di ghiaccio che può anche congelarli.
+psybeam:Psicoraggio
+psybeamDescription:Colpisce il bersaglio con un raggio speciale. Può anche confonderlo.
+bubble-beam:Bollaraggio
+bubble-beamDescription:Colpisce il bersaglio con una forte scarica di bolle. Può anche ridurne la Velocità.
+aurora-beam:Raggiaurora
+aurora-beamDescription:Colpisce il bersaglio con un raggio dai colori dell’iride. Può anche ridurne l’Attacco.
+hyper-beam:Iper Raggio
+hyper-beamDescription:Colpisce il bersaglio con un potente raggio. Chi la usa salta il turno successivo per recuperare energia.
+peck:Beccata
+peckDescription:Colpisce il bersaglio con il becco appuntito o con un corno.
+drill-peck:Perforbecco
+drill-peckDescription:Attacco a spirale con un becco aguzzo che fa da trapano.
+submission:Sottomissione
+submissionDescription:Chi la usa carica il bersaglio in modo spericolato, ma danneggia anche se stesso.
+low-kick:Colpo Basso
+low-kickDescription:Un calcio basso e potente che fa cadere il bersaglio. Danneggia maggiormente i Pokémon più pesanti.
+counter:Contrattacco
+counterDescription:Mossa che contrasta ogni attacco fisico, arrecando il doppio del danno ricevuto.
+seismic-toss:Movim. Sismico
+seismic-tossDescription:Colpisce il bersaglio con la forza di gravità. Infligge un danno pari al livello di chi la usa.
+absorb:Assorbimento
+absorbDescription:Mossa che assorbe PS. Chi la usa recupera una quantità di PS pari alla metà del danno inferto.
+mega-drain:Megassorbimento
+mega-drainDescription:Mossa che assorbe PS. Chi la usa recupera una quantità di PS pari alla metà del danno inferto.
+leech-seed:Parassiseme
+leech-seedDescription:Vengono piantati semi sul bersaglio. Questi sottraggono PS a ogni turno permettendo a chi la usa di curarsi.
+growth:Crescita
+growthDescription:Provoca la crescita immediata del corpo e l’aumento dell’Attacco e dell’Attacco Speciale di chi la usa.
+razor-leaf:Foglielama
+razor-leafDescription:Foglie taglienti sferzano i nemici intorno. Probabile brutto colpo.
+solar-beam:Solarraggio
+solar-beamDescription:Chi la usa assorbe luce al primo turno per proiettare un raggio intenso al turno successivo.
+poison-powder:Velenpolvere
+poison-powderDescription:Investe il bersaglio con una nuvola di polvere tossica che avvelena.
+stun-spore:Paralizzante
+stun-sporeDescription:Investe il bersaglio con una nuvola di polvere che paralizza.
+sleep-powder:Sonnifero
+sleep-powderDescription:Investe il bersaglio con una grande nuvola di polvere soporifera che lo fa addormentare.
+strength:Forza
+strengthDescription:Colpisce il bersaglio con un’enorme energia.
+petal-dance:Petalodanza
+petal-danceDescription:Attacca il nemico cospargendolo di petali per due o tre turni, ma chi la usa rimane confuso.
+string-shot:Millebave
+string-shotDescription:Chi la usa produce della seta che avvolge i nemici intorno e ne riduce di molto la Velocità.
+dragon-rage:Ira di Drago
+dragon-rageDescription:Colpisce il bersaglio con un’onda d’urto generata dall’ira. Questo attacco provoca sempre un danno di 40 PS.
+fire-spin:Turbofuoco
+fire-spinDescription:Intrappola il bersaglio in un turbine di fuoco che dura per quattro o cinque turni.
+thunder-shock:Tuonoshock
+thunder-shockDescription:Danneggia il bersaglio con una scarica elettrica che può anche paralizzarlo.
+thunderbolt:Fulmine
+thunderboltDescription:Il bersaglio viene colpito da una potente scarica elettrica che può anche paralizzarlo.
+thunder-wave:Tuononda
+thunder-waveDescription:Colpisce il bersaglio con una debole scarica elettrica che lo paralizza.
+thunder:Tuono
+thunderDescription:Il bersaglio è colpito da un lampo molto violento che può anche paralizzarlo.
+rock-throw:Sassata
+rock-throwDescription:Chi la usa raccoglie una pietra e la lancia contro il bersaglio.
+earthquake:Terremoto
+earthquakeDescription:Chi la usa provoca un potente sisma che colpisce i Pokémon che ha intorno.
+fissure:Abisso
+fissureDescription:Chi la usa crea una spaccatura nel terreno e cerca di gettarvici dentro il bersaglio. Se va a segno, il Pokémon colpito va KO.
+dig:Fossa
+digDescription:Chi la usa scava al primo turno e attacca al successivo.
+toxic:Tossina
+toxicDescription:Iperavvelena il bersaglio con una potente tossina. Il danno peggiora a ogni turno.
+confusion:Confusione
+confusionDescription:Colpisce il bersaglio con una leggera forza telecinetica e può anche confonderlo.
+psychic:Psichico
+psychicDescription:Il bersaglio viene colpito da una potente forza telecinetica che può anche ridurne la Difesa Speciale.
+hypnosis:Ipnosi
+hypnosisDescription:Chi la usa si avvale della suggestione ipnotica per far addormentare il bersaglio.
+meditate:Meditazione
+meditateDescription:Chi la usa medita per risvegliare la propria forza interiore e migliorare l’Attacco.
+agility:Agilità
+agilityDescription:Chi la usa rilassa e alleggerisce il proprio corpo per far salire di molto la Velocità.
+quick-attack:Attacco Rapido
+quick-attackDescription:Chi la usa colpisce a una tale velocità da rendersi quasi invisibile. Questa mossa ha priorità alta.
+rage:Ira
+rageDescription:Questa mossa ha il potere di aumentare la statistica Attacco ogni volta che chi la usa viene colpito durante una lotta.
+teleport:Teletrasporto
+teleportDescription:Fa fuggire dai Pokémon selvatici.
+night-shade:Ombra Notturna
+night-shadeDescription:Fa apparire un orribile miraggio al bersaglio e infligge un danno pari al livello di chi la usa.
+mimic:Mimica
+mimicDescription:Chi la usa copia l’ultima mossa usata dal bersaglio e la conserva finché rimane in campo.
+screech:Stridio
+screechDescription:Stridio assordante che riduce di molto la Difesa del bersaglio.
+double-team:Doppioteam
+double-teamDescription:Chi la usa si muove in fretta e crea copie illusorie di se stesso che aumentano la capacità di elusione.
+recover:Ripresa
+recoverDescription:Mossa autocurativa. Chi la usa recupera metà dei PS massimi.
+harden:Rafforzatore
+hardenDescription:Tutti i muscoli del corpo si tonificano per aumentare la Difesa.
+minimize:Minimizzato
+minimizeDescription:Il corpo di chi la usa si comprime e diventa più piccolo. La sua capacità di elusione aumenta di molto.
+smokescreen:Muro di Fumo
+smokescreenDescription:Nuvola di fumo o inchiostro che riduce la precisione del bersaglio.
+confuse-ray:Stordiraggio
+confuse-rayDescription:Colpisce il bersaglio con un raggio funesto che lo confonde.
+withdraw:Ritirata
+withdrawDescription:Il corpo si ritira nel suo duro guscio per aumentare la Difesa.
+defense-curl:Ricciolscudo
+defense-curlDescription:Chi la usa si raggomitola per nascondere i punti deboli e aumentare la propria Difesa.
+barrier:Barriera
+barrierDescription:Innalza una barriera resistente che aumenta molto la Difesa.
+light-screen:Schermoluce
+light-screenDescription:Innalza una barriera di luce fantastica che riduce i danni degli attacchi speciali per sé e gli alleati per cinque turni.
+haze:Nube
+hazeDescription:Chi la usa crea una nube nera che annulla ogni modifica alle statistiche di tutti i Pokémon in campo.
+reflect:Riflesso
+reflectDescription:Innalza una barriera di luce fantastica che riduce i danni degli attacchi fisici per sé e gli alleati per cinque turni.
+focus-energy:Focalenergia
+focus-energyDescription:Chi la usa fa un profondo respiro e si concentra per rendere più probabili i brutti colpi.
+bide:Pazienza
+bideDescription:Chi la usa subisce attacchi per due turni e poi restituisce il danno moltiplicato per due.
+metronome:Metronomo
+metronomeDescription:Chi la usa fa di no con il dito e stimola il cervello a usare a caso una delle tante mosse esistenti.
+mirror-move:Speculmossa
+mirror-moveDescription:Chi la usa colpisce il bersaglio copiandone l’ultima mossa usata.
+self-destruct:Autodistruzione
+self-destructDescription:Chi la usa esplode e infligge danni ai Pokémon che ha intorno, ma poi va KO.
+egg-bomb:Uovobomba
+egg-bombDescription:Colpisce il bersaglio con un grande uovo scaraventato con enorme forza.
+lick:Leccata
+lickDescription:Una lingua lunga infligge danni al bersaglio e può anche paralizzarlo.
+smog:Smog
+smogDescription:Colpisce il bersaglio con una scarica di gas maleodoranti. Può anche avvelenarlo.
+sludge:Fango
+sludgeDescription:Chi la usa lancia fango malsano sul bersaglio. Può anche avvelenarlo.
+bone-club:Ossoclava
+bone-clubDescription:Chi la usa colpisce il bersaglio con un osso e può farlo anche tentennare.
+fire-blast:Fuocobomba
+fire-blastDescription:Investe il bersaglio con un’intensa fiammata che fa terra bruciata. Può anche scottarlo.
+waterfall:Cascata
+waterfallDescription:Carica il bersaglio a grande velocità e può farlo tentennare.
+clamp:Tenaglia
+clampDescription:Chi la usa intrappola e stritola il bersaglio con la sua corazza spessa e forte per quattro o cinque turni.
+swift:Comete
+swiftDescription:Chi la usa colpisce i nemici intorno con raggi a forma di stella. Questo attacco è infallibile.
+skull-bash:Capocciata
+skull-bashDescription:Chi la usa ritira la testa per aumentare la Difesa e poi attacca al turno successivo.
+spike-cannon:Sparalance
+spike-cannonDescription:Il bersaglio viene colpito da due a cinque volte in rapida successione con delle spine.
+constrict:Limitazione
+constrictDescription:Colpisce il bersaglio con lunghi tentacoli o piante rampicanti. Può anche ridurne la Velocità.
+amnesia:Amnesia
+amnesiaDescription:Chi la usa svuota per un po’ la mente per dimenticare i problemi. La Difesa Speciale aumenta di molto.
+kinesis:Cinèsi
+kinesisDescription:Chi la usa distrae il bersaglio piegando un cucchiaio e ne riduce la precisione.
+soft-boiled:Covauova
+soft-boiledDescription:Chi la usa recupera metà dei propri PS massimi.
+high-jump-kick:Calcinvolo
+high-jump-kickDescription:Chi la usa colpisce il bersaglio con una ginocchiata in volo. Se fallisce, subisce danni.
+glare:Sguardo Feroce
+glareDescription:Chi la usa spaventa il bersaglio con uno sguardo terrificante e ne causa la paralisi.
+dream-eater:Mangiasogni
+dream-eaterDescription:Attacco che funziona solo su un bersaglio che dorme. Chi lo usa riceve metà dei PS persi dal Pokémon colpito.
+poison-gas:Velenogas
+poison-gasDescription:Spruzza in faccia ai nemici che ha intorno una nuvola di gas tossico che avvelena.
+barrage:Attacco Pioggia
+barrageDescription:Piovono enormi sfere sulla testa del bersaglio da due a cinque volte di fila.
+leech-life:Sanguisuga
+leech-lifeDescription:Mossa succhiasangue. Chi la usa recupera una quantità di PS pari alla metà del danno inferto.
+lovely-kiss:Demonbacio
+lovely-kissDescription:Chi la usa intimidisce il bersaglio con una faccia paurosa e gli schiocca un bacio che lo fa addormentare.
+sky-attack:Aeroattacco
+sky-attackDescription:Attacco in due turni e probabile brutto colpo. Può anche far tentennare il bersaglio.
+transform:Trasformazione
+transformDescription:Chi la usa si trasforma in una copia esatta del bersaglio per sfruttarne le mosse.
+bubble:Bolla
+bubbleDescription:Una pioggia di bolle investe i nemici intorno e può anche ridurne la Velocità.
+dizzy-punch:Stordipugno
+dizzy-punchDescription:Colpisce il bersaglio con una sequenza di pugni che può anche confonderlo.
+flash:Flash
+flashDescription:Investe il bersaglio con una luce abbagliante che ne riduce la precisione.
+psywave:Psiconda
+psywaveDescription:Colpisce il bersaglio con una strana onda psichica. Ha un’intensità variabile.
+splash:Splash
+splashDescription:Chi la usa sguazza nell’acqua, senza ottenere alcun effetto.
+acid-armor:Scudo Acido
+acid-armorDescription:Chi la usa altera la sua struttura cellulare passando allo stato liquido. La Difesa sale di molto.
+crabhammer:Martellata
+crabhammerDescription:Danneggia il bersaglio servendosi di una grande tenaglia. Probabile brutto colpo.
+explosion:Esplosione
+explosionDescription:Chi la usa esplode per infliggere danni agli altri Pokémon attorno, ma va KO.
+fury-swipes:Sfuriate
+fury-swipesDescription:Colpisce il bersaglio con artigli o falci affilate da due a cinque volte in rapida successione.
+bonemerang:Ossomerang
+bonemerangDescription:Chi la usa lancia l’osso che ha con sé. L’osso colpisce due volte e ritorna come un vero e proprio boomerang.
+rest:Riposo
+restDescription:Chi la usa recupera tutti i PS e guarisce da tutti i suoi problemi di stato, ma dorme per due turni.
+rock-slide:Frana
+rock-slideDescription:I nemici vengono colpiti con violenza da grandi massi che possono anche farli tentennare.
+spore:Spora
+sporeDescription:Nube di spore che fa sempre addormentare il bersaglio.
+hyper-fang:Iperzanna
+hyper-fangDescription:Chi la usa morde il bersaglio con i suoi incisivi affilati. Può anche farlo tentennare.
+sharpen:Affilatore
+sharpenDescription:Chi la usa riduce il numero di poligoni sul proprio corpo per accentuarne gli spigoli e aumentare l’Attacco.
+conversion:Conversione
+conversionDescription:Il tipo di chi la usa muta in quello della prima mossa nella lista delle sue mosse.
+tri-attack:Tripletta
+tri-attackDescription:Colpisce il bersaglio con tre sfere simultanee che possono paralizzarlo, scottarlo o congelarlo.
+super-fang:Superzanna
+super-fangDescription:Chi la usa salta sul bersaglio azzannandolo con i suoi incisivi affilati e facendogli perdere metà dei PS.
+slash:Lacerazione
+slashDescription:Attacca il bersaglio con artigli, falci o altro. Probabile brutto colpo.
+substitute:Sostituto
+substituteDescription:Chi la usa crea una copia di se stesso usando alcuni PS. La copia serve come esca per il nemico.
+struggle:Scontro
+struggleDescription:Mossa da usare solo in caso estremo, quando non si hanno più PP. Danneggia anche chi la usa.
+sketch:Schizzo
+sketchDescription:Permette a chi la usa di imparare l’ultima mossa usata dal bersaglio. La nuova mossa appresa sostituisce Schizzo.
+triple-kick:Triplocalcio
+triple-kickDescription:Chi la usa sferra fino a tre calci consecutivi la cui potenza aumenta a ogni colpo.
+thief:Furto
+thiefDescription:Chi la usa attacca il bersaglio e può rubargli lo strumento, se non ne ha già uno.
+spider-web:Ragnatela
+spider-webDescription:Copre il bersaglio con un filo di seta sottile e appiccicoso. Il Pokémon colpito non può fuggire.
+mind-reader:Leggimente
+mind-readerDescription:Chi la usa prevede i movimenti del bersaglio per mandare a segno l’attacco successivo.
+nightmare:Incubo
+nightmareDescription:Il bersaglio addormentato ha un incubo e perde PS a ogni turno.
+flame-wheel:Ruotafuoco
+flame-wheelDescription:Chi la usa si copre di fuoco e carica il bersaglio. Può anche scottarlo.
+snore:Russare
+snoreDescription:Mossa da usare solo mentre si dorme. Il chiasso assordante può anche far tentennare il bersaglio.
+curse:Maledizione
+curseDescription:Una mossa che agisce in modo diverso se chi la usa è di tipo Spettro.
+flail:Flagello
+flailDescription:Chi la usa si dimena per attaccare. È più efficace se i suoi PS sono bassi.
+conversion-2:Conversione2
+conversion-2Description:Chi la usa cambia tipo per rendersi resistente al tipo dell’ultima mossa usata dal bersaglio.
+aeroblast:Aerocolpo
+aeroblastDescription:Colpisce il bersaglio con un vortice d’aria per danneggiarlo. Probabile brutto colpo.
+cotton-spore:Cottonspora
+cotton-sporeDescription:Rilascia spore simili al cotone che si attaccano ai nemici nei paraggi e ne riducono di molto la Velocità.
+reversal:Contropiede
+reversalDescription:Chi la usa attacca con tutte le sue forze. Più i PS sono bassi, maggiore è la potenza di questa mossa.
+spite:Dispetto
+spiteDescription:Chi la usa sfoga la propria rabbia sull’ultima mossa usata dal bersaglio e le sottrae quattro PP.
+powder-snow:Polneve
+powder-snowDescription:Attacca i nemici che ha intorno con una raffica di neve farinosa e può anche congelarli.
+protect:Protezione
+protectDescription:Permette di eludere tutti gli attacchi. Se usata in successione può fallire.
+mach-punch:Pugnorapido
+mach-punchDescription:Chi la usa tira un pugno a una velocità impressionante. Questa mossa ha priorità alta.
+scary-face:Visotruce
+scary-faceDescription:Chi la usa spaventa il bersaglio con una faccia terribile e ne riduce di molto la Velocità.
+feint-attack:Finta
+feint-attackDescription:Chi la usa si avvicina al bersaglio facendo finta di niente, per poi scagliare un pugno infallibile a tradimento.
+sweet-kiss:Dolcebacio
+sweet-kissDescription:Chi la usa bacia il bersaglio con una dolcezza angelica, confondendolo.
+belly-drum:Panciamburo
+belly-drumDescription:Chi la usa massimizza l’Attacco in cambio di metà dei PS massimi.
+sludge-bomb:Fangobomba
+sludge-bombDescription:Chi la usa lancia fango malsano sul bersaglio. Può anche avvelenarlo.
+mud-slap:Fangosberla
+mud-slapDescription:Chi la usa butta fango in faccia al bersaglio per arrecargli danni e ridurne la precisione.
+octazooka:Octazooka
+octazookaDescription:Chi la usa spruzza inchiostro in faccia al bersaglio. Può anche ridurne la precisione.
+spikes:Punte
+spikesDescription:Chi la usa piazza sul terreno una trappola di punte che danneggia i nemici quando scendono in campo.
+zap-cannon:Falcecannone
+zap-cannonDescription:Chi la usa scaglia una sfera elettrica che infligge danni e paralizza il bersaglio.
+foresight:Preveggenza
+foresightDescription:Chi la usa rende i Pokémon di tipo Spettro vulnerabili a qualsiasi tipo di mossa e può, inoltre, colpire i nemici sfuggenti.
+destiny-bond:Destinobbligato
+destiny-bondDescription:Se chi la usa va KO prima del turno successivo, chi ha sferrato il colpo da KO fa la stessa fine. Se usata in successione fallisce.
+perish-song:Ultimocanto
+perish-songDescription:Qualunque Pokémon che senta questo canto va KO in tre turni, se non lo si sostituisce.
+icy-wind:Ventogelato
+icy-windDescription:Chi la usa attacca i nemici intorno con una folata di aria gelida e ne riduce anche la Velocità.
+detect:Individua
+detectDescription:Permette di eludere tutti gli attacchi. Se usata in successione può fallire.
+bone-rush:Ossoraffica
+bone-rushDescription:Chi la usa colpisce il bersaglio con un osso da due a cinque volte di fila.
+lock-on:Localizza
+lock-onDescription:Chi la usa punta il bersaglio con precisione. La mossa successiva andrà a segno.
+outrage:Oltraggio
+outrageDescription:Chi la usa sfoga la sua ira e attacca il nemico per due o tre turni prima di essere lasciato in preda alla confusione.
+sandstorm:Terrempesta
+sandstormDescription:Causa una tempesta di sabbia per cinque turni che danneggia tutti i tipi esclusi Terra, Roccia e Acciaio. Aumenta la Dif. Speciale dei Pokémon di tipo Roccia.
+giga-drain:Gigassorbimento
+giga-drainDescription:Mossa che assorbe PS. Chi la usa recupera una quantità di PS pari alla metà del danno inferto.
+endure:Resistenza
+endureDescription:Chi la usa resta con un PS anche se subisce un colpo da KO in quel turno. Usata in successione può fallire.
+charm:Fascino
+charmDescription:Ammalia il bersaglio con lo sguardo per renderlo meno cauto. Ne riduce molto l’Attacco.
+rollout:Rotolamento
+rolloutDescription:Chi la usa colpisce il bersaglio rotolando per cinque turni, con aumento progressivo della potenza ogni volta che va a segno.
+false-swipe:Falsofinale
+false-swipeDescription:Chi la usa trattiene il colpo per impedire al bersaglio di andare KO, lasciandolo con almeno un PS.
+swagger:Bullo
+swaggerDescription:Chi la usa provoca il bersaglio e lo confonde, facendo aumentare però di molto il suo Attacco.
+milk-drink:Buonlatte
+milk-drinkDescription:Chi la usa recupera metà dei propri PS massimi.
+spark:Scintilla
+sparkDescription:Colpisce il bersaglio con una scarica elettrica e può anche paralizzarlo.
+fury-cutter:Tagliofuria
+fury-cutterDescription:Colpisce il bersaglio con falci o artigli. Se usata in successione aumenta di potenza ogni volta che va a segno.
+steel-wing:Alacciaio
+steel-wingDescription:Colpisce il bersaglio con ali d’acciaio. Può anche aumentare la Difesa di chi la usa.
+mean-look:Malosguardo
+mean-lookDescription:Chi la usa blocca il bersaglio con uno sguardo oscuro e ammaliante, impedendogli la fuga.
+attract:Attrazione
+attractDescription:Se il bersaglio è del sesso opposto, s’infatua e diventa riluttante ad attaccare.
+sleep-talk:Sonnolalia
+sleep-talkDescription:Chi la usa sfodera a caso una delle proprie mosse mentre sta dormendo.
+heal-bell:Rintoccasana
+heal-bellDescription:Chi la usa produce uno scampanellio che cura i problemi di stato suoi e dei Pokémon alleati.
+return:Ritorno
+returnDescription:Mossa che diventa tanto più potente quanto maggiore è il grado di affezione del Pokémon per il proprio Allenatore.
+present:Regalino
+presentDescription:Chi la usa dà un regalo bomba al bersaglio. A volte, però, può fargli recuperare PS.
+frustration:Frustrazione
+frustrationDescription:Mossa che diventa tanto più potente quanto minore è il grado di affezione del Pokémon per il proprio Allenatore.
+safeguard:Salvaguardia
+safeguardDescription:Chi la usa crea un campo protettivo che evita problemi di stato per sé e gli alleati per cinque turni.
+pain-split:Malcomune
+pain-splitDescription:Chi la usa somma i propri PS a quelli di un altro Pokémon per poi dividerli in parti uguali.
+sacred-fire:Magifuoco
+sacred-fireDescription:Colpisce il bersaglio con un fuoco mistico di enorme intensità che può anche causargli una scottatura.
+magnitude:Magnitudo
+magnitudeDescription:Chi la usa scatena un terremoto d’intensità variabile che danneggia i Pokémon che ha intorno.
+dynamic-punch:Dinamipugno
+dynamic-punchDescription:Colpisce il bersaglio con un pugno davvero forte. Se va a segno, lo confonde.
+megahorn:Megacorno
+megahornDescription:Chi la usa utilizza il suo robusto e imponente corno per colpire il bersaglio con tutto se stesso.
+dragon-breath:Dragospiro
+dragon-breathDescription:Investe il bersaglio con una raffica potentissima che arreca danni. Può anche paralizzarlo.
+baton-pass:Staffetta
+baton-passDescription:Chi la usa è sostituito da un Pokémon della squadra, che eredita anche ogni modifica alle statistiche.
+encore:Ripeti
+encoreDescription:Chi la usa obbliga il bersaglio a ripetere per tre turni l’ultima mossa eseguita.
+pursuit:Inseguimento
+pursuitDescription:Una mossa d’attacco che infligge un danno doppio se il bersaglio è in fase di sostituzione.
+rapid-spin:Rapigiro
+rapid-spinDescription:Attacco rotante che elimina gli effetti di mosse come Legatutto, Avvolgibotta, Punte e Parassiseme.
+sweet-scent:Profumino
+sweet-scentDescription:Un dolce profumo che riduce di molto l’elusione dei nemici intorno a chi la usa.
+iron-tail:Codacciaio
+iron-tailDescription:Il bersaglio viene colpito da una robusta coda d’acciaio. Può anche ridurne la Difesa.
+metal-claw:Ferrartigli
+metal-clawDescription:Colpisce il bersaglio con artigli d’acciaio. Può anche aumentare l’Attacco di chi la usa.
+vital-throw:Vitaltiro
+vital-throwDescription:Chi la usa attacca per ultimo, ma il colpo è sempre infallibile.
+morning-sun:Mattindoro
+morning-sunDescription:Chi la usa recupera PS. Il numero di PS recuperati dipende dalle condizioni atmosferiche.
+synthesis:Sintesi
+synthesisDescription:Chi la usa recupera PS. Il numero di PS recuperati dipende dalle condizioni atmosferiche.
+moonlight:Lucelunare
+moonlightDescription:Chi la usa recupera PS. Il numero di PS recuperati dipende dalle condizioni atmosferiche.
+hidden-power:Introforza
+hidden-powerDescription:Mossa singolare che cambia tipo a seconda del Pokémon che la usa.
+cross-chop:Incrocolpo
+cross-chopDescription:Investe il bersaglio con un colpo sferrato con entrambe le braccia incrociate. Probabile brutto colpo.
+twister:Tornado
+twisterDescription:Un potente tornado si abbatte sui nemici nei paraggi. Può anche farli tentennare.
+rain-dance:Pioggiadanza
+rain-danceDescription:Chi la usa provoca una forte pioggia per cinque turni, potenziando le mosse di tipo Acqua e riducendo la potenza di quelle di tipo Fuoco.
+sunny-day:Giornodisole
+sunny-dayDescription:Chi la usa intensifica i raggi solari per cinque turni, potenziando le mosse di tipo Fuoco e riducendo la potenza di quelle di tipo Acqua.
+crunch:Sgranocchio
+crunchDescription:Il bersaglio viene morso con denti affilati. Può anche ridurne la Difesa.
+mirror-coat:Specchiovelo
+mirror-coatDescription:Mossa che replica ogni attacco speciale, arrecando il doppio del danno ricevuto.
+psych-up:Psicamisù
+psych-upDescription:Chi la usa s’ipnotizza per copiare ogni modifica alle statistiche del bersaglio.
+extreme-speed:Extrarapido
+extreme-speedDescription:Chi la usa carica il bersaglio a una velocità impressionante. Questa mossa ha priorità alta.
+ancient-power:Forzantica
+ancient-powerDescription:Colpisce il bersaglio con una forza primordiale. Può aumentare tutte le statistiche.
+shadow-ball:Palla Ombra
+shadow-ballDescription:Lancia sul bersaglio una sfera nera. Può anche ridurne la Difesa Speciale.
+future-sight:Divinazione
+future-sightDescription:Due turni dopo l’utilizzo di questa mossa, il bersaglio viene attaccato con energia psichica.
+rock-smash:Spaccaroccia
+rock-smashDescription:Chi la usa colpisce il bersaglio con un pugno che può anche ridurne la Difesa.
+whirlpool:Mulinello
+whirlpoolDescription:Intrappola il bersaglio in un turbine d’acqua per quattro o cinque turni infliggendo danni a ogni turno.
+beat-up:Picchiaduro
+beat-upDescription:Chi la usa chiama in aiuto i Pokémon della squadra: più ce ne sono, maggiore è il numero di attacchi.
+fake-out:Bruciapelo
+fake-outDescription:Mossa ad alta priorità che fa tentennare il bersaglio. Funziona solo appena scesi in campo.
+uproar:Baraonda
+uproarDescription:Chi la usa attacca per tre turni con un frastuono che non fa dormire nessuno.
+stockpile:Accumulo
+stockpileDescription:Chi la usa accumula energia aumentando la Difesa e la Difesa Speciale. Si può utilizzare tre volte.
+spit-up:Sfoghenergia
+spit-upDescription:Tutta l’energia accumulata in precedenza con Accumulo è rilasciata nell’attacco. Maggiore è l’energia, più danni si arrecano.
+swallow:Introenergia
+swallowDescription:Chi la usa assorbe l’energia raccolta con la mossa Accumulo e recupera PS. Maggiore è l’energia, più PS si recuperano.
+heat-wave:Ondacalda
+heat-waveDescription:Chi la usa investe i nemici che ha intorno con una folata di vento caldo. Può anche scottarli.
+hail:Grandine
+hailDescription:Chi la usa causa una grandinata che dura cinque turni. Danneggia tutti i Pokémon tranne quelli di tipo Ghiaccio.
+torment:Attaccalite
+tormentDescription:Chi la usa tormenta e fa infuriare il bersaglio, impedendogli di usare la stessa mossa due volte di seguito.
+flatter:Adulazione
+flatterDescription:Adula il bersaglio e lo confonde, ma ne aumenta l’Attacco Speciale.
+will-o-wisp:Fuocofatuo
+will-o-wispDescription:Fiamme intense di colore viola causano una scottatura al bersaglio.
+memento:Memento
+mementoDescription:Chi la usa va KO. Tuttavia, riduce di molto l’Attacco e l’Attacco Speciale del bersaglio.
+facade:Facciata
+facadeDescription:Mossa d’attacco che raddoppia la potenza se chi la usa è scottato, avvelenato o paralizzato.
+focus-punch:Centripugno
+focus-punchDescription:Chi la usa prende la mira prima di sferrare un pugno. Fallirà se verrà colpito prima di eseguire la mossa.
+smelling-salts:Maniereforti
+smelling-saltsDescription:Infligge un danno doppio a un bersaglio paralizzato, ma ne cura anche la paralisi.
+follow-me:Sonoqui
+follow-meDescription:Chi la usa attira l’attenzione su di sé, costringendo i nemici a sceglierlo sempre come bersaglio.
+nature-power:Naturforza
+nature-powerDescription:Mossa che fa uso della forza della natura. Il suo effetto varia in base all’ambiente.
+charge:Sottocarica
+chargeDescription:Potenzia la mossa di tipo Elettro usata subito dopo. Aumenta anche la Difesa Speciale di chi la usa.
+taunt:Provocazione
+tauntDescription:Provoca il bersaglio inducendolo a usare solo mosse d’attacco per tre turni.
+helping-hand:Altruismo
+helping-handDescription:Mossa che aumenta la potenza dell’attacco di un alleato.
+trick:Raggiro
+trickDescription:Chi la usa coglie il bersaglio in contropiede e lo obbliga a cambiare il suo strumento con il proprio.
+role-play:Giocodiruolo
+role-playDescription:Chi la usa mima in tutto il bersaglio, copiandone l’abilità.
+wish:Desiderio
+wishDescription:Quando un Pokémon la usa, al turno successivo la metà dei suoi PS massimi viene recuperata da lui stesso o dal Pokémon che lo sostituisce.
+assist:Assistente
+assistDescription:Chi la usa utilizza in fretta e a caso una delle mosse degli altri Pokémon della squadra.
+ingrain:Radicamento
+ingrainDescription:Chi la usa mette delle radici che gli fanno recuperare PS a ogni turno. Non può essere sostituito.
+superpower:Troppoforte
+superpowerDescription:Chi la usa attacca il bersaglio con grande forza, ma il suo Attacco e la sua Difesa diminuiscono.
+magic-coat:Magivelo
+magic-coatDescription:Una barriera rimanda al mittente l’effetto di mosse come Parassiseme e di mosse che influenzano lo stato.
+recycle:Riciclo
+recycleDescription:Chi la usa ricicla uno strumento che ha usato nella lotta e può riutilizzarlo.
+revenge:Vendetta
+revengeDescription:Mossa d’attacco che infligge un danno doppio se si è stati colpiti dal Pokémon bersaglio nello stesso turno.
+brick-break:Breccia
+brick-breakDescription:Colpisce il bersaglio con una mano e rompe barriere come Riflesso e Schermoluce.
+yawn:Sbadiglio
+yawnDescription:Chi la usa fa un grande sbadiglio che addormenta il bersaglio al turno seguente.
+knock-off:Privazione
+knock-offDescription:Attacco che fa cadere lo strumento del bersaglio, impedendone l’uso nella lotta. La sua potenza aumenta se il Pokémon colpito ha uno strumento.
+endeavor:Rimonta
+endeavorDescription:Attacco che riduce i PS del bersaglio a una quantità pari ai PS di chi lo usa.
+eruption:Eruzione
+eruptionDescription:Attacco impetuoso ed esplosivo la cui potenza è proporzionale ai PS di chi lo usa.
+skill-swap:Baratto
+skill-swapDescription:Chi la usa sfrutta le sue facoltà mentali per scambiare l’abilità con il bersaglio.
+imprison:Esclusiva
+imprisonDescription:Chi la usa impedisce al nemico di usare mosse che conoscono entrambi.
+refresh:Rinfrescata
+refreshDescription:Chi la usa riposa per guarire da avvelenamento, paralisi e scottatura.
+grudge:Rancore
+grudgeDescription:Se chi la usa va KO, i PP della mossa nemica che lo ha messo fuori gioco si azzerano.
+snatch:Scippo
+snatchDescription:Chi la usa ruba e utilizza la mossa curativa o modifica-statistiche che un altro Pokémon stava per usare.
+secret-power:Forzasegreta
+secret-powerDescription:Attacco che può avere un effetto aggiuntivo a seconda del luogo in cui si trova chi lo usa.
+dive:Sub
+diveDescription:Chi la usa si tuffa in acqua per emergere e attaccare al turno seguente.
+arm-thrust:Sberletese
+arm-thrustDescription:Raffica di ceffoni che colpisce da due a cinque volte di fila.
+camouflage:Camuffamento
+camouflageDescription:Modifica il tipo di chi la usa a seconda del luogo, ad esempio sull’acqua, nell’erba o in una grotta.
+tail-glow:Codadiluce
+tail-glowDescription:Chi la usa fissa una luce forte per concentrarsi e aumentare moltissimo l’Attacco Speciale.
+luster-purge:Abbagliante
+luster-purgeDescription:Chi la usa scatena un’esplosione abbagliante che può anche ridurre la Difesa Speciale del Pokémon colpito.
+mist-ball:Foschisfera
+mist-ballDescription:Una sfera di nebbia avvolge e danneggia il bersaglio. Può anche ridurne l’Attacco Speciale.
+feather-dance:Danzadipiume
+feather-danceDescription:Chi la usa circonda il bersaglio con un turbinio di piume riducendo di molto il suo Attacco.
+teeter-dance:Strampadanza
+teeter-danceDescription:Chi la usa esegue una danza goffa che confonde tutti i Pokémon attorno.
+blaze-kick:Calciardente
+blaze-kickDescription:Chi la usa tira un calcio. Probabile brutto colpo. Può anche scottare il bersaglio.
+mud-sport:Fangata
+mud-sportDescription:Chi la usa sparge fango sul campo di lotta indebolendo per cinque turni le mosse di tipo Elettro.
+ice-ball:Palla Gelo
+ice-ballDescription:Chi la usa attacca il bersaglio per cinque turni, con aumento progressivo della potenza ogni volta che va a segno.
+needle-arm:Pugnospine
+needle-armDescription:Chi la usa attacca colpendo il bersaglio con i suoi arti pieni di spine. Può far tentennare il Pokémon colpito.
+slack-off:Pigro
+slack-offDescription:Chi la usa si rilassa recuperando metà dei propri PS massimi.
+hyper-voice:Granvoce
+hyper-voiceDescription:Chi la usa lancia un urlo straziante che danneggia i nemici intorno a sé.
+poison-fang:Velenodenti
+poison-fangDescription:Chi la usa morde il bersaglio con denti avvelenati che possono anche iperavvelenarlo.
+crush-claw:Tritartigli
+crush-clawDescription:Colpisce il bersaglio con artigli robusti e affilati che possono ridurne la Difesa.
+blast-burn:Incendio
+blast-burnDescription:Potente esplosione che danneggia il bersaglio, ma fa saltare il turno successivo a chi la provoca.
+hydro-cannon:Idrocannone
+hydro-cannonDescription:Colpisce il bersaglio con un potente getto d’acqua. Chi la usa salta il turno successivo.
+meteor-mash:Meteorpugno
+meteor-mashDescription:Colpisce il bersaglio con un pugno veloce come una meteora. Può far salire l’Attacco di chi la usa.
+astonish:Sgomento
+astonishDescription:Chi la usa attacca il bersaglio emettendo un verso terrificante. Può anche farlo tentennare.
+weather-ball:Palla Clima
+weather-ballDescription:Mossa d’attacco il cui tipo e la cui potenza variano in base alle condizioni atmosferiche.
+aromatherapy:Aromaterapia
+aromatherapyDescription:Chi la usa rilascia un dolce profumo che cura tutti i problemi di stato propri e degli alleati.
+fake-tears:Falselacrime
+fake-tearsDescription:Chi la usa inscena un pianto teatrale per commuovere il bersaglio. Ne riduce di molto la Difesa Speciale.
+air-cutter:Aerasoio
+air-cutterDescription:Chi la usa provoca un vento tagliente che sferza i nemici intorno. Probabile brutto colpo.
+overheat:Vampata
+overheatDescription:Chi la usa sferra un potente attacco, ma il contraccolpo riduce di molto il suo Attacco Speciale.
+odor-sleuth:Segugio
+odor-sleuthDescription:Chi la usa rende i Pokémon di tipo Spettro vulnerabili a qualsiasi tipo di mossa e può, inoltre, colpire i nemici sfuggenti.
+rock-tomb:Rocciotomba
+rock-tombDescription:Colpisce il bersaglio con rocce. Inoltre, lo rallenta riducendone la Velocità.
+silver-wind:Ventargenteo
+silver-windDescription:Attacca con un forte vento di polvere di squame. Tutte le statistiche di chi la usa possono salire.
+metal-sound:Ferrostrido
+metal-soundDescription:Orribile stridio, simile a quello prodotto dal metallo, che riduce di molto la Difesa Speciale del bersaglio.
+grass-whistle:Meloderba
+grass-whistleDescription:Una dolce melodia culla il bersaglio e lo costringe ad addormentarsi.
+tickle:Solletico
+tickleDescription:Chi la usa solletica il bersaglio e lo fa ridere, riducendo il suo Attacco e la sua Difesa.
+cosmic-power:Cosmoforza
+cosmic-powerDescription:Chi la usa assorbe una forza mistica dallo spazio che aumenta la Difesa e la Difesa Speciale.
+water-spout:Zampillo
+water-spoutDescription:Lancia un getto d’acqua contro il nemico che ha davanti e quelli adiacenti. La potenza è proporzionale al numero di PS di chi la usa.
+signal-beam:Segnoraggio
+signal-beamDescription:Chi la usa attacca con uno strano raggio di luce che può anche confondere il Pokémon colpito.
+shadow-punch:Pugnodombra
+shadow-punchDescription:Il bersaglio riceve un pugno proveniente dalle tenebre. Questa mossa è infallibile.
+extrasensory:Extrasenso
+extrasensoryDescription:Chi la usa attacca con una misteriosa forza invisibile. Può far tentennare il bersaglio.
+sky-uppercut:Stramontante
+sky-uppercutDescription:Chi la usa attacca il bersaglio con un montante che può arrivare fino al cielo.
+sand-tomb:Sabbiotomba
+sand-tombDescription:Chi la usa intrappola il bersaglio in un turbine di sabbia per quattro o cinque turni.
+sheer-cold:Purogelo
+sheer-coldDescription:Il bersaglio esaurisce i PS in un colpo solo. Se viene usata da Pokémon che non sono di tipo Ghiaccio, difficilmente va a segno.
+muddy-water:Fanghiglia
+muddy-waterDescription:Chi la usa attacca i nemici che ha intorno con un getto di fango che può anche ridurne la precisione.
+bullet-seed:Semitraglia
+bullet-seedDescription:Chi la usa spara da due a cinque raffiche di semi contro il bersaglio in successione.
+aerial-ace:Aeroassalto
+aerial-aceDescription:Chi la usa attacca il bersaglio a grande velocità. Questa mossa è infallibile.
+icicle-spear:Gelolancia
+icicle-spearDescription:Chi la usa spara ghiaccioli affilati contro il bersaglio da due a cinque volte di fila.
+iron-defense:Ferroscudo
+iron-defenseDescription:Il corpo di chi la usa si indurisce come il ferro, facendone salire di molto la Difesa.
+block:Blocco
+blockDescription:Chi la usa sbarra la strada al bersaglio impedendone la fuga o la sostituzione.
+howl:Gridodilotta
+howlDescription:Chi la usa emette un forte verso per darsi coraggio e aumentare l’Attacco.
+dragon-claw:Dragartigli
+dragon-clawDescription:Chi la usa attacca con artigli affilati che graffiano il bersaglio rapidamente e con grande forza.
+frenzy-plant:Radicalbero
+frenzy-plantDescription:Un groviglio di radici colpisce il bersaglio. Chi la usa salta il turno successivo.
+bounce:Rimbalzo
+bounceDescription:Chi la usa balza in alto e ricade sul bersaglio dopo un turno. Può anche paralizzarlo.
+mud-shot:Colpodifango
+mud-shotDescription:Chi la usa attacca lanciando fango sul bersaglio, riducendone anche la Velocità.
+poison-tail:Velenocoda
+poison-tailDescription:Chi la usa colpisce con la coda e può avvelenare il bersaglio. Probabile brutto colpo.
+covet:Supplica
+covetDescription:Chi la usa attacca il bersaglio sorridendo e gli ruba lo strumento.
+volt-tackle:Locomovolt
+volt-tackleDescription:Chi la usa si carica di elettricità e poi attacca. Può paralizzare il bersaglio. Il contraccolpo causa seri danni.
+magical-leaf:Fogliamagica
+magical-leafDescription:Chi la usa sparpaglia strane foglie che inseguono il bersaglio. Questa mossa è infallibile.
+water-sport:Docciascudo
+water-sportDescription:Chi la usa sparge acqua sul campo di lotta indebolendo per cinque turni le mosse di tipo Fuoco.
+calm-mind:Calmamente
+calm-mindDescription:Chi la usa placa il proprio spirito meditando per aumentare l’Attacco Speciale e la Difesa Speciale.
+bulk-up:Granfisico
+bulk-upDescription:Chi la usa tende i muscoli per gonfiare il corpo, aumentando Difesa e Attacco.
+leaf-blade:Fendifoglia
+leaf-bladeDescription:Colpisce il bersaglio usando una foglia affilata come una spada. Probabile brutto colpo.
+dragon-dance:Dragodanza
+dragon-danceDescription:Danza mistica e vigorosa che aumenta l’Attacco e la Velocità di chi la usa.
+rock-blast:Cadutamassi
+rock-blastDescription:Colpisce il bersaglio con dei massi pesanti lanciati in rapida successione. Il numero di massi varia da due a cinque.
+shock-wave:Ondashock
+shock-waveDescription:Chi la usa colpisce il bersaglio con una scossa di elettricità. È impossibile eludere questa mossa.
+water-pulse:Idropulsar
+water-pulseDescription:Il bersaglio viene colpito da un getto d’acqua potentissimo che può anche confonderlo.
+doom-desire:Obbliderio
+doom-desireDescription:Intenso fascio di luce che colpisce il bersaglio dopo due turni dall’uso della mossa.
+psycho-boost:Psicoslancio
+psycho-boostDescription:Chi la usa sferra un potente attacco, ma il contraccolpo riduce di molto il suo Attacco Speciale.
+roost:Trespolo
+roostDescription:Chi la usa sta fermo e riposa, recuperando metà dei propri PS massimi.
+gravity:Gravità
+gravityDescription:Per cinque turni rende vulnerabili alle mosse di tipo Terra i Pokémon con Levitazione o di tipo Volante. Non è possibile usare mosse che fanno volare.
+miracle-eye:Miracolvista
+miracle-eyeDescription:Rende i Pokémon di tipo Buio vulnerabili a qualsiasi tipo di mossa e, inoltre, permette di colpire i nemici indipendentemente dall’elusione.
+wake-up-slap:Svegliopacca
+wake-up-slapDescription:Questa mossa infligge un danno doppio a un bersaglio addormentato, ma allo stesso tempo lo risveglia.
+hammer-arm:Martelpugno
+hammer-armDescription:Chi la usa colpisce il bersaglio con il suo pugno forte e pesante, ma perde Velocità.
+gyro-ball:Vortexpalla
+gyro-ballDescription:Chi la usa colpisce il bersaglio con un vortice rapidissimo. Più lento è chi la usa, maggiore è il danno.
+healing-wish:Curardore
+healing-wishDescription:Chi la usa va KO, ma il Pokémon che lo sostituisce recupera tutti i PS e guarisce dai problemi di stato.
+brine:Acquadisale
+brineDescription:Se i PS del bersaglio sono scesi a metà o meno, questa mossa colpirà con il doppio della potenza.
+natural-gift:Dononaturale
+natural-giftDescription:Chi la usa trae forza dalla bacca che ha. Da questa dipendono il tipo e la potenza dell’attacco.
+feint:Fintoattacco
+feintDescription:Colpisce anche un bersaglio che ha usato mosse come Protezione e Individua, annullandone gli effetti.
+pluck:Spennata
+pluckDescription:Chi la usa becca il bersaglio. Inoltre, se questi ha una bacca, gliela ruba e ne sfrutta gli effetti.
+tailwind:Ventoincoda
+tailwindDescription:Chi la usa scatena un turbine che aumenta la Velocità di tutti i Pokémon della squadra per quattro turni.
+acupressure:Acupressione
+acupressureDescription:Chi la usa esercita pressione su alcuni punti nevralgici e aumenta di molto una statistica a caso.
+metal-burst:Metalscoppio
+metal-burstDescription:Chi la usa si vendica sul nemico che l’ha appena ferito con una mossa anche più potente.
+u-turn:Retromarcia
+u-turnDescription:Chi usa questa mossa fa marcia indietro per farsi sostituire dopo aver sferrato l’attacco.
+close-combat:Zuffa
+close-combatDescription:Chi la usa attacca abbassando la guardia. La propria Difesa e la Difesa Speciale si riducono.
+payback:Rivincita
+paybackDescription:Chi la usa accumula forza, poi attacca. La potenza raddoppia se il Pokémon agisce dopo il bersaglio.
+assurance:Garanzia
+assuranceDescription:Se il bersaglio ha già subito dei danni nello stesso turno, la potenza di questa mossa raddoppia.
+embargo:Divieto
+embargoDescription:Impedisce al bersaglio di usare il suo strumento e al suo Allenatore di usarne altri sul Pokémon per cinque turni.
+fling:Lancio
+flingDescription:Chi la usa lancia il suo strumento addosso al bersaglio. La forza e l’effetto dipendono dallo strumento.
+psycho-shift:Psicotrasfer
+psycho-shiftDescription:Con la forza psichica e la suggestione, chi la usa può trasferire i suoi problemi di stato al Pokémon colpito.
+trump-card:Asso
+trump-cardDescription:La potenza di questa mossa aumenta man mano che i suoi PP diminuiscono.
+heal-block:Anticura
+heal-blockDescription:Chi la usa impedisce per cinque turni ai nemici che ha intorno di utilizzare mosse, abilità e strumenti recupera-PS che hanno con sé.
+wring-out:Strizzata
+wring-outDescription:Chi la usa stritola con forza il bersaglio. Più PS ha il Pokémon colpito, maggiore è la potenza della mossa.
+power-trick:Ingannoforza
+power-trickDescription:Mossa psichica che permette a chi la usa di scambiare i valori delle sue statistiche di Attacco e Difesa.
+gastro-acid:Gastroacido
+gastro-acidDescription:Chi la usa lancia acidi gastrici sul bersaglio. Il fluido annulla l’abilità del Pokémon colpito.
+lucky-chant:Fortuncanto
+lucky-chantDescription:Chi la usa rivolge un incantesimo al cielo, impedendo al nemico di sferrare brutti colpi alla squadra per cinque turni.
+me-first:Precedenza
+me-firstDescription:Se chi la usa è più veloce del nemico, gli ruba la mossa e gliela ritorce contro con potenza persino maggiore.
+copycat:Copione
+copycatDescription:Chi la usa mima l’ultima mossa eseguita. Fallisce se non è stata ancora usata alcuna mossa.
+power-swap:Barattoforza
+power-swapDescription:Chi la usa sfrutta la sua forza psichica per scambiare le modifiche ad Attacco e Attacco Speciale con il bersaglio.
+guard-swap:Barattoscudo
+guard-swapDescription:Chi la usa sfrutta la sua forza psichica per scambiare le modifiche a Difesa e Difesa Speciale con il bersaglio.
+punishment:Punizione
+punishmentDescription:Questa mossa diventa più potente ogni volta che il bersaglio aumenta le proprie statistiche.
+last-resort:Ultimascelta
+last-resortDescription:Per usare questa mossa, bisogna prima avvalersi in lotta di tutte le altre mosse conosciute.
+worry-seed:Affannoseme
+worry-seedDescription:Un seme che causa ansia viene piantato sul bersaglio. Ne muta l’abilità in Insonnia e ne previene o rimuove il sonno.
+sucker-punch:Sbigoattacco
+sucker-punchDescription:Chi la usa attacca con alta priorità, ma fallisce se il bersaglio non sta preparando un attacco.
+toxic-spikes:Fielepunte
+toxic-spikesDescription:Chi la usa piazza una trappola di punte che avvelenano i nemici che scendono in campo.
+heart-swap:Cuorbaratto
+heart-swapDescription:Chi la usa sfrutta la sua forza psichica per scambiare le modifiche alle statistiche con il bersaglio.
+aqua-ring:Acquanello
+aqua-ringDescription:Chi la usa si avvolge in un velo d’acqua. Recupera alcuni PS a ogni turno.
+magnet-rise:Magnetascesa
+magnet-riseDescription:Chi la usa si solleva in aria per cinque turni grazie a un campo elettromagnetico.
+flare-blitz:Fuococarica
+flare-blitzDescription:Chi la usa si ricopre di fuoco e carica il bersaglio, ma subisce il contraccolpo. Può anche scottare il Pokémon colpito.
+force-palm:Palmoforza
+force-palmDescription:Chi la usa attacca con un’onda d’urto che può anche paralizzare il bersaglio.
+aura-sphere:Forzasfera
+aura-sphereDescription:Chi la usa rilascia una forza eterea dal profondo del corpo. La mossa è infallibile.
+rock-polish:Lucidatura
+rock-polishDescription:Chi la usa leviga il proprio corpo per ridurne l’attrito. Aumenta di molto la Velocità.
+poison-jab:Velenpuntura
+poison-jabDescription:Il bersaglio è colpito da un tentacolo o da un arto intriso di una sostanza tossica che può anche avvelenarlo.
+dark-pulse:Neropulsar
+dark-pulseDescription:Chi la usa emana un’aura impregnata di oscuri pensieri. Può anche far tentennare il Pokémon colpito.
+night-slash:Nottesferza
+night-slashDescription:Chi la usa colpisce il bersaglio appena si presenta l’occasione. Probabile brutto colpo.
+aqua-tail:Idrondata
+aqua-tailDescription:Chi la usa attacca agitando la coda come se fosse una violenta ondata in una tempesta furiosa.
+seed-bomb:Semebomba
+seed-bombDescription:Chi la usa emette una raffica di semi dal guscio duro che colpiscono il bersaglio dall’alto.
+air-slash:Eterelama
+air-slashDescription:Chi la usa attacca con un vento tagliente che squarcia il cielo. Può anche far tentennare il Pokémon colpito.
+x-scissor:Forbice X
+x-scissorDescription:Chi la usa colpisce il bersaglio con un attacco che ricorda un colpo di forbici.
+bug-buzz:Ronzio
+bug-buzzDescription:Chi la usa crea un’onda sonora che infligge danni. Può anche ridurre la Difesa Speciale del bersaglio.
+dragon-pulse:Dragopulsar
+dragon-pulseDescription:Chi la usa spalanca la bocca e genera un’onda d’urto che colpisce il bersaglio.
+dragon-rush:Dragofuria
+dragon-rushDescription:Chi la usa attacca con fare minaccioso e in questo modo può anche far tentennare il bersaglio.
+power-gem:Gemmoforza
+power-gemDescription:Chi la usa attacca con un raggio di luce che brilla come se fosse fatto di pietre preziose.
+drain-punch:Assorbipugno
+drain-punchDescription:Pugno che assorbe energia. Fa recuperare una quantità di PS pari alla metà del danno inferto.
+vacuum-wave:Vuotonda
+vacuum-waveDescription:Chi la usa rotea i pugni per lanciare un’onda di vuoto assoluto verso il bersaglio. Questa mossa ha priorità alta.
+focus-blast:Focalcolpo
+focus-blastDescription:Chi la usa si concentra e rilascia la sua forza. Può ridurre la Difesa Speciale del Pokémon colpito.
+energy-ball:Energipalla
+energy-ballDescription:Chi la usa attinge energia dalla natura e la scaglia contro il bersaglio. Può anche ridurne la Difesa Speciale.
+brave-bird:Baldeali
+brave-birdDescription:Chi la usa ripiega le ali e carica da bassa quota. Tuttavia, subisce considerevoli danni.
+earth-power:Geoforza
+earth-powerDescription:Dal terreno sotto il bersaglio si sprigiona una forza devastante. Può anche ridurne la Difesa Speciale.
+switcheroo:Rapidscambio
+switcherooDescription:Chi la usa scambia lo strumento che ha con quello del bersaglio a una velocità impressionante.
+giga-impact:Gigaimpatto
+giga-impactDescription:Chi la usa carica il bersaglio usando tutta la sua forza, ma al turno successivo deve riposarsi.
+nasty-plot:Congiura
+nasty-plotDescription:Chi la usa stimola il cervello pensando a cose cattive. Aumenta di molto l’Attacco Speciale.
+bullet-punch:Pugnoscarica
+bullet-punchDescription:Chi la usa attacca con una scarica di pugni veloci come proiettili. Questa mossa ha priorità alta.
+avalanche:Slavina
+avalancheDescription:Mossa d’attacco che infligge doppi danni se chi la usa è stato ferito dal Pokémon bersaglio nello stesso turno.
+ice-shard:Geloscheggia
+ice-shardDescription:Chi la usa crea dei pezzi di ghiaccio e li lancia. Questa mossa ha priorità alta.
+shadow-claw:Ombrartigli
+shadow-clawDescription:Chi la usa attacca con artigli d’ombra che colpiscono con gran forza. Probabile brutto colpo.
+thunder-fang:Fulmindenti
+thunder-fangDescription:Chi la usa morde con denti elettrificati che possono anche paralizzare o far tentennare il bersaglio.
+ice-fang:Gelodenti
+ice-fangDescription:Chi la usa morde con denti ghiacciati. Può anche congelare o far tentennare il bersaglio.
+fire-fang:Rogodenti
+fire-fangDescription:Chi la usa morde con denti infuocati. Può anche scottare o far tentennare il bersaglio.
+shadow-sneak:Furtivombra
+shadow-sneakDescription:Chi la usa estende la sua ombra e attacca il nemico alle spalle. Questa mossa ha priorità alta.
+mud-bomb:Pantanobomba
+mud-bombDescription:Chi la usa lancia una compatta palla di fango. Può anche ridurre la precisione del Pokémon colpito.
+psycho-cut:Psicotaglio
+psycho-cutDescription:Chi la usa colpisce il bersaglio con lame fatte di forza psichica. Probabile brutto colpo.
+zen-headbutt:Cozzata Zen
+zen-headbuttDescription:Chi la usa concentra la forza nella testa e si lancia contro il bersaglio. Può anche farlo tentennare.
+mirror-shot:Cristalcolpo
+mirror-shotDescription:Chi la usa rilascia fasci d’energia dal corpo levigato. Può anche ridurre la precisione del bersaglio.
+flash-cannon:Cannonflash
+flash-cannonDescription:Chi la usa attacca raccogliendo e rilasciando energia luminosa. Può ridurre la Difesa Speciale del bersaglio.
+rock-climb:Scalaroccia
+rock-climbDescription:Chi la usa carica con impeto incredibile. Il colpo può confondere il bersaglio.
+defog:Scacciabruma
+defogDescription:Chi la usa spazza via barriere come Riflesso e Schermoluce con un forte vento e riduce la capacità d’elusione del bersaglio.
+trick-room:Distortozona
+trick-roomDescription:Chi la usa crea una dimensione in cui i Pokémon più lenti agiscono per primi per cinque turni.
+draco-meteor:Dragobolide
+draco-meteorDescription:Attacca con meteore che cadono dal cielo. Il contraccolpo fa calare di molto l’Attacco Speciale di chi la usa.
+discharge:Scarica
+dischargeDescription:Chi la usa colpisce i Pokémon che ha intorno con un bagliore elettrico. Può anche paralizzarli.
+lava-plume:Lavasbuffo
+lava-plumeDescription:Chi la usa lancia fiamme scarlatte su tutti i Pokémon nelle vicinanze, danneggiandoli. Può anche scottarli.
+leaf-storm:Verdebufera
+leaf-stormDescription:Si forma una tempesta di foglie affilate. Il contraccolpo riduce di molto l’Attacco Speciale di chi la usa.
+power-whip:Vigorcolpo
+power-whipDescription:Chi la usa agita violentemente liane o tentacoli per sferzare il bersaglio.
+rock-wrecker:Devastomasso
+rock-wreckerDescription:Chi la usa attacca il bersaglio con un enorme masso, ma si deve riposare al turno successivo.
+cross-poison:Velenocroce
+cross-poisonDescription:Attacco con zanne avvelenate che può anche avvelenare il Pokémon colpito. Probabile brutto colpo.
+gunk-shot:Sporcolancio
+gunk-shotDescription:Chi la usa attacca il bersaglio con rifiuti sudici che possono anche avvelenarlo.
+iron-head:Metaltestata
+iron-headDescription:Chi la usa colpisce il bersaglio con la sua testa dura come l’acciaio. Può anche farlo tentennare.
+magnet-bomb:Bombagnete
+magnet-bombDescription:Chi la usa lancia bombe d’acciaio che si attaccano al bersaglio. Una mossa infallibile.
+stone-edge:Pietrataglio
+stone-edgeDescription:Chi la usa colpisce il bersaglio dal basso con pietre affilate. Probabile brutto colpo.
+captivate:Incanto
+captivateDescription:Se i nemici che ha intorno sono del sesso opposto a chi la usa, saranno ammaliati e il loro Attacco Speciale diminuirà di molto.
+stealth-rock:Levitoroccia
+stealth-rockDescription:Chi la usa piazza una trappola di rocce sospese che danneggia i nemici che entrano in campo.
+grass-knot:Laccioerboso
+grass-knotDescription:Chi la usa intrappola il bersaglio con l’erba e lo fa cadere. Danneggia maggiormente i Pokémon più pesanti.
+chatter:Schiamazzo
+chatterDescription:Chi la usa attacca creando un’onda sonora di parole a vanvera e confonde il bersaglio.
+judgment:Giudizio
+judgmentDescription:Chi la usa rilascia numerosi colpi di luce. Il tipo varia a seconda della lastra che ha.
+bug-bite:Coleomorso
+bug-biteDescription:Chi la usa morde il bersaglio. Inoltre, se questi ha una bacca, gliela ruba e ne sfrutta gli effetti.
+charge-beam:Raggioscossa
+charge-beamDescription:Chi la usa lancia un fascio di elettricità molto intensa. Può anche aumentare il suo Attacco Speciale.
+wood-hammer:Mazzuolegno
+wood-hammerDescription:Chi la usa si lancia con tutto il corpo contro il bersaglio, ma subisce anche considerevoli danni.
+aqua-jet:Acquagetto
+aqua-jetDescription:Chi la usa colpisce a una tale velocità da rendersi quasi invisibile. Questa mossa ha priorità alta.
+attack-order:Comandourto
+attack-orderDescription:Chi la usa raduna i suoi sgherri per colpire il bersaglio. Probabile brutto colpo.
+defend-order:Comandoscudo
+defend-orderDescription:Chi la usa raduna i suoi sgherri per creare uno scudo, aumentando Difesa e Difesa Speciale.
+heal-order:Comandocura
+heal-orderDescription:Chi la usa raduna i suoi sgherri per farsi curare. Recupera metà dei PS massimi.
+head-smash:Zuccata
+head-smashDescription:Chi la usa attacca con tutta la potenza di cui dispone, ma subisce danni considerevoli.
+double-hit:Doppiosmash
+double-hitDescription:Chi la usa colpisce il bersaglio due volte di fila con la coda, una liana o simili.
+roar-of-time:Fragortempo
+roar-of-timeDescription:Chi la usa colpisce il bersaglio con una forza capace di alterare il tempo, ma deve stare fermo al turno successivo.
+spacial-rend:Fendispazio
+spacial-rendDescription:Chi la usa lacera il bersaglio e lo spazio che lo circonda. Probabile brutto colpo.
+lunar-dance:Lunardanza
+lunar-danceDescription:Chi la usa va KO. Il Pokémon che lo sostituisce guarisce dai propri problemi di stato e recupera tutti i PS.
+crush-grip:Sbriciolmano
+crush-gripDescription:Colpisce il bersaglio con grande forza. Più PS ha il Pokémon colpito, maggiore è la potenza della mossa.
+magma-storm:Magmaclisma
+magma-stormDescription:Intrappola il bersaglio in un turbine di fuoco che dura per quattro o cinque turni.
+dark-void:Vuototetro
+dark-voidDescription:Trascina i nemici intorno in un mondo di totale oscurità e li fa addormentare.
+seed-flare:Infuriaseme
+seed-flareDescription:Chi la usa genera un’onda d’urto dal suo corpo. Può anche ridurre di molto la Difesa Speciale del bersaglio.
+ominous-wind:Funestovento
+ominous-windDescription:Chi la usa attacca con una forte raffica di vento che può aumentare tutte le sue statistiche.
+shadow-force:Oscurotuffo
+shadow-forceDescription:Chi la usa sparisce e poi colpisce il bersaglio al turno successivo. Colpisce anche un Pokémon che ha usato Protezione, Individua o simili.
+hone-claws:Unghiaguzze
+hone-clawsDescription:Chi la usa affila i propri artigli aumentando Attacco e precisione.
+wide-guard:Bodyguard
+wide-guardDescription:Chi la usa protegge sé e gli alleati da colpi ad ampio raggio per un turno.
+guard-split:Paridifesa
+guard-splitDescription:Chi la usa sfrutta la sua forza psichica per sommare Difesa e Difesa Speciale a quelle del bersaglio e dividerle equamente.
+power-split:Pariattacco
+power-splitDescription:Chi la usa sfrutta la sua forza psichica per sommare Attacco e Attacco Speciale a quelli del bersaglio e dividerli equamente.
+wonder-room:Mirabilzona
+wonder-roomDescription:Chi la usa crea una dimensione in cui Difesa e Difesa Speciale di tutti i Pokémon vengono scambiate per cinque turni.
+psyshock:Psicoshock
+psyshockDescription:Chi la usa attacca il bersaglio facendo materializzare un misterioso raggio psichico che provoca danni fisici.
+venoshock:Velenoshock
+venoshockDescription:Lancia uno speciale liquido tossico sul bersaglio. Se questi è avvelenato, il danno provocato raddoppia.
+autotomize:Sganciapesi
+autotomizeDescription:Chi la usa si libera di tutti i pesi in eccesso, alleggerendosi e aumentando di molto la propria Velocità.
+rage-powder:Polverabbia
+rage-powderDescription:Chi la usa attira l’attenzione dei nemici cospargendosi di una polvere irritante e diventando bersaglio di tutti gli attacchi.
+telekinesis:Telecinesi
+telekinesisDescription:Chi la usa fa fluttuare in aria il bersaglio, rendendolo facile da colpire per tre turni.
+magic-room:Magicozona
+magic-roomDescription:Chi la usa crea una dimensione in cui l’effetto degli strumenti di tutti i Pokémon è annullato per cinque turni.
+smack-down:Abbattimento
+smack-downDescription:Chi la usa lancia una pietra o un proiettile. Può colpire anche un bersaglio in volo e farlo cadere.
+storm-throw:Tempestretta
+storm-throwDescription:Chi la usa sferra un colpo micidiale al bersaglio. Brutto colpo assicurato.
+flame-burst:Pirolancio
+flame-burstDescription:Chi la usa emana una fiammata che colpisce il bersaglio e si propaga fino a raggiungere i Pokémon vicini.
+sludge-wave:Fangonda
+sludge-waveDescription:Lancia un’onda di fango che attacca tutti i Pokémon nelle vicinanze. Può anche avvelenarli.
+quiver-dance:Eledanza
+quiver-danceDescription:Danza leggiadra ed elegante che aumenta l’Attacco Speciale, la Difesa Speciale e la Velocità di chi la usa.
+heavy-slam:Pesobomba
+heavy-slamDescription:Chi la usa si lancia contro il bersaglio con tutto il proprio peso. Più è pesante rispetto ad esso, più danni causa.
+synchronoise:Sincrumore
+synchronoiseDescription:Chi la usa infligge danni a tutti i Pokémon dello stesso tipo che si trovano nelle vicinanze usando misteriose onde elettromagnetiche.
+electro-ball:Energisfera
+electro-ballDescription:Chi la usa attacca con una sfera d’energia elettrica. Più è rapido rispetto al bersaglio, più danni arreca.
+soak:Inondazione
+soakDescription:Chi la usa proietta un lungo getto d’acqua contro il bersaglio e lo rende un Pokémon di tipo Acqua.
+flame-charge:Nitrocarica
+flame-chargeDescription:Chi la usa si copre di fuoco e attacca il bersaglio. Concentrandosi aumenta, inoltre, la propria Velocità.
+coil:Arrotola
+coilDescription:Chi la usa si concentra aumentando Attacco, Difesa e precisione.
+low-sweep:Calciobasso
+low-sweepDescription:Chi la usa colpisce con un attacco fulmineo la parte inferiore del corpo del bersaglio, riducendone la Velocità.
+acid-spray:Acidobomba
+acid-sprayDescription:Chi la usa attacca il bersaglio con un acido altamente corrosivo. Il fluido riduce di molto la Difesa Speciale del bersaglio.
+foul-play:Ripicca
+foul-playDescription:Chi la usa sfrutta la forza del bersaglio. Il danno inflitto è proporzionale all’Attacco del nemico.
+simple-beam:Ondisinvolta
+simple-beamDescription:Chi la usa emette un misterioso raggio psichico che trasforma l’abilità del Pokémon colpito in Disinvoltura.
+entrainment:Saltamicizia
+entrainmentDescription:Chi la usa saltella con un buffo ritmo, inducendo il bersaglio a imitarlo e rendendo la sua abilità identica alla propria.
+after-you:Cortesia
+after-youDescription:Chi la usa aiuta un bersaglio più lento permettendogli di agire subito dopo.
+round:Coro
+roundDescription:Attacca il bersaglio con una melodia. Se usata durante lo stesso turno da più Pokémon, i danni inflitti aumentano.
+echoed-voice:Echeggiavoce
+echoed-voiceDescription:Attacca il bersaglio con la propria voce echeggiante. Se usata a ripetizione da uno o più Pokémon il danno aumenta.
+chip-away:Insidia
+chip-awayDescription:Chi la usa attacca non appena il bersaglio abbassa la guardia. Il danno inflitto prescinde dalle modifiche alle statistiche del bersaglio.
+clear-smog:Pulifumo
+clear-smogDescription:Attacca il bersaglio lanciandogli contro una nuvola di fumo speciale, che annulla ogni modifica alle statistiche.
+stored-power:Veicolaforza
+stored-powerDescription:Attacca il bersaglio con l’energia accumulata. Più sono state aumentate le statistiche, maggiore è il danno inflitto.
+quick-guard:Anticipo
+quick-guardDescription:Chi la usa protegge sé e gli alleati dalle mosse ad alta priorità.
+ally-switch:Cambiaposto
+ally-switchDescription:Chi la usa cambia di posto con un alleato in campo grazie a un misterioso potere.
+scald:Idrovampata
+scaldDescription:Chi la usa attacca il bersaglio con un getto d’acqua bollente che può anche scottarlo.
+shell-smash:Gettaguscio
+shell-smashDescription:Chi la usa si disfa del guscio. Difesa e Difesa Speciale calano, ma aumentano di molto Attacco, Attacco Speciale e Velocità.
+heal-pulse:Ondasana
+heal-pulseDescription:Chi la usa lancia un’onda rilassante che fa recuperare al bersaglio metà dei suoi PS massimi.
+hex:Sciagura
+hexDescription:Attacco che causa un danno enorme se il bersaglio ha problemi di stato.
+sky-drop:Cadutalibera
+sky-dropDescription:Porta il bersaglio in cielo e lo scaglia a terra al turno successivo. Il bersaglio catturato non può muoversi.
+shift-gear:Cambiomarcia
+shift-gearDescription:Facendo ruotare gli ingranaggi, chi la usa aumenta non solo il proprio Attacco, ma anche di molto la propria Velocità.
+circle-throw:Ribaltiro
+circle-throwDescription:Il bersaglio è scaraventato via ed è costretto a lasciare il posto a un altro. Mette fine alle lotte contro singoli Pokémon selvatici.
+incinerate:Bruciatutto
+incinerateDescription:Attacca i nemici che ha intorno con una fiammata. Il fuoco distruggerà le bacche o alcuni tipi di strumenti che i Pokémon hanno con sé.
+quash:Spintone
+quashDescription:Chi la usa spinge via il bersaglio, costringendolo ad agire per ultimo.
+acrobatics:Acrobazia
+acrobaticsDescription:Attacca rapidamente il bersaglio.
+reflect-type:Riflettipo
+reflect-typeDescription:Chi la usa cambia il proprio tipo in quello del bersaglio.
+retaliate:Nemesi
+retaliateDescription:Vendica un alleato messo KO. Se ciò è accaduto al turno precedente, il danno è maggiore.
+final-gambit:Azzardo
+final-gambitDescription:Chi la usa attacca con tutta la potenza di cui dispone e va KO, ma infligge al bersaglio un danno pari ai PS che ha perso.
+bestow:Cediregalo
+bestowDescription:Chi la usa consegna il proprio strumento al bersaglio, se questi ne è sprovvisto.
+inferno:Marchiatura
+infernoDescription:Il bersaglio viene avvolto da intense fiammate che causano scottature.
+water-pledge:Acquapatto
+water-pledgeDescription:Attacca il bersaglio con una colonna d’acqua. Se usata con Fiammapatto, gli effetti aumentano e appare un arcobaleno.
+fire-pledge:Fiammapatto
+fire-pledgeDescription:Attacca il bersaglio con una colonna di fuoco. Se usata con Erbapatto, gli effetti aumentano e il campo diventa un mare di fuoco.
+grass-pledge:Erbapatto
+grass-pledgeDescription:Attacca il bersaglio con una colonna d’erba. Se usata con Acquapatto, gli effetti aumentano e il campo diventa una palude.
+volt-switch:Invertivolt
+volt-switchDescription:Chi usa questa mossa si tira indietro per farsi sostituire dopo aver sferrato l’attacco.
+struggle-bug:Entomoblocco
+struggle-bugDescription:Colpisce i nemici intorno opponendo resistenza e riducendo il loro Attacco Speciale.
+bulldoze:Battiterra
+bulldozeDescription:Chi la usa calpesta il terreno e scatena un terremoto che danneggia i Pokémon nei paraggi, riducendone la Velocità.
+frost-breath:Alitogelido
+frost-breathDescription:Chi la usa attacca il bersaglio con un soffio d’aria gelida. Brutto colpo assicurato.
+dragon-tail:Codadrago
+dragon-tailDescription:Chi la usa fa volar via il bersaglio in modo che venga sostituito. Se il bersaglio è un singolo Pokémon selvatico, la lotta finisce.
+work-up:Cuordileone
+work-upDescription:Chi la usa si tira su di morale, aumentando il proprio Attacco e l’Attacco Speciale.
+electroweb:Elettrotela
+electrowebDescription:Chi la usa attacca i nemici intorno a sé catturandoli con una ragnatela elettrica e riducendone la Velocità.
+wild-charge:Sprizzalampo
+wild-chargeDescription:Chi la usa si carica di elettricità per poi scagliarsi sul bersaglio, ma subisce dei danni per il contraccolpo.
+drill-run:Giravvita
+drill-runDescription:Chi la usa si scaglia sul bersaglio ruotando su se stesso come un trapano perforante. Probabile brutto colpo.
+dual-chop:Doppiocolpo
+dual-chopDescription:Chi la usa attacca due volte il bersaglio con dei colpi estremamente forti.
+heart-stamp:Cuorestampo
+heart-stampDescription:Chi la usa distrae il bersaglio con un faccino innocente per poi sferrargli un colpo devastante che può farlo tentennare.
+horn-leech:Legnicorno
+horn-leechDescription:Chi la usa infilza il bersaglio con le corna e assorbe una quantità di PS pari a metà del danno inferto.
+sacred-sword:Spadasolenne
+sacred-swordDescription:Chi la usa taglia il bersaglio con una spada magica. Il danno inflitto ignora le modifiche alle statistiche del Pokémon colpito.
+razor-shell:Conchilama
+razor-shellDescription:Chi la usa colpisce il bersaglio con il suo guscio affilato. Il colpo può anche ridurre la Difesa del bersaglio.
+heat-crash:Marchiafuoco
+heat-crashDescription:Chi la usa carica con il suo corpo rovente. Più è pesante rispetto al bersaglio, più danni causa.
+leaf-tornado:Vorticerba
+leaf-tornadoDescription:Chi la usa avvolge e attacca il bersaglio con foglie affilate che possono anche ridurne la precisione.
+steamroller:Rulloduro
+steamrollerDescription:Chi la usa ruota su se stesso e schiaccia il bersaglio. Può anche farlo tentennare.
+cotton-guard:Cotonscudo
+cotton-guardDescription:Chi la usa avvolge il proprio corpo con del cotone molto morbido, proteggendosi e aumentando moltissimo la propria Difesa.
+night-daze:Urtoscuro
+night-dazeDescription:Chi la usa attacca il bersaglio con un’onda d’urto oscura che può ridurne la precisione.
+psystrike:Psicobotta
+psystrikeDescription:Chi la usa attacca il bersaglio facendo materializzare un misterioso raggio psichico che provoca danni fisici.
+tail-slap:Spazzasberla
+tail-slapDescription:Chi la usa colpisce il bersaglio con la sua coda dura da due a cinque volte di fila.
+hurricane:Tifone
+hurricaneDescription:Chi la usa attacca il bersaglio avvolgendolo con un vento fortissimo. Può anche confonderlo.
+head-charge:Ricciolata
+head-chargeDescription:Chi la usa carica il bersaglio con la testa in stile afro, ma subisce un po’ di danni per il contraccolpo.
+gear-grind:Ingracolpo
+gear-grindDescription:Chi la usa colpisce il bersaglio due volte di fila lanciandogli contro degli ingranaggi d’acciaio.
+searing-shot:Sparafuoco
+searing-shotDescription:Chi la usa lancia fiamme scarlatte su tutti i Pokémon nelle vicinanze, danneggiandoli. Può anche scottarli.
+techno-blast:Tecnobotto
+techno-blastDescription:Chi la usa rilascia un colpo di luce contro il bersaglio. Il tipo varia a seconda del modulo che ha.
+relic-song:Cantoantico
+relic-songDescription:Chi la usa attacca i nemici intorno a sé intonando un’antica melodia che colpisce il loro spirito. Può anche farli addormentare.
+secret-sword:Spadamistica
+secret-swordDescription:Chi la usa attacca il bersaglio tagliandolo con una spada mistica. La misteriosa energia sprigionata provoca danni fisici.
+glaciate:Gelamondo
+glaciateDescription:Chi la usa attacca i nemici intorno con una folata d’aria gelida e ne riduce anche la Velocità.
+bolt-strike:Lucesiluro
+bolt-strikeDescription:Colpisce il bersaglio con una possente carica elettrica e può anche paralizzarlo.
+blue-flare:Fuocoblu
+blue-flareDescription:Chi la usa attacca il bersaglio avvolgendolo con magnifiche e intense fiamme blu che possono anche scottarlo.
+fiery-dance:Voldifuoco
+fiery-danceDescription:Chi la usa viene avvolto da fiamme che scaglia contro il bersaglio, sbattendo le ali. Può anche aumentare l’Attacco Speciale.
+freeze-shock:Elettrogelo
+freeze-shockDescription:Chi la usa lancia contro il bersaglio al turno successivo una sfera di ghiaccio ricoperta di elettricità. Può anche paralizzarlo.
+ice-burn:Vampagelida
+ice-burnDescription:Chi la usa attacca il bersaglio al turno successivo e lo avvolge in un soffio d’aria gelida. Può anche scottarlo.
+snarl:Urlorabbia
+snarlDescription:Chi la usa si mette a urlare per un po’, riducendo l’Attacco Speciale dei nemici intorno.
+icicle-crash:Scagliagelo
+icicle-crashDescription:Chi la usa attacca violentemente il bersaglio con grosse stalattiti di ghiaccio che possono anche farlo tentennare.
+v-create:Generatore V
+v-createDescription:Chi la usa carica emettendo fiamme ardenti dalla fronte, a costo di una riduzione di Difesa, Difesa Speciale e Velocità.
+fusion-flare:Incrofiamma
+fusion-flareDescription:Chi la usa lancia una fiammata enorme. Se usata in combinazione con Incrotuono, il danno provocato dalla mossa aumenta.
+fusion-bolt:Incrotuono
+fusion-boltDescription:Chi la usa lancia un fulmine enorme. Se usata in combinazione con Incrofiamma, il danno provocato dalla mossa aumenta.
+flying-press:Schiacciatuffo
+flying-pressDescription:Chi la usa si tuffa sul bersaglio dall’alto. È una mossa di tipo Lotta e Volante allo stesso tempo.
+mat-block:Ribaltappeto
+mat-blockDescription:Chi la usa protegge se stesso e i propri alleati dai danni di mosse nemiche, adoperando un tappetino come scudo. Non è efficace contro mosse di stato.
+belch:Rutto
+belchDescription:Chi la usa attacca il bersaglio con un rutto potente. Per utilizzare questa mossa, il Pokémon deve mangiare la bacca che possiede.
+rototiller:Aracampo
+rototillerDescription:Chi la usa dissoda la terra per far crescere meglio l’erba. Questa mossa aumenta l’Attacco e l’Attacco Speciale dei Pokémon di tipo Erba.
+sticky-web:Rete Vischiosa
+sticky-webDescription:Chi la usa intreccia una rete appiccicosa attorno alla squadra avversaria, diminuendo la Velocità dei Pokémon nemici che entreranno in campo.
+fell-stinger:Pungiglione
+fell-stingerDescription:L’Attacco di chi la usa aumenta moltissimo se grazie alla mossa il bersaglio va KO.
+phantom-force:Spettrotuffo
+phantom-forceDescription:Chi la usa scompare improvvisamente per attaccare poi nel turno seguente. Questa mossa neutralizza le protezioni del bersaglio.
+trick-or-treat:Halloween
+trick-or-treatDescription:Il bersaglio viene invitato a festeggiare Halloween e aggiunge così al proprio tipo anche il tipo Spettro.
+noble-roar:Urlo
+noble-roarDescription:Chi la usa emette un urlo potente che intimidisce il bersaglio, riducendone l’Attacco e l’Attacco Speciale.
+ion-deluge:Pioggiaplasma
+ion-delugeDescription:Chi la usa disperde delle particelle elettrizzate che trasformano le mosse di tipo Normale in mosse di tipo Elettro.
+parabolic-charge:Caricaparabola
+parabolic-chargeDescription:Infligge danni a tutti i Pokémon vicini. Chi la usa recupera una quantità di PS pari alla metà del danno inferto.
+forests-curse:Boscomalocchio
+forests-curseDescription:Chi la usa invoca la maledizione del bosco sul bersaglio, che acquisisce così anche il tipo Erba.
+petal-blizzard:Fiortempesta
+petal-blizzardDescription:Infligge danni ai Pokémon che ha intorno attaccandoli con una tempesta di fiori.
+freeze-dry:Liofilizzazione
+freeze-dryDescription:Chi la usa raffredda istantaneamente il bersaglio e può congelarlo. Risulta superefficace contro i Pokémon di tipo Acqua.
+disarming-voice:Incantavoce
+disarming-voiceDescription:Chi la usa infligge un danno spirituale ai nemici nei paraggi con una voce suadente. L’attacco andrà immancabilmente a segno.
+parting-shot:Monito
+parting-shotDescription:Chi la usa lancia un monito intimidatorio al bersaglio, riducendone l’Attacco e l’Attacco Speciale, e si fa sostituire da un altro Pokémon della squadra.
+topsy-turvy:Sottosopra
+topsy-turvyDescription:Inverte tutte le modifiche alle statistiche del Pokémon bersaglio.
+draining-kiss:Assorbibacio
+draining-kissDescription:Chi la usa assorbe energia dal bersaglio con un bacio, recuperando così PS in quantità pari a più della metà del danno inferto.
+crafty-shield:Truccodifesa
+crafty-shieldDescription:Grazie a un misterioso potere, protegge chi la usa e gli alleati dalle mosse di stato. È tuttavia inefficace contro mosse che infliggono danni.
+flower-shield:Fiordifesa
+flower-shieldDescription:Grazie a un misterioso potere, aumenta la Difesa di tutti i Pokémon di tipo Erba presenti in campo.
+grassy-terrain:Campo Erboso
+grassy-terrainDescription:Per cinque turni il terreno entra nello stato di Campo Erboso: i Pokémon a terra recuperano PS e la potenza delle mosse di tipo Erba aumenta.
+misty-terrain:Campo Nebbioso
+misty-terrainDescription:Per cinque turni il terreno entra nello stato di Campo Nebbioso: i Pokémon a terra sono immuni ai problemi di stato e la potenza delle mosse Drago è dimezzata.
+electrify:Elettrocontagio
+electrifyDescription:Se si contagia il bersaglio prima che usi la sua mossa, per quel turno questa sarà di tipo Elettro.
+play-rough:Carineria
+play-roughDescription:Chi la usa attacca il bersaglio con delle carinerie. Può anche ridurne l’Attacco.
+fairy-wind:Vento di Fata
+fairy-windDescription:Chi la usa solleva un vento fatato che investe il bersaglio.
+moonblast:Forza Lunare
+moonblastDescription:Chi la usa sfrutta il potere della luna per attaccare il bersaglio. Può anche ridurne l’Attacco Speciale.
+boomburst:Ondaboato
+boomburstDescription:Colpisce i Pokémon che ha intorno con la forza di un boato distruttivo.
+fairy-lock:Blocco Fatato
+fairy-lockDescription:Impone un blocco al terreno di lotta che nel turno successivo impedisce a tutti i Pokémon di fuggire.
+kings-shield:Scudo Reale
+kings-shieldDescription:Chi la usa si protegge, assumendo una posizione di difesa e riducendo di molto l’Attacco di nemici o alleati con cui entra in contatto.
+play-nice:Simpatia
+play-niceDescription:Chi la usa diventa amico del bersaglio, rabbonendolo e riducendone così l’Attacco.
+confide:Confidenza
+confideDescription:Chi la usa svela dei segreti al bersaglio, distraendolo e riducendone l’Attacco Speciale.
+diamond-storm:Diamantempesta
+diamond-stormDescription:Colpisce i nemici che ha intorno con una tempesta di diamanti. Può anche aumentare di molto la Difesa di chi la usa.
+steam-eruption:Vaporscoppio
+steam-eruptionDescription:Travolge il bersaglio con un’ondata di vapore rovente che può anche scottarlo.
+hyperspace-hole:Forodimensionale
+hyperspace-holeDescription:Chi la usa sfrutta un passaggio interdimensionale per comparire a fianco del bersaglio e colpirlo, eludendo mosse come Protezione e Individua.
+water-shuriken:Acqualame
+water-shurikenDescription:Chi la usa attacca il bersaglio con degli shuriken di muco da due a cinque volte di fila. Questa mossa ha priorità alta.
+mystical-fire:Magifiamma
+mystical-fireDescription:Colpisce il bersaglio soffiandogli contro delle fiammate incredibilmente roventi, riducendone l’Attacco Speciale.
+spiky-shield:Agodifesa
+spiky-shieldDescription:Protegge dagli attacchi, riducendo inoltre i PS dei Pokémon che entrano in contatto con chi la usa.
+aromatic-mist:Nebularoma
+aromatic-mistDescription:Aumenta la Difesa Speciale di un alleato tramite un misterioso aroma.
+eerie-impulse:Elettromistero
+eerie-impulseDescription:Il corpo di chi la usa emette onde anomale che investono il bersaglio, riducendone di molto l’Attacco Speciale.
+venom-drench:Velenotrappola
+venom-drenchDescription:Emette un liquido particolare che riduce l’Attacco, l’Attacco Speciale e la Velocità dei nemici avvelenati intorno a chi la usa.
+powder:Pulviscoppio
+powderDescription:Il bersaglio viene coperto da un pulviscolo che esplode danneggiandolo se questi utilizza una mossa di tipo Fuoco nello stesso turno.
+geomancy:Geocontrollo
+geomancyDescription:Chi la usa assorbe energia nel primo turno per aumentare poi notevolmente l’Attacco Speciale, la Difesa Speciale e la Velocità in quello seguente.
+magnetic-flux:Controllo Polare
+magnetic-fluxDescription:Tramite il controllo dei campi magnetici, aumenta la Difesa e la Difesa Speciale dei Pokémon alleati dotati delle abilità Più o Meno.
+happy-hour:Cuccagna
+happy-hourDescription:Questa mossa raddoppia la ricompensa ricevuta dopo aver vinto una lotta.
+electric-terrain:Campo Elettrico
+electric-terrainDescription:Per cinque turni il terreno entra nello stato di Campo Elettrico: i Pokémon a terra non si addormentano e la potenza delle mosse di tipo Elettro aumenta.
+dazzling-gleam:Magibrillio
+dazzling-gleamDescription:Chi la usa emette una luce potentissima che infligge danni ai nemici intorno.
+hold-hands:Mano nella Mano
+hold-handsDescription:Il Pokémon che la usa e un alleato si prendono per mano e fanno salti di gioia.
+baby-doll-eyes:Occhioni Teneri
+baby-doll-eyesDescription:Chi la usa rivolge i propri occhioni languidi al bersaglio, riducendone l’Attacco. Questa mossa ha priorità alta.
+nuzzle:Elettrococcola
+nuzzleDescription:Chi la usa strofina le guance elettrizzate contro il bersaglio, paralizzandolo.
+hold-back:Riguardo
+hold-backDescription:Chi la usa attacca il bersaglio, modulando il colpo in modo da lasciargli almeno un PS.
+celebrate:Auguri
+celebrateDescription:Il Pokémon ti fa gli auguri nel tuo giorno speciale.
+infestation:Assillo
+infestationDescription:Chi la usa lancia un attacco che tormenta il bersaglio per quattro o cinque turni, durante i quali gli impedisce di fuggire.
+power-up-punch:Crescipugno
+power-up-punchDescription:Rende i pugni più duri a ogni colpo inferto. Se i pugni vanno a segno, l’Attacco di chi la usa aumenta.
+oblivion-wing:Ali del Fato
+oblivion-wingDescription:Chi la usa assorbe energia dal bersaglio recuperando una quantità di PS pari a più della metà del danno inferto.
+thousand-arrows:Mille Frecce
+thousand-arrowsDescription:Colpisce i nemici intorno scaraventando a terra quelli che si trovano in aria.
+thousand-waves:Mille Onde
+thousand-wavesDescription:Un’onda strisciante investe i nemici intorno impedendo loro di fuggire.
+lands-wrath:Forza Tellurica
+lands-wrathDescription:Chi la usa raccoglie energia tellurica e ne concentra il potere sui nemici che ha intorno, danneggiandoli.
+light-of-ruin:Luce Nefasta
+light-of-ruinDescription:Concentra il potere del Fiore Eterno in un raggio di luce potentissimo con cui attacca il bersaglio. Causa danni ingenti anche a chi la usa.
+origin-pulse:Primopulsar
+origin-pulseDescription:Attacca i nemici intorno colpendoli con miriadi di raggi di luce blu.
+precipice-blades:Spade Telluriche
+precipice-bladesDescription:Attacca i nemici intorno trasformando la potenza della terra in lame affilate.
+dragon-ascent:Ascesa del Drago
+dragon-ascentDescription:Permette di proiettarsi in aria e fiondarsi sul bersaglio attaccando ad altissima velocità. Riduce la Difesa e la Difesa Speciale di chi la usa.
+hyperspace-fury:Urtodimensionale
+hyperspace-furyDescription:Permette di attaccare ripetutamente grazie ai molti arti, ignorando mosse come Protezione o Individua. Riduce la Difesa di chi la usa.
+breakneck-blitz--physical:Carica Travolgente
+breakneck-blitz--physicalDescription:Grazie al Potere Z, chi la usa accumula energia e si lancia a tutta forza contro il bersaglio. La potenza varia a seconda della mossa su cui si basa.
+breakneck-blitz--special:Carica Travolgente
+breakneck-blitz--specialDescription:Dummy Data
+all-out-pummeling--physical:Iperscarica Furiosa
+all-out-pummeling--physicalDescription:Chi la usa scaglia sul bersaglio una scarica di colpi carichi di Potere Z. La potenza varia a seconda della mossa su cui si basa.
+all-out-pummeling--special:Iperscarica Furiosa
+all-out-pummeling--specialDescription:Dummy Data
+supersonic-skystrike--physical:Picchiata Devastante
+supersonic-skystrike--physicalDescription:Chi la usa si serve del Potere Z per alzarsi in volo e attaccare il bersaglio piombandogli addosso. La potenza varia a seconda della mossa su cui si basa.
+supersonic-skystrike--special:Picchiata Devastante
+supersonic-skystrike--specialDescription:Dummy Data
+acid-downpour--physical:Acidiluvio Corrosivo
+acid-downpour--physicalDescription:Chi la usa sfrutta il Potere Z per creare una palude velenosa che sommerge il bersaglio. La potenza varia a seconda della mossa su cui si basa.
+acid-downpour--special:Acidiluvio Corrosivo
+acid-downpour--specialDescription:Dummy Data
+tectonic-rage--physical:Furore della Terra
+tectonic-rage--physicalDescription:Grazie al Potere Z, chi la usa si tuffa nelle viscere della terra e colpisce con violenza il bersaglio. La potenza varia a seconda della mossa su cui si basa.
+tectonic-rage--special:Furore della Terra
+tectonic-rage--specialDescription:Dummy Data
+continental-crush--physical:Gigamacigno Polverizzante
+continental-crush--physicalDescription:Grazie al Potere Z, chi la usa crea un masso enorme e lo lancia sul bersaglio schiacciandolo. La potenza varia a seconda della mossa su cui si basa.
+continental-crush--special:Gigamacigno Polverizzante
+continental-crush--specialDescription:Dummy Data
+savage-spin-out--physical:Bozzolo Fatale
+savage-spin-out--physicalDescription:Chi la usa sfrutta il Potere Z per creare dei filamenti che intrappolano il bersaglio. La potenza varia a seconda della mossa su cui si basa.
+savage-spin-out--special:Bozzolo Fatale
+savage-spin-out--specialDescription:Dummy Data
+never-ending-nightmare--physical:Abbraccio Spettrale
+never-ending-nightmare--physicalDescription:Grazie al Potere Z, chi la usa intrappola il bersaglio in una morsa generata dal proprio rancore. La potenza varia a seconda della mossa su cui si basa.
+never-ending-nightmare--special:Abbraccio Spettrale
+never-ending-nightmare--specialDescription:Dummy Data
+corkscrew-crash--physical:Spirale Perforante
+corkscrew-crash--physicalDescription:Grazie al Potere Z, chi la usa vortica su se stesso e si scaglia sul bersaglio con tutte le sue forze. La potenza varia a seconda della mossa su cui si basa.
+corkscrew-crash--special:Spirale Perforante
+corkscrew-crash--specialDescription:Dummy Data
+inferno-overdrive--physical:Fiammobomba Detonante
+inferno-overdrive--physicalDescription:Chi la usa sfrutta il Potere Z per emettere fiamme incandescenti che inceneriscono il bersaglio. La potenza varia a seconda della mossa su cui si basa.
+inferno-overdrive--special:Fiammobomba Detonante
+inferno-overdrive--specialDescription:Dummy Data
+hydro-vortex--physical:Idrovortice Abissale
+hydro-vortex--physicalDescription:Grazie al Potere Z, chi la usa crea un enorme vortice che inghiotte il bersaglio. La potenza varia a seconda della mossa su cui si basa.
+hydro-vortex--special:Idrovortice Abissale
+hydro-vortex--specialDescription:Dummy Data
+bloom-doom--physical:Floriscoppio Sfolgorante
+bloom-doom--physicalDescription:Grazie al Potere Z, chi la usa concentra l’energia delle piante per scatenare un potente attacco. La potenza varia a seconda della mossa su cui si basa.
+bloom-doom--special:Floriscoppio Sfolgorante
+bloom-doom--specialDescription:Dummy Data
+gigavolt-havoc--physical:Gigascarica Folgorante
+gigavolt-havoc--physicalDescription:Grazie al Potere Z, chi la usa genera una fortissima scarica elettrica che colpisce il bersaglio. La potenza varia a seconda della mossa su cui si basa.
+gigavolt-havoc--special:Gigascarica Folgorante
+gigavolt-havoc--specialDescription:Dummy Data
+shattered-psyche--physical:Impatto Psicocinetico
+shattered-psyche--physicalDescription:Chi la usa si serve del Potere Z per manipolare la mente del bersaglio causando ingenti danni. La potenza varia a seconda della mossa su cui si basa.
+shattered-psyche--special:Impatto Psicocinetico
+shattered-psyche--specialDescription:Dummy Data
+subzero-slammer--physical:Criodistruzione Polare
+subzero-slammer--physicalDescription:Chi la usa sfrutta il Potere Z per far calare di colpo la temperatura e congelare il bersaglio. La potenza varia a seconda della mossa su cui si basa.
+subzero-slammer--special:Criodistruzione Polare
+subzero-slammer--specialDescription:Dummy Data
+devastating-drake--physical:Dragoschianto Finale
+devastating-drake--physicalDescription:Grazie al Potere Z, chi la usa materializza la propria aura per colpire con forza il nemico. La potenza varia a seconda della mossa su cui si basa.
+devastating-drake--special:Dragoschianto Finale
+devastating-drake--specialDescription:Dummy Data
+black-hole-eclipse--physical:Buco Nero del Non Ritorno
+black-hole-eclipse--physicalDescription:Chi la usa si serve del Potere Z per concentrare energia negativa con cui inghiotte il bersaglio. La potenza varia a seconda della mossa su cui si basa.
+black-hole-eclipse--special:Buco Nero del Non Ritorno
+black-hole-eclipse--specialDescription:Dummy Data
+twinkle-tackle--physical:Astroimpatto Fatato
+twinkle-tackle--physicalDescription:Grazie al Potere Z, chi la usa crea una dimensione fatata in cui fa ciò che vuole del proprio bersaglio. La potenza varia a seconda della mossa su cui si basa.
+twinkle-tackle--special:Astroimpatto Fatato
+twinkle-tackle--specialDescription:Dummy Data
+catastropika:Super Pikaboom
+catastropikaDescription:Grazie al Potere Z, Pikachu accumula un’enorme quantità di energia elettrica e si lancia contro il bersaglio a tutta forza.
+shore-up:Sabbiaccumulo
+shore-upDescription:Chi la usa recupera metà dei propri PS massimi. Durante le tempeste di sabbia ne recupera di più.
+first-impression:Schermaglia
+first-impressionDescription:È una mossa molto potente, ma funziona solo appena scesi in campo.
+baneful-bunker:Fortino
+baneful-bunkerDescription:Protegge dagli attacchi e avvelena i Pokémon che lanciano un attacco diretto su chi la usa.
+spirit-shackle:Cucitura d’Ombra
+spirit-shackleDescription:Chi la usa attacca il bersaglio e fissa la sua ombra a terra impedendogli di fuggire.
+darkest-lariat:Braccioteso
+darkest-lariatDescription:Chi la usa attacca il bersaglio mulinando gli arti. Il danno inflitto ignora le modifiche alle statistiche del bersaglio.
+sparkling-aria:Canto Effimero
+sparkling-ariaDescription:Chi la usa si mette a cantare emettendo tanti palloncini d’acqua. I Pokémon che subiscono danni da questa mossa guariscono dalle scottature.
+ice-hammer:Martelgelo
+ice-hammerDescription:Infligge danni al bersaglio colpendolo con un pugno molto potente. Riduce la Velocità di chi la usa.
+floral-healing:Cura Floreale
+floral-healingDescription:Fa recuperare metà dei PS massimi al bersaglio. È più efficace quando il terreno di lotta è nello stato di Campo Erboso.
+high-horsepower:Forza Equina
+high-horsepowerDescription:Chi la usa travolge il bersaglio con un attacco possente.
+strength-sap:Assorbiforza
+strength-sapDescription:Fa recuperare una quantità di PS pari all’Attacco del bersaglio, che vedrà diminuire questa statistica.
+solar-blade:Lama Solare
+solar-bladeDescription:Chi la usa assorbe la luce condensandola in una lama al primo turno per poi attaccare al turno successivo.
+leafage:Fogliame
+leafageDescription:Attacca il bersaglio con delle foglie.
+spotlight:Riflettore
+spotlightDescription:Chi la usa accende un riflettore sopra il bersaglio deviando su di lui per quel turno tutti gli attacchi dei suoi nemici.
+toxic-thread:Velenotela
+toxic-threadDescription:Avvelena il bersaglio avvolgendolo con filamenti tossici e ne riduce la Velocità.
+laser-focus:Concentrazione
+laser-focusDescription:Chi la usa si concentra e nel turno successivo metterà sicuramente a segno un brutto colpo.
+gear-up:Marciainpiù
+gear-upDescription:Dà una marcia in più agli alleati con le abilità Meno o Più aumentandone l’Attacco e l’Attacco Speciale.
+throat-chop:Colpo Infernale
+throat-chopDescription:Chi viene colpito da questa mossa prova un dolore lancinante e non può più usare mosse basate sul suono per due turni.
+pollen-puff:Sferapolline
+pollen-puffDescription:Chi la usa attacca il nemico con una sfera esplosiva. Se colpisce degli alleati, fa recuperare loro dei PS.
+anchor-shot:Colpo d’Ancora
+anchor-shotDescription:Chi la usa attacca il nemico con un’ancora e lo intrappola nella catena impedendogli di fuggire.
+psychic-terrain:Campo Psichico
+psychic-terrainDescription:Per cinque turni il terreno entra nello stato di Campo Psichico: i Pokémon a terra non subiscono mosse ad alta priorità e le mosse di tipo Psico sono potenziate.
+lunge:Assalto
+lungeDescription:Chi la usa si lancia con tutte le sue forze sul bersaglio e ne riduce l’Attacco.
+fire-lash:Frusta di Fuoco
+fire-lashDescription:Colpisce il bersaglio con una frusta infuocata e ne riduce la Difesa.
+power-trip:Tracotanza
+power-tripDescription:Chi la usa attacca il bersaglio sfoggiando la propria forza. Più le sue statistiche sono state aumentate, più la mossa è potente.
+burn-up:Ultima Fiamma
+burn-upDescription:Chi la usa attacca sfruttando tutta la sua potenza incendiaria per infliggere gravi danni al bersaglio, ma come conseguenza perde il tipo Fuoco.
+speed-swap:Velociscambio
+speed-swapDescription:Chi la usa scambia la propria Velocità con quella del bersaglio.
+smart-strike:Sottilcorno
+smart-strikeDescription:Chi la usa colpisce il bersaglio con un corno appuntito. Questa mossa va sempre a segno.
+purify:Purificazione
+purifyDescription:Chi la usa cura i problemi di stato del bersaglio e in cambio recupera PS.
+revelation-dance:Mutadanza
+revelation-danceDescription:Chi la usa si lancia in una danza e attacca il nemico con tutte le sue forze. Il tipo della mossa corrisponde al tipo del Pokémon che la usa.
+trop-kick:Tropicalcio
+trop-kickDescription:Chi la usa colpisce il bersaglio con un potente calcio sfruttando una tecnica originaria dei paesi tropicali e ne riduce l’Attacco.
+instruct:Imposizione
+instructDescription:Costringe il bersaglio a ripetere immediatamente l’ultima mossa che ha sferrato.
+beak-blast:Cannonbecco
+beak-blastDescription:Chi la usa arroventa il proprio becco e poi attacca. Se un Pokémon lo colpisce con un attacco diretto mentre sta accumulando calore, resta scottato.
+clanging-scales:Clamorsquame
+clanging-scalesDescription:Chi la usa attacca il bersaglio con un suono fortissimo che genera sfregando le scaglie del corpo. Dopo aver attaccato, la sua Difesa diminuisce.
+core-enforcer:Nucleocastigo
+core-enforcerDescription:Il bersaglio subisce dei danni e, se ha già agito nel turno, perde la sua abilità.
+dragon-hammer:Marteldrago
+dragon-hammerDescription:Chi la usa infligge danni al bersaglio usando il proprio corpo come se fosse un martello.
+brutal-swing:Vorticolpo
+brutal-swingDescription:Chi la usa infligge danni intorno a sé facendo ruotare una parte del suo corpo.
+aurora-veil:Velaurora
+aurora-veilDescription:Riduce i danni subiti dalle mosse fisiche e dalle mosse speciali per cinque turni. Si può usare solo quando grandina.
+sinister-arrow-raid:Dardoassalto Spettrale
+sinister-arrow-raidDescription:Grazie al Potere Z, Decidueye crea una formazione di frecce che colpisce il bersaglio a gran velocità.
+malicious-moonsault:Iperschianto delle Tenebre
+malicious-moonsaultDescription:Grazie al Potere Z, Incineroar richiama tutta la sua forza e si lancia impetuosamente sul bersaglio.
+oceanic-operetta:Sinfonia del Mare
+oceanic-operettaDescription:Grazie al Potere Z, Primarina concentra un’enorme quantità d’acqua e attacca il bersaglio con una potenza smisurata.
+guardian-of-alola:Collera del Guardiano
+guardian-of-alolaDescription:Grazie al Potere Z, il Nume Locale evoca l’energia di Alola e attacca con grande potenza, facendo perdere al bersaglio la maggior parte dei suoi PS.
+soul-stealing-7-star-strike:Colpo Eptastellare Rubanima
+soul-stealing-7-star-strikeDescription:Grazie al Potere Z, Marshadow fa appello a tutte le sue forze e colpisce il bersaglio con una scarica di calci e pugni potentissimi.
+stoked-sparksurfer:Elettrosurf Folgorante
+stoked-sparksurferDescription:Grazie al Potere Z, il Raichu di Alola attacca con tutta la sua potenza e paralizza il bersaglio.
+pulverizing-pancake:Adesso Faccio sul Serio
+pulverizing-pancakeDescription:Grazie al Potere Z, Snorlax tira fuori la grinta e, muovendo energicamente il suo enorme corpo, attacca il bersaglio con tutta la sua forza.
+extreme-evoboost:Potenziamento Eevolutivo
+extreme-evoboostDescription:Grazie al Potere Z, Eevee evoca a sé tutta l’energia delle sue possibili evoluzioni e aumenta di molto le sue statistiche.
+genesis-supernova:Supernova delle Origini
+genesis-supernovaDescription:Grazie al Potere Z, Mew attacca il bersaglio con tutta la sua forza e genera un Campo Psichico a terra.
+shell-trap:Gusciotrappola
+shell-trapDescription:Il guscio del Pokémon diventa una trappola. Se un nemico lo colpisce con una mossa fisica, innesca un’esplosione e subisce dei danni.
+fleur-cannon:Cannonfiore
+fleur-cannonDescription:Colpisce il bersaglio con un potente raggio, ma riduce di molto l’Attacco Speciale di chi la usa.
+psychic-fangs:Psicozanna
+psychic-fangsDescription:Morde il bersaglio con delle zanne generate con l’energia psichica e rompe barriere come Riflesso e Schermoluce.
+stomping-tantrum:Battipiedi
+stomping-tantrumDescription:Chi la usa attacca battendo i piedi per la rabbia. Se la mossa usata al turno precedente non è andata a segno, la potenza raddoppia.
+shadow-bone:Ossotetro
+shadow-boneDescription:Chi la usa colpisce il bersaglio con un osso in cui alberga uno spirito. Può anche ridurne la Difesa.
+accelerock:Rocciarapida
+accelerockDescription:Chi la usa attacca il bersaglio colpendolo a tutta velocità. Questa mossa ha priorità alta.
+liquidation:Idrobreccia
+liquidationDescription:Chi la usa colpisce il bersaglio con la forza dell’acqua. Può anche ridurne la Difesa.
+prismatic-laser:Prismalaser
+prismatic-laserDescription:Chi la usa proietta dei potenti raggi di luce grazie alla potenza del suo prisma, ma non può agire nel turno successivo.
+spectral-thief:Ombrafurto
+spectral-thiefDescription:Chi la usa ruba gli aumenti delle statistiche del bersaglio, poi si nasconde nella sua ombra e lo attacca.
+sunsteel-strike:Astrocarica
+sunsteel-strikeDescription:Chi la usa travolge il bersaglio con la potenza di una meteora. Questo attacco ignora l’abilità del bersaglio.
+moongeist-beam:Raggio d’Ombra
+moongeist-beamDescription:Chi la usa proietta sul bersaglio un misterioso raggio di luce. Questo attacco ignora l’abilità del bersaglio.
+tearful-look:Occhionilucidi
+tearful-lookDescription:Chi la usa guarda il bersaglio con gli occhi pieni di lacrime e gli fa perdere lo spirito combattivo, riducendone l’Attacco e l’Attacco Speciale.
+zing-zap:Elettropizzico
+zing-zapDescription:Chi la usa colpisce il bersaglio investendolo con una potente scarica elettrica che può anche farlo tentennare.
+natures-madness:Ira della Natura
+natures-madnessDescription:Scatena l’ira della natura sul bersaglio e ne dimezza i PS.
+multi-attack:Multiattacco
+multi-attackDescription:Chi la usa si avvolge in un potente campo energetico e colpisce il bersaglio. Il tipo della mossa varia in base alla ROM installata.
+10-000-000-volt-thunderbolt:Iperfulmine
+10-000-000-volt-thunderboltDescription:Grazie al Potere Z, Pikachu con il berretto scatena una potentissima scarica elettrica. Probabile brutto colpo.
+mind-blown:Sbalorditesta
+mind-blownDescription:Chi la usa fa esplodere la propria testa per attaccare tutti i Pokémon che ha intorno, ma subisce danni.
+plasma-fists:Pugni Plasma
+plasma-fistsDescription:Chi la usa attacca con pugni carichi di elettricità. Trasforma le mosse di tipo Normale in mosse di tipo Elettro.
+photon-geyser:Geyser Fotonico
+photon-geyserDescription:Attacca il bersaglio con una colonna di luce. Infligge danni in base all’Attacco o all’Attacco Speciale scegliendo il più alto tra i due.
+light-that-burns-the-sky:Fotodistruzione Apocalittica
+light-that-burns-the-skyDescription:Infligge danni in base all’Attacco o all’Attacco Speciale scegliendo il più alto tra i due. Questo attacco ignora l’abilità del bersaglio.
+searing-sunraze-smash:Supercollisione Solare
+searing-sunraze-smashDescription:Grazie al Potere Z, Solgaleo attacca il bersaglio con tutta la sua forza. Questo attacco ignora l’abilità del bersaglio se questa ha effetto sulle mosse.
+menacing-moonraze-maelstrom:Deflagrazione Lunare
+menacing-moonraze-maelstromDescription:Grazie al Potere Z, Lunala attacca il bersaglio con tutta la sua forza. Questo attacco ignora l’abilità del bersaglio se questa ha effetto sulle mosse.
+lets-snuggle-forever:Dolcesacco di Botte
+lets-snuggle-foreverDescription:Grazie al Potere Z, Mimikyu fa appello a tutte le sue forze e attacca il bersaglio tempestandolo di colpi.
+splintered-stormshards:Litotempesta Radiale
+splintered-stormshardsDescription:Grazie al Potere Z, Lycanroc attacca il bersaglio con tutta la sua forza. Questa mossa annulla anche gli eventuali campi attivi.
+clangorous-soulblaze:Dracofonia Divampante
+clangorous-soulblazeDescription:Grazie al Potere Z, Kommo-o attacca i nemici con tutta la sua forza. Inoltre, aumenta le proprie statistiche.
+apple-acid:Acido Malico
+apple-acidDescription:Acido Malico
+astral-barrage:Schegge Astrali
+astral-barrageDescription:Schegge Astrali
+behemoth-blade:Taglio Maestoso
+behemoth-bladeDescription:Taglio Maestoso
+behemoth-bash:Colpo Maestoso
+behemoth-bashDescription:Colpo Maestoso
+branch-poke:Ramostoccata
+branch-pokeDescription:Branch Poke deals damage and has no secondary effect.
+breaking-swipe:Vastoimpatto
+breaking-swipeDescription:Breaking Swipe deals damage to all opponents. It lowers the Attack of all hit targets by one stage.
+dragon-darts:Dragofrecce
+dragon-dartsDescription:Dragofrecce
+drum-beating:Tamburattacco
+drum-beatingDescription:Tamburattacco
+dual-wingbeat:Doppia Ala
+dual-wingbeatDescription:Dual Wingbeat inflicts damage, hitting twice per use. Each strike has an equal chance to be a critical hit.
+false-surrender:Supplicolpo
+false-surrenderDescription:Supplicolpo
+fiery-wrath:Furia Ardente
+fiery-wrathDescription:Furia Ardente
+freezing-glare:Sguardo Gelido
+freezing-glareDescription:Sguardo Gelido
+grav-apple:Forza G
+grav-appleDescription:Forza G
+overdrive:Overdrive
+overdriveDescription:Overdrive
+pyro-ball:Palla Infuocata
+pyro-ballDescription:Palla Infuocata
+scorching-sands:Arenas Ardientes
+scorching-sandsDescription:Arenas Ardientes
+skitter-smack:Strisciacolpo
+skitter-smackDescription:Strisciacolpo
+snipe-shot:Tiromirato
+snipe-shotDescription:Causa daño y tiene una alta probabilidad de asestar un golpe crítico.
+spirit-break:Frantumanima
+spirit-breakDescription:Frantumanima
+strange-steam:Vapore Incantato
+strange-steamDescription:Vapore Incantato infligge danno e ha il 20% di probabilità di confondere il bersaglio.
+thunderous-kick:Calcio Tonante
+thunderous-kickDescription:Calcio Tonante
+body-press:Schiacciacorpo
+body-pressDescription:Body Press inflicts damage, but it uses the user's Defense stat instead of its Attack stat to calculate damage.
+triple-axel:Triplo Axel
+triple-axelDescription:A consecutive three-kick attack that becomes more powerful with each successful hit.
+life-dew:Life Dew
+life-dewDescription:The user scatters mysterious water around and restores the HP of itself and its ally Pokémon in the battle.
+flip-turn:Flip Turn
+flip-turnDescription:Flip Turn deals damage and then switches the user out
+snap-trap:Tagliola
+snap-trapDescription:In addition to dealing damage, Snap Trap inflicts 1/8 of the target's maximum HP as damage per turn for four to five turns upon use. It also traps the target, preventing switching and escape.
+thunder-cage:Elettrogabbia
+thunder-cageDescription:In addition to dealing damage, Thunder Cage inflicts 1/8 of the target's maximum HP as damage per turn for four to five turns upon use. It also traps the target, preventing switching and escape.
+trailblaze:Apripista
+trailblazeDescription:Trailblaze inflicts damage and raises the user's Speed by one stage.
+self-attack:attaccoautonomo
+self-attackDescription:hghfjmhfvb
