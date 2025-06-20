@@ -81,5 +81,6 @@ POKEDAILY_REMINDER:@{0} Lembrarei você em {1} quando seu diário estiver pronto
 POKEDAILY_REMINDER_READY:@{0} Seu Pokédaily está pronto! deemon8Hype
 WONDERTRADE_REMINDER:@{0} Vou te lembrar em {1} quando sua Wondertrade estiver pronta!
 WONDERTRADE_REMINDER_READY:@{0} Sua Wondertrade está pronta! deemon8Hype
-POKEPRESENT_REWARD_RARE_PRESENT:@{0} recebeu PresenteDeFesta {1} PresenteDeFesta como um presente RARO de @{3}!
-POKEPRESENT_REWARD_PRESENT:{0} recebeu PresenteDeFesta {1} PresenteDeFesta como um presente de @{3}!
+POKEPRESENT_REWARD_RARE_PRESENT:@{0} recebeu um Presente de Férias CurseLit {1} Presente de Férias CurseLit como um presente RARO de @{2}!
+POKEPRESENT_REWARD_PRESENT:{0} recebeu um Presente de Férias {1} Presente de Férias como um presente de @{2}!
+GOLDEN_TICKET_MSG:Você resgatou o 🎫 Bilhete Dourado 🎫 e ganhou {0}!
