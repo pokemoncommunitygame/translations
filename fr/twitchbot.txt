@@ -17,7 +17,7 @@ NO_MONEY:@{0} Tu n'as pas assez de Poké-Dollars pour faire ça.
 POKEDAILY:@{0} Visite notre Discord pour réclamer des récompenses passionnantes chaque jour : https://discord.gg/cT3ThCj
 POKECHECK:@{0} {1} enregistré dans le Pokédex : {2}
 POKECHECK_ERROR:@{0} Veuillez entrer un nom de Pokémon valide ou un ID de Pokédex.
-POKEMONINFO:@{0} Pokémon : {1} - Niveau : {11} - Type : {8} - Poids : {12}kg - Base : {10} - Vitesse : {2} - PV : {7} - Attaque : {3} - Défense : {4} - Atq. Spé. : {5} - Déf. Spé. : {6} - Efficacité de type : {9}
+POKEMONINFO:Pokémon {0}: {1} - Niveau : {11} - Type : {8} - Génération : {13} - Poids : {12}kg - Base : {10} - Vitesse : {2} - PV : {7} - Attaque : {3} - Défense : {4} - Attaque Spé. : {5} - Défense Spé. : {6} - Efficacité du type : {9}
 POKEMONINFO_ERROR:@{0} Veuillez entrer un nom de Pokémon ou un ID Pokédex valide.
 MOVE_INFO:@{0} Capacité : {1} - Type : {7} - {6} - Puissance : {3} - PP : {4} - Précision : {5} {8} - Description : {2}
 MOVE_ERROR:@{0} Veuillez entrer une capacité valide.
