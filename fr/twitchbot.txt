@@ -1,0 +1,83 @@
+CANT_REACH_BACKEND:Nous n'avons pas pu nous connecter au serveur PokéTwitch. Veuillez contacter le support : https://discord.gg/cT3ThCj
+CMD_UNKNOWN:@{0} Cette commande n'existe pas ! Tapez !pokehelp pour voir la liste complète.
+CMD_UNKNOWN_ERROR:@{0} Un problème est survenu lors de l'exécution de votre commande. Réessayez dans quelques secondes !
+CMD_SERVER_OVERLOAD:@{0} Le serveur reçoit trop de demandes ! Veuillez réessayer sous peu.
+TWITCH_ID_MISSING:Twitch nous a envoyé des données incomplètes ! Veuillez réessayer plus tard.
+NO_TRAINER_PASS:@{0} Tu n'as pas encore de passe dresseur 🤨 Utilise !pokestart pour commencer ton voyage ! 😏
+ALREADY_OWN_TRAINER_PASS:@{0} Tu as déjà un passe dresseur.
+PASS_CREATED:@{0} Yaaaayy ! Ton aventure commence ! Ton starter est {1} (Nv {2})
+USER_BALANCE:Solde de @{0} : ${1} 🏹 Note de combat : [{4}] Rang : {5} / {6} → ({2}V - {3}D) | Saison {7} : {8} Victoires
+TRAINER_BUDDY:Copain de @{0} : {1} (Niv {2}) 👀 IV moyen : {3}
+TRAINER_NO_BUDDY:@{0} Tu n'as pas encore choisi de copain. Clique sur l'icône cœur dans l'extension pour en choisir un !
+TRAINER_DEX_UNKNOWN:@{0} Ce dex n'existe pas. Choisis une génération ou un type.
+TRAINER_DEX_DATA:@{0} {1} : {2}/{3} ({4}%) {5}
+ITEM_LIST:Tes objets @{0} : {1}
+HELP:@{0} Tous les commandes : https://docs.google.com/document/d/1OJP3uiBLQafNOKGibGNiepldoMmxe9F9Wj6EZFaxgGA/edit?usp=sharing
+NO_MONEY:@{0} Tu n'as pas assez de Poké-Dollars pour faire ça.
+POKEDAILY:@{0} Visite notre Discord pour réclamer des récompenses passionnantes chaque jour : https://discord.gg/cT3ThCj
+POKECHECK:@{0} {1} enregistré dans le Pokédex : {2}
+POKECHECK_ERROR:@{0} Veuillez entrer un nom de Pokémon valide ou un ID de Pokédex.
+POKEMONINFO:@{0} Pokémon : {1} - Niveau : {11} - Type : {8} - Poids : {12}kg - Base : {10} - Vitesse : {2} - PV : {7} - Attaque : {3} - Défense : {4} - Atq. Spé. : {5} - Déf. Spé. : {6} - Efficacité de type : {9}
+POKEMONINFO_ERROR:@{0} Veuillez entrer un nom de Pokémon ou un ID Pokédex valide.
+MOVE_INFO:@{0} Capacité : {1} - Type : {7} - {6} - Puissance : {3} - PP : {4} - Précision : {5} {8} - Description : {2}
+MOVE_ERROR:@{0} Veuillez entrer une capacité valide.
+POKECATCH_ESCAPED:@{0} Oups ! Le Pokémon s'est déjà échappé !
+POKECATCH_NOT_LIVE:@{0} Tu peux attraper des Pokémon seulement dans des chaînes en direct ! Cela peut prendre jusqu’à 15 minutes pour te détecter en direct.
+POKECATCH_INVALID_BALL:@{0} Cette balle n'existe pas :( Utilise poke ball, super ball, hyper ball, ou master ball.
+POKECATCH_NO_BALL:@{0} Tu ne possèdes pas cette balle. Vérifie l'extension pour voir tes objets.
+POKECATCH_SPAWN:TwitchLit Un {0} sauvage apparaît TwitchLit Attrape-le avec !pokecatch (les gagnants révélés dans 90s)
+POKECATCH_SPAWN_SAFARI:jonasw5Bone Un {0} sauvage apparaît jonasw5Bone Attrape-le avec !pokecatch (les gagnants révélés dans 90s)
+POKECATCH_SPAWN_LEGENDARY:CurseLit Un {0} émerge de l'ultra-brèche CurseLit Attrape-le avec !pokecatch (les gagnants révélés dans {1}s)
+POKECATCH_SPAWN_LEGENDARY_REPEAT:CurseLit Sois rapide ! {0} disparaît dans {1}s CurseLit Attrape-le avec !pokecatch
+POKECATCH_WINNERS:{0} a été attrapé par : {1}
+POKECATCH_NO_WINNER:{0} s'est échappé. Personne ne l'a attrapé. jonasw5Rigged
+POKECATCH_ERROR_ROAMING_LEGENDARIES:Les légendaires de passage peuvent être attrapés uniquement dans les streams sans mode abonnés/followers seulement !
+POKECATCH_ERROR_EVENTS_DISABLED:Les apparitions et les récompenses ont été désactivées par le streamer.
+STREAMER_NOT_LIVE:@{0} Cette commande fonctionne seulement dans des chaînes en direct ! Veuillez attendre jusqu'à 15 minutes pour la détection en direct.
+SHOP_NO_ITEM:@{0} Veuillez spécifier l’objet : !pokeshop <nom de l’objet> <quantité>
+SHOP_NEGATIVE_QUANTITY:@{0} Tu dois acheter au moins un objet.
+SHOP_QUANTITY_LIMIT:@{0} Tu ne peux pas acheter plus de 100 objets d'un coup.
+SHOP_NOT_FOR_SALE:@{0} Cet objet n'est pas disponible à la vente.
+SHOP_NO_MONEY:@{0} Vous n'avez pas assez de Poké-Dollars. Requis : ${1}
+SHOP_SUCCESS:@{0} Achat réussi !
+RAIDS_NO_RAID:@{0} Il n'y a pas de raid actif en ce moment.
+RAIDS_NEXT_GOAL:Prochain objectif
+RAIDS_REACHED_FINAL_GOAL:Objectif final atteint ✅
+RAIDS_REACHED_GOAL:Objectif atteint ✅ Améliorations disponibles :
+RAIDS_CAUGHT:attrapé
+RAIDS_MINIMUM_1000:@{0} Vous devez donner au moins $1000 pour rejoindre le raid.
+BET_SUCCESSFUL:@{0} Vous avez prédit une victoire pour {1} !
+BET_STATS:@{0} Cotes pour {1} : {2} - {3}
+BET_INFO:@{0} Placez une prédiction entre $100 et $5000 avec : !pokepredict <vainqueur> <montant>
+BET_NO_MONEY:@{0} Vous n'avez pas assez de Poké-Dollars !
+BET_NO_MATCH:@{0} Match non trouvé. Voir tous les matchs ici : https://discord.com/channels/711921837503938640/906666480400232449/914567030391316521
+BET_ALREADY_JOINED:@{0} Vous avez déjà placé une prédiction sur ce match.
+BET_PLACEMENT_ENDED:@{0} Les prédictions sont actuellement closes.
+YOU_NEED_GOLDEN_TICKET:@{0} Vous avez besoin d'un ticket doré !
+YOUR_LOYALTY_LVL:@{0} 👑 Niveau de Loyauté : {1} | Points : {2} 👑
+TOURNEY_ERROR_1:@{0} Il n'y a pas de tournoi actif !
+TOURNEY_ERROR_2:@{0} Le tournoi a déjà commencé !
+TOURNEY_ERROR_3:@{0} Vous avez déjà rejoint le tournoi !
+TOURNEY_ERROR_4:@{0} Le tournoi est complet !
+TOURNEY_ERROR_5:@{0} Tu es temporairement banni des tournois.
+TOURNEY_LEAVE:@{0} ⚔ a quitté le tournoi.
+TOURNEY_LEAVE_ERROR_1:@{0} Ce tournoi n'existe pas!
+TOURNEY_LEAVE_ERROR_2:@{0} Le tournoi a déjà commencé!
+TOURNEY_LEAVE_ERROR_3:@{0} Tu n'es pas inscrit à ce tournoi.
+POKEUPDATE:@{0} J'ai obtenu ton nom Twitch ! ✔
+POKERAFFLE_WINNER:@{0} Le gagnant est @{1} ! Félicitations !
+POKERAFFLE_NO_TOURNEY:@{0} Aucun tournoi en cours. Impossible de lancer un tirage au sort !
+POKEPRESENT_ERROR_1:@{0} Au moins 5 joueurs actifs sont nécessaires, qui n'ont pas reçu de cadeau ces 20 dernières minutes !
+POKEPRESENT_ERROR_2:@{0} Tu n'as pas de cadeau !
+SNOWBALL_INVALID_CMD:@{0} Utilisation correcte : !pokesnowball <nom-du-joueur>
+SNOWBALL_TARGET_TO_FAR:@{0} Ce joueur est trop loin ! L'as-tu vu récemment ?
+SNOWBALL_THROW:@{0} lance une jonasw5Boule de neige à {1} !
+SNOWBALL_MISSED_THROW:@{0} a raté son lancer ! (Vérifie l'orthographe ?)
+SNOWBALL_MISSING:@{0} n'a pas pu construire une boule de neige ! (Regarde dans ton inventaire !)
+SNOWBALL_COOLDOWN:@{0} {1} se remet encore du dernier coup !
+ERROR_BOT_NOT_MOD_LINK:@{0} Le bot doit être modérateur pour envoyer des liens. Tape : /mod PokemonCommunityGame
+ERROR_BOT_NOT_MOD_MULTIPLE_MESSAGES:@{0} Le bot a besoin des permissions de modérateur pour envoyer plusieurs messages. Tape : /mod PokemonCommunityGame
+POKEDAILY_REMINDER:@{0} Je te rappelerai dans {1} quand ton quotidien sera prêt !
+POKEDAILY_REMINDER_READY:@{0} Ton Pokédaily est prêt ! deemon8Hype
+WONDERTRADE_REMINDER:@{0} Je te rappellerai dans {1} quand ta Wondertrade sera prête !
+WONDERTRADE_REMINDER_READY:@{0} Ta Wondertrade est prête ! deemon8Hype

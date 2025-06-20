@@ -1,0 +1,83 @@
+CANT_REACH_BACKEND:We couldn't connect to the PokéTwitch server. Please reach out to support: https://discord.gg/cT3ThCj
+CMD_UNKNOWN:@{0} That command doesn't exist! Type !pokehelp to see the full list.
+CMD_UNKNOWN_ERROR:@{0} Something went wrong while running your command. Try again in a few seconds!
+CMD_SERVER_OVERLOAD:@{0} The server is getting too many requests! Please try again shortly.
+TWITCH_ID_MISSING:Twitch sent us incomplete data! Please try again later.
+NO_TRAINER_PASS:@{0} You don’t have a trainer pass yet 🤨 Use !pokestart to begin your journey! 😏
+ALREADY_OWN_TRAINER_PASS:@{0} You already have a trainer pass.
+PASS_CREATED:@{0} Yaaaayy! Your journey begins! Your starter is {1} (Lv {2})
+USER_BALANCE:@{0}’s Balance: ${1} 🏹 Battle Rating: [{4}] Rank: {5} / {6} → ({2}W - {3}L) | Season {7}: {8} Wins
+TRAINER_BUDDY:@{0}’s Buddy: {1} (Lvl {2}) 👀 Avg IV: {3}
+TRAINER_NO_BUDDY:@{0} You haven't selected a buddy yet. Click the heart icon in the extension to choose one!
+TRAINER_DEX_UNKNOWN:@{0} That dex doesn’t exist. Please choose a generation or type.
+TRAINER_DEX_DATA:@{0} {1}: {2}/{3} ({4}%) {5}
+ITEM_LIST:@{0} Your items: {1}
+HELP:@{0} All commands: https://docs.google.com/document/d/1OJP3uiBLQafNOKGibGNiepldoMmxe9F9Wj6EZFaxgGA/edit?usp=sharing
+NO_MONEY:@{0} You don’t have enough Poké-Dollars to do that.
+POKEDAILY:@{0} Visit our Discord to claim exciting rewards every day: https://discord.gg/cT3ThCj
+POKECHECK:@{0} {1} registered in Pokédex: {2}
+POKECHECK_ERROR:@{0} Please enter a valid Pokémon name or Pokédex ID.
+POKEMONINFO:@{0} Pokémon: {1} - Tier: {11} - Type: {8} - Weight: {12}kg - Base: {10} - Speed: {2} - HP: {7} - Attack: {3} - Defense: {4} - Sp. Atk: {5} - Sp. Def: {6} - Type effectiveness: {9}
+POKEMONINFO_ERROR:@{0} Please enter a valid Pokémon name or Pokédex ID.
+MOVE_INFO:@{0} Move: {1} - Type: {7} - {6} - Power: {3} - PP: {4} - Accuracy: {5} {8} - Description: {2}
+MOVE_ERROR:@{0} Please enter a valid move.
+POKECATCH_ESCAPED:@{0} Oops! The Pokémon already escaped!
+POKECATCH_NOT_LIVE:@{0} You can only catch Pokémon in live channels! It may take up to 15 minutes to detect you as live.
+POKECATCH_INVALID_BALL:@{0} That ball doesn’t exist :( Use poke ball, great ball, ultra ball, or master ball.
+POKECATCH_NO_BALL:@{0} You don’t own that ball. Check the extension to see your items.
+POKECATCH_SPAWN:TwitchLit A wild {0} appears TwitchLit Catch it using !pokecatch (winners revealed in 90s)
+POKECATCH_SPAWN_SAFARI:jonasw5Bone A wild {0} appears jonasw5Bone Catch it using !pokecatch (winners revealed in 90s)
+POKECATCH_SPAWN_LEGENDARY:CurseLit A {0} appears from the ultra wormhole CurseLit Catch it using !pokecatch (winners revealed in {1}s)
+POKECATCH_SPAWN_LEGENDARY_REPEAT:CurseLit Be fast! {0} disappears in {1}s CurseLit Catch it using !pokecatch
+POKECATCH_WINNERS:{0} was caught by: {1}
+POKECATCH_NO_WINNER:{0} escaped. Nobody caught it. jonasw5Rigged
+POKECATCH_ERROR_ROAMING_LEGENDARIES:Roaming legendaries can only be caught in streams without follower/sub-only mode!
+POKECATCH_ERROR_EVENTS_DISABLED:Spawns and payouts have been disabled by the streamer.
+STREAMER_NOT_LIVE:@{0} This command only works in live channels! Please allow up to 15 minutes for live detection.
+SHOP_NO_ITEM:@{0} Please specify the item: !pokeshop <item name> <quantity>
+SHOP_NEGATIVE_QUANTITY:@{0} You must buy at least one item.
+SHOP_QUANTITY_LIMIT:@{0} You can't buy more than 100 items at once.
+SHOP_NOT_FOR_SALE:@{0} That item isn’t available for purchase.
+SHOP_NO_MONEY:@{0} You don’t have enough Poké-Dollars. Required: ${1}
+SHOP_SUCCESS:@{0} Purchase successful!
+RAIDS_NO_RAID:@{0} There’s no active raid right now.
+RAIDS_NEXT_GOAL:Next Goal
+RAIDS_REACHED_FINAL_GOAL:Final goal reached ✅
+RAIDS_REACHED_GOAL:Goal reached ✅ Upgrades available:
+RAIDS_CAUGHT:caught
+RAIDS_MINIMUM_1000:@{0} You need to donate at least $1000 to join the raid.
+BET_SUCCESSFUL:@{0} You predicted a win for {1}!
+BET_STATS:@{0} Odds for {1}: {2} - {3}
+BET_INFO:@{0} Place a prediction between $100 and $5000 with: !pokepredict <winner> <amount>
+BET_NO_MONEY:@{0} You don’t have enough Poké-Dollars!
+BET_NO_MATCH:@{0} Match not found. See all matches here: https://discord.com/channels/711921837503938640/906666480400232449/914567030391316521
+BET_ALREADY_JOINED:@{0} You already placed a prediction on that match.
+BET_PLACEMENT_ENDED:@{0} Predictions are currently closed.
+YOU_NEED_GOLDEN_TICKET:@{0} You need a golden ticket!
+YOUR_LOYALTY_LVL:@{0} 👑 Loyalty Level: {1} | Points: {2} 👑
+TOURNEY_ERROR_1:@{0} There’s no active tournament!
+TOURNEY_ERROR_2:@{0} The tournament has already started!
+TOURNEY_ERROR_3:@{0} You’ve already joined the tournament!
+TOURNEY_ERROR_4:@{0} The tournament is full!
+TOURNEY_ERROR_5:@{0} You are temporarily banned from tournaments.
+TOURNEY_LEAVE:@{0} ⚔ has left the tournament.
+TOURNEY_LEAVE_ERROR_1:@{0} That tournament doesn't exist!
+TOURNEY_LEAVE_ERROR_2:@{0} The tournament already started!
+TOURNEY_LEAVE_ERROR_3:@{0} You are not in this tournament.
+POKEUPDATE:@{0} Got your Twitch name! ✔
+POKERAFFLE_WINNER:@{0} The winner is @{1}! Congrats!
+POKERAFFLE_NO_TOURNEY:@{0} No tournament is active. Can’t start a raffle!
+POKEPRESENT_ERROR_1:@{0} At least 5 active players are needed who haven’t received a gift in the last 20 minutes!
+POKEPRESENT_ERROR_2:@{0} You don’t have a present!
+SNOWBALL_INVALID_CMD:@{0} Correct usage: !pokesnowball <player-name>
+SNOWBALL_TARGET_TO_FAR:@{0} That player is too far away! Did you see them recently?
+SNOWBALL_THROW:@{0} throws a jonasw5Snowball at {1}!
+SNOWBALL_MISSED_THROW:@{0} missed the throw! (Check the spelling?)
+SNOWBALL_MISSING:@{0} couldn’t build a snowball! (Check your inventory!)
+SNOWBALL_COOLDOWN:@{0} {1} is still recovering from the last hit!
+ERROR_BOT_NOT_MOD_LINK:@{0} The bot must be a moderator to send links. Type: /mod PokemonCommunityGame
+ERROR_BOT_NOT_MOD_MULTIPLE_MESSAGES:@{0} The bot needs moderator permissions to send multiple messages. Type: /mod PokemonCommunityGame
+POKEDAILY_REMINDER:@{0} I’ll remind you in {1} when your daily is ready!
+POKEDAILY_REMINDER_READY:@{0} Your Pokédaily is ready! deemon8Hype
+WONDERTRADE_REMINDER:@{0} I’ll remind you in {1} when your Wondertrade is ready!
+WONDERTRADE_REMINDER_READY:@{0} Your Wondertrade is ready! deemon8Hype
