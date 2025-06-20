@@ -1,0 +1,106 @@
+CANT_REACH_BACKEND:A connection to the PokéTwitch-Server couldn't be established. Please contact support! (https://discord.gg/cT3ThCj)
+CMD_UNKNOWN:@{0} This command doesn't exist. Enter !pokehelp for a list of all commands.
+CMD_UNKNOWN_ERROR:@{0} An unknown error occured while executing the command. Please try again in a few seconds.
+CMD_SERVER_OVERLOAD:@{0} Our server receives too many requests! Please try again later!
+
+TWITCH_ID_MISSING:Twitch is sending us incomplete data! Please try again later.
+
+NO_TRAINER_PASS:@{0} You don't have a trainer pass yet 🤨 Enter !pokestart to get your starter Pokémon. 😏
+ALREADY_OWN_TRAINER_PASS:@{0} You already have a pass.
+PASS_CREATED:@{0} Yaaaayy! Your journey begins now! Your starter is {1} (Lv {2})
+
+USER_BALANCE:@{0}'s Balance: ${1} 🏹 Battle rating: [{4}] & Rank: {5} / {6} -> ({2} W - {3} L) | Season {7}: {8} Wins
+TRAINER_BUDDY:@{0}'s Buddy: {1} (lvl {2}) 👀 Average IV: {3}
+TRAINER_NO_BUDDY:@{0} You haven't selected a buddy yet. Select one by clicking the heart icon in the extension!
+TRAINER_DEX_UNKNOWN:@{0} This dex doesn't exist. Please choose a generation or a type.
+TRAINER_DEX_DATA:@{0} {1}: {2}/{3} ({4}%) {5}
+ITEM_LIST:@{0} Your items: {1}
+HELP:@{0} All commands: https://docs.google.com/document/d/1OJP3uiBLQafNOKGibGNiepldoMmxe9F9Wj6EZFaxgGA/edit?usp=sharing
+NO_MONEY:@{0} You don't have enough Poké-Dollars to do this.
+POKEDAILY:@{0} Visit our Discord to claim exciting rewards every day: https://discord.gg/cT3ThCj
+
+POKECHECK:@{0} {1} registered in Pokédex: {2}
+POKECHECK_ERROR:@{0} Please choose a valid Pokémon or Pokédex-ID.
+
+POKEMONINFO:@{0} Pokemon: {1} - Tier: {11} - Type: {8} - Weight: {12} Kg - Base: {10} - Speed: {2} - HP: {7} - Attack: {3} - Defense: {4} - Special-Attack: {5} - Special-Defense: {6} - Type effectiveness: {9}
+POKEMONINFO_ERROR:@{0} Please choose a valid Pokémon or Pokédex-ID.
+MOVE_INFO:@{0} Move: {1} - Type: {7} - {6} - Power: {3} - PP: {4} - Accuracy: {5} {8}- Description: {2}
+MOVE_ERROR:@{0} Please choose a valid move.
+
+# POKECATCH
+POKECATCH_ESCAPED:@{0} Oops, the Pokémon already escaped!
+POKECATCH_NOT_LIVE:@{0} Oops, you can only catch Pokémon in live channels! It may take up to 15 minutes to recognize you as live
+POKECATCH_INVALID_BALL:@{0} This ball type doesn't exist :( (poke ball/great ball/ultra ball/master ball)
+POKECATCH_NO_BALL:@{0} You don't own that ball. Check the extension to see your items
+POKECATCH_SPAWN:TwitchLit A wild {0} appears TwitchLit Catch it using !pokecatch (winners revealed in 90s)
+POKECATCH_SPAWN_SAFARI:jonasw5Bone A wild {0} appears jonasw5Bone Catch it using !pokecatch (winners revealed in 90s)
+POKECATCH_SPAWN_LEGENDARY:CurseLit A {0} appears from the ultra wormhole CurseLit Catch it using !pokecatch (winners revealed in {1}s)
+POKECATCH_SPAWN_LEGENDARY_REPEAT:CurseLit Be fast! {0} disappears in {1}s CurseLit Catch it using !pokecatch
+POKECATCH_WINNERS:{0} has been caught by: {1}
+POKECATCH_NO_WINNER:{0} escaped. No one caught it. jonasw5Rigged
+POKECATCH_ERROR_ROAMING_LEGENDARIES:Roaming legendaries can only be caught in streams without follower or sub only chat!
+POKECATCH_ERROR_EVENTS_DISABLED:Spawns and payouts are disabled by the streamer.
+
+STREAMER_NOT_LIVE:@{0} Oops, you can only do that in live channels! It may take up to 15 minutes to recognize you as live
+
+# SHOP
+SHOP_NO_ITEM:@{0} Please specify the item you want to buy: !pokeshop <item name> <quantity>
+SHOP_NEGATIVE_QUANTITY:@{0} You should buy at least one item.
+SHOP_QUANTITY_LIMIT:@{0} You can't buy more than 100 items at once.
+SHOP_NOT_FOR_SALE:@{0} You can't buy that item.
+SHOP_NO_MONEY:@{0} You don't have enough Poké-Dollars. You need: ${1}
+SHOP_SUCCESS:@{0} Purchase successful!
+
+# RAIDS
+RAIDS_NO_RAID:@{0} There is no active raid right now.
+RAIDS_NEXT_GOAL:Next Goal
+RAIDS_REACHED_FINAL_GOAL:Final goal reached ✅
+RAIDS_REACHED_GOAL:Goal reached ✅ Upgrades available:
+RAIDS_CAUGHT:caught
+RAIDS_MINIMUM_1000:@{0} You need to donate at least $1000 to join the raid.
+
+# BETS
+BET_SUCCESSFUL:@{0} You successfully predicted a win of {1}
+BET_STATS:@{0} Odds for {1} are {2} - {3}
+BET_INFO:@{0} Place a prediction between $100 and $5000 by using: !pokepredict <winner> <amount>
+BET_NO_MONEY:@{0} You don't have enough Poké-Dollars!
+BET_NO_MATCH:@{0} Match could not be found. Find all matches here: https://discord.com/channels/711921837503938640/906666480400232449/914567030391316521
+BET_ALREADY_JOINED:@{0} You already made a prediction for that match.
+BET_PLACEMENT_ENDED:@{0} Predictions are currently not available.
+
+YOU_NEED_GOLDEN_TICKET:@{0} You need a golden ticket!
+YOUR_LOYALTY_LVL:@{0} 👑 Your loyalty level: {1} | Points: {2} 👑
+
+TOURNEY_ERROR_1:@{0} There is no ongoing tourney!
+TOURNEY_ERROR_2:@{0} The tourney has already started!
+TOURNEY_ERROR_3:@{0} You joined the tournament already!
+TOURNEY_ERROR_4:@{0} The tournament is full!
+TOURNEY_ERROR_5:@{0} You are temporarily banned from tournaments!
+
+TOURNEY_LEAVE:@{0} ⚔ left the tournament.
+TOURNEY_LEAVE_ERROR_1:@{0} This tournament does not exist!
+TOURNEY_LEAVE_ERROR_2:@{0} This tournament already started!
+TOURNEY_LEAVE_ERROR_3:@{0} You are not participating in this tournament.
+
+POKEUPDATE:@{0} we successfully received your twitch name! ✔
+
+POKERAFFLE_WINNER:@{0} The winner is @{1} Congratulations!
+POKERAFFLE_NO_TOURNEY:@{0} There is no tournament so you can't start a raffle!
+
+POKEPRESENT_ERROR_1:@{0} There need to be at least 5 active PCG players in the chat that did not receive a present within past 20 minutes!
+POKEPRESENT_ERROR_2:@{0} You don't have a present!
+
+SNOWBALL_INVALID_CMD:@{0} It's !pokesnowball <player-name>
+SNOWBALL_TARGET_TO_FAR:@{0} this player is too far away to throw a ball at them! Did you see them in the last few minutes?
+SNOWBALL_THROW:@{0} throws a jonasw5Snowball at {1}!
+SNOWBALL_MISSED_THROW:@{0}  misses their throw! (Did you spell the name correctly?)
+SNOWBALL_MISSING:@{0}  failed to build their snowball! (Please check your inventory before trying to throw one!)
+SNOWBALL_COOLDOWN:@{0} {1} is still recovering from their last snowball hit!
+
+ERROR_BOT_NOT_MOD_LINK:@{0} The bot needs to be Moderator in your channel to send links. Please type: "/mod PokemonCommunityGame" (It may take a few seconds to update)
+ERROR_BOT_NOT_MOD_MULTIPLE_MESSAGES:@{0} The bot needs to be Moderator in your channel to send multiple messages in a row. Please type: "/mod PokemonCommunityGame" (It may take a few seconds to update)
+
+POKEDAILY_REMINDER:@{0} I will remind you in {1} when your pokedaily is ready!
+POKEDAILY_REMINDER_READY:@{0} Your pokedaily is ready! deemon8Hype
+WONDERTRADE_REMINDER:@{0} I will remind you in {1} when your wondertrade is ready!
+WONDERTRADE_REMINDER_READY:@{0} Your wondertrade is ready! deemon8Hype
