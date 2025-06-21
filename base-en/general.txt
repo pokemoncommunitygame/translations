@@ -182,6 +182,7 @@ pokemonSellConfirmMessage:Your {name} LVL. {lvl} will be gone forever. Continue?
 trade:Trade
 evolution:Evolution
 evolve:Evolve
+trade:Wondertrade
 wondertrade:Wondertrade
 tradeConfirmMessage:Your {name} LVL. {lvl} will be gone forever. Continue?
 sellSuccess:You successfully sold your Pokémon

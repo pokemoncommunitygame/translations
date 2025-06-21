@@ -120,7 +120,7 @@ caughtOn:Capturé le
 originalChannel:Origine
 caughtAtFormat:{month}/{day}/{year}
 sell:Vendre ${amount}
-trade:Échanger
+trade:Échange Miracle
 wondertrade:Échange miracle
 tradeConfirmMessage:Ton {name} NIV. {lvl} sera perdu pour toujours. Continuer ?
 sellLast:Tu ne peux pas vendre ton dernier Pokémon

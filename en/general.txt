@@ -120,7 +120,7 @@ caughtOn:Caught on
 originalChannel:Origin
 caughtAtFormat:{month}/{day}/{year}
 sell:Sell ${amount}
-trade:Trade
+trade:Wondertrade
 wondertrade:Wondertrade
 tradeConfirmMessage:Your {name} LVL. {lvl} will be gone forever. Continue?
 sellLast:You can't sell your last Pokémon

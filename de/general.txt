@@ -120,7 +120,7 @@ caughtOn:Gefangen am
 originalChannel:Herkunft
 caughtAtFormat:{month}/{day}/{year}
 sell:Verkauf ${amount}
-trade:Tauschen
+trade:Wundertausch
 wondertrade:Wundertausch
 tradeConfirmMessage:Dein {name} LVL. {lvl} wird für immer verschwinden. Fortfahren?
 sellLast:Du kannst dein letztes Pokémon nicht verkaufen

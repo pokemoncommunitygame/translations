@@ -120,7 +120,7 @@ caughtOn:Atrapado el
 originalChannel:Origen
 caughtAtFormat:{month}/{day}/{year}
 sell:Vender ${amount}
-trade:Intercambiar
+trade:Intercambio Prodigioso
 wondertrade:Intercambio prodigioso
 tradeConfirmMessage:Tu {name} NIVEL {lvl} se perderá para siempre. ¿Continuar?
 sellLast:No puedes vender tu último Pokémon

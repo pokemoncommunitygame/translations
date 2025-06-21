@@ -120,7 +120,7 @@ caughtOn:Пойман
 originalChannel:Происхождение
 caughtAtFormat:{month}/{day}/{year}
 sell:Продать ${amount}
-trade:Обмен
+trade:Чудообмен
 wondertrade:Чудо-обмен
 tradeConfirmMessage:Ваш {name} УРОВ. {lvl} будет потерян навсегда. Продолжить?
 sellLast:Вы не можете продать своего последнего Покемона
