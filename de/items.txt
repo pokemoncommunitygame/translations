@@ -52,7 +52,7 @@ team_dark_badge:Team-Dunkel-Orden
 team_dark_badgeDescription:Mitgliedsausweis von Team Dunkel während des Halloween-Events 2022.
 bottle_cap:Flaschenverschluss
 bottle_capDescription:Maximiert zufällig einen der individuellen Werte eines Pokémon. Nur 1x pro Pokémon verwendbar.
-normal_stone:Normale Stein
+normal_stone:Normalstein
 normal_stoneDescription:Ein Stein, der bestimmte Pokémon-Arten zur Entwicklung bringt. Es heißt, die Farbe des Steins bestimme, welches Pokémon sich entwickeln wird.
 fighting_stone:Kampfstein
 fighting_stoneDescription:Ein Stein, der bestimmte Pokémon-Arten zur Entwicklung bringt. Es heißt, die Farbe des Steins bestimme, welches Pokémon sich entwickeln wird.
