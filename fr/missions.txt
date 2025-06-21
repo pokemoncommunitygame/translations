@@ -50,9 +50,9 @@ win_challenge:Gagne un combat de défi
 play_ranked_battle:Joue un combat classé
 win_ranked_battle:Gagne un combat classé
 claim_pokedaily:Récupère ton Pokédaily
-pcg_event_catch_week1:Attrape des Pokémon – Événement Semaine 1
-pcg_event_catch_week2:Attrape des Pokémon – Événement Semaine 2
-pcg_event_catch_week3:Attrape des Pokémon – Événement Semaine 3
+pcg_event_catch_week1:Attrape événement Pokémon – Semaine 1
+pcg_event_catch_week2:Attrape événement Pokémon – Semaine 2
+pcg_event_catch_week3:Attrape événement Pokémon – Semaine 3
 throw_snowball:Lance une boule de neige
 team_of_the_week_6:Équipe de la Semaine – Semaine 6
 team_of_the_week_7:Équipe de la Semaine – Semaine 7
@@ -64,3 +64,4 @@ wondertrade_event_grass:Échange Miracle un Pokémon de type Plante (Événement
 above:Au-dessus
 below:En dessous
 exactly:Exactement
+pcg_event_catch_week4:Attrape événement Pokémon – Semaine 4

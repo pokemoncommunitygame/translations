@@ -50,9 +50,9 @@ win_challenge:Выиграй испытательный бой
 play_ranked_battle:Проведи рейтинговый бой
 win_ranked_battle:Выиграй рейтинговый бой
 claim_pokedaily:Получите ваш Покежедневный
-pcg_event_catch_week1:Поймай Покемона – Событие Неделя 1
-pcg_event_catch_week2:Поймай Покемона – Событие Неделя 2
-pcg_event_catch_week3:Поймай Покемона – Событие Неделя 3
+pcg_event_catch_week1:Ловите эвент Покемонов – Неделя 1
+pcg_event_catch_week2:Ловите эвент Покемонов – Неделя 2
+pcg_event_catch_week3:Ловите эвент Покемонов – Неделя 3
 throw_snowball:Кинь снежок
 team_of_the_week_6:Команда недели – Неделя 6
 team_of_the_week_7:Команда недели – Неделя 7
@@ -64,3 +64,4 @@ wondertrade_event_grass:Удивительный обмен в Покемон Т
 above:Выше
 below:Ниже
 exactly:Точно
+pcg_event_catch_week4:Ловите эвент Покемонов – Неделя 4

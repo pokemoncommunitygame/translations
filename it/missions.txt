@@ -64,3 +64,4 @@ wondertrade_event_grass:Scambia meraviglia un Pokémon di tipo Erba (Evento)
 above:Sopra
 below:Sotto
 exactly:Esattamente
+pcg_event_catch_week4:Evento di cattura Pokémon – Settimana 4

@@ -68,9 +68,10 @@ win_ranked_battle:Win a ranked battle
 claim_pokedaily:Claim your Pokédaily
 
 # Events
-pcg_event_catch_week1:Catch Pokémon – Event Week 1
-pcg_event_catch_week2:Catch Pokémon – Event Week 2
-pcg_event_catch_week3:Catch Pokémon – Event Week 3
+pcg_event_catch_week1:Catch event Pokémon – Week 1
+pcg_event_catch_week2:Catch event Pokémon – Week 2
+pcg_event_catch_week3:Catch event Pokémon – Week 3
+pcg_event_catch_week4:Catch event Pokémon – Week 4
 
 # Christmas
 throw_snowball:Throw a snowball

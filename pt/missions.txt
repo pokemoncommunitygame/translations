@@ -50,9 +50,9 @@ win_challenge:Vença uma batalha desafio
 play_ranked_battle:Jogue uma batalha ranqueada
 win_ranked_battle:Vença uma batalha ranqueada
 claim_pokedaily:Reivindique seu Pokédaily
-pcg_event_catch_week1:Capture Pokémon – Evento Semana 1
-pcg_event_catch_week2:Capture Pokémon – Evento Semana 2
-pcg_event_catch_week3:Capture Pokémon – Evento Semana 3
+pcg_event_catch_week1:Catch event Pokémon – Semana 1
+pcg_event_catch_week2:Catch event Pokémon – Semana 2
+pcg_event_catch_week3:Catch event Pokémon – Semana 3
 throw_snowball:Lance uma bola de neve
 team_of_the_week_6:Time da Semana – Semana 6
 team_of_the_week_7:Time da Semana – Semana 7
@@ -64,3 +64,4 @@ wondertrade_event_grass:Troque um Pokémon do tipo Grama no Wonder Trade (Evento
 above:Acima
 below:Abaixo
 exactly:Exatamente
+pcg_event_catch_week4:Catch event Pokémon – Semana 4

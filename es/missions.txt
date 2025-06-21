@@ -50,9 +50,9 @@ win_challenge:Gana una batalla de desafío
 play_ranked_battle:Juega una batalla clasificatoria
 win_ranked_battle:Gana una batalla clasificatoria
 claim_pokedaily:Reclama tu Pokédaily
-pcg_event_catch_week1:Atrapa Pokémon – Evento Semana 1
-pcg_event_catch_week2:Atrapa Pokémon – Evento Semana 2
-pcg_event_catch_week3:Atrapa Pokémon – Evento Semana 3
+pcg_event_catch_week1:Captura evento Pokémon – Semana 1
+pcg_event_catch_week2:Captura evento Pokémon – Semana 2
+pcg_event_catch_week3:Captura evento Pokémon – Semana 3
 throw_snowball:Lanza una bola de nieve
 team_of_the_week_6:Equipo de la Semana – Semana 6
 team_of_the_week_7:Equipo de la Semana – Semana 7
@@ -64,3 +64,4 @@ wondertrade_event_grass:Intercambio prodigioso de un Pokémon de tipo Planta (Ev
 above:En alto
 below:Debajo
 exactly:Exactamente
+pcg_event_catch_week4:Captura evento Pokémon – Semana 4
