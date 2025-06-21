@@ -185,3 +185,12 @@ evolutionMovesWillBe:Tus movimientos serán:
 evolutionRerolled:Redistribuido
 evolutionKept:Mantenido
 evolutionRerollMoves:¿Quieres redistribuir los movimientos?
+moveEffectChance:Prob. de Efecto
+moveStatChance:Prob. de Estadísticas
+movePriority:Prioridad
+moveAccuracy:Precisión
+movePower:Poder
+move:Movimiento
+status:Estatus
+physical:Físico
+special:Especial

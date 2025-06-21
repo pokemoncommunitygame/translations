@@ -185,3 +185,12 @@ evolutionMovesWillBe:Your moves will be:
 evolutionRerolled:Rerolled
 evolutionKept:Kept
 evolutionRerollMoves:Do you want to reroll the moves?
+moveEffectChance:Effect Chance
+moveStatChance:Stat Chance
+movePriority:Priority
+moveAccuracy:Accuracy
+movePower:Power
+move:Move
+status:Status
+physical:Physical
+special:Special

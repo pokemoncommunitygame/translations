@@ -185,3 +185,12 @@ evolutionMovesWillBe:Seus golpes serão:
 evolutionRerolled:Reexibidos
 evolutionKept:Mantidos
 evolutionRerollMoves:Deseja reexibir os golpes?
+moveEffectChance:Chance de Efeito
+moveStatChance:Chance de Atributo
+movePriority:Prioridade
+moveAccuracy:Precisão
+movePower:Poder
+move:Ataque
+status:Status
+physical:Físico
+special:Especial

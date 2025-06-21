@@ -213,6 +213,18 @@ sortByBaseStat:Base stats
 sortByAvgIV:IV
 sortByRecent:Recent
 
+moveEffectChance:Effect Chance
+moveStatChance:Stat Chance
+movePriority:Priority
+moveAccuracy:Accuracy
+movePower:Power
+move:Move
+
+status:Status
+physical:Physical
+special:Special
+
+
 PokemonTeamFull:Your team is full
 PokemonNotInTeam:This Pokémon is not in your team
 PokemonAlreadyInTeam:This Pokémon is already in your team

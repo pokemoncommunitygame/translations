@@ -185,3 +185,12 @@ evolutionMovesWillBe:I tuoi attacchi saranno:
 evolutionRerolled:Rimescolato
 evolutionKept:Mantenuto
 evolutionRerollMoves:Vuoi rimescolare gli attacchi?
+moveEffectChance:Probabilità Effetto
+moveStatChance:Probabilità Statistica
+movePriority:Priorità
+moveAccuracy:Precisione
+movePower:Potenza
+move:Mossa
+status:Stato
+physical:Fisico
+special:Speciale

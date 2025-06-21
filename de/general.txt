@@ -25,9 +25,9 @@ attack:Angriff
 specialAttack:Spezial-Ang.
 defense:Verteidigung
 specialDefense:Spezial-Verteid.
-speed:Tempo
+speed:Initative
 accuracy:Genauigkeit
-evasion:Ausweichen
+evasion:Fluchtwert
 shop:Shop
 inventory:Inventar
 purchase:Kaufen
@@ -185,3 +185,12 @@ evolutionMovesWillBe:Deine Attacken werden sein:
 evolutionRerolled:Neugewürfelt
 evolutionKept:Beibehalten
 evolutionRerollMoves:Möchtest du die Attacken neu würfeln?
+moveEffectChance:Effektchance
+moveStatChance:Statuswertchance
+movePriority:Priorität
+moveAccuracy:Genauigkeit
+movePower:Kraft
+move:Bewegung
+status:Status
+physical:Physisch
+special:Spezial

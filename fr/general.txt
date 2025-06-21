@@ -185,3 +185,12 @@ evolutionMovesWillBe:Tes capacités seront :
 evolutionRerolled:Lancés de nouveau
 evolutionKept:Gardés
 evolutionRerollMoves:Veux-tu relancer les capacités ?
+moveEffectChance:Chance d'effet
+moveStatChance:Chance de stat
+movePriority:Priorité
+moveAccuracy:Précision
+movePower:Puissance
+move:Attaque
+status:Statut
+physical:Physique
+special:Spécial

@@ -185,3 +185,12 @@ evolutionMovesWillBe:Ваши приёмы будут:
 evolutionRerolled:Переброшены
 evolutionKept:Сохранены
 evolutionRerollMoves:Хотите перебросить приёмы?
+moveEffectChance:Шанс эффекта
+moveStatChance:Шанс характеристики
+movePriority:Приоритет
+moveAccuracy:Точность
+movePower:Сила
+move:Движение
+status:Статус
+physical:Физический
+special:Особый
