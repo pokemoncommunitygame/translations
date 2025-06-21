@@ -25,7 +25,7 @@ attack:Angriff
 specialAttack:Spezial-Ang.
 defense:Verteidigung
 specialDefense:Spezial-Verteid.
-speed:Initative
+speed:Initiative
 accuracy:Genauigkeit
 evasion:Fluchtwert
 shop:Shop
@@ -190,7 +190,7 @@ moveStatChance:Statuswertchance
 movePriority:Priorität
 moveAccuracy:Genauigkeit
 movePower:Kraft
-move:Bewegung
+move:Attacke
 status:Status
 physical:Physisch
 special:Spezial
