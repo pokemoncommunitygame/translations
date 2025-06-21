@@ -194,3 +194,4 @@ move:Mossa
 status:Stato
 physical:Fisico
 special:Speciale
+catch_rate:Tasso di Cattura

@@ -194,3 +194,4 @@ move:Attaque
 status:Statut
 physical:Physique
 special:Spécial
+catch_rate:Taux de Capture

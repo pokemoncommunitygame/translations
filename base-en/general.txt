@@ -173,7 +173,7 @@ progress:Progress
 weight:Weight
 generation:Generation
 base_stats:Base stats
-
+catch_rate:Catch Rate
 
 caughtBy:Caught by
 caughtOn:Caught on

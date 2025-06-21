@@ -28,6 +28,7 @@ MOVE_INFO:@{0} Move: {1} - Type: {7} - {6} - Power: {3} - PP: {4} - Accuracy: {5
 MOVE_ERROR:@{0} Please enter a valid move.
 
 POKECATCH_ESCAPED:@{0} Oops! The Pokémon already escaped!
+a:@{0} Patience, trainer! The legendary is still just a rumor for now.
 POKECATCH_NOT_LIVE:@{0} You can only catch Pokémon in live channels! It may take up to 15 minutes to detect you as live.
 POKECATCH_INVALID_BALL:@{0} That ball doesn’t exist :( Use poke ball, great ball, ultra ball, or master ball.
 POKECATCH_NO_BALL:@{0} You don’t own that ball. Check the extension to see your items.

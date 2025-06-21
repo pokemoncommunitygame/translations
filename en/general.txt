@@ -194,3 +194,4 @@ move:Move
 status:Status
 physical:Physical
 special:Special
+catch_rate:Catch Rate
