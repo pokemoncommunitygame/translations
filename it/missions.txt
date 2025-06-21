@@ -32,7 +32,6 @@ trade_with_attack:Scambia un Pokémon misteriosamente con Attacco <compare> <val
 trade_with_defense:Scambia un Pokémon misteriosamente con Difesa <compare> <value>
 trade_with_hp:Scambia un Pokémon misteriosamente con PS <compare> <value>
 trade_with_bst:Scambia un Pokémon misteriosamente con Stat Totali di Base <compare> <value>
-battle:Combatti con un Pokémon di tipo <type>
 effective:Usa una mossa superefficace
 field_effect:Combatti sotto un effetto di campo
 battle_stat_change:Usa una mossa che cambia le statistiche
@@ -65,3 +64,4 @@ above:Sopra
 below:Sotto
 exactly:Esattamente
 pcg_event_catch_week4:Evento di cattura Pokémon – Settimana 4
+mission__battle:Lotta usando un Pokémon di tipo <type>

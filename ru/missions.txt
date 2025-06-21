@@ -32,7 +32,6 @@ trade_with_attack:Чудо-обмен покемона с Атакой <compare>
 trade_with_defense:Чудо-обмен покемона с Защитой <compare> <value>
 trade_with_hp:Чудо-обмен покемона с ОЗ <compare> <value>
 trade_with_bst:Чудо-обмен покемона с Общим Статом <compare> <value>
-battle:Сражаться, используя покемона типа <type>
 effective:Использовать суперэффективный прием
 field_effect:Сражаться под воздействием поля
 battle_stat_change:Использовать движение, изменяющее статистику
@@ -65,3 +64,4 @@ above:Выше
 below:Ниже
 exactly:Точно
 pcg_event_catch_week4:Ловите эвент Покемонов – Неделя 4
+mission__battle:Сразитесь, используя покемона типа <type>

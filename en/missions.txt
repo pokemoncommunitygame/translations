@@ -32,7 +32,6 @@ trade_with_attack:Wonder Trade a Pokémon with Attack <compare> <value>
 trade_with_defense:Wonder Trade a Pokémon with Defense <compare> <value>
 trade_with_hp:Wonder Trade a Pokémon with HP <compare> <value>
 trade_with_bst:Wonder Trade a Pokémon with Base Stat Total <compare> <value>
-battle:Battle using a <type>-type Pokémon
 effective:Use a super-effective move
 field_effect:Battle under a field effect
 battle_stat_change:Use a move that changes stats
@@ -65,3 +64,4 @@ above:Above
 below:Below
 exactly:Exactly
 pcg_event_catch_week4:Catch event Pokémon – Week 4
+mission__battle:Battle using a <type>-type Pokémon

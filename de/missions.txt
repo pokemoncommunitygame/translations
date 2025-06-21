@@ -32,7 +32,6 @@ trade_with_attack:Wundertausche ein Pokémon mit Angriff <compare> <value>
 trade_with_defense:Wundertausche ein Pokémon mit Verteidigung <compare> <value>
 trade_with_hp:Wundertausche ein Pokémon mit KP <compare> <value>
 trade_with_bst:Wundertausche ein Pokémon mit Basiswertsumme <compare> <value>
-battle:Kämpfe mit einem <type>-Typ-Pokémon
 effective:Setze eine sehr effektive Attacke ein
 field_effect:Kämpfe unter einem Feldeffekt
 battle_stat_change:Setze eine Attacke ein, die Statuswerte verändert
@@ -65,3 +64,4 @@ above:Oben
 below:Unten
 exactly:Genau
 pcg_event_catch_week4:Fange Event-Pokémon – Woche 4
+mission__battle:Kämpfe mit einem Pokémon vom Typ <type>

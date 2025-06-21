@@ -32,7 +32,6 @@ trade_with_attack:Échange Miracle d'un Pokémon avec une Attaque <compare> <val
 trade_with_defense:Échange Miracle d'un Pokémon avec une Défense <compare> <value>
 trade_with_hp:Échange Miracle d'un Pokémon avec des PV <compare> <value>
 trade_with_bst:Échange Miracle d'un Pokémon avec un Total de Statistiques de Base <compare> <value>
-battle:Combattre avec un Pokémon de type <type>
 effective:Utiliser une attaque super efficace
 field_effect:Combattre sous un effet de terrain
 battle_stat_change:Utiliser une attaque qui change les statistiques
@@ -65,3 +64,4 @@ above:Au-dessus
 below:En dessous
 exactly:Exactement
 pcg_event_catch_week4:Attrape événement Pokémon – Semaine 4
+mission__battle:Bats-toi avec un Pokémon de type <type>

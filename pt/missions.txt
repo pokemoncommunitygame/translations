@@ -32,7 +32,6 @@ trade_with_attack:Troque maravilhosamente um Pokémon com Ataque <compare> <valu
 trade_with_defense:Troque maravilhosamente um Pokémon com Defesa <compare> <value>
 trade_with_hp:Troque maravilhosamente um Pokémon com HP <compare> <value>
 trade_with_bst:Troque maravilhosamente um Pokémon com Total de Base de Status <compare> <value>
-battle:Batalhe usando um Pokémon do tipo <type>
 effective:Use um movimento super eficaz
 field_effect:Batalhe sob um efeito de campo
 battle_stat_change:Use um movimento que altera status
@@ -65,3 +64,4 @@ above:Acima
 below:Abaixo
 exactly:Exatamente
 pcg_event_catch_week4:Catch event Pokémon – Semana 4
+mission__battle:Participe de uma batalha usando um Pokémon do tipo <type>
