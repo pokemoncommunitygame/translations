@@ -57,6 +57,7 @@ error:Error
 okay:Okay
 value:Value
 cancelled:Cancelled
+confirm:Confirm
 
 computer:Computer
 inventory:Inventory
@@ -106,9 +107,11 @@ shopRotation:Shop rotation in
 eventShopClosesIn:Event Shop closes in
 youHave:You have
 purchaseConfirmationMessage:Are you sure that you want to buy {amount}x {name} for a total of ${total_price}?
+purchaseConfirmationMessageWithoutCurrency:Are you sure that you want to buy {amount}x {name} for a total of {total_price}
 itemSellConfirmationMessage:Are you sure that you want to sell {amount}x {name} for a total of ${total_price}?
 sellConfirmMessage:Are you sure that you want to sell your {name}?
-sellSuccess:You successfully sold your item
+sellItemSuccess:You successfully sold your item
+sellSuccess:You successfully completed the sale
 useConfirmMessage:Are you sure that you want to use the item {item} on {pkm}?
 
 
@@ -182,10 +185,15 @@ pokemonSellConfirmMessage:Your {name} LVL. {lvl} will be gone forever. Continue?
 trade:Trade
 evolution:Evolution
 evolve:Evolve
+evolutionConfirmationText:Are you sure you want to evolve your {name}?
+evolutionMovesWillBe:Your moves will be:
+evolutionRerolled:Rerolled
+evolutionKept:Kept
+evolutionRerollMoves:Do you want to reroll the moves?
 trade:Wondertrade
 wondertrade:Wondertrade
 tradeConfirmMessage:Your {name} LVL. {lvl} will be gone forever. Continue?
-sellSuccess:You successfully sold your Pokémon
+sellPokemonSuccess:You successfully sold your Pokémon
 sellLast:You can't sell your last Pokémon
 sellNotExists:This Pokémon does not exist anymore
 sellNotYourPokemon:This isn't your Pokémon anymore

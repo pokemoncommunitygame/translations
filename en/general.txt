@@ -99,7 +99,7 @@ PokemonNoStatusCondition:Pokémon not affected by status condition
 PokemonFullPP:All moves at full PP
 sellConfirmMessage:Are you sure that you want to sell your {name}?
 useConfirmMessage:Are you sure that you want to use the item {item} on {pkm}?
-sellSuccess:You successfully sold your Pokémon
+sellSuccess:You successfully completed the sale
 wonderPassNoCooldown:Your Wonderpass is not on cooldown!
 pokedailyNoCooldown:Your Pokedaily is not on cooldown!
 pokemonListHeadline:Your Pokémon
@@ -176,3 +176,12 @@ youHave:You have
 search:Search
 evolution:Evolution
 evolve:Evolve
+purchaseConfirmationMessageWithoutCurrency:Are you sure that you want to buy {amount}x {name} for a total of {total_price}
+sellItemSuccess:You successfully sold your item
+sellPokemonSuccess:You successfully sold your Pokémon
+confirm:Confirm
+evolutionConfirmationText:Are you sure you want to evolve your {name}?
+evolutionMovesWillBe:Your moves will be:
+evolutionRerolled:Rerolled
+evolutionKept:Kept
+evolutionRerollMoves:Do you want to reroll the moves?

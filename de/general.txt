@@ -99,7 +99,7 @@ PokemonNoStatusCondition:Pokémon ist nicht von einem Statusproblem betroffen
 PokemonFullPP:Alle Attacken haben volle AP
 sellConfirmMessage:Bist du sicher, dass du deinen {name} verkaufen möchtest?
 useConfirmMessage:Bist du sicher, dass du das Item {item} auf {pkm} verwenden möchtest?
-sellSuccess:Du hast dein Pokémon erfolgreich verkauft
+sellSuccess:Du hast den Verkauf erfolgreich abgeschlossen
 wonderPassNoCooldown:Dein Wunderpass ist nicht auf Abklingzeit!
 pokedailyNoCooldown:Dein Pokedaily ist nicht auf Abklingzeit!
 pokemonListHeadline:Deine Pokémon
@@ -118,7 +118,7 @@ base_stats:Basiswerte
 caughtBy:Gefangen von
 caughtOn:Gefangen am
 originalChannel:Herkunft
-caughtAtFormat:{month}/{day}/{year}
+caughtAtFormat:{day}.{month}.{year}
 sell:Verkauf ${amount}
 trade:Wundertausch
 wondertrade:Wundertausch
@@ -176,3 +176,12 @@ youHave:Du hast
 search:Suchen
 evolution:Entwicklung
 evolve:Entwickeln
+purchaseConfirmationMessageWithoutCurrency:Bist du sicher, dass du {amount}x {name} für insgesamt {total_price} kaufen möchtest?
+sellItemSuccess:Du hast deinen Gegenstand erfolgreich verkauft
+sellPokemonSuccess:Du hast dein Pokémon erfolgreich verkauft
+confirm:Bestätigen
+evolutionConfirmationText:Bist du sicher, dass du dein {name} entwickeln möchtest?
+evolutionMovesWillBe:Deine Attacken werden sein:
+evolutionRerolled:Neugewürfelt
+evolutionKept:Beibehalten
+evolutionRerollMoves:Möchtest du die Attacken neu würfeln?

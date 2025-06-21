@@ -99,7 +99,7 @@ PokemonNoStatusCondition:Le Pokémon n'est pas affecté par un problème de stat
 PokemonFullPP:Toutes les capacités sont à pleine PP
 sellConfirmMessage:Es-tu sûr de vouloir vendre ton {name} ?
 useConfirmMessage:Êtes-vous sûr de vouloir utiliser l'objet {item} sur {pkm} ?
-sellSuccess:Vous avez vendu votre Pokémon avec succès
+sellSuccess:Vous avez réussi la vente
 wonderPassNoCooldown:Votre Wonderpass n'est pas en cours de recharge !
 pokedailyNoCooldown:Votre Pokedaily n'est pas en cours de recharge !
 pokemonListHeadline:Vos Pokémon
@@ -176,3 +176,12 @@ youHave:Tu as
 search:Recherche
 evolution:Évolution
 evolve:Évoluer
+purchaseConfirmationMessageWithoutCurrency:Es-tu sûr de vouloir acheter {amount}x {name} pour un total de {total_price}
+sellItemSuccess:Vous avez vendu votre objet avec succès
+sellPokemonSuccess:Vous avez vendu votre Pokémon avec succès
+confirm:Confirmer
+evolutionConfirmationText:Es-tu sûr de vouloir faire évoluer ton {name} ?
+evolutionMovesWillBe:Tes capacités seront :
+evolutionRerolled:Lancés de nouveau
+evolutionKept:Gardés
+evolutionRerollMoves:Veux-tu relancer les capacités ?

@@ -99,7 +99,7 @@ PokemonNoStatusCondition:El Pokémon no está afectado por una condición de est
 PokemonFullPP:Todos los movimientos tienen PP completo
 sellConfirmMessage:¿Estás seguro de que quieres vender tu {name}?
 useConfirmMessage:¿Estás seguro de que quieres usar el objeto {item} en {pkm}?
-sellSuccess:Vendiste tu Pokémon con éxito
+sellSuccess:Completaste la venta con éxito
 wonderPassNoCooldown:¡Tu Wonderpass no está en tiempo de reutilización!
 pokedailyNoCooldown:¡Tu Pokedaily no está en tiempo de reutilización!
 pokemonListHeadline:Tu Pokémon
@@ -176,3 +176,12 @@ youHave:Tienes
 search:Buscar
 evolution:Evolución
 evolve:Evolucionar
+purchaseConfirmationMessageWithoutCurrency:¿Estás seguro de que deseas comprar {amount}x {name} por un total de {total_price}?
+sellItemSuccess:Vendiste tu objeto con éxito
+sellPokemonSuccess:Vendiste tu Pokémon con éxito
+confirm:Confirmar
+evolutionConfirmationText:¿Estás seguro de que quieres evolucionar a tu {name}?
+evolutionMovesWillBe:Tus movimientos serán:
+evolutionRerolled:Redistribuido
+evolutionKept:Mantenido
+evolutionRerollMoves:¿Quieres redistribuir los movimientos?

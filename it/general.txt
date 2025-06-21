@@ -176,3 +176,12 @@ youHave:Hai
 search:Cerca
 evolution:Evoluzione
 evolve:Evolvi
+purchaseConfirmationMessageWithoutCurrency:Sei sicuro di voler acquistare {amount}x {name} per un totale di {total_price}
+sellItemSuccess:Hai venduto con successo il tuo oggetto
+sellPokemonSuccess:Hai venduto con successo il tuo Pokémon
+confirm:Conferma
+evolutionConfirmationText:Sei sicuro di voler far evolvere il tuo {name}?
+evolutionMovesWillBe:I tuoi attacchi saranno:
+evolutionRerolled:Rimescolato
+evolutionKept:Mantenuto
+evolutionRerollMoves:Vuoi rimescolare gli attacchi?
