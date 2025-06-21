@@ -120,8 +120,8 @@ caughtOn:Capturado em
 originalChannel:Origem
 caughtAtFormat:{month}/{day}/{year}
 sell:Vender ${amount}
-trade:Troca Maravilhosa
-wondertrade:Troca Maravilha
+trade:Troca Surpresa
+wondertrade:Troca Surpresa
 tradeConfirmMessage:Seu {name} NÍVEL {lvl} será perdido para sempre. Continuar?
 sellLast:Você não pode vender seu último Pokémon
 sellNotExists:Este Pokémon não existe mais
