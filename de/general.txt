@@ -98,7 +98,7 @@ PokemonStillAlive:Pokémon muss nicht wiederbelebt werden
 PokemonNoStatusCondition:Pokémon ist nicht von einem Statusproblem betroffen
 PokemonFullPP:Alle Attacken haben volle AP
 sellConfirmMessage:Bist du sicher, dass du deinen {name} verkaufen möchtest?
-useConfirmMessage:Bist du sicher, dass du das Item {item} auf {pkm} verwenden möchtest?
+useConfirmMessage:Bist du sicher, dass du das Item {name} auf {pkm} anwenden möchtest?
 sellSuccess:Du hast den Verkauf erfolgreich abgeschlossen
 wonderPassNoCooldown:Dein Wunderpass ist nicht auf Abklingzeit!
 pokedailyNoCooldown:Dein Pokedaily ist nicht auf Abklingzeit!

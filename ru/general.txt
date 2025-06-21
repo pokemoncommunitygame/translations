@@ -98,7 +98,7 @@ PokemonStillAlive:Покемон не нуждается в восстановл
 PokemonNoStatusCondition:Покемон не поражен статусным эффектом
 PokemonFullPP:Все приемы на полном ПП
 sellConfirmMessage:Вы уверены, что хотите продать вашего {name}?
-useConfirmMessage:Вы уверены, что хотите использовать предмет {item} на {pkm}?
+useConfirmMessage:Вы уверены, что хотите использовать предмет {name} на {pkm}?
 sellSuccess:Вы успешно завершили продажу
 wonderPassNoCooldown:Ваш Wonderpass не находится на перезарядке!
 pokedailyNoCooldown:Ваш Pokedaily не находится на перезарядке!

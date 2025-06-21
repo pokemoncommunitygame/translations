@@ -98,7 +98,7 @@ PokemonStillAlive:O Pokémon não precisa ser revivido
 PokemonNoStatusCondition:O Pokémon não está afetado por condição de status
 PokemonFullPP:Todos os ataques com PP completo
 sellConfirmMessage:Tem certeza de que deseja vender seu {name}?
-useConfirmMessage:Tem certeza de que deseja usar o item {item} no {pkm}?
+useConfirmMessage:Tem certeza de que deseja usar o item {name} em {pkm}?
 sellSuccess:Você completou a venda com sucesso
 wonderPassNoCooldown:Seu Wonderpass não está em cooldown!
 pokedailyNoCooldown:Seu Pokedaily não está em cooldown!

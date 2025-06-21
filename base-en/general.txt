@@ -112,7 +112,7 @@ itemSellConfirmationMessage:Are you sure that you want to sell {amount}x {name} 
 sellConfirmMessage:Are you sure that you want to sell your {name}?
 sellItemSuccess:You successfully sold your item
 sellSuccess:You successfully completed the sale
-useConfirmMessage:Are you sure that you want to use the item {item} on {pkm}?
+useConfirmMessage:Are you sure that you want to use the item {name} on {pkm}?
 
 
 howManyYouWantBuy:How many {name}s do you want to buy?
