@@ -19,7 +19,6 @@ miss_with_type:Miss a <type>-type Pokémon
 miss_with_ball:Miss a catch using a <ball>
 attempt_catch:Attempt to catch Pokémon
 attempt_tier_catch:Attempt to catch <tier>-tier Pokémon
-trade:Wonder Trade a Pokémon
 trade_lvl:Wonder Trade a Pokémon with level <compare> <value>
 trade_type:Wonder Trade a <type>-type Pokémon
 trade_iv:Wonder Trade a Pokémon with IV <compare> <value>
@@ -65,3 +64,4 @@ below:Below
 exactly:Exactly
 pcg_event_catch_week4:Catch event Pokémon – Week 4
 mission__battle:Battle using a <type>-type Pokémon
+mission__wondertrade:Wonder Trade a Pokémon

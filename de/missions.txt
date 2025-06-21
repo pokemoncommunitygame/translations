@@ -19,7 +19,6 @@ miss_with_type:Verfehle ein Pokémon vom Typ <type>
 miss_with_ball:Verfehle den Fang mit einem <ball>
 attempt_catch:Versuche, ein Pokémon zu fangen
 attempt_tier_catch:Versuche, ein Pokémon der Stufe <tier> zu fangen
-trade:Wundertausche ein Pokémon
 trade_lvl:Wundertausche ein Pokémon mit Level <compare> <value>
 trade_type:Wundertausche ein <type>-Typ-Pokémon
 trade_iv:Wundertausche ein Pokémon mit IV <compare> <value>
@@ -65,3 +64,4 @@ below:Unten
 exactly:Genau
 pcg_event_catch_week4:Fange Event-Pokémon – Woche 4
 mission__battle:Kämpfe mit einem Pokémon vom Typ <type>
+mission__wondertrade:Tausche ein Pokémon per Wundertausch

@@ -19,7 +19,6 @@ miss_with_type:Промахнуться по Покемону типа <type>
 miss_with_ball:Промахнуться в поимке с помощью <ball>
 attempt_catch:Попытка поймать Покемона
 attempt_tier_catch:Попытаться поймать покемона уровня <tier>
-trade:Чудо-обмен покемона
 trade_lvl:Чудо-обмен покемона уровнем <compare> <value>
 trade_type:Чудо-обмен покемона типа <type>
 trade_iv:Чудо-обмен покемона с IV <compare> <value>
@@ -65,3 +64,4 @@ below:Ниже
 exactly:Точно
 pcg_event_catch_week4:Ловите эвент Покемонов – Неделя 4
 mission__battle:Сразитесь, используя покемона типа <type>
+mission__wondertrade:Обменяться Покемоном через Чудо-обмен

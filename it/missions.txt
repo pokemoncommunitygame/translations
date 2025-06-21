@@ -19,7 +19,6 @@ miss_with_type:Manca un Pokémon di tipo <type>
 miss_with_ball:Manca una cattura usando una <ball>
 attempt_catch:Tenta di catturare Pokémon
 attempt_tier_catch:Tenta di catturare un Pokémon di livello <tier>
-trade:Scambia un Pokémon misteriosamente
 trade_lvl:Scambia un Pokémon misteriosamente con livello <compare> <value>
 trade_type:Scambia un Pokémon misteriosamente di tipo <type>
 trade_iv:Scambia un Pokémon misteriosamente con IV <compare> <value>
@@ -65,3 +64,4 @@ below:Sotto
 exactly:Esattamente
 pcg_event_catch_week4:Evento di cattura Pokémon – Settimana 4
 mission__battle:Lotta usando un Pokémon di tipo <type>
+mission__wondertrade:Scambia un Pokémon in Scambio Prodigioso

@@ -19,7 +19,6 @@ miss_with_type:Falla en atrapar un Pokémon de tipo <type>
 miss_with_ball:Falla en atrapar usando una <ball>
 attempt_catch:Intenta atrapar un Pokémon
 attempt_tier_catch:Intenta atrapar un Pokémon de nivel <tier>
-trade:Intercambio Maravilloso de un Pokémon
 trade_lvl:Intercambio Maravilloso de un Pokémon con nivel <compare> <value>
 trade_type:Intercambio Maravilloso de un Pokémon de tipo <type>
 trade_iv:Intercambio Maravilloso de un Pokémon con IV <compare> <value>
@@ -65,3 +64,4 @@ below:Debajo
 exactly:Exactamente
 pcg_event_catch_week4:Captura evento Pokémon – Semana 4
 mission__battle:Lucha usando un Pokémon de tipo <type>
+mission__wondertrade:Intercambiar un Pokémon en la Wonder Trade

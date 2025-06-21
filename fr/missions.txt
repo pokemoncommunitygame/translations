@@ -19,7 +19,6 @@ miss_with_type:Manque un Pokémon de type <type>
 miss_with_ball:Manque une capture avec une <ball>
 attempt_catch:Tente de capturer un Pokémon
 attempt_tier_catch:Tenter de capturer un Pokémon de niveau <tier>
-trade:Échange Miracle d'un Pokémon
 trade_lvl:Échange Miracle d'un Pokémon de niveau <compare> <value>
 trade_type:Échange Miracle d'un Pokémon de type <type>
 trade_iv:Échange Miracle d'un Pokémon avec IV <compare> <value>
@@ -65,3 +64,4 @@ below:En dessous
 exactly:Exactement
 pcg_event_catch_week4:Attrape événement Pokémon – Semaine 4
 mission__battle:Bats-toi avec un Pokémon de type <type>
+mission__wondertrade:Échanger un Pokémon en Échange Miracle

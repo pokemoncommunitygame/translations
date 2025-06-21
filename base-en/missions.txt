@@ -26,7 +26,7 @@ attempt_catch:Attempt to catch Pokémon
 attempt_tier_catch:Attempt to catch <tier>-tier Pokémon
 
 # Trade
-trade:Wonder Trade a Pokémon
+mission__wondertrade:Wonder Trade a Pokémon
 trade_lvl:Wonder Trade a Pokémon with level <compare> <value>
 trade_type:Wonder Trade a <type>-type Pokémon
 trade_iv:Wonder Trade a Pokémon with IV <compare> <value>
