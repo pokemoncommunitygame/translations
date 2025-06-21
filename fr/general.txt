@@ -174,3 +174,5 @@ shopRotation:Rotation de boutique dans
 eventShopClosesIn:La Boutique d'Événements ferme dans
 youHave:Tu as
 search:Recherche
+evolution:Évolution
+evolve:Évoluer

@@ -174,3 +174,5 @@ shopRotation:Shop rotation in
 eventShopClosesIn:Event Shop closes in
 youHave:You have
 search:Search
+evolution:Evolution
+evolve:Evolve

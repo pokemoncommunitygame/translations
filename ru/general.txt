@@ -174,3 +174,5 @@ shopRotation:Смена магазина через
 eventShopClosesIn:Магазин событий закрывается через
 youHave:У вас есть
 search:Поиск
+evolution:Эволюция
+evolve:Эволюционировать

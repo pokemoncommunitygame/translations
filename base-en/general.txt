@@ -180,6 +180,8 @@ caughtAtFormat:{month}/{day}/{year}
 sell:Sell ${amount}
 pokemonSellConfirmMessage:Your {name} LVL. {lvl} will be gone forever. Continue?
 trade:Trade
+evolution:Evolution
+evolve:Evolve
 wondertrade:Wondertrade
 tradeConfirmMessage:Your {name} LVL. {lvl} will be gone forever. Continue?
 sellSuccess:You successfully sold your Pokémon

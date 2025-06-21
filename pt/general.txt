@@ -174,3 +174,5 @@ shopRotation:Rodízio da loja em
 eventShopClosesIn:Loja de Eventos fecha em
 youHave:Você tem
 search:Pesquisar
+evolution:Evolução
+evolve:Evoluir
