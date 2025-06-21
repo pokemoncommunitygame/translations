@@ -8,11 +8,11 @@ phantom_ball:Phantom Ball
 phantom_ballDescription:Ein unheimlich aussehender Ball. Höhere Fangrate bei Geist-Pokémon.
 night_ball:Nachtball
 night_ballDescription:Ein düsterer Ball. Funktioniert besser bei Unlicht-Pokémon.
-frozen_ball:Gefrorener Ball
+frozen_ball:Eisiger Ball
 frozen_ballDescription:Ein eisiger Ball. Am effektivsten, wenn er bei Eis-Pokémon genutzt wird.
 easter_egg:Osterei
 easter_eggDescription:Sammle 100 Ostereier, um den entwickelten Starter Dewott zu erhalten.
-empty_disc:Leere Disk
+empty_disc:Leere Diskette
 empty_discDescription:Eine leere Disk, um deinem Pokémon ein komplett neues Moveset beizubringen. Verwende sie mit Vorsicht.
 iv_reset:IV-Reset
 iv_resetDescription:Verändert die individuellen Werte eines Pokémon vollständig.
@@ -20,7 +20,7 @@ wonder_pass:Wunder-Pass
 wonder_passDescription:Ein seltener Pass, der es dir ermöglicht, sofort wieder zu wundertauschen.
 friend_ball:Friendball
 friend_ballDescription:Ein hübscher Ball, der effektiver bei Pokémon ist, die den gleichen Typ wie dein Buddy-Pokémon haben.
-mood_mint:Stimmungsminze
+mood_mint:Mysteriöse Minze
 mood_mintDescription:Leckere Minze, die die Natur deines Pokémon vollständig verändert.
 battle_coin:Goldmünze
 battle_coinDescription:Belohnung für das Abschließen wöchentlicher Missionen und die Teilnahme an einem PCG-Turnier. Diese Münze kann im Goldmünzen-Shop für verschiedene seltene Gegenstände und Pokémon ausgegeben werden oder als Andenken aufbewahrt werden.
@@ -28,9 +28,9 @@ present:Geschenk
 presentDescription:Betritt einen Chat und tippe !pokegift, um anderen Spielern eine Freude zu machen! 🎅
 rare_present:Seltenes Geschenk
 rare_presentDescription:Betritt einen Chat und tippe !pokegift rare, um anderen Spielern eine Freude zu machen! 🎅
-team_enhancer:Teamverstärker
+team_enhancer:Teamvergrößerer
 team_enhancerDescription:Benutze diesen Gegenstand, um die Anzahl deiner Teams um 1 zu erhöhen! Du kannst bis zu 30 Teams haben.
-shiny_charm:Glücksbringer
+shiny_charm:Shiny Charm
 shiny_charmDescription:Belohnung für das Abschließen des Spawn-Pokédex. Verdoppelt die Chance, ein schillerndes Pokémon zu fangen (Ausnahme: Jubelbälle).
 pokedaily_reset:Pokedaily-Reset
 pokedaily_resetDescription:Dieser Gegenstand setzt den Cooldown deines Pokedaily zurück!
@@ -96,7 +96,7 @@ snowball:Schneeball
 snowballDescription:Ein Schneeball. Er schmilzt, wenn du ihn bis Februar nicht benutzt! Wirf ihn auf andere Spieler mit !pokesnowball <player-name>
 dive_ball:Tauchball
 dive_ballDescription:Ein Ball, der effektiver ist, wenn man 🐟Fisch🐟 Pokémon fangen möchte.
-cipher_ball:Kryptoball
+cipher_ball:Stachelball
 cipher_ballDescription:Ein etwas anderer Pokéball, der effektiver ist, wenn man Gift- oder Psycho-Pokémon fangen möchte.
 golden_ticket:Goldenes Ticket
 golden_ticketDescription:Wofür könnte es verwendet werden? Gib !poketicket ein, um es herauszufinden!
@@ -132,13 +132,13 @@ timer_ball:Timerball
 timer_ballDescription:Ein etwas anderer Pokéball, der mit der Zeit immer effektiver wird, je näher das Pokémon der Flucht ist.
 master_ball:Meisterball
 master_ballDescription:Der beste Pokéball mit der ultimativen Leistungsstufe. Mit ihm wirst du jedes wilde Pokémon ohne Fehler fangen.
-poke_ball:Pokéball
+poke_ball:Pokeball
 poke_ballDescription:Ein Gerät zum Fangen von wilden Pokémon. Es wird wie ein Ball auf ein Pokémon geworfen und umhüllt sein Ziel komfortabel.
 great_ball:Superball
 great_ballDescription:Ein guter, leistungsstarker Pokéball, der eine höhere Erfolgsrate beim Fangen von Pokémon bietet als ein Standard-Pokéball.
-ultra_ball:Ultraball
+ultra_ball:Hyperball
 ultra_ballDescription:Ein ultra-leistungsfähiger Pokéball, der eine höhere Erfolgsrate bietet als ein Superball beim Fangen von Pokémon.
-rare_candy:Seltenes Bonbon
+rare_candy:Sonderbonbon
 rare_candyDescription:Erhöht das Level des ausgewählten Pokémon um fünf.
 cherish_ball:Jubelball
 cherish_ballDescription:Ein ziemlich seltener Pokéball, der gefertigt wurde, um eine besondere Gelegenheit zu feiern. Erhöhte Chance, ein schillerndes Pokémon zu erhalten.
