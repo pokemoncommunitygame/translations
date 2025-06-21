@@ -30,7 +30,7 @@ POKECATCH_SPAWN_SAFARI:jonasw5Bone Дикий {0} появляется jonasw5Bo
 POKECATCH_SPAWN_LEGENDARY:CurseLit {0} появляется из ультра дыры CurseLit Ловите его с помощью !pokecatch (победители объявлены через {1} сек)
 POKECATCH_SPAWN_LEGENDARY_REPEAT:CurseLit Быстрее! {0} исчезает через {1} сек CurseLit Ловите его с помощью !pokecatch
 POKECATCH_WINNERS:{0} пойман: {1}
-POKECATCH_NO_WINNER:{0} сбежал. Никто не поймал его. jonasw5Rigged
+POKECATCH_NO_WINNER:{0} сбежал. Никто его не поймал. jonasw5Rigged
 POKECATCH_ERROR_ROAMING_LEGENDARIES:Легендарные покемоны можно поймать только в стримах без режима для подписчиков!
 POKECATCH_ERROR_EVENTS_DISABLED:Появления и выплаты отключены стримером.
 STREAMER_NOT_LIVE:@{0} Эта команда работает только в живых каналах! Пожалуйста, подождите до 15 минут для определения эфира.

@@ -30,7 +30,7 @@ POKECATCH_SPAWN_SAFARI:jonasw5Bone Um {0} selvagem aparece jonasw5Bone Capture-o
 POKECATCH_SPAWN_LEGENDARY:CurseLit Um {0} aparece do ultra-buraco de minhoca CurseLit Capture-o usando !pokecatch (vencedores revelados em {1}s)
 POKECATCH_SPAWN_LEGENDARY_REPEAT:CurseLit Seja rápido! {0} desaparece em {1}s CurseLit Capture-o usando !pokecatch
 POKECATCH_WINNERS:{0} foi capturado por: {1}
-POKECATCH_NO_WINNER:{0} escapou. Ninguém o pegou. jonasw5Rigged
+POKECATCH_NO_WINNER:{0} escapou. Ninguém o capturou. jonasw5Truque
 POKECATCH_ERROR_ROAMING_LEGENDARIES:Lendários itinerantes só podem ser capturados em streams sem modo apenas para seguidores/subs!
 POKECATCH_ERROR_EVENTS_DISABLED:Aparições e recompensas foram desativadas pelo streamer.
 STREAMER_NOT_LIVE:@{0} Este comando só funciona em canais ao vivo! Por favor, aguarde até 15 minutos para detecção ao vivo.

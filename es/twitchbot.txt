@@ -29,7 +29,7 @@ POKECATCH_SPAWN:TwitchLit ¡Un {0} salvaje aparece! TwitchLit Atrápalo usando !
 POKECATCH_SPAWN_SAFARI:jonasw5Bone ¡Un {0} salvaje aparece! jonasw5Bone Atrápalo usando !pokecatch (ganadores revelados en 90s)
 POKECATCH_SPAWN_LEGENDARY:CurseLit ¡Un {0} aparece desde el ultraumbral! CurseLit Atrápalo usando !pokecatch (ganadores revelados en {1}s)
 POKECATCH_SPAWN_LEGENDARY_REPEAT:CurseLit ¡Sé rápido! {0} desaparece en {1}s CurseLit Atrápalo usando !pokecatch
-POKECATCH_WINNERS:{0} fue atrapado por: {1}
+POKECATCH_WINNERS:{0} ha sido capturado por: {1}
 POKECATCH_NO_WINNER:{0} se escapó. Nadie lo atrapó. jonasw5Rigged
 POKECATCH_ERROR_ROAMING_LEGENDARIES:¡Los legendarios itinerantes solo pueden ser atrapados en streams sin el modo seguidores/sólo suscriptores!
 POKECATCH_ERROR_EVENTS_DISABLED:El streamer ha desactivado los spawns y premios.

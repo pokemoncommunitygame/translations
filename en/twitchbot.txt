@@ -29,8 +29,8 @@ POKECATCH_SPAWN:TwitchLit A wild {0} appears TwitchLit Catch it using !pokecatch
 POKECATCH_SPAWN_SAFARI:jonasw5Bone A wild {0} appears jonasw5Bone Catch it using !pokecatch (winners revealed in 90s)
 POKECATCH_SPAWN_LEGENDARY:CurseLit A {0} appears from the ultra wormhole CurseLit Catch it using !pokecatch (winners revealed in {1}s)
 POKECATCH_SPAWN_LEGENDARY_REPEAT:CurseLit Be fast! {0} disappears in {1}s CurseLit Catch it using !pokecatch
-POKECATCH_WINNERS:{0} was caught by: {1}
-POKECATCH_NO_WINNER:{0} escaped. Nobody caught it. jonasw5Rigged
+POKECATCH_WINNERS:{0} has been caught by: {1}
+POKECATCH_NO_WINNER:{0} escaped. No one caught it. jonasw5Rigged
 POKECATCH_ERROR_ROAMING_LEGENDARIES:Roaming legendaries can only be caught in streams without follower/sub-only mode!
 POKECATCH_ERROR_EVENTS_DISABLED:Spawns and payouts have been disabled by the streamer.
 STREAMER_NOT_LIVE:@{0} This command only works in live channels! Please allow up to 15 minutes for live detection.
