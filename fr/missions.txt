@@ -1,67 +1,67 @@
 complete_weekly_missions:Accomplis les missions hebdomadaires
-catch:Attrape un Pokémon
-catch_with_type:Attrape un Pokémon de type <type>
-catch_generation_pokemon:Attrape un Pokémon de la génération <extra>
-catch_tier_pokemon:Attrape un Pokémon de niveau <extra>
-catch_with_ball:Attrape un Pokémon avec une <ball>
-catch_with_iv:Attrape un Pokémon avec IV <compare> <value>
-catch_monotype:Attrape un Pokémon monotype
-catch_with_weight:Attrape un Pokémon pesant <compare> <value> kg
-catch_with_speed:Attrape un Pokémon avec une Vitesse <compare> <value>
-catch_with_specialAttack:Attrape un Pokémon avec une Attaque Spéciale <compare> <value>
-catch_with_specialDefense:Attrape un Pokémon avec une Défense Spéciale <compare> <value>
-catch_with_attack:Attrape un Pokémon avec une Attaque <compare> <value>
-catch_with_defense:Attrape un Pokémon avec une Défense <compare> <value>
-catch_with_hp:Attrape un Pokémon avec des PV <compare> <value>
-catch_with_stats:Attrape un Pokémon avec un Total de Statistiques de Base <compare> <value>
-miss:Manque une capture
-miss_with_type:Manque un Pokémon de type <type>
-miss_with_ball:Manque une capture avec une <ball>
+catch:Capter des Pokémon
+catch_with_type:Capter des Pokémon de type <type>
+catch_generation_pokemon:Capter des Pokémon de la Génération <extra>
+catch_tier_pokemon:Capter des Pokémon de tiers <extra>
+catch_with_ball:Capter des Pokémon en utilisant une <ball>
+catch_with_iv:Capter des Pokémon avec un IV <compare> <value>
+catch_monotype:Capter des Pokémon monotype
+catch_with_weight:Capter des Pokémon pesant <compare> <value> kg
+catch_with_speed:Capter des Pokémon avec une Vitesse <compare> <value>
+catch_with_specialAttack:Capter des Pokémon avec une Attaque Spéciale <compare> <value>
+catch_with_specialDefense:Capter des Pokémon avec une Défense Spéciale <compare> <value>
+catch_with_attack:Capter des Pokémon avec une Attaque <compare> <value>
+catch_with_defense:Capter des Pokémon avec une Défense <compare> <value>
+catch_with_hp:Capter des Pokémon avec des PV <compare> <value>
+catch_with_stats:Capter des Pokémon avec un Total de Stat de Base <compare> <value>
+miss:Rater la capture
+miss_with_type:Rater un Pokémon de type <type>
+miss_with_ball:Rater la capture en utilisant une <ball>
 attempt_catch:Tente de capturer un Pokémon
 attempt_tier_catch:Tenter de capturer un Pokémon de niveau <tier>
-trade_lvl:Échange Miracle d'un Pokémon de niveau <compare> <value>
-trade_type:Échange Miracle d'un Pokémon de type <type>
-trade_iv:Échange Miracle d'un Pokémon avec IV <compare> <value>
-trade_fish:Échange Miracle d'un Pokémon de type poisson
-trade_with_weight:Échange Miracle d'un Pokémon pesant <compare> <value> kg
-trade_with_speed:Échange Miracle d'un Pokémon avec une Vitesse <compare> <value>
-trade_with_specialAttack:Échange Miracle d'un Pokémon avec une Attaque Spéciale <compare> <value>
-trade_with_specialDefense:Échange Miracle d'un Pokémon avec une Défense Spéciale <compare> <value>
-trade_with_attack:Échange Miracle d'un Pokémon avec une Attaque <compare> <value>
-trade_with_defense:Échange Miracle d'un Pokémon avec une Défense <compare> <value>
-trade_with_hp:Échange Miracle d'un Pokémon avec des PV <compare> <value>
-trade_with_bst:Échange Miracle d'un Pokémon avec un Total de Statistiques de Base <compare> <value>
+trade_lvl:Échanger des Pokémon à la loterie avec un niveau <compare> <value>
+trade_type:Wondertrade Pokémon de type <type>
+trade_iv:Wondertrade Pokémon avec IV <compare> <value>
+trade_fish:Wondertrade Pokémon ressemblant à un poisson
+trade_with_weight:Wondertrade Pokémon pesant <compare> <value> kg
+trade_with_speed:Wondertrade Pokémon avec Vitesse <compare> <value>
+trade_with_specialAttack:Wondertrade Pokémon avec Attaque Spéciale <compare> <value>
+trade_with_specialDefense:Wondertrade Pokémon avec Défense Spéciale <compare> <value>
+trade_with_attack:Wondertrade Pokémon avec Attaque <compare> <value>
+trade_with_defense:Wondertrade Pokémon avec Défense <compare> <value>
+trade_with_hp:Wondertrade Pokémon avec PV <compare> <value>
+trade_with_bst:Wondertrade Pokémon avec Total des Stats de Base <compare> <value>
 effective:Utiliser une attaque super efficace
-field_effect:Combattre sous un effet de terrain
-battle_stat_change:Utiliser une attaque qui change les statistiques
+field_effect:Utiliser des effets de terrain en combat
+battle_stat_change:Utiliser une attaque qui change les stats
 battle_fail_attacks_immunity:Échouer à toucher à cause de l'immunité
-battle_defeat_cat_with_dog:Vaincre un Pokémon de type chat avec un Pokémon de type chien
-defeat_stadium_hard_with_6_dog:Gagne un combat de stade difficile avec 6 Pokémon chien
-play_stadium:Joue un combat de stade
-win_stadium:Gagne un combat de stade
-win_stadium_easy:Gagne un combat de stade facile
-win_stadium_medium:Gagne un combat de stade moyen
-win_stadium_hard:Gagne un combat de stade difficile
-win_stadium_type:Gagne un combat de stade en utilisant uniquement des Pokémon de type <type>
-play_challenge:Joue un combat de défi
-win_challenge:Gagne un combat de défi
-play_ranked_battle:Joue un combat classé
-win_ranked_battle:Gagne un combat classé
+battle_defeat_cat_with_dog:Vaincre des Pokémon chat avec des Pokémon chien
+defeat_stadium_hard_with_6_dog:Gagne le combat de stade difficile en utilisant 6 Pokémon chien
+play_stadium:Jouer un combat de stade
+win_stadium:Gagner un combat de stade
+win_stadium_easy:Gagner un combat de stade facile
+win_stadium_medium:Gagner le combat de stade moyen
+win_stadium_hard:Gagner le combat de stade difficile
+win_stadium_type:Gagner le combat de stade en utilisant uniquement des Pokémon de type <type>
+play_challenge:Jouer le combat de défi
+win_challenge:Gagner le combat de défi
+play_ranked_battle:Jouer le combat classé
+win_ranked_battle:Gagner le combat classé
 claim_pokedaily:Récupère ton Pokédaily
 pcg_event_catch_week1:Attrape événement Pokémon – Semaine 1
 pcg_event_catch_week2:Attrape événement Pokémon – Semaine 2
 pcg_event_catch_week3:Attrape événement Pokémon – Semaine 3
-throw_snowball:Lance une boule de neige
+throw_snowball:Lancer une boule de neige
 team_of_the_week_6:Équipe de la Semaine – Semaine 6
 team_of_the_week_7:Équipe de la Semaine – Semaine 7
 wondertrade_chain:Échange Miracle Pokémon (Chaîne)
-pcg_event_catch_gen_9:Attrape un Pokémon de Génération 9 (Événement)
-wondertrade_event_water:Échange Miracle un Pokémon de type Eau (Événement)
-wondertrade_event_fire:Échange Miracle un Pokémon de type Feu (Événement)
-wondertrade_event_grass:Échange Miracle un Pokémon de type Plante (Événement)
+pcg_event_catch_gen_9:Attraper un Pokémon de la génération 9 (Événement)
+wondertrade_event_water:Échange Miracle de Pokémon de type Eau (Événement)
+wondertrade_event_fire:Échange Miracle de Pokémon de type Feu (Événement)
+wondertrade_event_grass:Échange Miracle de Pokémon de type Plante (Événement)
 above:Au-dessus
 below:En dessous
 exactly:Exactement
 pcg_event_catch_week4:Attrape événement Pokémon – Semaine 4
-mission__battle:Bats-toi avec un Pokémon de type <type>
-mission__wondertrade:Échanger un Pokémon en Échange Miracle
+mission__battle:Combats en utilisant des Pokémon de type <type>
+mission__wondertrade:Échanger des Pokémon à la loterie
