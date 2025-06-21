@@ -98,7 +98,7 @@ PokemonStillAlive:Le Pokémon n'a pas besoin d'être réanimé
 PokemonNoStatusCondition:Le Pokémon n'est pas affecté par un problème de statut
 PokemonFullPP:Toutes les capacités sont à pleine PP
 sellConfirmMessage:Es-tu sûr de vouloir vendre ton {name} ?
-useConfirmMessage:Êtes-vous sûr de vouloir utiliser l'objet {item} sur {pkm} ?
+useConfirmMessage:Es-tu sûr de vouloir utiliser l'objet {name} sur {pkm} ?
 sellSuccess:Vous avez réussi la vente
 wonderPassNoCooldown:Votre Wonderpass n'est pas en cours de recharge !
 pokedailyNoCooldown:Votre Pokedaily n'est pas en cours de recharge !
@@ -127,7 +127,7 @@ sellLast:Tu ne peux pas vendre ton dernier Pokémon
 sellNotExists:Ce Pokémon n'existe plus
 sellNotYourPokemon:Ce n'est plus ton Pokémon
 sellPriceChanged:Le prix de vente de ton Pokémon a changé. Veuillez rafraîchir l'extension
-tradeCooldown:Temps de recharge: {time}
+tradeCooldown:Prochain échange: {time}
 tradeCooldownIsActive:Tu as déjà échangé par miracle ces 3 dernières heures
 changeSort:Changer le tri
 sortByID:ID
