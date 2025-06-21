@@ -1,0 +1,66 @@
+complete_weekly_missions:Wöchentliche Missionen abschließen
+catch:Fange ein Pokémon
+catch_with_type:Fange ein Pokémon vom Typ <type>
+catch_generation_pokemon:Fange ein Pokémon aus der Generation <extra>
+catch_tier_pokemon:Fange ein Pokémon der Stufe <extra>
+catch_with_ball:Fange ein Pokémon mit einem <ball>
+catch_with_iv:Fange ein Pokémon mit IV <compare> <value>
+catch_monotype:Fange ein Pokémon mit nur einem Typ
+catch_with_weight:Fange ein Pokémon mit einem Gewicht von <compare> <value> kg
+catch_with_speed:Fange ein Pokémon mit einer Initiative von <compare> <value>
+catch_with_specialAttack:Fange ein Pokémon mit Spezial-Angriff von <compare> <value>
+catch_with_specialDefense:Fange ein Pokémon mit Spezial-Verteidigung von <compare> <value>
+catch_with_attack:Fange ein Pokémon mit einem Angriff von <compare> <value>
+catch_with_defense:Fange ein Pokémon mit einer Verteidigung von <compare> <value>
+catch_with_hp:Fange ein Pokémon mit KP von <compare> <value>
+catch_with_stats:Fange ein Pokémon mit Basiswertsumme von <compare> <value>
+miss:Verfehle den Fang
+miss_with_type:Verfehle ein Pokémon vom Typ <type>
+miss_with_ball:Verfehle den Fang mit einem <ball>
+attempt_catch:Versuche, ein Pokémon zu fangen
+attempt_tier_catch:Versuche, ein Pokémon der Stufe <tier> zu fangen
+trade:Wundertausche ein Pokémon
+trade_lvl:Wundertausche ein Pokémon mit Level <compare> <value>
+trade_type:Wundertausche ein <type>-Typ-Pokémon
+trade_iv:Wundertausche ein Pokémon mit IV <compare> <value>
+trade_fish:Wundertausche ein fischähnliches Pokémon
+trade_with_weight:Wundertausche ein Pokémon mit einem Gewicht von <compare> <value> kg
+trade_with_speed:Wundertausche ein Pokémon mit Initiative <compare> <value>
+trade_with_specialAttack:Wundertausche ein Pokémon mit Spezialangriff <compare> <value>
+trade_with_specialDefense:Wundertausche ein Pokémon mit Spezialverteidigung <compare> <value>
+trade_with_attack:Wundertausche ein Pokémon mit Angriff <compare> <value>
+trade_with_defense:Wundertausche ein Pokémon mit Verteidigung <compare> <value>
+trade_with_hp:Wundertausche ein Pokémon mit KP <compare> <value>
+trade_with_bst:Wundertausche ein Pokémon mit Basiswertsumme <compare> <value>
+battle:Kämpfe mit einem <type>-Typ-Pokémon
+effective:Setze eine sehr effektive Attacke ein
+field_effect:Kämpfe unter einem Feldeffekt
+battle_stat_change:Setze eine Attacke ein, die Statuswerte verändert
+battle_fail_attacks_immunity:Ein Angriff schlägt fehl aufgrund von Immunität
+battle_defeat_cat_with_dog:Besiege ein Katzen-Pokémon mit einem Hunde-Pokémon
+defeat_stadium_hard_with_6_dog:Gewinne einen schweren Stadienkampf mit 6 Hunde-Pokémon
+play_stadium:Spiele einen Stadienkampf
+win_stadium:Gewinne einen Stadienkampf
+win_stadium_easy:Gewinne einen leichten Stadienkampf
+win_stadium_medium:Gewinne einen mittleren Stadienkampf
+win_stadium_hard:Gewinne einen schweren Stadienkampf
+win_stadium_type:Gewinne einen Stadienkampf mit nur {type}-Typ-Pokémon
+play_challenge:Spiele einen Herausforderungs-Kampf
+win_challenge:Gewinne einen Herausforderungs-Kampf
+play_ranked_battle:Spiele einen Ranglistenkampf
+win_ranked_battle:Gewinne einen Ranglistenkampf
+claim_pokedaily:Fordere deinen Pokédaily an
+pcg_event_catch_week1:Fange Pokémon – Event Woche 1
+pcg_event_catch_week2:Fange Pokémon – Event Woche 2
+pcg_event_catch_week3:Fange Pokémon – Event Woche 3
+throw_snowball:Wirf einen Schneeball
+team_of_the_week_6:Team der Woche – Woche 6
+team_of_the_week_7:Team der Woche – Woche 7
+wondertrade_chain:Wundertausch Pokémon (Kette)
+pcg_event_catch_gen_9:Fange ein Generation 9 Pokémon (Event)
+wondertrade_event_water:Tausche ein Wasser-Pokémon über den Wundertausch (Event)
+wondertrade_event_fire:Tausche ein Feuer-Pokémon über den Wundertausch (Event)
+wondertrade_event_grass:Tausche ein Pflanzen-Pokémon über den Wundertausch (Event)
+above:Oben
+below:Unten
+exactly:Genau

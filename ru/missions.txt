@@ -1,0 +1,66 @@
+complete_weekly_missions:Выполните еженедельные миссии
+catch:Поймать Покемона
+catch_with_type:Поймать Покемона типа <type>
+catch_generation_pokemon:Поймать Покемона из поколения <extra>
+catch_tier_pokemon:Поймать Покемона уровня <extra>
+catch_with_ball:Поймать Покемона с помощью <ball>
+catch_with_iv:Поймать Покемона с IV <compare> <value>
+catch_monotype:Поймать монотипного Покемона
+catch_with_weight:Поймать Покемона весом <compare> <value> кг
+catch_with_speed:Поймать Покемона со Скоростью <compare> <value>
+catch_with_specialAttack:Поймать Покемона со Спец. Атакой <compare> <value>
+catch_with_specialDefense:Поймать Покемона со Спец. Защитой <compare> <value>
+catch_with_attack:Поймать Покемона с Атакой <compare> <value>
+catch_with_defense:Поймать Покемона с Защитой <compare> <value>
+catch_with_hp:Поймать Покемона с HP <compare> <value>
+catch_with_stats:Поймать Покемона с Общим Показателем <compare> <value>
+miss:Промахнуться в поимке
+miss_with_type:Промахнуться по Покемону типа <type>
+miss_with_ball:Промахнуться в поимке с помощью <ball>
+attempt_catch:Попытка поймать Покемона
+attempt_tier_catch:Попытаться поймать покемона уровня <tier>
+trade:Чудо-обмен покемона
+trade_lvl:Чудо-обмен покемона уровнем <compare> <value>
+trade_type:Чудо-обмен покемона типа <type>
+trade_iv:Чудо-обмен покемона с IV <compare> <value>
+trade_fish:Чудо-обмен рыбоподобного покемона
+trade_with_weight:Чудо-обмен покемона с весом <compare> <value> кг
+trade_with_speed:Чудо-обмен покемона со Скоростью <compare> <value>
+trade_with_specialAttack:Чудо-обмен покемона с Особой Атакой <compare> <value>
+trade_with_specialDefense:Чудо-обмен покемона с Особой Защитой <compare> <value>
+trade_with_attack:Чудо-обмен покемона с Атакой <compare> <value>
+trade_with_defense:Чудо-обмен покемона с Защитой <compare> <value>
+trade_with_hp:Чудо-обмен покемона с ОЗ <compare> <value>
+trade_with_bst:Чудо-обмен покемона с Общим Статом <compare> <value>
+battle:Сражаться, используя покемона типа <type>
+effective:Использовать суперэффективный прием
+field_effect:Сражаться под воздействием поля
+battle_stat_change:Использовать движение, изменяющее статистику
+battle_fail_attacks_immunity:Не попасть из-за иммунитета
+battle_defeat_cat_with_dog:Победить покемона-кота покемоном-собакой
+defeat_stadium_hard_with_6_dog:Выиграй сложный бой на стадионе, используя 6 Покемон-собак
+play_stadium:Проведи бой на стадионе
+win_stadium:Выиграй бой на стадионе
+win_stadium_easy:Выиграй легкий бой на стадионе
+win_stadium_medium:Выиграй средний бой на стадионе
+win_stadium_hard:Выиграй сложный бой на стадионе
+win_stadium_type:Выиграй бой на стадионе, используя только Покемонов типа <type>
+play_challenge:Проведи испытательный бой
+win_challenge:Выиграй испытательный бой
+play_ranked_battle:Проведи рейтинговый бой
+win_ranked_battle:Выиграй рейтинговый бой
+claim_pokedaily:Получите ваш Покежедневный
+pcg_event_catch_week1:Поймай Покемона – Событие Неделя 1
+pcg_event_catch_week2:Поймай Покемона – Событие Неделя 2
+pcg_event_catch_week3:Поймай Покемона – Событие Неделя 3
+throw_snowball:Кинь снежок
+team_of_the_week_6:Команда недели – Неделя 6
+team_of_the_week_7:Команда недели – Неделя 7
+wondertrade_chain:Чудо-обмен Покемонами (Цепочка)
+pcg_event_catch_gen_9:Поймай Покемона Поколения 9 (Событие)
+wondertrade_event_water:Удивительный обмен в Покемон Воды (Событие)
+wondertrade_event_fire:Удивительный обмен в Покемон Огня (Событие)
+wondertrade_event_grass:Удивительный обмен в Покемон Травы (Событие)
+above:Выше
+below:Ниже
+exactly:Точно

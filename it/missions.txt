@@ -1,0 +1,66 @@
+complete_weekly_missions:Completa tutte le missioni settimanali
+catch:Cattura un Pokémon
+catch_with_type:Cattura un Pokémon di tipo <type>
+catch_generation_pokemon:Cattura un Pokémon della Generazione <extra>
+catch_tier_pokemon:Cattura un Pokémon di classe <extra>
+catch_with_ball:Cattura un Pokémon usando una <ball>
+catch_with_iv:Cattura un Pokémon con IV <compare> <value>
+catch_monotype:Cattura un Pokémon monotipo
+catch_with_weight:Cattura un Pokémon che pesa <compare> <value> kg
+catch_with_speed:Cattura un Pokémon con Velocità <compare> <value>
+catch_with_specialAttack:Cattura un Pokémon con Attacco Speciale <compare> <value>
+catch_with_specialDefense:Cattura un Pokémon con Difesa Speciale <compare> <value>
+catch_with_attack:Cattura un Pokémon con Attacco <compare> <value>
+catch_with_defense:Cattura un Pokémon con Difesa <compare> <value>
+catch_with_hp:Cattura un Pokémon con HP <compare> <value>
+catch_with_stats:Cattura un Pokémon con un totale di statistiche base <compare> <value>
+miss:Manca una cattura
+miss_with_type:Manca un Pokémon di tipo <type>
+miss_with_ball:Manca una cattura usando una <ball>
+attempt_catch:Tenta di catturare Pokémon
+attempt_tier_catch:Tenta di catturare un Pokémon di livello <tier>
+trade:Scambia un Pokémon misteriosamente
+trade_lvl:Scambia un Pokémon misteriosamente con livello <compare> <value>
+trade_type:Scambia un Pokémon misteriosamente di tipo <type>
+trade_iv:Scambia un Pokémon misteriosamente con IV <compare> <value>
+trade_fish:Scambia un Pokémon misteriosamente simile a un pesce
+trade_with_weight:Scambia un Pokémon misteriosamente che pesa <compare> <value> kg
+trade_with_speed:Scambia un Pokémon misteriosamente con Velocità <compare> <value>
+trade_with_specialAttack:Scambia un Pokémon misteriosamente con Attacco Speciale <compare> <value>
+trade_with_specialDefense:Scambia un Pokémon misteriosamente con Difesa Speciale <compare> <value>
+trade_with_attack:Scambia un Pokémon misteriosamente con Attacco <compare> <value>
+trade_with_defense:Scambia un Pokémon misteriosamente con Difesa <compare> <value>
+trade_with_hp:Scambia un Pokémon misteriosamente con PS <compare> <value>
+trade_with_bst:Scambia un Pokémon misteriosamente con Stat Totali di Base <compare> <value>
+battle:Combatti con un Pokémon di tipo <type>
+effective:Usa una mossa superefficace
+field_effect:Combatti sotto un effetto di campo
+battle_stat_change:Usa una mossa che cambia le statistiche
+battle_fail_attacks_immunity:Il colpo fallisce a causa dell'immunità
+battle_defeat_cat_with_dog:Sconfiggi un Pokémon gatto con un Pokémon cane
+defeat_stadium_hard_with_6_dog:Vinci una battaglia difficile allo stadio usando 6 Pokémon cani
+play_stadium:Gioca una battaglia allo stadio
+win_stadium:Vinci una battaglia allo stadio
+win_stadium_easy:Vinci una battaglia facile allo stadio
+win_stadium_medium:Vinci una battaglia media allo stadio
+win_stadium_hard:Vinci una battaglia difficile allo stadio
+win_stadium_type:Vinci una battaglia allo stadio usando solo Pokémon di tipo {type}
+play_challenge:Gioca una battaglia di sfida
+win_challenge:Vinci una battaglia di sfida
+play_ranked_battle:Gioca una battaglia classificata
+win_ranked_battle:Vinci una battaglia classificata
+claim_pokedaily:Riscatta il tuo Pokédaily
+pcg_event_catch_week1:Cattura Pokémon – Evento Settimana 1
+pcg_event_catch_week2:Cattura Pokémon – Evento Settimana 2
+pcg_event_catch_week3:Cattura Pokémon – Evento Settimana 3
+throw_snowball:Lancia una palla di neve
+team_of_the_week_6:Squadra della Settimana – Settimana 6
+team_of_the_week_7:Squadra della Settimana – Settimana 7
+wondertrade_chain:Scambio prodigioso Pokémon (Catena)
+pcg_event_catch_gen_9:Cattura un Pokémon di Generazione 9 (Evento)
+wondertrade_event_water:Scambia meraviglia un Pokémon di tipo Acqua (Evento)
+wondertrade_event_fire:Scambia meraviglia un Pokémon di tipo Fuoco (Evento)
+wondertrade_event_grass:Scambia meraviglia un Pokémon di tipo Erba (Evento)
+above:Sopra
+below:Sotto
+exactly:Esattamente

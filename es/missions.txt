@@ -1,0 +1,66 @@
+complete_weekly_missions:Completa las misiones semanales
+catch:Atrapa un Pokémon
+catch_with_type:Atrapa un Pokémon de tipo <type>
+catch_generation_pokemon:Atrapa un Pokémon de la Generación <extra>
+catch_tier_pokemon:Atrapa un Pokémon de nivel <extra>
+catch_with_ball:Atrapa un Pokémon usando una <ball>
+catch_with_iv:Atrapa un Pokémon con IV <compare> <value>
+catch_monotype:Atrapa un Pokémon de un solo tipo
+catch_with_weight:Atrapa un Pokémon que pese <compare> <value> kg
+catch_with_speed:Atrapa un Pokémon con Velocidad <compare> <value>
+catch_with_specialAttack:Atrapa un Pokémon con Ataque Especial <compare> <value>
+catch_with_specialDefense:Atrapa un Pokémon con Defensa Especial <compare> <value>
+catch_with_attack:Atrapa un Pokémon con Ataque <compare> <value>
+catch_with_defense:Atrapa un Pokémon con Defensa <compare> <value>
+catch_with_hp:Atrapa un Pokémon con PS <compare> <value>
+catch_with_stats:Atrapa un Pokémon con un Total de Estadísticas Base <compare> <value>
+miss:Falla en atrapar
+miss_with_type:Falla en atrapar un Pokémon de tipo <type>
+miss_with_ball:Falla en atrapar usando una <ball>
+attempt_catch:Intenta atrapar un Pokémon
+attempt_tier_catch:Intenta atrapar un Pokémon de nivel <tier>
+trade:Intercambio Maravilloso de un Pokémon
+trade_lvl:Intercambio Maravilloso de un Pokémon con nivel <compare> <value>
+trade_type:Intercambio Maravilloso de un Pokémon de tipo <type>
+trade_iv:Intercambio Maravilloso de un Pokémon con IV <compare> <value>
+trade_fish:Intercambio Maravilloso de un Pokémon semejante a un pez
+trade_with_weight:Intercambio Maravilloso de un Pokémon que pese <compare> <value> kg
+trade_with_speed:Intercambio Maravilloso de un Pokémon con Velocidad <compare> <value>
+trade_with_specialAttack:Intercambio Maravilloso de un Pokémon con Ataque Especial <compare> <value>
+trade_with_specialDefense:Intercambio Maravilloso de un Pokémon con Defensa Especial <compare> <value>
+trade_with_attack:Intercambio Maravilloso de un Pokémon con Ataque <compare> <value>
+trade_with_defense:Intercambio Maravilloso de un Pokémon con Defensa <compare> <value>
+trade_with_hp:Intercambio Maravilloso de un Pokémon con PS <compare> <value>
+trade_with_bst:Intercambio Maravilloso de un Pokémon con Total de Estadísticas Base <compare> <value>
+battle:Batalla usando un Pokémon de tipo <type>
+effective:Usa un movimiento súper eficaz
+field_effect:Batalla bajo un efecto de campo
+battle_stat_change:Usa un movimiento que cambia las estadísticas
+battle_fail_attacks_immunity:Falla al atacar debido a la inmunidad
+battle_defeat_cat_with_dog:Derrota un Pokémon gato con un Pokémon perro
+defeat_stadium_hard_with_6_dog:Gana una batalla de estadio difícil usando 6 Pokémon perro
+play_stadium:Juega una batalla de estadio
+win_stadium:Gana una batalla de estadio
+win_stadium_easy:Gana una batalla de estadio fácil
+win_stadium_medium:Gana una batalla de estadio media
+win_stadium_hard:Gana una batalla de estadio difícil
+win_stadium_type:Gana una batalla de estadio usando solo Pokémon de tipo {type}
+play_challenge:Juega una batalla de desafío
+win_challenge:Gana una batalla de desafío
+play_ranked_battle:Juega una batalla clasificatoria
+win_ranked_battle:Gana una batalla clasificatoria
+claim_pokedaily:Reclama tu Pokédaily
+pcg_event_catch_week1:Atrapa Pokémon – Evento Semana 1
+pcg_event_catch_week2:Atrapa Pokémon – Evento Semana 2
+pcg_event_catch_week3:Atrapa Pokémon – Evento Semana 3
+throw_snowball:Lanza una bola de nieve
+team_of_the_week_6:Equipo de la Semana – Semana 6
+team_of_the_week_7:Equipo de la Semana – Semana 7
+wondertrade_chain:Intercambio Maravilloso de Pokémon (Cadena)
+pcg_event_catch_gen_9:Atrapa un Pokémon de la Generación 9 (Evento)
+wondertrade_event_water:Intercambio prodigioso de un Pokémon de tipo Agua (Evento)
+wondertrade_event_fire:Intercambio prodigioso de un Pokémon de tipo Fuego (Evento)
+wondertrade_event_grass:Intercambio prodigioso de un Pokémon de tipo Planta (Evento)
+above:En alto
+below:Debajo
+exactly:Exactamente

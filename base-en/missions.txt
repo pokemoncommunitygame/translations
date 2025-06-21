@@ -1,0 +1,91 @@
+complete_weekly_missions:Complete weekly missions
+
+# Catch / Miss
+catch:Catch a Pokémon
+catch_with_type:Catch a <type>-type Pokémon
+catch_generation_pokemon:Catch a Pokémon from Generation <extra>
+catch_tier_pokemon:Catch a <extra>-tier Pokémon
+catch_with_ball:Catch a Pokémon using a <ball>
+catch_with_iv:Catch a Pokémon with IV <compare> <value>
+catch_monotype:Catch a monotype Pokémon
+
+catch_with_weight:Catch a Pokémon weighing <compare> <value> kg
+catch_with_speed:Catch a Pokémon with Speed <compare> <value>
+catch_with_specialAttack:Catch a Pokémon with Special Attack <compare> <value>
+catch_with_specialDefense:Catch a Pokémon with Special Defense <compare> <value>
+catch_with_attack:Catch a Pokémon with Attack <compare> <value>
+catch_with_defense:Catch a Pokémon with Defense <compare> <value>
+catch_with_hp:Catch a Pokémon with HP <compare> <value>
+catch_with_stats:Catch a Pokémon with Base Stat Total <compare> <value>
+
+miss:Miss a catch
+miss_with_type:Miss a <type>-type Pokémon
+miss_with_ball:Miss a catch using a <ball>
+
+attempt_catch:Attempt to catch Pokémon
+attempt_tier_catch:Attempt to catch <tier>-tier Pokémon
+
+# Trade
+trade:Wonder Trade a Pokémon
+trade_lvl:Wonder Trade a Pokémon with level <compare> <value>
+trade_type:Wonder Trade a <type>-type Pokémon
+trade_iv:Wonder Trade a Pokémon with IV <compare> <value>
+trade_fish:Wonder Trade a fish-like Pokémon
+
+trade_with_weight:Wonder Trade a Pokémon weighing <compare> <value> kg
+trade_with_speed:Wonder Trade a Pokémon with Speed <compare> <value>
+trade_with_specialAttack:Wonder Trade a Pokémon with Special Attack <compare> <value>
+trade_with_specialDefense:Wonder Trade a Pokémon with Special Defense <compare> <value>
+trade_with_attack:Wonder Trade a Pokémon with Attack <compare> <value>
+trade_with_defense:Wonder Trade a Pokémon with Defense <compare> <value>
+trade_with_hp:Wonder Trade a Pokémon with HP <compare> <value>
+trade_with_bst:Wonder Trade a Pokémon with Base Stat Total <compare> <value>
+
+# Battle
+battle:Battle using a <type>-type Pokémon
+effective:Use a super-effective move
+field_effect:Battle under a field effect
+battle_stat_change:Use a move that changes stats
+battle_fail_attacks_immunity:Fail to hit due to immunity
+
+battle_defeat_cat_with_dog:Defeat a cat Pokémon with a dog Pokémon
+defeat_stadium_hard_with_6_dog:Win a hard stadium battle using 6 dog Pokémon
+
+play_stadium:Play a stadium battle
+win_stadium:Win a stadium battle
+win_stadium_easy:Win an easy stadium battle
+win_stadium_medium:Win a medium stadium battle
+win_stadium_hard:Win a hard stadium battle
+win_stadium_type:Win a stadium battle using only <type>-type Pokémon
+
+play_challenge:Play a challenge battle
+win_challenge:Win a challenge battle
+
+play_ranked_battle:Play a ranked battle
+win_ranked_battle:Win a ranked battle
+
+# Other
+claim_pokedaily:Claim your Pokédaily
+
+# Events
+pcg_event_catch_week1:Catch Pokémon – Event Week 1
+pcg_event_catch_week2:Catch Pokémon – Event Week 2
+pcg_event_catch_week3:Catch Pokémon – Event Week 3
+
+# Christmas
+throw_snowball:Throw a snowball
+
+# TMP / Misc Events
+team_of_the_week_6:Team of the Week – Week 6
+team_of_the_week_7:Team of the Week – Week 7
+wondertrade_chain:Wonder Trade Pokémon (Chain)
+pcg_event_catch_gen_9:Catch a Generation 9 Pokémon (Event)
+
+wondertrade_event_water:Wonder Trade a Water-type Pokémon (Event)
+wondertrade_event_fire:Wonder Trade a Fire-type Pokémon (Event)
+wondertrade_event_grass:Wonder Trade a Grass-type Pokémon (Event)
+
+// compare
+above:Above
+below:Below
+exactly:Exactly
