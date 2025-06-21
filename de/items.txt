@@ -18,7 +18,7 @@ iv_reset:IV-Reset
 iv_resetDescription:Verändert die individuellen Werte eines Pokémon vollständig.
 wonder_pass:Wunder-Pass
 wonder_passDescription:Ein seltener Pass, der es dir ermöglicht, sofort wieder zu wundertauschen.
-friend_ball:Friendball
+friend_ball:Freundesball
 friend_ballDescription:Ein hübscher Ball, der effektiver bei Pokémon ist, die den gleichen Typ wie dein Buddy-Pokémon haben.
 mood_mint:Mysteriöse Minze
 mood_mintDescription:Leckere Minze, die die Natur deines Pokémon vollständig verändert.
