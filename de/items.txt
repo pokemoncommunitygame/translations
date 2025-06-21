@@ -116,7 +116,7 @@ luxury_ball:Luxusball
 luxury_ballDescription:Ein seltener Ball mit schickem Aussehen. Erhöht massiv den Verkaufswert eines mit ihm gefangenen Pokémon.
 clone_ball:Klonball
 clone_ballDescription:Ein experimenteller Ball, der ein zweites Pokémon aus dem ursprünglichen erzeugt, das du mit diesem Ball fängst.
-ultra_cherish_ball:Ultra-Verehrerball
+ultra_cherish_ball:Hyper-Jubelball
 ultra_cherish_ballDescription:Ein modifizierter Verehrerball mit besserer Fangrate. Hat eine höhere Chance, ein schillerndes Pokémon zu fangen.
 premier_ball:Premierball
 premier_ballDescription:Ein etwas seltener Pokéball, der als Gedenkgegenstand zur Feier eines bestimmten Ereignisses hergestellt wurde. Wird automatisch geworfen, wenn du keinen Pokéball mehr hast.
@@ -140,13 +140,13 @@ ultra_ball:Ultraball
 ultra_ballDescription:Ein ultra-leistungsfähiger Pokéball, der eine höhere Erfolgsrate bietet als ein Superball beim Fangen von Pokémon.
 rare_candy:Seltenes Bonbon
 rare_candyDescription:Erhöht das Level des ausgewählten Pokémon um fünf.
-cherish_ball:Luxusball
+cherish_ball:Jubelball
 cherish_ballDescription:Ein ziemlich seltener Pokéball, der gefertigt wurde, um eine besondere Gelegenheit zu feiern. Erhöhte Chance, ein schillerndes Pokémon zu erhalten.
 alpha_ball:Alpha Ball
 alpha_ballDescription:nix
 mysterious_crystal:Geheimnisvoller Kristall
 mysterious_crystalDescription:Ein schimmernder Kristall. Herkunft und Verwendung sind unbekannt. 👀 Schillernde Besitzer 👀
-great_cherish_ball:Großer Luxusball
+great_cherish_ball:Super-Jubelball
 great_cherish_ballDescription:Ein modifizierter Luxusball mit einer besseren Fangrate. Hat eine höhere Chance, ein schillerndes Pokémon zu fangen.
 stone_ball:Steinball
 stone_ballDescription:Ein seltener Ball mit erhöhter Chance, einen Entwicklungsstein zu erhalten.
