@@ -19,9 +19,9 @@ miss_with_type:Промахнуться покемоном типа <type>
 miss_with_ball:Промахнуться с <ball>
 attempt_catch:Попытка поймать Покемона
 attempt_tier_catch:Попытаться поймать покемона уровня <tier>
-trade_lvl:Обменяться покемоном через Чудообмен с уровнем <compare> <value>
+trade_lvl:Обменять Покемона на Чудообмен уровня <compare> <value>
 trade_type:Чудо-обмен покемона типа <type>
-trade_iv:Чудо-обмен покемона с IV <compare> <value>
+trade_iv:Обменять Покемона на Чудообмен с <compare> <value> IV
 trade_fish:Чудо-обмен рыбоподобного покемона
 trade_with_weight:Чудо-обмен покемона с весом <compare> <value> кг
 trade_with_speed:Чудо-обмен покемона со Скоростью <compare> <value>
@@ -37,12 +37,12 @@ battle_stat_change:Использовать движение, изменяюще
 battle_fail_attacks_immunity:Не попасть из-за иммунитета
 battle_defeat_cat_with_dog:Победить покемона-кота покемоном-собакой
 defeat_stadium_hard_with_6_dog:Выиграй сложный бой на стадионе, используя 6 Покемон-собак
-play_stadium:Проведи бой на стадионе
-win_stadium:Выиграй бой на стадионе
-win_stadium_easy:Выиграй легкий бой на стадионе
-win_stadium_medium:Победить в средней битве на стадионе
-win_stadium_hard:Победить в сложной битве на стадионе
-win_stadium_type:Победить на стадионе, используя только покемонов типа <type>
+play_stadium:Играть в стадионные битвы
+win_stadium:Победить в стадионных битвах
+win_stadium_easy:Победить в лёгких стадионных битвах
+win_stadium_medium:Победить в средних стадионных битвах
+win_stadium_hard:Победить в сложных стадионных битвах
+win_stadium_type:Победить в стадионных битвах, используя только Покемонов типа <type>
 play_challenge:Участвовать в испытательной битве
 win_challenge:Победить в испытательной битве
 play_ranked_battle:Участвовать в рейтинговой битве
@@ -59,9 +59,9 @@ pcg_event_catch_gen_9:Поймать покемона поколения 9 (Со
 wondertrade_event_water:Обменять покемона водного типа через Чудо-обмен (Событие)
 wondertrade_event_fire:Обменять покемона огненного типа через Чудо-обмен (Событие)
 wondertrade_event_grass:Обменять покемона травяного типа через Чудо-обмен (Событие)
-above:Выше
-below:Ниже
-exactly:Точно
+above:выше
+below:ниже
+exactly:точно
 pcg_event_catch_week4:Ловите эвент Покемонов – Неделя 4
 mission__battle:Сразитесь, используя покемона типа <type>
 mission__wondertrade:Обменяться покемоном через Чудообмен

@@ -19,9 +19,9 @@ miss_with_type:Falha ao capturar Pokémon do tipo <type>
 miss_with_ball:Falha ao capturar usando <ball>
 attempt_catch:Tenha a chance de pegar um Pokémon
 attempt_tier_catch:Tente capturar um Pokémon de nível <tier>
-trade_lvl:Troque Pokémon no Wondertrade com nível <compare> <value>
+trade_lvl:Trocar Pokémon Wondertrade <compare> nível <value>
 trade_type:Wondertrade Pokémon do tipo <type>
-trade_iv:Wondertrade Pokémon com IV <compare> <value>
+trade_iv:Trocar Pokémon Wondertrade <compare> <value> IV
 trade_fish:Wondertrade Pokémon tipo peixe
 trade_with_weight:Wondertrade Pokémon pesando <compare> <value> kg
 trade_with_speed:Wondertrade Pokémon com Velocidade <compare> <value>
@@ -37,12 +37,12 @@ battle_stat_change:Usar golpe que altera stats
 battle_fail_attacks_immunity:Falhe ao atacar devido à imunidade
 battle_defeat_cat_with_dog:Derrotar Pokémon gato com Pokémon cachorro
 defeat_stadium_hard_with_6_dog:Vencer batalha difícil no estádio usando 6 Pokémon cachorro
-play_stadium:Jogar batalha no estádio
-win_stadium:Vencer batalha no estádio
-win_stadium_easy:Vencer batalha fácil no estádio
-win_stadium_medium:Vencer batalha de estádio médio
-win_stadium_hard:Vencer batalha de estádio difícil
-win_stadium_type:Vencer batalha de estádio usando apenas Pokémon do tipo {<type>}
+play_stadium:Jogar batalhas no estádio
+win_stadium:Vencer batalhas no estádio
+win_stadium_easy:Vencer batalhas fáceis no estádio
+win_stadium_medium:Vencer batalhas médias no estádio
+win_stadium_hard:Vencer batalhas difíceis no estádio
+win_stadium_type:Vencer batalhas no estádio usando apenas Pokémon do tipo <type>
 play_challenge:Participar de batalha de desafio
 win_challenge:Vencer batalha de desafio
 play_ranked_battle:Participar de batalha ranqueada
@@ -59,9 +59,9 @@ pcg_event_catch_gen_9:Capturar Pokémon da Geração 9 (Evento)
 wondertrade_event_water:Troca Mágica de Pokémon do tipo Água (Evento)
 wondertrade_event_fire:Troca Mágica de Pokémon do tipo Fogo (Evento)
 wondertrade_event_grass:Troca Mágica de Pokémon do tipo Grama (Evento)
-above:Acima
-below:Abaixo
-exactly:Exatamente
+above:acima
+below:abaixo
+exactly:exatamente
 pcg_event_catch_week4:Catch event Pokémon – Semana 4
 mission__battle:Batalhar usando Pokémon do tipo <type>
 mission__wondertrade:Troque Pokémon no Wondertrade

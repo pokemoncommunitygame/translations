@@ -166,3 +166,5 @@ fantasy_ball:Balle Fantastique
 fantasy_ballDescription:Une balle enchantée, la plus efficace lorsqu'elle est utilisée sur des créatures de type Fée et Dragon.
 geo_ball:Geo ball
 geo_ballDescription:Une balle robuste, la plus efficace lorsqu'elle est utilisée sur des créatures de type Roche et Sol.
+common_present:Présent
+common_presentDescription:Entrez dans un chat et tapez !pokegift pour rendre les autres joueurs heureux ! 🎅

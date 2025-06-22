@@ -166,3 +166,5 @@ fantasy_ball:Fantasieball
 fantasy_ballDescription:Ein verzauberter Ball, am effektivsten bei Feen- und Drachen-Wesen.
 geo_ball:Geo-Ball
 geo_ballDescription:Ein robuster Ball, am effektivsten bei Fels- und Boden-Wesen.
+common_present:Geschenk
+common_presentDescription:Tritt einem Chat bei und tippe !pokegift ein, um anderen Spielern eine Freude zu machen! 🎅

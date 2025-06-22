@@ -19,9 +19,9 @@ miss_with_type:Verfehle Pokémon vom Typ <type>
 miss_with_ball:Fangversuch verfehlt mit einem <ball>
 attempt_catch:Versuche, ein Pokémon zu fangen
 attempt_tier_catch:Versuche, ein Pokémon der Stufe <tier> zu fangen
-trade_lvl:Tausche Pokémon im Wundertausch mit Level <compare> <value>
+trade_lvl:Wundertausche Pokémon <compare> Level <value>
 trade_type:Wondertrade Pokémon vom Typ <type>
-trade_iv:Wondertrade Pokémon mit IV <compare> <value>
+trade_iv:Wundertausche Pokémon <compare> <value> IV
 trade_fish:Wondertrade fischähnliche Pokémon
 trade_with_weight:Wondertrade Pokémon mit einem Gewicht von <compare> <value> kg
 trade_with_speed:Wondertrade Pokémon mit Initiative <compare> <value>
@@ -37,12 +37,12 @@ battle_stat_change:Setze eine Attacke ein, die Statuswerte verändert
 battle_fail_attacks_immunity:Ein Angriff schlägt fehl aufgrund von Immunität
 battle_defeat_cat_with_dog:Besiege Katzen-Pokémon mit Hunde-Pokémon
 defeat_stadium_hard_with_6_dog:Gewinne ein schwieriges Stadion-Match mit 6 Hunde-Pokémon
-play_stadium:Spiele ein Stadion-Match
-win_stadium:Gewinne ein Stadion-Match
-win_stadium_easy:Gewinne ein einfaches Stadion-Match
-win_stadium_medium:Gewinne das mittlere Stadion-Kampf
-win_stadium_hard:Gewinne das schwere Stadion-Kampf
-win_stadium_type:Gewinne das Stadion-Kampf mit nur {type}-Typ Pokémon
+play_stadium:Stadionkämpfe spielen
+win_stadium:Stadionkämpfe gewinnen
+win_stadium_easy:Einfache Stadionkämpfe gewinnen
+win_stadium_medium:Mittlere Stadionkämpfe gewinnen
+win_stadium_hard:Schwere Stadionkämpfe gewinnen
+win_stadium_type:Stadionkämpfe nur mit Pokémon vom Typ <type> gewinnen
 play_challenge:Spiele Herausforderungs-Kampf
 win_challenge:Gewinne Herausforderungs-Kampf
 play_ranked_battle:Spiele Ranglistenkampf
@@ -59,9 +59,9 @@ pcg_event_catch_gen_9:Fange Pokémon der 9. Generation (Event)
 wondertrade_event_water:Tausche Wasser-Typ Pokémon durch Wundertausch (Event)
 wondertrade_event_fire:Tausche Feuer-Typ Pokémon durch Wundertausch (Event)
 wondertrade_event_grass:Tausche Pflanzen-Typ Pokémon durch Wundertausch (Event)
-above:Oben
-below:Unten
-exactly:Genau
+above:über
+below:unter
+exactly:genau
 pcg_event_catch_week4:Fange Event-Pokémon – Woche 4
 mission__battle:Kämpfe mit einem <type>-Typ-Pokémon
 mission__wondertrade:Tausche Pokémon in der Wundertausch

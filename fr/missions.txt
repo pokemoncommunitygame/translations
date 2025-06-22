@@ -19,9 +19,9 @@ miss_with_type:Rater un Pokémon de type <type>
 miss_with_ball:Rater la capture en utilisant une <ball>
 attempt_catch:Tente de capturer un Pokémon
 attempt_tier_catch:Tenter de capturer un Pokémon de niveau <tier>
-trade_lvl:Échanger des Pokémon à la loterie avec un niveau <compare> <value>
+trade_lvl:Échange miracle de Pokémon <compare> niveau <value>
 trade_type:Wondertrade Pokémon de type <type>
-trade_iv:Wondertrade Pokémon avec IV <compare> <value>
+trade_iv:Échange miracle de Pokémon <compare> <value> IV
 trade_fish:Wondertrade Pokémon ressemblant à un poisson
 trade_with_weight:Wondertrade Pokémon pesant <compare> <value> kg
 trade_with_speed:Wondertrade Pokémon avec Vitesse <compare> <value>
@@ -37,12 +37,12 @@ battle_stat_change:Utiliser une attaque qui change les stats
 battle_fail_attacks_immunity:Échouer à toucher à cause de l'immunité
 battle_defeat_cat_with_dog:Vaincre des Pokémon chat avec des Pokémon chien
 defeat_stadium_hard_with_6_dog:Gagne le combat de stade difficile en utilisant 6 Pokémon chien
-play_stadium:Jouer un combat de stade
-win_stadium:Gagner un combat de stade
-win_stadium_easy:Gagner un combat de stade facile
-win_stadium_medium:Gagner le combat de stade moyen
-win_stadium_hard:Gagner le combat de stade difficile
-win_stadium_type:Gagner le combat de stade en utilisant uniquement des Pokémon de type <type>
+play_stadium:Participer aux combats de stade
+win_stadium:Gagner des combats de stade
+win_stadium_easy:Gagner des combats de stade faciles
+win_stadium_medium:Gagner des combats de stade moyens
+win_stadium_hard:Gagner des combats de stade difficiles
+win_stadium_type:Gagner des combats de stade en utilisant uniquement des Pokémon de type <type>
 play_challenge:Jouer le combat de défi
 win_challenge:Gagner le combat de défi
 play_ranked_battle:Jouer le combat classé
@@ -59,9 +59,9 @@ pcg_event_catch_gen_9:Attraper un Pokémon de la génération 9 (Événement)
 wondertrade_event_water:Échange Miracle de Pokémon de type Eau (Événement)
 wondertrade_event_fire:Échange Miracle de Pokémon de type Feu (Événement)
 wondertrade_event_grass:Échange Miracle de Pokémon de type Plante (Événement)
-above:Au-dessus
-below:En dessous
-exactly:Exactement
+above:au-dessus
+below:au-dessous
+exactly:exactement
 pcg_event_catch_week4:Attrape événement Pokémon – Semaine 4
 mission__battle:Combats en utilisant des Pokémon de type <type>
 mission__wondertrade:Échanger des Pokémon à la loterie

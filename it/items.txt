@@ -166,3 +166,5 @@ fantasy_ball:Sfera Fantasia
 fantasy_ballDescription:Una sfera incantata, più efficace se usata su creature di tipo Folletto e Drago.
 geo_ball:Sfera Geologica
 geo_ballDescription:Una sfera robusta, più efficace se usata su creature di tipo Roccia e Terra.
+common_present:Presente
+common_presentDescription:Entra in chat e digita !pokegift per rendere felici gli altri giocatori! 🎅

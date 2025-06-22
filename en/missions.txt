@@ -19,9 +19,9 @@ miss_with_type:Miss <type>-type Pokémon
 miss_with_ball:Miss catch using <ball>
 attempt_catch:Attempt to catch Pokémon
 attempt_tier_catch:Attempt to catch <tier>-tier Pokémon
-trade_lvl:Wondertrade Pokémon with level <compare> <value>
+trade_lvl:Wondertrade Pokémon <compare> level <value>
 trade_type:Wondertrade <type>-type Pokémon
-trade_iv:Wondertrade Pokémon with IV <compare> <value>
+trade_iv:Wondertrade Pokémon <compare> <value> IV
 trade_fish:Wondertrade fish-like Pokémon
 trade_with_weight:Wondertrade Pokémon weighing <compare> <value> kg
 trade_with_speed:Wondertrade Pokémon with Speed <compare> <value>
@@ -37,12 +37,12 @@ battle_stat_change:Use move that changes stats
 battle_fail_attacks_immunity:Fail to hit due to immunity
 battle_defeat_cat_with_dog:Defeat cat Pokémon with dog Pokémon
 defeat_stadium_hard_with_6_dog:Win hard stadium battle using 6 dog Pokémon
-play_stadium:Play stadium battle
-win_stadium:Win stadium battle
-win_stadium_easy:Win easy stadium battle
-win_stadium_medium:Win medium stadium battle
-win_stadium_hard:Win hard stadium battle
-win_stadium_type:Win stadium battle using only <type>-type Pokémon
+play_stadium:Play stadium battles
+win_stadium:Win stadium battles
+win_stadium_easy:Win easy stadium battles
+win_stadium_medium:Win medium stadium battles
+win_stadium_hard:Win hard stadium battles
+win_stadium_type:Win stadium battles using only <type>-type Pokémon
 play_challenge:Play challenge battle
 win_challenge:Win challenge battle
 play_ranked_battle:Play ranked battle
@@ -59,9 +59,9 @@ pcg_event_catch_gen_9:Catch Generation 9 Pokémon (Event)
 wondertrade_event_water:Wonder Trade Water-type Pokémon (Event)
 wondertrade_event_fire:Wonder Trade Fire-type Pokémon (Event)
 wondertrade_event_grass:Wonder Trade Grass-type Pokémon (Event)
-above:Above
-below:Below
-exactly:Exactly
+above:above
+below:below
+exactly:exactly
 pcg_event_catch_week4:Catch event Pokémon – Week 4
 mission__battle:Battle using <type>-type Pokémon
 mission__wondertrade:Wondertrade Pokémon

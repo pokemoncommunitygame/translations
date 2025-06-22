@@ -19,9 +19,9 @@ miss_with_type:Falla al capturar Pokémon de tipo <type>
 miss_with_ball:Falla al capturar usando <ball>
 attempt_catch:Intenta atrapar un Pokémon
 attempt_tier_catch:Intenta atrapar un Pokémon de nivel <tier>
-trade_lvl:Intercambia Pokémon maravilla con nivel <compare> <value>
+trade_lvl:Intercambia Pokémon nivel <value> <compare>
 trade_type:Intercambio Maravilloso Pokémon de tipo <type>
-trade_iv:Intercambio Maravilloso Pokémon con IV <compare> <value>
+trade_iv:Intercambia Pokémon <value> IV <compare>
 trade_fish:Intercambio Maravilloso Pokémon tipo pez
 trade_with_weight:Intercambio Maravilloso Pokémon que pesa <compare> <value> kg
 trade_with_speed:Intercambio Maravilloso Pokémon con Velocidad <compare> <value>
@@ -37,12 +37,12 @@ battle_stat_change:Usa un movimiento que cambia estadísticas
 battle_fail_attacks_immunity:Falla al atacar debido a la inmunidad
 battle_defeat_cat_with_dog:Derrota a Pokémon gato con Pokémon perro
 defeat_stadium_hard_with_6_dog:Gana batalla de estadio difícil usando 6 Pokémon perro
-play_stadium:Juega batalla de estadio
-win_stadium:Gana batalla de estadio
-win_stadium_easy:Gana batalla de estadio fácil
-win_stadium_medium:Gana la batalla del estadio medio
-win_stadium_hard:Gana la batalla del estadio difícil
-win_stadium_type:Gana la batalla del estadio usando solo Pokémon de tipo <type>
+play_stadium:Jugar batallas en el estadio
+win_stadium:Ganar batallas en el estadio
+win_stadium_easy:Ganar batallas fáciles en el estadio
+win_stadium_medium:Ganar batallas medias en el estadio
+win_stadium_hard:Ganar batallas difíciles en el estadio
+win_stadium_type:Ganar batallas en el estadio usando solo Pokémon de tipo <type>
 play_challenge:Juega batalla de desafío
 win_challenge:Gana la batalla de desafío
 play_ranked_battle:Juega batalla clasificada
@@ -59,9 +59,9 @@ pcg_event_catch_gen_9:Atrapa Pokémon de la Generación 9 (Evento)
 wondertrade_event_water:Intercambio prodigioso de Pokémon tipo Agua (Evento)
 wondertrade_event_fire:Intercambio prodigioso de Pokémon tipo Fuego (Evento)
 wondertrade_event_grass:Intercambio prodigioso de Pokémon tipo Planta (Evento)
-above:En alto
-below:Debajo
-exactly:Exactamente
+above:arriba
+below:abajo
+exactly:exactamente
 pcg_event_catch_week4:Captura evento Pokémon – Semana 4
 mission__battle:Combate usando Pokémon de tipo <type>
 mission__wondertrade:Intercambia Pokémon maravilla

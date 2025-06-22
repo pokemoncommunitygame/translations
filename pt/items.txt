@@ -166,3 +166,5 @@ fantasy_ball:Bola Fantasia
 fantasy_ballDescription:Uma bola encantada, mais eficaz quando usada em criaturas do tipo Fada e Dragão.
 geo_ball:Bola Geo
 geo_ballDescription:Uma bola resistente, mais eficaz quando usada em criaturas do tipo Rocha e Terra.
+common_present:Presente
+common_presentDescription:Entre no chat e digite !pokegift para alegrar outros jogadores! 🎅

@@ -166,3 +166,5 @@ fantasy_ball:Fantasy Ball
 fantasy_ballDescription:An enchanted ball, most effective when used on Fairy and Dragon-type creatures.
 geo_ball:Geo Ball
 geo_ballDescription:A sturdy ball, most effective when used on Rock and Ground-type creatures.
+common_present:Present
+common_presentDescription:Enter a chat and type !pokegift to make other players happy! 🎅
