@@ -9,8 +9,8 @@ NO_TRAINER_PASS:@{0} You don’t have a trainer pass yet 🤨 Use !pokestart to 
 ALREADY_OWN_TRAINER_PASS:@{0} You already have a trainer pass.
 PASS_CREATED:@{0} Yaaaayy! Your journey begins! Your starter is {1} (Lv {2})
 
-USER_BALANCE:@{0}’s Balance: ${1} 🏹 Battle Rating: [{4}] Rank: {5} / {6} → ({2}W - {3}L) | Season {7}: {8} Wins
-TRAINER_BUDDY:@{0}’s Buddy: {1} (Lvl {2}) 👀 Avg IV: {3}
+USER_BALANCE:@{0} Balance: ${1} 🏹 Battle Rating: [{4}] Rank: {5} / {6} → ({2}W - {3}L) | Season {7}: {8} Wins
+TRAINER_BUDDY:@{0} Buddy: {1} (Lvl {2}) 👀 Avg IV: {3}
 TRAINER_NO_BUDDY:@{0} You haven't selected a buddy yet. Click the heart icon in the extension to choose one!
 TRAINER_DEX_UNKNOWN:@{0} That dex doesn’t exist. Please choose a generation or type.
 TRAINER_DEX_DATA:@{0} {1}: {2}/{3} ({4}%) {5}

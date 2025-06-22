@@ -6,8 +6,8 @@ TWITCH_ID_MISSING:Twitch nos enviou dados incompletos! Por favor, tente novament
 NO_TRAINER_PASS:@{0} Você ainda não tem um passe de treinador 🤨 Use !pokestart para começar sua jornada! 😏
 ALREADY_OWN_TRAINER_PASS:@{0} Você já tem um passe de treinador.
 PASS_CREATED:@{0} Ebaaa! Sua jornada começa! Seu inicial é {1} (Nv {2})
-USER_BALANCE:Saldo de @{0}: ${1} 🏹 Nota de Batalha: [{4}] Rank: {5} / {6} → ({2}V - {3}D) | Temporada {7}: {8} Vitórias
-TRAINER_BUDDY:Companheiro de @{0}: {1} (Nv {2}) 👀 Média IV: {3}
+USER_BALANCE:@{0} Saldo: ${1} 🏹 Classificação de Batalha: [{4}] Rank: {5} / {6} → ({2}V - {3}D) | Temporada {7}: {8} Vitórias
+TRAINER_BUDDY:@{0} Companheiro: {1} (Nível {2}) 👀 IV Médio: {3}
 TRAINER_NO_BUDDY:@{0} Você ainda não selecionou um companheiro. Clique no ícone de coração na extensão para escolher um!
 TRAINER_DEX_UNKNOWN:@{0} Esse dex não existe. Por favor, escolha uma geração ou tipo.
 TRAINER_DEX_DATA:@{0} {1}: {2}/{3} ({4}%) {5}

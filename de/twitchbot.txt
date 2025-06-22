@@ -6,8 +6,8 @@ TWITCH_ID_MISSING:Twitch hat uns unvollständige Daten gesendet! Bitte versuche 
 NO_TRAINER_PASS:@{0} Du hast noch keinen Trainerpass 🤨 Verwende !pokestart, um deine Reise zu beginnen! 😏
 ALREADY_OWN_TRAINER_PASS:@{0} Du hast bereits einen Trainerpass.
 PASS_CREATED:@{0} Yaaaayy! Dein Abenteuer beginnt! Dein Starter ist {1} (Lv {2})
-USER_BALANCE:@{0}s Kontostand: ${1} 🏹 Kampfwertung: [{4}] Rang: {5} / {6} → ({2}W - {3}L) | Saison {7}: {8} Siege
-TRAINER_BUDDY:@{0}s Kumpel: {1} (Lvl {2}) 👀 Durchschnittl. IV: {3}
+USER_BALANCE:@{0} Kontostand: ${1} 🏹 Kampfwertung: [{4}] Rang: {5} / {6} → ({2}S - {3}N) | Saison {7}: {8} Siege
+TRAINER_BUDDY:@{0} Kumpel: {1} (Lvl {2}) 👀 Ø-IV: {3}
 TRAINER_NO_BUDDY:@{0} Du hast noch keinen Kumpel ausgewählt. Klicke auf das Herzsymbol in der Erweiterung, um einen auszuwählen!
 TRAINER_DEX_UNKNOWN:@{0} Dieses Dex existiert nicht. Bitte wähle eine Generation oder einen Typ.
 TRAINER_DEX_DATA:@{0} {1}: {2}/{3} ({4}%) {5}

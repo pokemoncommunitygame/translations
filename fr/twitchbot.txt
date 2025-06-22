@@ -6,8 +6,8 @@ TWITCH_ID_MISSING:Twitch nous a envoyé des données incomplètes ! Veuillez ré
 NO_TRAINER_PASS:@{0} Tu n'as pas encore de passe dresseur 🤨 Utilise !pokestart pour commencer ton voyage ! 😏
 ALREADY_OWN_TRAINER_PASS:@{0} Tu as déjà un passe dresseur.
 PASS_CREATED:@{0} Yaaaayy ! Ton aventure commence ! Ton starter est {1} (Nv {2})
-USER_BALANCE:Solde de @{0} : ${1} 🏹 Note de combat : [{4}] Rang : {5} / {6} → ({2}V - {3}D) | Saison {7} : {8} Victoires
-TRAINER_BUDDY:Copain de @{0} : {1} (Niv {2}) 👀 IV moyen : {3}
+USER_BALANCE:Solde @{0}: ${1} 🏹 Évaluation de bataille: [{4}] Rang: {5} / {6} → ({2}V - {3}D) | Saison {7}: {8} Victoires
+TRAINER_BUDDY:Compagnon @{0}: {1} (Niv {2}) 👀 Moy IV: {3}
 TRAINER_NO_BUDDY:@{0} Tu n'as pas encore choisi de copain. Clique sur l'icône cœur dans l'extension pour en choisir un !
 TRAINER_DEX_UNKNOWN:@{0} Ce dex n'existe pas. Choisis une génération ou un type.
 TRAINER_DEX_DATA:@{0} {1} : {2}/{3} ({4}%) {5}
