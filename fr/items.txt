@@ -1,26 +1,26 @@
 event_coin:Gâteau
 event_coinDescription:Échangez des Gâteaux contre des récompenses d'événement de votre choix pendant l'événement de Pâques PCG 2025. Cet objet disparaîtra une semaine après l'événement.
-mach_ball:Mach ball
+mach_ball:Mach Ball
 mach_ballDescription:Une balle robuste, la plus efficace lorsqu'elle est utilisée sur des Pokémon de type Combat ou Vol.
-basic_ball:Basique ball
+basic_ball:Basique Ball
 basic_ballDescription:Une pokéball ordinaire qui est utile lorsque vous essayez de capturer des Pokémon de type Normal.
 phantom_ball:Balle Fantomatique
 phantom_ballDescription:Une balle au look effrayant. Taux de capture plus élevé sur les Pokémon de type Spectre.
-night_ball:Nocta ball
+night_ball:Nocta Ball
 night_ballDescription:Une balle sombre. Fonctionne mieux sur des Pokémon de type Ténèbres.
-frozen_ball:Givre ball
+frozen_ball:Givre Ball
 frozen_ballDescription:Une balle glacée. La plus efficace si utilisée sur des Pokémon de type Glace.
 easter_egg:Œuf de Pâques
 easter_eggDescription:Collectez 100 Œufs de Pâques pour recevoir Dewott, le starter évolué.
 empty_disc:Disque Vide
 empty_discDescription:Un disque vide utilisé pour enseigner à votre Pokémon un ensemble complet de nouvelles attaques. Utilisez-le avec prudence.
-iv_reset:Réinitialisation IV
+iv_reset:Change-IV
 iv_resetDescription:Change complètement les valeurs individuelles d'un Pokémon.
-wonder_pass:Pass Merveilleux
+wonder_pass:Passe Miracle
 wonder_passDescription:Un pass rare qui vous permet d'échanger à nouveau instantanément via le wonder trade.
 friend_ball:Copain ball
 friend_ballDescription:Une belle balle qui est plus efficace sur les Pokémon qui partagent un type avec votre Pokémon-Partenaire.
-mood_mint:Menthe d'Humeur
+mood_mint:Aromate Nature
 mood_mintDescription:Délicieuse menthe, qui change complètement la nature de ton pokemon.
 battle_coin:Pièce d'Or
 battle_coinDescription:Récompense pour avoir terminé les missions hebdomadaires et participé à un tournoi PCG. Ce jeton peut être dépensé pour divers objets rares et Pokémon dans la Boutique de la Pièce d'Or ou conservé comme souvenir.
@@ -28,13 +28,13 @@ present:Cadeau
 presentDescription:Entrez dans un chat et tapez !pokegift pour rendre les autres joueurs heureux ! 🎅
 rare_present:Cadeau Rare
 rare_presentDescription:Entrez dans un chat et tapez !pokegift rare pour rendre les autres joueurs heureux ! 🎅
-team_enhancer:Améliorateur d'Équipe
+team_enhancer:Bon d'Équipe
 team_enhancerDescription:Utilisez cet objet pour augmenter le nombre d'équipes de 1 ! Vous pouvez avoir jusqu'à 30 équipes.
 shiny_charm:Charme Chroma
 shiny_charmDescription:Récompense pour avoir complété le pokédex spawnable. Double la chance d'obtenir un shiny pour toutes les captures (exception : balls Souvenir)
 pokedaily_reset:Pokedaily reset
 pokedaily_resetDescription:Cet objet réinitialisera le délai de récupération de votre pokedaily !
-total_reset:Réinitialisation Totale
+total_reset:Change-Total
 total_resetDescription:Réinitialisation Totale utilisée pour enseigner à votre Pokémon un tout nouveau set de mouvements, change complètement la nature de votre pokemon et modifie les valeurs individuelles d'un Pokémon. Utilisez-le avec précaution.
 safari_ball:Safari Ball
 safari_ballDescription:🪶 A 2x de chance de capturer un Pokémon d'événement safari shiny. Vous pouvez les reconnaître grâce à un message de spawn différent ! 🪶
@@ -90,39 +90,39 @@ fairy_stone:Pierre Fée
 fairy_stoneDescription:Une pierre qui fait évoluer certaines espèces de Pokémon. On dit que la couleur de la pierre détermine le Pokémon qui évoluera.
 shimmering_stone:Pierre Scintillante
 shimmering_stoneDescription:Une pierre qui fait évoluer certaines espèces de Pokémon.
-quick_ball:Rapide ball
+quick_ball:Rapide Ball
 quick_ballDescription:Une Poké Ball un peu différente qui est plus efficace si elle est utilisée au début d'une rencontre sauvage.
 snowball:Boule de Neige
 snowballDescription:Une boule de neige. Elle fondra si tu ne l'utilises pas jusqu'en février ! Lance-la aux autres joueurs avec !pokesnowball <joueur>
 dive_ball:Scuba Ball
 dive_ballDescription:Une Ball plus efficace pour attraper les Pokémon 🐟 Poisson 🐟.
-cipher_ball:Psycho ball
+cipher_ball:Psycho Ball
 cipher_ballDescription:Une Poké Ball un peu différente qui est plus efficace pour attraper les Pokémon de type Poison ou Psychique.
 golden_ticket:Ticket Doré
 golden_ticketDescription:À quoi cela pourrait-il servir ? Tapez !poketicket pour le découvrir !
-magnet_ball:Magnet ball
+magnet_ball:Magnet Ball
 magnet_ballDescription:Une Poké Ball quelque peu différente, plus efficace pour attraper un Pokémon de type Acier ou Électrique.
-nest_ball:Faiblo ball
+nest_ball:Faiblo Ball
 nest_ballDescription:Une Poké Ball quelque peu différente, plus efficace lorsqu'elle est utilisée sur un Pokémon de première évolution pouvant évoluer deux fois de plus.
-fast_ball:Speed ball
+fast_ball:Speed Ball
 fast_ballDescription:Une Poké Ball rare particulièrement utile pour les Pokémon ayant une base de vitesse de 100 ou plus.
-level_ball:Niveau ball
+level_ball:Niveau Ball
 level_ballDescription:Une balle spéciale qui garantit qu'un Pokémon ait un niveau suffisamment élevé pour être évolué immédiatement !
-heal_ball:Soin ball
+heal_ball:Soin Ball
 heal_ballDescription:Une Poké Ball rare particulièrement utile pour les Pokémon ayant une base de PV de 100 ou plus.
 stone_grab_bag:Sac à Pierres
 stone_grab_bagDescription:Un sac merveilleux contenant 3 Pierres d'Évolution aléatoires.
-luxury_ball:Luxe ball
+luxury_ball:Luxe Ball
 luxury_ballDescription:Une balle rare avec une apparence chic. Augmente massivement le prix de vente d'un Pokémon capturé avec celle-ci.
-clone_ball:Clone ball
+clone_ball:Clone Ball
 clone_ballDescription:Une balle expérimentale qui génère un second Pokémon à partir de celui que vous capturez à l'origine avec cette boule.
-ultra_cherish_ball:Hyper memoire ball
+ultra_cherish_ball:Hyper memoire Ball
 ultra_cherish_ballDescription:Une Boule Souvenir modifiée avec un meilleur taux de capture. A plus de chance de capturer un Pokémon brillant.
-premier_ball:Honor ball
+premier_ball:Honor Ball
 premier_ballDescription:Une Poké Ball un peu rare qui a été créée en tant qu'objet commémoratif utilisé pour célébrer un événement quelconque. Elle sera lancée automatiquement si vous n'avez pas de Poké Ball.
-heavy_ball:Masse ball
+heavy_ball:Masse Ball
 heavy_ballDescription:Une Poké Ball qui est plus efficace que d'habitude pour attraper des Pokémon très lourds.
-feather_ball:Plume ball
+feather_ball:Plume Ball
 feather_ballDescription:Une Poké Ball qui est plus efficace que d'habitude pour attraper des Pokémon très légers.
 repeat_ball:Bis Ball
 repeat_ballDescription:Une Poké Ball un peu différente qui fonctionne particulièrement bien sur une espèce de Pokémon déjà attrapée.
@@ -138,17 +138,17 @@ great_ball:Super Ball
 great_ballDescription:Une bonne Poké Ball de haute performance qui offre un taux de succès plus élevé pour attraper des Pokémon qu'une Poké Ball standard.
 ultra_ball:Hyper Ball
 ultra_ballDescription:Une Poké Ball de très haute performance qui offre un taux de succès plus élevé pour attraper des Pokémon qu'une Super Ball.
-rare_candy:Bonbon Rare
+rare_candy:Super Bonbon
 rare_candyDescription:Augmente le niveau du Pokémon sélectionné de cinq.
-cherish_ball:Memoire ball
+cherish_ball:Memoire Ball
 cherish_ballDescription:Une Poké Ball assez rare qui a été créée pour commémorer une occasion spéciale quelconque. Augmente les chances d'obtenir un Pokémon chromatique.
 alpha_ball:Balle Alpha
 alpha_ballDescription:nix
 mysterious_crystal:Cristal Mystérieux
 mysterious_crystalDescription:Un cristal scintillant. Origine et usage inconnus. 👀 Possesseurs de chromatiques 👀
-great_cherish_ball:Super memoire ball
+great_cherish_ball:Super memoire Ball
 great_cherish_ballDescription:Une Honor Ball modifiée avec un meilleur taux de capture. A une chance plus élevée de capturer un Pokémon chromatique.
-stone_ball:Gemme ball
+stone_ball:Gemme Ball
 stone_ballDescription:Une balle rare avec une chance accrue de lâcher une pierre d'évolution.
 event_bundle:Pack Événement
 event_bundleDescription:Un bundle exclusif à un événement contenant 1x Légendaire d'Ancien Événement Aléatoire, 2x Ticket Doré et 2x Présent Rare
@@ -160,11 +160,11 @@ team_silver_badge:Aile Argent
 team_silver_badgeDescription:Jeton de membre de l'Équipe Argent lors de l'Événement Or vs Argent 2024
 rocket_part:Roue dentée
 rocket_partDescription:Collecte des roues dentées pour construire une fusée en utilisant : !pokerocket 1/2/3 🚀 Niveau 1 : Nécessite 3 roues dentées 🚀 Niveau 2 : Nécessite 6 roues dentées 🚀 Niveau 3 : Nécessite 10 roues dentées
-sun_ball:Helio ball
+sun_ball:Helio Ball
 sun_ballDescription:Une balle éclatante, la plus efficace lorsqu'elle est utilisée sur des Pokémon de type Feu et Plante.
 fantasy_ball:Balle Fantastique
 fantasy_ballDescription:Une balle enchantée, la plus efficace lorsqu'elle est utilisée sur des créatures de type Fée et Dragon.
-geo_ball:Geo ball
+geo_ball:Geo Ball
 geo_ballDescription:Une balle robuste, la plus efficace lorsqu'elle est utilisée sur des créatures de type Roche et Sol.
 common_present:Présent
 common_presentDescription:Entrez dans un chat et tapez !pokegift pour rendre les autres joueurs heureux ! 🎅
