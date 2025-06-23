@@ -35,7 +35,7 @@ shiny_charmDescription:Belohnung für das Abschließen des Spawn-Pokédex. Verdo
 pokedaily_reset:Pokedaily-Reset
 pokedaily_resetDescription:Dieser Gegenstand setzt den Cooldown deines Pokedaily zurück!
 total_reset:Totaler Reset
-total_resetDescription:Totaler Reset, der deinem Pokémon einen völlig neuen Moveset beibringt, die Natur deines Pokémon vollständig verändert und die individuellen Werte eines Pokémon ändert. Verwende ihn mit Vorsicht.
+total_resetDescription:Totaler Reset, der deinem Pokémon einen völlig neuen Moveset beibringt, das Wesen deines Pokémon vollständig verändert und die individuellen Werte eines Pokémon ändert. Verwende ihn mit Vorsicht.
 safari_ball:Safari-Ball
 safari_ballDescription:🪶 Hat eine 2x Chance, ein schillerndes Safari-Event-Pokémon zu fangen. Du erkennst sie an einer anderen Spawnmeldung! 🪶
 park_ball:Parkball
