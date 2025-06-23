@@ -195,3 +195,4 @@ status:Status
 physical:Physisch
 special:Spezial
 catch_rate:Fangrate
+battleCategory:Kampf

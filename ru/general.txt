@@ -195,3 +195,4 @@ status:Статус
 physical:Физический
 special:Особый
 catch_rate:Уровень поимки
+battleCategory:Бой

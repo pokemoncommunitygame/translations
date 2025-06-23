@@ -195,3 +195,4 @@ status:Estatus
 physical:Físico
 special:Especial
 catch_rate:Tasa de Captura
+battleCategory:Batalla

@@ -153,6 +153,7 @@ ballCategory:Ball
 evolutionCategory:Evolution
 tmCategory:TMs
 collectableCategory:Collectable
+battleCategory:Battle
 
 pokemonListHeadline:Your Pokémon
 
