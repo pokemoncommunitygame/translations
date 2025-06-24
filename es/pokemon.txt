@@ -2126,7 +2126,7 @@ alcremie-caramelswirl-star:Alcremie
 alcremie-caramelswirl-starDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
 alcremie-caramelswirl:Alcremie
 alcremie-caramelswirlDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-gmax:Alcremie
+alcremie-gmax:Gmax Alcremie
 alcremie-gmaxDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
 alcremie-lemon-cream-berry:Alcremie
 alcremie-lemon-cream-berryDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
@@ -2336,7 +2336,7 @@ alcremie-vanillacream-star:Alcremie
 alcremie-vanillacream-starDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
 ambipom-f:Ambipom
 ambipom-fDescription:Utiliza las dos colas para todo. Cuando abraza a alguien con ellas significa que esa persona se ha ganado por completo su confianza.
-appletun-gmax:Appletun
+appletun-gmax:Gmax Appletun
 appletun-gmaxDescription:Su cuerpo está recubierto de néctar. La piel de la espalda es tan dulce que los niños de antaño solían tomarla como merienda.
 arceus-bug:Bug Arceus
 arceus-bugDescription:La mitología cuenta que este Pokémon nació antes de que el Universo existiera.
@@ -2386,7 +2386,7 @@ burmy-sandy:Burmy
 burmy-sandyDescription:Si su caparazón se rompe en combate, lo rehace rápidamente con lo que tenga a mano.
 burmy-trash:Burmy
 burmy-trashDescription:Si su caparazón se rompe en combate, lo rehace rápidamente con lo que tenga a mano.
-butterfree-gmax:Butterfree
+butterfree-gmax:Gmax Butterfree
 butterfree-gmaxDescription:Recoge néctar a diario y se lo adhiere al pelo de las patas para llevarlo a su nido.
 cacturne-f:Cacturne
 cacturne-fDescription:Cuando alguien se adentra en un desierto por la noche, Cacturne le sigue junto con varios de los suyos. Este Pokémon espera pacientemente a que el viajero se fatigue y no pueda continuar más, vencido por el cansancio.
@@ -2396,9 +2396,9 @@ calyrex-shadow:Calyrex
 calyrex-shadowDescription:not avaliable
 camerupt-f:Camerupt
 camerupt-fDescription:Las jorobas de Camerupt se originaron por una deformación de los huesos. A veces escupen magma líquido, sobre todo cuando el Pokémon se enfada.
-centiskorch-gmax:Centiskorch
+centiskorch-gmax:Gmax Centiskorch
 centiskorch-gmaxDescription:Posee una naturaleza agresiva. El peligro que entraña su cuerpo candente es considerable, aunque sus afilados colmillos no le van a la zaga.
-charizard-gmax:Charizard
+charizard-gmax:Gmax Charizard
 charizard-gmaxDescription:Sus potentes alas le permiten volar a una altura de 1400 m. Escupe llamaradas que llegan a alcanzar temperaturas elevadísimas.
 charizard-megax:Charizard MegaX
 charizard-megaxDescription:Sus potentes alas le permiten volar a una altura de 1400 m. Escupe llamaradas que llegan a alcanzar temperaturas elevadísimas.
@@ -2406,17 +2406,17 @@ charizard-megay:Charizard MegaY
 charizard-megayDescription:Sus potentes alas le permiten volar a una altura de 1400 m. Escupe llamaradas que llegan a alcanzar temperaturas elevadísimas.
 cherrim-sunshine:Cherrim
 cherrim-sunshineDescription:Cuando abre sus pétalos, libera una sutil fragancia que atrae a los Pokémon insecto.
-coalossal-gmax:Coalossal
+coalossal-gmax:Gmax Coalossal
 coalossal-gmaxDescription:Dicen que hace tiempo salvó incontables vidas de una cruenta ola de frío usando su cuerpo a modo de estufa gigante.
 combee-f:Combee
 combee-fDescription:Recolecta néctar de sol a sol para entregarlo a la colonia y a Vespiquen.
 combusken-f:Combusken
 combusken-fDescription:Combusken lucha haciendo uso de las abrasadoras llamas que expulsa por el pico y de unas patadas fulminantes. Este Pokémon emite un sonido muy fuerte y molesto.
-copperajah-gmax:Copperajah
+copperajah-gmax:Gmax Copperajah
 copperajah-gmaxDescription:Viven en manadas. La fuerza prensil de su trompa es tan extraordinaria que le permite hacer añicos incluso grandes rocas.
 corsola-galar:Gal Corsola
 corsola-galarDescription:Perdió la vida hace miles de años debido a un repentino cambio en su hábitat. Absorbe la vitalidad de la gente con sus ramas.
-corviknight-gmax:Corviknight
+corviknight-gmax:Gmax Corviknight
 corviknight-gmaxDescription:Las ocho plumas que tiene en el lomo, llamadas ornitofilos, pueden separarse del cuerpo y atacar al rival de forma independiente.
 cramorant-gorging:Cramorant
 cramorant-gorgingDescription:Traga Arrokuda enteros debido a su glotonería, tan notable que en ocasiones ingiere hasta otros Pokémon sin querer.
@@ -2438,13 +2438,13 @@ deerling-winter:Deerling
 deerling-winterDescription:Durante los cambios de estación, su pelaje y olor cambian. Esto anuncia el comienzo de una estación.
 donphan-f:Donphan
 donphan-fDescription:Si Donphan tuviera que dar un golpe con todo el cuerpo, con lo robusto que es echaría abajo hasta una casa. Estos Pokémon usan su fuerza para ayudar a despejar pasos de montaña cuando hay piedras o lodo.
-drednaw-gmax:Drednaw
+drednaw-gmax:Gmax Drednaw
 drednaw-gmaxDescription:Su cuello extensible le permite alcanzar a los rivales a distancia. Hundiendo sus afilados dientes, les da el golpe de gracia.
-duraludon-gmax:Duraludon
+duraludon-gmax:Gmax Duraludon
 duraludon-gmaxDescription:La solidez de su estructura celular, capaz de soportar la fuerza de un terremoto, destaca incluso entre los Pokémon de tipo Acero.
 dustox-f:Dustox
 dustox-fDescription:Cuando Dustox bate las alas, libera un polvillo fino que en realidad es un peligroso veneno que puede resultar dañino hasta al más fuerte de los fuertes. Las antenas le sirven de radar para buscar comida.
-eevee-gmax:Eevee
+eevee-gmax:Gmax Eevee
 eevee-gmaxDescription:Su irregular estructura genética alberga el secreto de la capacidad que posee este Pokémon tan especial para adoptar evoluciones muy variadas.
 eevee-starter:Eevee
 eevee-starterDescription:Su irregular estructura genética alberga el secreto de la capacidad que posee este Pokémon tan especial para adoptar evoluciones muy variadas.
@@ -2464,7 +2464,7 @@ flabebe-white:Flabébé
 flabebe-whiteDescription:Acumula el polen de las flores para confeccionar la tiara que lleva en la cabeza, que cuenta con propiedades curativas.
 flabebe-yellow:Flabébé
 flabebe-yellowDescription:Acumula el polen de las flores para confeccionar la tiara que lleva en la cabeza, que cuenta con propiedades curativas.
-flapple-gmax:Flapple
+flapple-gmax:Gmax Flapple
 flapple-gmaxDescription:Escupe una saliva sumamente ácida y vuela con sus alas compuestas por piel de manzana, cuyo aspecto es capaz de adoptar.
 floatzel-f:Floatzel
 floatzel-fDescription:Su flotador se desarrolló a raíz de perseguir presas acuáticas. También sirve como balsa.
@@ -2506,7 +2506,7 @@ furfrou-star:Furfrou
 furfrou-starDescription:El pelo le crece sin cesar, pero solo deja que se lo corten aquellos de quienes se fía plenamente.
 gabite-f:Gabite
 gabite-fDescription:Muda la piel a medida que crece. Las escamas que pierde se pueden pulverizar para utilizar como ingrediente en remedios medicinales.
-garbodor-gmax:Garbodor
+garbodor-gmax:Gmax Garbodor
 garbodor-gmaxDescription:El veneno líquido que brota de su brazo derecho es tan nocivo que puede acabar con una criatura ya débil al menor contacto.
 garchomp-f:Garchomp
 garchomp-fDescription:Sus escamas, pequeñas, lisas y afiladas, no solo lo hacen más aerodinámico, sino que le sirven para herir al rival que ose atacarlo.
@@ -2520,7 +2520,7 @@ genesect-douse:Genesect
 genesect-douseDescription:Un Pokémon de hace 300 millones de años y alterado por el Equipo Plasma, quienes le han equipado con un cañón en el lomo.
 genesect-shock:Genesect
 genesect-shockDescription:Un Pokémon de hace 300 millones de años y alterado por el Equipo Plasma, quienes le han equipado con un cañón en el lomo.
-gengar-gmax:Gengar
+gengar-gmax:Gmax Gengar
 gengar-gmaxDescription:Tiende trampas mortales: quienes osan acercarse a su boca escuchan la llamada de sus seres queridos.
 gible-f:Gible
 gible-fDescription:Un Pokémon habituado a un clima aún más cálido que el de Alola. Quien convive con un Gible gasta mucho dinero en calefacción.
@@ -2530,11 +2530,11 @@ gligar-f:Gligar
 gligar-fDescription:Gligar planea por el aire sin hacer ningún ruido, como si fuera patinando. Este Pokémon se agarra a la cara de su rival con las patas traseras, con forma de garra, y las pinzas de las delanteras y le inyecta veneno por el aguijón.
 greninja-ash:Greninja
 greninja-ashDescription:Aparece y desaparece de improvisto, cual ninja. Marea al oponente con su soberbia agilidad y lo hace trizas con sus Shuriken de Agua.
-grimmsnarl-gmax:Grimmsnarl
+grimmsnarl-gmax:Gmax Grimmsnarl
 grimmsnarl-gmaxDescription:Su cabello desempeña una función similar a la de fibras musculares. Al soltárselo, su movimiento tentacular le permite reducir a su objetivo.
 gulpin-f:Gulpin
 gulpin-fDescription:La mayor parte del cuerpo de Gulpin está ocupado por su estómago. En comparación, el corazón y el cerebro son muy pequeños. Este Pokémon tiene enzimas especiales en el estómago capaces de corroerlo todo.
-hatterene-gmax:Hatterene
+hatterene-gmax:Gmax Hatterene
 hatterene-gmaxDescription:Recibe el apodo de Hechicera del Bosque. Quienes arman demasiado barullo se exponen a ser despedazados por las garras de su tentáculo.
 heracross-f:Heracross
 heracross-fDescription:Este Pokémon muestra una fuerza hercúlea, que le permite levantar cien veces su propio peso sin inmutarse.
@@ -2548,15 +2548,15 @@ houndoom-f:Houndoom
 houndoom-fDescription:Su rasgo distintivo son los escalofriantes aullidos que profiere. Antiguamente, era temido y considerado un emisario del inframundo.
 indeedee-f:Indeedee (Female)
 indeedee-fDescription:Con sus cuernos percibe las emociones de los seres vivos que se hallen cerca. Los sentimientos positivos constituyen su fuente de energía.
-inteleon-gmax:Inteleon
+inteleon-gmax:Gmax Inteleon
 inteleon-gmaxDescription:Posee una puntería extraordinaria. Para este Pokémon, acertar a una baya que rueda a 15 km de distancia es pan comido.
 jellicent-f:Jellicent
 jellicent-fDescription:Las noches de luna llena, bancos enteros de Jellicent emergen a la superficie y aguardan la llegada de alguna presa incauta.
-kingler-gmax:Kingler
+kingler-gmax:Gmax Kingler
 kingler-gmaxDescription:Su gran pinza posee una potencia devastadora, pero su peso excesivo la convierte en un estorbo fuera del terreno de combate.
-kricketune-f:Kricketune
+kricketune-f:Gmax Kricketune
 kricketune-fDescription:Los científicos tratan de estudiar sus melodías, que son reflejo de sus emociones.
-lapras-gmax:Lapras
+lapras-gmax:Gmax Lapras
 lapras-gmaxDescription:Surca los mares tranquilamente y destroza los icebergs que encuentra a su paso formando a su alrededor un gran anillo de cristales de hielo.
 ledian-f:Ledian
 ledian-fDescription:Vuela por el cielo nocturno esparciendo un polvo brillante. Dicen que entrar en contacto con este polvo trae buena suerte.
@@ -2572,7 +2572,7 @@ luxio-f:Luxio
 luxio-fDescription:Cuando encuentra a un adversario, se prepara para combatir sacando las garras, que emiten una corriente eléctrica de un millón de voltios.
 luxray-f:Luxray
 luxray-fDescription:Duerme durante largos períodos para recuperar la enorme cantidad de electricidad que consume al usar su capacidad para ver a través de objetos.
-machamp-gmax:Machamp
+machamp-gmax:Machamp Gigamax
 machamp-gmaxDescription:Puede dar varios puñetazos de una sola vez gracias a sus cuatro brazos. Golpea más rápido de lo que piensa.
 magearna-original:Magearna
 magearna-originalDescription:Pokémon artificial creado por científicos hace unos 500 años. Su verdadera esencia es una pieza llamada Coránima.
@@ -2586,13 +2586,13 @@ meditite-f:Meditite
 meditite-fDescription:Meditite aumenta su energía interior mediante meditación. Para subsistir le basta con una baya al día. El comer poco entra dentro de su entrenamiento.
 meganium-f:Meganium
 meganium-fDescription:La fragancia de la flor de Meganium aplaca y suaviza los ánimos. Al luchar, este Pokémon libera mayor cantidad de esencia para disminuir el ánimo de combate de su oponente.
-melmetal-gmax:Melmetal
+melmetal-gmax:Melmetal Gigamax
 melmetal-gmaxDescription:Gracias a la inercia y la fuerza centrífuga, los puñetazos que propina con sus pesadas tuercas son los más potentes del mundo Pokémon.
 meowstic-f:Meowstic
 meowstic-fDescription:El fuerte instinto protector de los machos los lleva a liberar todo su poder cuando se trata de defenderse a sí mismos o a su Entrenador.
 meowth-galar:Gal Meowth
 meowth-galarDescription:Se lava cuidadosamente la cara para que no se le ensucie la moneda de oro que tiene en la frente. No se lleva nada bien con los Meowth de Galar.
-meowth-gmax:Meowth
+meowth-gmax:Meowth Gigamax
 meowth-gmaxDescription:Se lava cuidadosamente la cara para que no se le ensucie la moneda de oro que tiene en la frente. No se lleva nada bien con los Meowth de Galar.
 mewtwo-megax:Mewtwo MegaX
 mewtwo-megaxDescription:Su poder psíquico ha incrementado su masa muscular. Posee una fuerza de agarre de una tonelada y puede correr 100 m en dos segundos.
@@ -2636,7 +2636,7 @@ nuzleaf-f:Nuzleaf
 nuzleaf-fDescription:Vive en las oquedades de los árboles grandes. El sonido que emite al usar la hoja de la cabeza como flauta asusta a quienes lo escuchan.
 octillery-f:Octillery
 octillery-fDescription:Atrapa a sus enemigos con los tentáculos y después los golpea con su dura cabeza.
-orbeetle-gmax:Orbeetle
+orbeetle-gmax:Orbeetle Gigamax
 orbeetle-gmaxDescription:Si despliega su máximo poder, es capaz de controlar la mente de todos cuantos se hallen a su alrededor.
 pachirisu-f:Pachirisu
 pachirisu-fDescription:A veces se ve a dos frotándose las bolsas de las mejillas para compartir electricidad almacenada.
@@ -2644,7 +2644,7 @@ pikachu-alola:Alo Pikachu
 pikachu-alolaDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
 pikachu-f:Pikachu
 pikachu-fDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
-pikachu-gmax:Pikachu
+pikachu-gmax:Pikachu Gigamax
 pikachu-gmaxDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
 pikachu-hoenn:Pikachu
 pikachu-hoennDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
@@ -2690,7 +2690,7 @@ roselia-f:Roselia
 roselia-fDescription:Ataca con sus manos, cada una de las cuales contiene un tipo de veneno diferente. Cuanto más intenso es su aroma, mejor salud tiene.
 roserade-f:Roserade
 roserade-fDescription:Las toxinas de la mano derecha son de efecto inmediato, y las de la izquierda, retardado. No obstante, ambas pueden ser letales.
-sandaconda-gmax:Sandaconda
+sandaconda-gmax:Sandaconda Gigamax
 sandaconda-gmaxDescription:La manera tan particular que tiene de enrollarse sobre sí mismo le permite expulsar con mayor eficacia la arena que almacena en la bolsa.
 sawsbuck-autumn:Sawsbuck
 sawsbuck-autumnDescription:Migra con el cambio de estación, por lo que hay quien considera a Sawsbuck el heraldo de la primavera.
@@ -2752,7 +2752,7 @@ slowpoke-galar:Gal Slowpoke
 slowpoke-galarDescription:Las semillas de ciertas plantas autóctonas de Galar que consume aportan a su cola un sabor especiado.
 sneasel-f:Sneasel
 sneasel-fDescription:Es un Pokémon de naturaleza astuta y fiera. Se cuela en los nidos de otros Pokémon cuando no están y roba sus huevos.
-snorlax-gmax:Snorlax
+snorlax-gmax:Snorlax Gigamax
 snorlax-gmaxDescription:Posee una fuerza aterradora. Su imponente aspecto y proverbial indolencia hacen que sea fácil confundirlo con una montaña.
 snover-f:Snover
 snover-fDescription:Las bayas con aspecto de helado que le crecen alrededor de la barriga son la comida favorita de los Darumaka que habitan en Galar.
@@ -2776,7 +2776,7 @@ torchic-f:Torchic
 torchic-fDescription:Torchic tiene un lugar en el interior de su organismo en el que guarda la llama que posee. Si le das un abrazo, arderá encantado. Este Pokémon está recubierto totalmente de sedoso plumón.
 toxicroak-f:Toxicroak
 toxicroak-fDescription:Cuando abate una presa, emite un croar de victoria a pleno pulmón. Está emparentado con los Seismitoad.
-toxtricity-gmax:Toxtricity
+toxtricity-gmax:Toxtricity Gigamax
 toxtricity-gmaxDescription:Su propio veneno le afecta al cerebro y le hace perder el control. Cuando esto ocurre, transpira un sudor tóxico que contamina el terreno.
 toxtricity-lowkey:Toxtricity
 toxtricity-lowkeyDescription:Su propio veneno le afecta al cerebro y le hace perder el control. Cuando esto ocurre, transpira un sudor tóxico que contamina el terreno.
