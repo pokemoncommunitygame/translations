@@ -2554,7 +2554,7 @@ kingler-gmax:Gmax Krabboss
 kingler-gmaxDescription:Sa pince gigantesque possède une puissance destructrice phénoménale, mais hors combat, son poids devient un handicap.
 kricketot-f:Crikzik
 kricketot-fDescription:Quand ses antennes s’entrechoquent, elles laissent échapper un bruit de xylophone.
-kricketune-f:Gmax Mélokrik
+kricketune-f:Kricketune
 kricketune-fDescription:Il exprime ses émotions par des mélodies. Les scientifiques étudient actuellement leur structure.
 lapras-gmax:Gmax Lokhlass
 lapras-gmaxDescription:S’il croise un iceberg, il crée un grand anneau avec des cristaux de glace pour le détruire et continuer sa croisière paisiblement.

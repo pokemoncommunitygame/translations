@@ -2554,7 +2554,7 @@ jellicent-f:Jellicent
 jellicent-fDescription:Las noches de luna llena, bancos enteros de Jellicent emergen a la superficie y aguardan la llegada de alguna presa incauta.
 kingler-gmax:Gmax Kingler
 kingler-gmaxDescription:Su gran pinza posee una potencia devastadora, pero su peso excesivo la convierte en un estorbo fuera del terreno de combate.
-kricketune-f:Gmax Kricketune
+kricketune-f:Kricketune
 kricketune-fDescription:Los científicos tratan de estudiar sus melodías, que son reflejo de sus emociones.
 lapras-gmax:Gmax Lapras
 lapras-gmaxDescription:Surca los mares tranquilamente y destroza los icebergs que encuentra a su paso formando a su alrededor un gran anillo de cristales de hielo.

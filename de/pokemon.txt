@@ -2556,7 +2556,7 @@ kingler-gmax:Gmax Kingler
 kingler-gmaxDescription:Seine Riesenschere ist sehr stark, aber wenn es nicht kämpft, kommt sie ihm häufig in die Quere.
 kricketot-f:Zirpurze
 kricketot-fDescription:Wenn seine zwei Antennen sich berühren, erklingt ein Ruf wie das Spiel eines Xylophons.
-kricketune-f:Gmax Zirpeise
+kricketune-f:Kricketune
 kricketune-fDescription:Über seine Melodien teilt es seine Gefühle mit. Wissenschaftler untersuchen das Muster der Melodien.
 lapras-gmax:Gmax Lapras
 lapras-gmaxDescription:Mit seinem großen Ring, der sich aus Eiskörnern gebildet hat, zertrümmert es beim Schwimmen seelenruhig Eisberge.

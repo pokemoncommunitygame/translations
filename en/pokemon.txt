@@ -2552,7 +2552,7 @@ jellicent-f:Jellicent
 jellicent-fDescription:Whenever a full moon hangs in the night sky, schools of Jellicent gather near the surface of the sea, waiting for their prey to appear.
 kingler-gmax:Gmax Kingler
 kingler-gmaxDescription:The bubbles it spews out are strongly alkaline. Any opponents hit by them will have their bodies quickly melted away.
-kricketune-f:Gmax Kricketune
+kricketune-f:Kricketune
 kricketune-fDescription:It signals its emotions with its melodies. Scientists are studying these melodic patterns.
 lapras-gmax:Gmax Lapras
 lapras-gmaxDescription:It surrounds itself with a huge ring of gathered ice particles. It uses the ring to smash any icebergs that might impede its graceful swimming.
