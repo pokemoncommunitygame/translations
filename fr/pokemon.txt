@@ -4,7 +4,7 @@ bagon:Draby
 bagonDescription:Selon certaines théories, il donne des coups de tête pour stimuler les cellules qui lui permettent d’évoluer.
 landorus:Démétéros
 landorusDescription:Il utilise l’énergie qu’il tire du vent et de la foudre pour enrichir les sols en nutriments pour les cultures.
-gallade-mega:Gallame
+gallade-mega:Méga Gallame
 gallade-megaDescription:Ses sens aiguisés lui indiquent lorsque quelqu’un est en danger. Il accourt alors à la rescousse.
 wugtrio:Triopikeau
 wugtrioDescription:A variety of fish Pokémon, Wugtrio was once considered to be a regional form of Dugtrio.
@@ -1860,97 +1860,97 @@ gourgeist-large:Banshitrouye
 gourgeist-largeDescription:Les soirs de nouvelle lune, il frappe aux portes des maisons. Si quelqu’un a le malheur de lui ouvrir, il l’emporte aussitôt dans l’au-delà.
 gourgeist-super:Banshitrouye
 gourgeist-superDescription:Les soirs de nouvelle lune, il frappe aux portes des maisons. Si quelqu’un a le malheur de lui ouvrir, il l’emporte aussitôt dans l’au-delà.
-venusaur-mega:Florizarre
+venusaur-mega:Méga Florizarre
 venusaur-megaDescription:Une douce senteur émane de sa plante. Cette fragrance calme tous ceux qui sont engagés dans un combat.
-charizard-mega-x:Dracaufeu
+charizard-mega-x:MégaX Dracaufeu
 charizard-mega-xDescription:Ses ailes lui permettent de voler à plus de 1 400 m d’altitude. Ce Pokémon crache du feu à des températures très élevées.
-charizard-mega-y:Dracaufeu
+charizard-mega-y:MégaY Dracaufeu
 charizard-mega-yDescription:Ses ailes lui permettent de voler à plus de 1 400 m d’altitude. Ce Pokémon crache du feu à des températures très élevées.
-blastoise-mega:Tortank
+blastoise-mega:Méga Tortank
 blastoise-megaDescription:Les canons sur sa carapace tirent des jets d’eau capables de percer même de l’acier trempé.
-alakazam-mega:Alakazam
+alakazam-mega:Méga Alakazam
 alakazam-megaDescription:Il dispose d’immenses pouvoirs psychiques. On raconte qu’il s’en est servi afin de créer les cuillères qu’il tient dans chaque main.
-gengar-mega:Ectoplasma
+gengar-mega:Méga Ectoplasma
 gengar-megaDescription:On dit qu’Ectoplasma surgit parfois des ténèbres pour prendre la vie des personnes égarées en montagne.
-kangaskhan-mega:Kangourex
+kangaskhan-mega:Méga Kangourex
 kangaskhan-megaDescription:Certains documents certifient que les Kangourex sans progéniture élevaient des enfants humains en détresse.
-pinsir-mega:Scarabrute
+pinsir-mega:Méga Scarabrute
 pinsir-megaDescription:Une fois sa proie enserrée entre ses cornes, deux choix s’offrent à lui : la couper en deux ou la projeter au loin de toutes ses forces.
-gyarados-mega:Léviator
+gyarados-mega:Méga Léviator
 gyarados-megaDescription:Quand il se laisse emporter par la rage, même la plus violente des tempêtes ne peut l’empêcher de détruire tout ce qui l’entoure.
-aerodactyl-mega:Ptéra
+aerodactyl-mega:Méga Ptéra
 aerodactyl-megaDescription:Un Pokémon féroce disparu il y a longtemps. Il a été reconstitué à partir d’ADN fossilisé dans de l’ambre.
-mewtwo-mega-x:Mewtwo
+mewtwo-mega-x:MégaX Mewtwo
 mewtwo-mega-xDescription:Son corps a rétréci, mais sa puissance s’est démultipliée. Il peut réduire un gratte-ciel en miettes d’une simple pensée.
-mewtwo-mega-y:Mewtwo
+mewtwo-mega-y:MégaY Mewtwo
 mewtwo-mega-yDescription:Son corps a rétréci, mais sa puissance s’est démultipliée. Il peut réduire un gratte-ciel en miettes d’une simple pensée.
-ampharos-mega:Pharamp
+ampharos-mega:Méga Pharamp
 ampharos-megaDescription:Sa queue brille d’une lumière éclatante. Depuis des temps très anciens, il est vénéré comme le guide des marins.
-scizor-mega:Cizayox
+scizor-mega:Méga Cizayox
 scizor-megaDescription:Malgré son corps fin, sa puissance de frappe est prodigieuse, car même ses muscles sont composés de métal.
-heracross-mega:Scarhino
+heracross-mega:Méga Scarhino
 heracross-megaDescription:Ce Pokémon est fier de sa force colossale qui lui permet de soulever cent fois son propre poids avec facilité.
-houndoom-mega:Démolosse
+houndoom-mega:Méga Démolosse
 houndoom-megaDescription:Ceux qui le craignaient jadis lui ont donné le surnom de « messager de la Faucheuse » à cause de son hurlement sinistre si particulier.
-tyranitar-mega:Tyranocif
+tyranitar-mega:Méga Tyranocif
 tyranitar-megaDescription:Son pas est si lourd qu’il fait trembler le sol et s’écrouler même les plus grandes montagnes, ce qui altère la topographie de la zone.
-blaziken-mega:Braségali
+blaziken-mega:Méga Braségali
 blaziken-megaDescription:Braségali a des jambes incroyablement puissantes. Il peut sauter par-dessus un immeuble de trente étages. Les coups de poing enflammés de ce Pokémon peuvent carboniser ses ennemis.
-gardevoir-mega:Gardevoir
+gardevoir-mega:Méga Gardevoir
 gardevoir-megaDescription:Prêt à tout pour protéger son Dresseur, il peut aller jusqu’à épuiser sa force mentale pour créer un mini trou noir.
-mawile-mega:Mysdibule
+mawile-mega:Méga Mysdibule
 mawile-megaDescription:Ses cornes d’acier forment une grande mâchoire avec laquelle il mord férocement ses adversaires.
-aggron-mega:Galeking
+aggron-mega:Méga Galeking
 aggron-megaDescription:Galeking est attentif à son environnement. Si sa montagne est ravagée par un glissement de terrain ou un incendie, ce Pokémon laboure la terre, plante des arbres et restaure le paysage.
-medicham-mega:Charmina
+medicham-mega:Méga Charmina
 medicham-megaDescription:Grâce au pouvoir de la méditation, Charmina a développé son sixième sens. Il peut utiliser des pouvoirs télékinétiques. On sait que ce Pokémon peut méditer pendant un mois sans manger.
-manectric-mega:Élecsprint
+manectric-mega:Méga Élecsprint
 manectric-megaDescription:Ce Pokémon évite de se montrer aux humains. On raconte qu’il fait son nid aux endroits où la foudre s’est abattue.
-banette-mega:Branette
+banette-mega:Méga Branette
 banette-megaDescription:Il est né de la rancune qu’il a ressentie quand il a été abandonné. Il redevient apparemment une poupée si l’on en prend grand soin.
-absol-mega:Absol
+absol-mega:Méga Absol
 absol-megaDescription:Les anciens le détestent et le nomment « le Pokémon Désastre », mais d’autres l’apprécient pour son aptitude à prédire les catastrophes.
-garchomp-mega:Carchacrok
+garchomp-mega:Méga Carchacrok
 garchomp-megaDescription:En plus de maximiser son aérodynamisme, ses écailles lisses et pointues ont l’avantage de blesser ses ennemis quand ils l’attaquent.
-lucario-mega:Lucario
+lucario-mega:Méga Lucario
 lucario-megaDescription:Étant capable de lire ce que pensent les humains, ce Pokémon ne s’attache qu’aux Dresseurs dotés d’un cœur pur.
-abomasnow-mega:Blizzaroi
+abomasnow-mega:Méga Blizzaroi
 abomasnow-megaDescription:Ce grand Pokémon déclenche des blizzards. Lorsqu’il agite son corps, tout ce qui l’entoure se retrouve couvert de neige.
-floette-eternal:Floette
+floette-eternal:Floette Éternel
 floette-eternalDescription:Il fait profiter ses fleurs de ses pouvoirs et met tout son cœur à leur entretien. Gare à ceux qui ravagent ses plates-bandes !
-latias-mega:Latias
+latias-mega:Méga Latias
 latias-megaDescription:Latias est très intelligent et comprend le langage des hommes. Il est recouvert d’une espèce de duvet ressemblant à du verre. Ce Pokémon s’enveloppe dans ce duvet et reflète la lumière pour changer son apparence.
-latios-mega:Latios
+latios-mega:Méga Latios
 latios-megaDescription:Latios n’ouvrira son cœur qu’à un Dresseur doté d’un esprit compatissant. Ce Pokémon peut voler plus vite qu’un avion à réaction en repliant ses pattes avant pour améliorer son aérodynamisme.
-swampert-mega:Laggron
+swampert-mega:Méga Laggron
 swampert-megaDescription:Laggron peut prédire l’arrivée des tempêtes en utilisant ses nageoires pour sentir les variations dans les vagues et les marées. Si une tempête s’approche, il empile des rochers pour protéger son habitat.
-sceptile-mega:Jungko
+sceptile-mega:Méga Jungko
 sceptile-megaDescription:Jungko a des graines qui lui poussent sur le dos. On dit qu’elles regorgent de nutriments qui revitalisent les arbres. Ce Pokémon s’occupe des forêts avec amour.
-sableye-mega:Ténéfix
+sableye-mega:Méga Ténéfix
 sableye-megaDescription:Ce Pokémon se nourrit de pierres précieuses. Dans les ténèbres, ses yeux brillent du reflet des joyaux.
-altaria-mega:Altaria
+altaria-mega:Méga Altaria
 altaria-megaDescription:Altaria chante avec une magnifique voix de soprano. Ses ailes ressemblent à des nuages cotonneux. Ce Pokémon se laisse porter par les courants d’air ascendants et disparaît dans le bleu du ciel.
-audino-mega:Nanméouïe
+audino-mega:Méga Nanméouïe
 audino-megaDescription:Il ausculte les gens avec ses antennes auriculaires pour juger de leurs émotions ou de leur santé.
-sharpedo-mega:Sharpedo
+sharpedo-mega:Méga Sharpedo
 sharpedo-megaDescription:Surnommé le « tyran des mers », ce Pokémon attaque sans exception tous les navires qui osent s’aventurer sur son territoire.
-slowbro-mega:Flagadoss
+slowbro-mega:Méga Flagadoss
 slowbro-megaDescription:S’il serre la langue du Kokiyas qui l’a mordu, ce dernier projette un liquide très toxique depuis l’extrémité de sa coquille.
-steelix-mega:Steelix
+steelix-mega:Méga Steelix
 steelix-megaDescription:On pense que son corps s’est transformé à force d’avaler le fer contenu dans la terre en creusant.
-pidgeot-mega:Roucarnage
+pidgeot-mega:Méga Roucarnage
 pidgeot-megaDescription:Ses muscles se sont tant développés qu’il est désormais capable de voler pendant deux semaines sans se reposer.
-glalie-mega:Oniglali
+glalie-mega:Méga-Glalie
 glalie-megaDescription:Il a le pouvoir de geler l’humidité ambiante en un instant et peut ainsi immobiliser ses proies.
-diancie-mega:Diancie
+diancie-mega:Méga-Diancie
 diancie-megaDescription:Il peut créer une multitude de diamants en un instant en serrant ses mains, simplement en compressant les molécules de carbone contenues dans l’air.
-metagross-mega:Métalosse
+metagross-mega:Méga-Métalosse
 metagross-megaDescription:Implacable, il analyse son ennemi encore plus précisément qu’un superordinateur et le pousse dans ses derniers retranchements.
 kyogre-primal:Kyogre
 kyogre-primalDescription:Un Pokémon considéré comme l’avatar des océans. Selon les légendes, il a disputé de nombreux combats avec Groudon pour contrôler l’énergie de la nature.
 groudon-primal:Groudon
 groudon-primalDescription:Grâce à l’énergie de la nature, il peut accomplir sa Primo-Résurgence pour retrouver son apparence originelle. Ce pouvoir lui permet de créer du magma pour étendre les continents.
-rayquaza-mega:Rayquaza
+rayquaza-mega:Méga-Rayquaza
 rayquaza-megaDescription:Un Pokémon qui vit dans la couche d’ozone et se nourrit des météorites qu’il intercepte. Leur énergie s’accumule dans son corps, ce qui lui permet de méga-évoluer.
 pikachu-rock-star:Pikachu
 pikachu-rock-starDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
@@ -1966,11 +1966,11 @@ pikachu-cosplay:Pikachu
 pikachu-cosplayDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
 hoopa-unbound:Hoopa
 hoopa-unboundDescription:On raconte que grâce à ses six anneaux et ses six énormes bras, il est capable de dérober tout ce qui lui plaît. Mais son pouvoir a été scellé, et il a été réduit à l’état d’un être minuscule.
-camerupt-mega:Camérupt
+camerupt-mega:Méga-Camerupt
 camerupt-megaDescription:Les bosses sur le dos de Camérupt sont apparues après une déformation de ses os. Elles crachent parfois du magma en fusion. Ce Pokémon entre apparemment en éruption lorsqu’il est énervé.
-lopunny-mega:Lockpin
+lopunny-mega:Méga-Lockpin
 lopunny-megaDescription:À la fin de la saison chaude, il mue et se recouvre d’une fourrure épaisse et légère pour se préparer à affronter le froid hivernal.
-salamence-mega:Drattak
+salamence-mega:Méga-Drattak
 salamence-megaDescription:Après avoir prié jour et nuit de tout son cœur, son souhait a enfin été exaucé : ses cellules ont muté pour donner naissance à des ailes !
 beedrill-mega:Dardargnan
 beedrill-megaDescription:Il se sert de ses trois aiguillons empoisonnés situés sur les pattes avant et l’abdomen pour attaquer sans relâche ses adversaires.
@@ -2396,9 +2396,9 @@ centiskorch-gmax:Scolocendre
 centiskorch-gmaxDescription:Sous sa forme Gigamax, la chaleur émise par Scolocendre perturbe parfois les courants aériens au point de déclencher des tempêtes.
 charizard-gmax:Dracaufeu
 charizard-gmaxDescription:Ses ailes lui permettent de voler à plus de 1 400 m d’altitude. Ce Pokémon crache du feu à des températures très élevées.
-charizard-megax:Dracaufeu
+charizard-megax:MégaX Dracaufeu
 charizard-megaxDescription:Ses ailes lui permettent de voler à plus de 1 400 m d’altitude. Ce Pokémon crache du feu à des températures très élevées.
-charizard-megay:Dracaufeu
+charizard-megay:MégaY Dracaufeu
 charizard-megayDescription:Ses ailes lui permettent de voler à plus de 1 400 m d’altitude. Ce Pokémon crache du feu à des températures très élevées.
 cherrim-sunshine:Ceriflor
 cherrim-sunshineDescription:Lorsqu’il se ferme, ses pétales sont si durs qu’il ne craint plus les attaques des Pokémon oiseaux.
@@ -2540,7 +2540,7 @@ hippopotas-f:Hippopotas
 hippopotas-fDescription:Il est principalement actif pendant la journée. Il s’enfouit profondément dans le sable pour dormir, car les nuits désertiques sont très froides.
 hippowdon-f:Hippodocus
 hippowdon-fDescription:Il entre dans une violente colère quand on l’énerve : il expulse le sable qu’il a accumulé pour provoquer de véritables tempêtes.
-hoopa-mega:Hoopa
+hoopa-mega:Méga-Hoopa
 hoopa-megaDescription:On raconte que grâce à ses six anneaux et ses six énormes bras, il est capable de dérober tout ce qui lui plaît. Mais son pouvoir a été scellé, et il a été réduit à l’état d’un être minuscule.
 houndoom-f:Démolosse
 houndoom-fDescription:Ceux qui le craignaient jadis lui ont donné le surnom de « messager de la Faucheuse » à cause de son hurlement sinistre si particulier.
@@ -2594,9 +2594,9 @@ meowth-galar:Gal Miaouss
 meowth-galarDescription:Un Pokémon aussi fier qu’intelligent. Il a recours à la ruse pour attaquer sans relâche le point faible de ses ennemis.
 meowth-gmax:Miaouss
 meowth-gmaxDescription:Un Pokémon aussi fier qu’intelligent. Il a recours à la ruse pour attaquer sans relâche le point faible de ses ennemis.
-mewtwo-megax:Mewtwo
+mewtwo-megax:MégaX Mewtwo
 mewtwo-megaxDescription:Son corps a rétréci, mais sa puissance s’est démultipliée. Il peut réduire un gratte-ciel en miettes d’une simple pensée.
-mewtwo-megay:Mewtwo
+mewtwo-megay:MégaY Mewtwo
 mewtwo-megayDescription:Son corps a rétréci, mais sa puissance s’est démultipliée. Il peut réduire un gratte-ciel en miettes d’une simple pensée.
 milotic-f:Milobellus
 milotic-fDescription:On dit que la beauté de ce Pokémon est telle qu’elle apaise l’esprit de ceux qui le voient.

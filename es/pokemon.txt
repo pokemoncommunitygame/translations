@@ -1862,99 +1862,99 @@ gourgeist-large:Gourgeist
 gourgeist-largeDescription:Las noches de luna nueva llama a la puerta de las casas y se lleva al otro mundo a quien abra.
 gourgeist-super:Gourgeist
 gourgeist-superDescription:Las noches de luna nueva llama a la puerta de las casas y se lleva al otro mundo a quien abra.
-venusaur-mega:Venusaur
+venusaur-mega:Mega Venusaur
 venusaur-megaDescription:La flor que tiene en el lomo libera un delicado aroma, que tiene un efecto relajante en combate.
-charizard-mega-x:Charizard
+charizard-mega-x:MegaX Charizard
 charizard-mega-xDescription:Sus potentes alas le permiten volar a una altura de 1400 m. Escupe llamaradas que llegan a alcanzar temperaturas elevadísimas.
-charizard-mega-y:Charizard
+charizard-mega-y:MegaY Charizard
 charizard-mega-yDescription:Sus potentes alas le permiten volar a una altura de 1400 m. Escupe llamaradas que llegan a alcanzar temperaturas elevadísimas.
-blastoise-mega:Blastoise
+blastoise-mega:Mega Blastoise
 blastoise-megaDescription:Los chorros de agua que dispara por el cañón central tienen la fuerza suficiente como para abrir un boquete en una montaña.
-alakazam-mega:Alakazam
+alakazam-mega:Mega Alakazam
 alakazam-megaDescription:Posee unos poderes psíquicos extraordinarios con los que, según se dice, creó las cucharas que lleva en las manos.
-gengar-mega:Gengar
+gengar-mega:Mega Gengar
 gengar-megaDescription:Tiende trampas mortales: quienes osan acercarse a su boca escuchan la llamada de sus seres queridos.
-kangaskhan-mega:Kangaskhan
+kangaskhan-mega:Mega Kangaskhan
 kangaskhan-megaDescription:Se han documentado casos de Kangaskhan sin crías que han adoptado bebés humanos cuyos padres habían sido víctimas de accidentes.
-pinsir-mega:Pinsir
+pinsir-mega:Mega Pinsir
 pinsir-megaDescription:Usa la cornamenta a modo de pinza para atrapar a sus presas. Acto seguido, las parte por la mitad o las arroja lejos.
-gyarados-mega:Gyarados
+gyarados-mega:Mega Gyarados
 gyarados-megaDescription:Cuando monta en cólera, puede quemarlo todo, incluso en medio de la más violenta tormenta.
-aerodactyl-mega:Aerodactyl
+aerodactyl-mega:Mega Aerodactyl
 aerodactyl-megaDescription:Este Pokémon feroz, extinto hace siglos, fue regenerado a partir de ADN extraído de un ámbar.
-mewtwo-mega-x:Mewtwo
+mewtwo-mega-x:MegaX Mewtwo
 mewtwo-mega-xDescription:Su poder psíquico ha incrementado su masa muscular. Posee una fuerza de agarre de una tonelada y puede correr 100 m en dos segundos.
-mewtwo-mega-y:Mewtwo
+mewtwo-mega-y:MegaY Mewtwo
 mewtwo-mega-yDescription:Su poder psíquico ha incrementado su masa muscular. Posee una fuerza de agarre de una tonelada y puede correr 100 m en dos segundos.
-ampharos-mega:Ampharos
+ampharos-mega:Mega Ampharos
 ampharos-megaDescription:Su cola emite un brillo claro e intenso. Se lo venera desde tiempos remotos como guía de los marineros.
-scizor-mega:Scizor
+scizor-mega:Mega Scizor
 scizor-megaDescription:Su potencia de ataque, que asombra dada su delgadez, se debe a que sus músculos están hechos de metal.
-heracross-mega:Heracross
+heracross-mega:Mega Heracross
 heracross-megaDescription:Este Pokémon muestra una fuerza hercúlea, que le permite levantar cien veces su propio peso sin inmutarse.
-houndoom-mega:Houndoom
+houndoom-mega:Mega Houndoom
 houndoom-megaDescription:Su rasgo distintivo son los escalofriantes aullidos que profiere. Antiguamente, era temido y considerado un emisario del inframundo.
-tyranitar-mega:Tyranitar
+tyranitar-mega:Mega Tyranitar
 tyranitar-megaDescription:Sus estrepitosos pasos derrumban montañas y hacen que el terreno a su alrededor cambie drásticamente.
-blaziken-mega:Blaziken
+blaziken-mega:Mega Blaziken
 blaziken-megaDescription:Blaziken tiene unas piernas tan fuertes que puede saltar por encima de un edificio de 30 pisos con facilidad. Además, da unos puñetazos fulminantes que dejan al oponente chamuscado y lleno de tizne.
-gardevoir-mega:Gardevoir
+gardevoir-mega:Mega Gardevoir
 gardevoir-megaDescription:Para proteger a su Entrenador, emplea todo su poder psíquico en crear un pequeño agujero negro.
-mawile-mega:Mawile
+mawile-mega:Mega Mawile
 mawile-megaDescription:Sus otrora cuernos de acero se han transformado en grandes fauces con las que muerde a sus enemigos.
-aggron-mega:Aggron
+aggron-mega:Mega Aggron
 aggron-megaDescription:Aggron es increíblemente cuidadoso con su hábitat. Si su montaña sufre algún corrimiento de tierras o algún incendio, cargará con tierra nueva, plantará árboles y restaurará con cuidado el terreno.
-medicham-mega:Medicham
+medicham-mega:Mega Medicham
 medicham-megaDescription:A través de la meditación, Medicham desarrolló su sexto sentido y aprendió a usar poderes psicoquinéticos. Se sabe que este Pokémon puede pasarse un mes meditando y sin comer.
-manectric-mega:Manectric
+manectric-mega:Mega Manectric
 manectric-megaDescription:Rara vez aparece ante la gente. Dicen que suele colocar su madriguera donde caen rayos.
-banette-mega:Banette
+banette-mega:Mega Banette
 banette-megaDescription:El rencor de haber sido tirado a la basura fue lo que le dio vida. Se dice que puede convertirse de nuevo en muñeco si se le trata con cariño.
-absol-mega:Absol
+absol-mega:Mega Absol
 absol-megaDescription:Pese a que los ancianos lo repudian tildándolo de Pokémon Catástrofe, cada vez es mayor el interés por su capacidad de prever desastres.
-garchomp-mega:Garchomp
+garchomp-mega:Mega Garchomp
 garchomp-megaDescription:Sus escamas, pequeñas, lisas y afiladas, no solo lo hacen más aerodinámico, sino que le sirven para herir al rival que ose atacarlo.
-lucario-mega:Lucario
+lucario-mega:Mega Lucario
 lucario-megaDescription:Puede leer los pensamientos de la gente, por lo que establece lazos afectivos únicamente con Entrenadores de corazón noble.
-abomasnow-mega:Abomasnow
+abomasnow-mega:Mega Abomasnow
 abomasnow-megaDescription:Posee la capacidad de generar ventiscas. Si agita su enorme cuerpo, el terreno circundante queda inmediatamente cubierto de nieve.
-floette-eternal:Floette
+floette-eternal:Floette Eterna
 floette-eternalDescription:Confiere su poder a las flores y cuida de ellas con mucho esmero; no perdona que destruyan los campos donde estas crecen.
-latias-mega:Latias
+latias-mega:Mega Latias
 latias-megaDescription:Latias tiene un nivel de inteligencia tan alto que es capaz de entender el lenguaje humano. Este Pokémon usa el plumón cristalizado del que está cubierto como peto para refractar la luz y cambiar de aspecto.
-latios-mega:Latios
+latios-mega:Mega Latios
 latios-megaDescription:Latios solo le abre el corazón a los Entrenadores compasivos. A la hora de volar, este Pokémon pliega las patas delanteras para minimizar la resistencia al aire y supera en velocidad a un avión a reacción.
-swampert-mega:Swampert
+swampert-mega:Mega Swampert
 swampert-megaDescription:Swampert puede predecir tormentas al percibir con las aletas los sutiles cambios que producen las olas y las corrientes. Si está a punto de estallar una tormenta, empezará a apilar piedras para resguardarse.
-sceptile-mega:Sceptile
+sceptile-mega:Mega Sceptile
 sceptile-megaDescription:A Sceptile le crecen en la espalda unas semillas llenas de nutrientes que sirven para revitalizar los árboles. De hecho, se dedica a cuidarlos con mimo para que crezcan bien.
-sableye-mega:Sableye
+sableye-mega:Mega Sableye
 sableye-megaDescription:Se alimenta de gemas. En la oscuridad, los ojos le brillan con el destello de las piedras preciosas.
-altaria-mega:Altaria
+altaria-mega:Mega Altaria
 altaria-megaDescription:Altaria canta de maravilla, como una soprano. Tiene unas alas que parecen nubes de algodón. Este Pokémon aprovecha las corrientes ascendentes y remonta el vuelo con sus flamantes alas hacia la inmensidad del cielo azul.
-gallade-mega:Gallade
+gallade-mega:Mega Gallade
 gallade-megaDescription:Es capaz de percibir al instante cuando alguien está en un aprieto y corre raudo a su lado para prestarle ayuda.
-audino-mega:Audino
+audino-mega:Mega Audino
 audino-megaDescription:Al tocar a alguien con las antenas de sus orejas, conoce su estado de ánimo y de salud por los latidos del corazón.
-sharpedo-mega:Sharpedo
+sharpedo-mega:Mega Sharpedo
 sharpedo-megaDescription:Conocido como el Terror de los Mares, ataca sin excepción a todo barco que ose adentrarse en su territorio oceánico.
-slowbro-mega:Slowbro
+slowbro-mega:Mega Slowbro
 slowbro-megaDescription:Si estruja la lengua del Shellder que lo muerde, este expulsa un líquido altamente tóxico por la punta de la caracola.
-steelix-mega:Steelix
+steelix-mega:Mega Steelix
 steelix-megaDescription:Se cree que su cuerpo se ha ido transformando por el hierro acumulado en la tierra que ha ingerido.
-pidgeot-mega:Pidgeot
+pidgeot-mega:Mega Pidgeot
 pidgeot-megaDescription:Su potencia muscular ha aumentado tanto que es capaz de mantener el vuelo sin descanso durante dos semanas.
-glalie-mega:Glalie
+glalie-mega:Mega Glalie
 glalie-megaDescription:Congela a sus presas helando en un momento la humedad contenida en el aire que lo rodea.
-diancie-mega:Diancie
+diancie-mega:Mega Diancie
 diancie-megaDescription:Puede crear una gran cantidad de diamantes en un instante comprimiendo con las manos el carbono que flota en el aire.
-metagross-mega:Metagross
+metagross-mega:Mega Metagross
 metagross-megaDescription:Analiza al enemigo con más precisión incluso que un superordenador y, sin inmutarse, lo pone contra las cuerdas.
 kyogre-primal:Kyogre
 kyogre-primalDescription:A Kyogre siempre se le ha descrito como el Pokémon que expandió los océanos. Varias leyendas cuentan que libró combates contra Groudon en repetidas ocasiones para tener el control de la energía de la naturaleza.
 groudon-primal:Groudon
 groudon-primalDescription:Groudon se sirve de la energía de la naturaleza para realizar su Regresión Primigenia y recobrar su apariencia primitiva. Con tal poder, puede crear magma para expandir los continentes.
-rayquaza-mega:Rayquaza
+rayquaza-mega:Mega Rayquaza
 rayquaza-megaDescription:Rayquaza ha vivido en la capa de ozono durante millones de años, alimentándose de meteoritos. La energía de estos meteoritos se acumula en su cuerpo y le permite megaevolucionar.
 pikachu-rock-star:Pikachu
 pikachu-rock-starDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
@@ -1970,11 +1970,11 @@ pikachu-cosplay:Pikachu
 pikachu-cosplayDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
 hoopa-unbound:Hoopa
 hoopa-unboundDescription:Dicen que gracias a sus seis anillos y seis enormes brazos puede robar todo lo que se le antoja. Adquirió una forma reducida cuando alguien selló su poder.
-camerupt-mega:Camerupt
+camerupt-mega:Mega Camerupt
 camerupt-megaDescription:Las jorobas de Camerupt se originaron por una deformación de los huesos. A veces escupen magma líquido, sobre todo cuando el Pokémon se enfada.
-lopunny-mega:Lopunny
+lopunny-mega:Mega Lopunny
 lopunny-megaDescription:Cuando acaba la estación más tórrida, le crece un nuevo pelaje muy mullido que lo prepara para el frío.
-salamence-mega:Salamence
+salamence-mega:Mega Salamence
 salamence-megaDescription:Su fuerte y firme deseo de volar provocó una mutación repentina de su estructura celular que le permitió obtener las alas que tanto ansiaba.
 beedrill-mega:Beedrill
 beedrill-megaDescription:Tiene tres aguijones venenosos, dos en las patas anteriores y uno en la parte baja del abdomen, con los que ataca a sus enemigos una y otra vez.
@@ -2400,9 +2400,9 @@ centiskorch-gmax:Centiskorch
 centiskorch-gmaxDescription:Posee una naturaleza agresiva. El peligro que entraña su cuerpo candente es considerable, aunque sus afilados colmillos no le van a la zaga.
 charizard-gmax:Charizard
 charizard-gmaxDescription:Sus potentes alas le permiten volar a una altura de 1400 m. Escupe llamaradas que llegan a alcanzar temperaturas elevadísimas.
-charizard-megax:Charizard
+charizard-megax:Charizard MegaX
 charizard-megaxDescription:Sus potentes alas le permiten volar a una altura de 1400 m. Escupe llamaradas que llegan a alcanzar temperaturas elevadísimas.
-charizard-megay:Charizard
+charizard-megay:Charizard MegaY
 charizard-megayDescription:Sus potentes alas le permiten volar a una altura de 1400 m. Escupe llamaradas que llegan a alcanzar temperaturas elevadísimas.
 cherrim-sunshine:Cherrim
 cherrim-sunshineDescription:Cuando abre sus pétalos, libera una sutil fragancia que atrae a los Pokémon insecto.
@@ -2542,7 +2542,7 @@ hippopotas-f:Hippopotas
 hippopotas-fDescription:Este Pokémon de hábitos diurnos se entierra en la arena para dormir cuando la temperatura en el desierto se desploma al caer la noche.
 hippowdon-f:Hippowdon
 hippowdon-fDescription:Puede ser muy agresivo cuando se enfada. Provoca auténticas tempestades de arena al expeler la que ha tragado.
-hoopa-mega:Hoopa
+hoopa-mega:Mega Hoopa
 hoopa-megaDescription:Dicen que gracias a sus seis anillos y seis enormes brazos puede robar todo lo que se le antoja. Adquirió una forma reducida cuando alguien selló su poder.
 houndoom-f:Houndoom
 houndoom-fDescription:Su rasgo distintivo son los escalofriantes aullidos que profiere. Antiguamente, era temido y considerado un emisario del inframundo.
@@ -2594,9 +2594,9 @@ meowth-galar:Gal Meowth
 meowth-galarDescription:Se lava cuidadosamente la cara para que no se le ensucie la moneda de oro que tiene en la frente. No se lleva nada bien con los Meowth de Galar.
 meowth-gmax:Meowth
 meowth-gmaxDescription:Se lava cuidadosamente la cara para que no se le ensucie la moneda de oro que tiene en la frente. No se lleva nada bien con los Meowth de Galar.
-mewtwo-megax:Mewtwo
+mewtwo-megax:Mewtwo MegaX
 mewtwo-megaxDescription:Su poder psíquico ha incrementado su masa muscular. Posee una fuerza de agarre de una tonelada y puede correr 100 m en dos segundos.
-mewtwo-megay:Mewtwo
+mewtwo-megay:Mewtwo MegaY
 mewtwo-megayDescription:Su poder psíquico ha incrementado su masa muscular. Posee una fuerza de agarre de una tonelada y puede correr 100 m en dos segundos.
 milotic-f:Milotic
 milotic-fDescription:Se dice que su hermosa figura puede apaciguar el corazón de aquellos que tengan el ánimo alterado.

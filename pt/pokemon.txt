@@ -1872,99 +1872,99 @@ gourgeist-large:Gourgeist
 gourgeist-largeDescription:In the darkness of a new-moon night, Gourgeist will come knocking. Whoever answers the door will be swept off to the afterlife.
 gourgeist-super:Gourgeist
 gourgeist-superDescription:In the darkness of a new-moon night, Gourgeist will come knocking. Whoever answers the door will be swept off to the afterlife.
-venusaur-mega:Venusaur
+venusaur-mega:Mega Venusaur
 venusaur-megaDescription:Huge amounts of pollen burst from it with the force of a volcanic eruption. Breathing in too much of the pollen can cause fainting.
-charizard-mega-x:Charizard
+charizard-mega-x:MegaX Charizard
 charizard-mega-xDescription:The flame inside its body burns hotter than 3,600 degrees Fahrenheit. When Charizard roars, that temperature climbs even higher.
-charizard-mega-y:Charizard
+charizard-mega-y:MegaY Charizard
 charizard-mega-yDescription:The flame inside its body burns hotter than 3,600 degrees Fahrenheit. When Charizard roars, that temperature climbs even higher.
-blastoise-mega:Blastoise
+blastoise-mega:Mega Blastoise
 blastoise-megaDescription:Water fired from this Pokémon’s central main cannon has enough power to blast a hole into a mountain.
-alakazam-mega:Alakazam
+alakazam-mega:Mega Alakazam
 alakazam-megaDescription:Alakazam wields potent psychic powers. It’s said that this Pokémon used these powers to create the spoons it holds.
-gengar-mega:Gengar
+gengar-mega:Mega Gengar
 gengar-megaDescription:It lays traps, hoping to steal the lives of those it catches. If you stand in front of its mouth, you’ll hear your loved ones’ voices calling out to you.
-kangaskhan-mega:Kangaskhan
+kangaskhan-mega:Mega Kangaskhan
 kangaskhan-megaDescription:There are records of a lost human child being raised by a childless Kangaskhan.
-pinsir-mega:Pinsir
+pinsir-mega:Mega Pinsir
 pinsir-megaDescription:This Pokémon clamps its pincers down on its prey and then either splits the prey in half or flings it away.
-gyarados-mega:Gyarados
+gyarados-mega:Mega Gyarados
 gyarados-megaDescription:Once it begins to rampage, a Gyarados will burn everything down, even in a harsh storm.
-aerodactyl-mega:Aerodactyl
+aerodactyl-mega:Mega Aerodactyl
 aerodactyl-megaDescription:The power of Mega Evolution has completely restored its genes. The rocks on its body are harder than diamond.
-mewtwo-mega-x:Mewtwo
+mewtwo-mega-x:MegaX Mewtwo
 mewtwo-mega-xDescription:Psychic power has augmented its muscles. It has a grip strength of one ton and can sprint a hundred meters in two seconds flat!
-mewtwo-mega-y:Mewtwo
+mewtwo-mega-y:MegaY Mewtwo
 mewtwo-mega-yDescription:Psychic power has augmented its muscles. It has a grip strength of one ton and can sprint a hundred meters in two seconds flat!
-ampharos-mega:Ampharos
+ampharos-mega:Mega Ampharos
 ampharos-megaDescription:Its tail shines bright and strong. It has been prized since long ago as a beacon for sailors.
-scizor-mega:Scizor
+scizor-mega:Mega Scizor
 scizor-megaDescription:Though its body is slim, Scizor has tremendous attacking power. Even Scizor’s muscles are made of metal.
-heracross-mega:Heracross
+heracross-mega:Mega Heracross
 heracross-megaDescription:This Pokémon takes pride in its strength, which allows it to lift things 100 times heavier than itself with no trouble at all.
-houndoom-mega:Houndoom
+houndoom-mega:Mega Houndoom
 houndoom-megaDescription:Identifiable by its eerie howls, people a long time ago thought it was the grim reaper and feared it.
-tyranitar-mega:Tyranitar
+tyranitar-mega:Mega Tyranitar
 tyranitar-megaDescription:The quakes caused when it walks make even great mountains crumble and change the surrounding terrain.
-blaziken-mega:Blaziken
+blaziken-mega:Mega Blaziken
 blaziken-megaDescription:Blaziken has incredibly strong legs—it can easily clear a 30-story building in one leap. This Pokémon’s blazing punches leave its foes scorched and blackened.
-gardevoir-mega:Gardevoir
+gardevoir-mega:Mega Gardevoir
 gardevoir-megaDescription:To protect its Trainer, it will expend all its psychic power to create a small black hole.
-mawile-mega:Mawile
+mawile-mega:Mega Mawile
 mawile-megaDescription:It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.
-aggron-mega:Aggron
+aggron-mega:Mega Aggron
 aggron-megaDescription:Aggron is protective of its environment. If its mountain is ravaged by a landslide or a fire, this Pokémon will haul topsoil to the area, plant trees, and beautifully restore its own territory.
-medicham-mega:Medicham
+medicham-mega:Mega Medicham
 medicham-megaDescription:Through the power of meditation, Medicham developed its sixth sense. It gained the ability to use psychokinetic powers. This Pokémon is known to meditate for a whole month without eating.
-manectric-mega:Manectric
+manectric-mega:Mega Manectric
 manectric-megaDescription:It rarely appears before people. It is said to nest where lightning has fallen.
-banette-mega:Banette
+banette-mega:Mega Banette
 banette-megaDescription:Resentment at being cast off made it spring into being. Some say that treating it well will satisfy it, and it will once more become a stuffed toy.
-absol-mega:Absol
+absol-mega:Mega Absol
 absol-megaDescription:The elderly call it the disaster Pokémon and detest it, but interest in its power to predict disasters is on the rise.
-garchomp-mega:Garchomp
+garchomp-mega:Mega Garchomp
 garchomp-megaDescription:Its fine scales don’t just reduce wind resistance—their sharp edges also cause injury to any opponent who attacks it.
-lucario-mega:Lucario
+lucario-mega:Mega Lucario
 lucario-megaDescription:It can tell what people are thinking. Only Trainers who have justice in their hearts can earn this Pokémon’s trust.
-abomasnow-mega:Abomasnow
+abomasnow-mega:Mega Abomasnow
 abomasnow-megaDescription:This Pokémon is known to bring blizzards. A shake of its massive body is enough to cause whiteout conditions.
-floette-eternal:Floette
+floette-eternal:Floette Eterna
 floette-eternalDescription:It gives its own power to flowers, pouring its heart into caring for them. Floette never forgives anyone who messes up a flower bed.
-latias-mega:Latias
+latias-mega:Mega Latias
 latias-megaDescription:Latias is highly intelligent and capable of understanding human speech. It is covered with a glass-like down. The Pokémon enfolds its body with its down and refracts light to alter its appearance.
-latios-mega:Latios
+latios-mega:Mega Latios
 latios-megaDescription:Latios will only open its heart to a Trainer with a compassionate spirit. This Pokémon can fly faster than a jet plane by folding its forelegs to minimize air resistance.
-swampert-mega:Swampert
+swampert-mega:Mega Swampert
 swampert-megaDescription:Swampert predicts storms by sensing subtle differences in the sounds of waves and tidal winds with its fins. If a storm is approaching, it piles up boulders to protect itself.
-sceptile-mega:Sceptile
+sceptile-mega:Mega Sceptile
 sceptile-megaDescription:Sceptile has seeds growing on its back. They are said to be bursting with nutrients that revitalize trees. This Pokémon raises the trees in a forest with loving care.
-sableye-mega:Sableye
+sableye-mega:Mega Sableye
 sableye-megaDescription:It feeds on gemstone crystals. In darkness, its eyes sparkle with the glitter of jewels.
-altaria-mega:Altaria
+altaria-mega:Mega Altaria
 altaria-megaDescription:Altaria sings in a gorgeous soprano. Its wings are like cotton clouds. This Pokémon catches updrafts with its buoyant wings and soars way up into the wild blue yonder.
-gallade-mega:Gallade
+gallade-mega:Mega Gallade
 gallade-megaDescription:Sharply attuned to others’ wishes for help, this Pokémon seeks out those in need and aids them in battle.
-audino-mega:Audino
+audino-mega:Mega Audino
 audino-megaDescription:It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.
-sharpedo-mega:Sharpedo
+sharpedo-mega:Mega Sharpedo
 sharpedo-megaDescription:This Pokémon is known as the Bully of the Sea. Any ship entering the waters Sharpedo calls home will be attacked—no exceptions.
-slowbro-mega:Slowbro
+slowbro-mega:Mega Slowbro
 slowbro-megaDescription:If this Pokémon squeezes the tongue of the Shellder biting it, the Shellder will launch a toxic liquid from the tip of its shell.
-steelix-mega:Steelix
+steelix-mega:Mega Steelix
 steelix-megaDescription:It is thought its body transformed as a result of iron accumulating internally from swallowing soil.
-pidgeot-mega:Pidgeot
+pidgeot-mega:Mega Pidgeot
 pidgeot-megaDescription:With its muscular strength now greatly increased, it can fly continuously for two weeks without resting.
-glalie-mega:Glalie
+glalie-mega:Mega Glalie
 glalie-megaDescription:It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes.
-diancie-mega:Diancie
+diancie-mega:Mega Diancie
 diancie-megaDescription:It can instantly create many diamonds by compressing the carbon in the air between its hands.
-metagross-mega:Metagross
+metagross-mega:Mega Metagross
 metagross-megaDescription:It analyzes its opponents with more accuracy than a supercomputer, which enables it to calmly back them into a corner.
 kyogre-primal:Kyogre
 kyogre-primalDescription:Kyogre is said to be the personification of the sea itself. Legends tell of its many clashes against Groudon, as each sought to gain the power of nature.
 groudon-primal:Groudon
 groudon-primalDescription:Through Primal Reversion and with nature’s full power, it will take back its true form. It can cause magma to erupt and expand the landmass of the world.
-rayquaza-mega:Rayquaza
+rayquaza-mega:Mega Rayquaza
 rayquaza-megaDescription:It flies forever through the ozone layer, consuming meteoroids for sustenance. The many meteoroids in its body provide the energy it needs to Mega Evolve.
 pikachu-rock-star:Pikachu
 pikachu-rock-starDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
@@ -1980,11 +1980,11 @@ pikachu-cosplay:Pikachu
 pikachu-cosplayDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
 hoopa-unbound:Hoopa
 hoopa-unboundDescription:It is said to be able to seize anything it desires with its six rings and six huge arms. With its power sealed, it is transformed into a much smaller form.
-camerupt-mega:Camerupt
+camerupt-mega:Mega Camerupt
 camerupt-megaDescription:The humps on Camerupt’s back are formed by a transformation of its bones. They sometimes blast out molten magma. This Pokémon apparently erupts often when it is enraged.
-lopunny-mega:Lopunny
+lopunny-mega:Mega Lopunny
 lopunny-megaDescription:Once hot seasons are over, Lopunny’s coat will be replaced with fur that holds a lot of insulating air in preparation for colder weather.
-salamence-mega:Salamence
+salamence-mega:Mega Salamence
 salamence-megaDescription:Thanks to its fervent wishes, the cells in its body finally mutated, and at last it has its heart’s desire—wings.
 beedrill-mega:Mega Beedrill
 beedrill-megaDescription:Its legs have become poison stingers. It stabs its prey repeatedly with the stingers on its limbs, dealing the final blow with the stinger on its rear.
@@ -2396,9 +2396,9 @@ centiskorch-gmax:Centiskorch
 centiskorch-gmaxDescription:While its burning body is already dangerous on its own, this excessively hostile Pokémon also has large and very sharp fangs.
 charizard-gmax:Charizard
 charizard-gmaxDescription:The flame inside its body burns hotter than 3,600 degrees Fahrenheit. When Charizard roars, that temperature climbs even higher.
-charizard-megax:Charizard
+charizard-megax:Charizard MegaX
 charizard-megaxDescription:The flame inside its body burns hotter than 3,600 degrees Fahrenheit. When Charizard roars, that temperature climbs even higher.
-charizard-megay:Charizard
+charizard-megay:Charizard MegaY
 charizard-megayDescription:The flame inside its body burns hotter than 3,600 degrees Fahrenheit. When Charizard roars, that temperature climbs even higher.
 cherrim-sunshine:Cherrim
 cherrim-sunshineDescription:The faint scent that emanates from its full blossom entices bug Pokémon to it.
@@ -2540,7 +2540,7 @@ hippopotas-f:Hippopotas
 hippopotas-fDescription:This Pokémon is active during the day and passes the cold desert nights burrowed snugly into the sand.
 hippowdon-f:Hippowdon
 hippowdon-fDescription:When roused to violence by its rage, it spews out the quantities of sand it has swallowed and whips up a sandstorm.
-hoopa-mega:Hoopa
+hoopa-mega:Mega Hoopa
 hoopa-megaDescription:It is said to be able to seize anything it desires with its six rings and six huge arms. With its power sealed, it is transformed into a much smaller form.
 houndoom-f:Houndoom
 houndoom-fDescription:Identifiable by its eerie howls, people a long time ago thought it was the grim reaper and feared it.
@@ -2594,9 +2594,9 @@ meowth-galar:Gal Meowth
 meowth-galarDescription:These daring Pokémon have coins on their foreheads. Darker coins are harder, and harder coins garner more respect among Meowth.
 meowth-gmax:Meowth
 meowth-gmaxDescription:These daring Pokémon have coins on their foreheads. Darker coins are harder, and harder coins garner more respect among Meowth.
-mewtwo-megax:Mewtwo
+mewtwo-megax:Mewtwo MegaX
 mewtwo-megaxDescription:Psychic power has augmented its muscles. It has a grip strength of one ton and can sprint a hundred meters in two seconds flat!
-mewtwo-megay:Mewtwo
+mewtwo-megay:Mewtwo MegaY
 mewtwo-megayDescription:Psychic power has augmented its muscles. It has a grip strength of one ton and can sprint a hundred meters in two seconds flat!
 milotic-f:Milotic
 milotic-fDescription:It’s said that a glimpse of a Milotic and its beauty will calm any hostile emotions you’re feeling.

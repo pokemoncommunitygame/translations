@@ -1874,99 +1874,99 @@ gourgeist-large:Pumpdjinn
 gourgeist-largeDescription:In Neumondnächten klopft Pumpdjinn an die Eingangstüren der Häuser. Wer sie ihm öffnet, wird von ihm ins Jenseits entführt.
 gourgeist-super:Pumpdjinn
 gourgeist-superDescription:In Neumondnächten klopft Pumpdjinn an die Eingangstüren der Häuser. Wer sie ihm öffnet, wird von ihm ins Jenseits entführt.
-venusaur-mega:Bisaflor
+venusaur-mega:Mega-Bisaflor
 venusaur-megaDescription:Es verstreut Unmengen an Pollen mit der Kraft eines Vulkanausbruchs. Atmet man zu viele davon ein, kann man das Bewusstsein verlieren.
-charizard-mega-x:Glurak
+charizard-mega-x:MegaX-Glurak
 charizard-mega-xDescription:In seinem Inneren wirbeln 2 000 ºC heiße Flammen umher. Wenn es brüllt, steigt die Feuerkraft noch weiter an.
-charizard-mega-y:Glurak
+charizard-mega-y:MegaY-Glurak
 charizard-mega-yDescription:In seinem Inneren wirbeln 2 000 ºC heiße Flammen umher. Wenn es brüllt, steigt die Feuerkraft noch weiter an.
-blastoise-mega:Turtok
+blastoise-mega:Mega-Turtok
 blastoise-megaDescription:Feuert es einen Wasserstrahl aus seiner mittleren Hauptkanone ab, hat dieser so viel Kraft, dass es damit ein Loch in einen Berg schießen kann.
-alakazam-mega:Simsala
+alakazam-mega:Mega-Simsala
 alakazam-megaDescription:Simsala verfügt über extrem starke Psycho-Kräfte. Mit ihnen soll es die Löffel erschaffen haben, die es in seinen Händen hält.
-gengar-mega:Gengar
+gengar-mega:Mega-Gengar
 gengar-megaDescription:Man sagt, es sei aus Dunkelheit entstanden, um denjenigen, die sich in den Bergen verirrt haben, das Leben zu rauben.
-kangaskhan-mega:Kangama
+kangaskhan-mega:Mega-Kangama
 kangaskhan-megaDescription:Es liegen Berichte vor, laut denen Kangama ohne eigenen Nachwuchs stattdessen Menschenkinder in Not aufgezogen haben.
-pinsir-mega:Pinsir
+pinsir-mega:Mega-Pinsir
 pinsir-megaDescription:Pinsir nimmt Beute mit seinen Hörnern in die Zange, um sie anschließend entzweizureißen oder mit Wucht fortzuschleudern.
-gyarados-mega:Garados
+gyarados-mega:Mega-Garados
 gyarados-megaDescription:Wütet ein Garados, wird es alles niederbrennen. Dies geschieht selbst während eines Sturms.
-aerodactyl-mega:Aerodactyl
+aerodactyl-mega:Mega-Aerodactyl
 aerodactyl-megaDescription:Durch die Energie der Mega-Entwicklung wurden seine Gene vollständig reaktiviert. Die Steine an seinem Körper sind härter als Diamanten.
-mewtwo-mega-x:Mewtu
+mewtwo-mega-x:MegaX-Mewtu
 mewtwo-mega-xDescription:Seine Psycho-Kräfte haben seine Muskeln stärker werden lassen. Es hat die Greifkraft von einer Tonne und legt in zwei Sekunden 100 m zurück.
-mewtwo-mega-y:Mewtu
+mewtwo-mega-y:MegaY-Mewtu
 mewtwo-mega-yDescription:Seine Psycho-Kräfte haben seine Muskeln stärker werden lassen. Es hat die Greifkraft von einer Tonne und legt in zwei Sekunden 100 m zurück.
-ampharos-mega:Ampharos
+ampharos-mega:Mega-Ampharos
 ampharos-megaDescription:Seine Schweifspitze strahlt ein starkes, helles Licht aus. Auf See gilt dieses Leuchten von alters her als bedeutender Wegweiser.
-scizor-mega:Scherox
+scizor-mega:Mega-Scherox
 scizor-megaDescription:Trotz seines dünnen Körpers verfügt Scherox über eine gewaltige Angriffsstärke. Selbst seine Muskeln bestehen aus Metall.
-heracross-mega:Skaraborn
+heracross-mega:Mega-Heracross
 heracross-megaDescription:Dieses Pokémon ist stolz auf seine Stärke. Es kann mit Leichtigkeit das Hundertfache seines eigenen Körpergewichts stemmen.
-houndoom-mega:Hundemon
+houndoom-mega:Mega-Hundemon
 houndoom-megaDescription:Sein unheimliches Heulen ist unverkennbar. Früher wurde es von den Menschen als Bote des Todes gefürchtet.
-tyranitar-mega:Despotar
+tyranitar-mega:Mega-Despotar
 tyranitar-megaDescription:Seine Schritte erzeugen Erdbeben, die selbst große Berge plätten und die Form ganzer Landstriche verändern.
-blaziken-mega:Lohgock
+blaziken-mega:Mega-Lohgock
 blaziken-megaDescription:Lohgock besitzt unglaublich starke Beine, mit denen es ein 30 Stockwerke hohes Gebäude mit einem Sprung überwinden kann. Die flammenden Schläge dieses Pokémon lassen verkohlte Gegner zurück.
-gardevoir-mega:Guardevoir
+gardevoir-mega:Mega Guardevoir
 gardevoir-megaDescription:Wenn es seinen Trainer schützen will, nimmt es all seine Psycho-Kräfte zusammen, um so ein kleines schwarzes Loch zu erzeugen.
-mawile-mega:Flunkifer
+mawile-mega:Mega-Flunkifer
 mawile-megaDescription:Sein riesiger Kiefer hat sich aus stählernen Hörnern entwickelt. Mit ihm beißt es seine Gegner.
-aggron-mega:Stolloss
+aggron-mega:Mega-Stolloss
 aggron-megaDescription:Stolloss geht sehr behutsam mit der Umwelt um. Wenn der Berg von Stolloss von einem Erdrutsch oder einem Feuer verwüstet wurde, schleppt es Erde in das Gebiet, pflanzt Bäume und richtet sein Territorium wieder her.
-medicham-mega:Meditalis
+medicham-mega:Mega Meditalis
 medicham-megaDescription:Mittels Meditation hat Meditalis seinen sechsten Sinn entwickelt. So kann es seine psychokinetischen Kräfte nutzen. Dieses Pokémon meditiert einen ganzen Monat, ohne etwas zu essen.
-manectric-mega:Voltenso
+manectric-mega:Mega Voltenso
 manectric-megaDescription:Es zeigt sich selten den Menschen. Man sagt, dass es sein Nest an Orten baut, wo ein Blitz eingeschlagen hat.
-banette-mega:Banette
+banette-mega:Mega Banette
 banette-megaDescription:Geboren aus Hass, weil es weggeworfen wurde, soll es sich wieder in eine Plüschpuppe zurückverwandeln, wenn es sich geliebt fühlt.
-absol-mega:Absol
+absol-mega:Mega Absol
 absol-megaDescription:Alte Leute verabscheuen es als das Desaster- Pokémon, aber seine Fähigkeit, Katastrophen vorherzusagen, findet immer mehr Anerkennung.
-garchomp-mega:Knakrack
+garchomp-mega:Mega Knakrack
 garchomp-megaDescription:Mit seinen feinporigen Schuppen kann es nicht nur den Luftwiderstand verringern, sondern auch nahende Angreifer verletzen.
-lucario-mega:Lucario
+lucario-mega:Mega Lucario
 lucario-megaDescription:Es kann die Gedanken von Menschen lesen. Deshalb lässt es sich nur auf Trainer ein, die ihr Herz auf dem rechten Fleck haben.
-abomasnow-mega:Rexblisar
+abomasnow-mega:Mega Rexblisar
 abomasnow-megaDescription:Dieses Pokémon löst Blizzards aus. Wenn es seinen großen Körper schüttelt, wird in seiner Umgebung alles sofort schneeweiß.
-floette-eternal:Floette
+floette-eternal:Ewige Floette
 floette-eternalDescription:Es überträgt seine Kraft auf Blumen und pflegt diese mit ganzem Herzen. Es verzeiht keinem, der sein Blumenbeet verwüstet.
-latias-mega:Latias
+latias-mega:Mega Latias
 latias-megaDescription:Latias ist sehr intelligent und kann die menschliche Sprache verstehen. Es ist mit gläsernen Daunen bedeckt. Dieses Pokémon umhüllt seinen Körper mit den Daunen und kann Licht brechen, um seine Gestalt zu verändern.
-latios-mega:Latios
+latios-mega:Mega Latios
 latios-megaDescription:Latios schüttet nur seinem Trainer gegenüber sein Herz aus. Dieses Pokémon fliegt schneller als ein Flugzeug, indem es seine Vorderbeine einklappt, um den Luftwiderstand zu verringern.
-swampert-mega:Sumpex
+swampert-mega:Mega Sumpex
 swampert-megaDescription:Sumpex kann Stürme voraussagen, indem es feine Veränderungen der Geräusche von Wellen und Wind mit seinen Flossen wahrnimmt. Wenn eine Sturmfront aufzieht, häuft es Felsbrocken an, um sich zu schützen.
-sceptile-mega:Gewaldro
+sceptile-mega:Mega Gewaldro
 sceptile-megaDescription:Auf Gewaldros Rücken wachsen Samen. Darin sind Nährstoffe, die Bäume beleben können. Dieses Pokémon achtet mit viel Fürsorge darauf, dass die Bäume seines Waldes prächtig gedeihen.
-altaria-mega:Altaria
+altaria-mega:Mega Altaria
 altaria-megaDescription:Altaria hat eine tolle Sopran-Stimme. Seine Flügel sehen aus wie Schäfchenwolken. Dieses Pokémon stürzt sich in einen Aufwind und steigt in den Himmel empor.
-gallade-mega:Galagladi
+gallade-mega:Mega Galagladi
 gallade-megaDescription:Es spürt sofort, wenn jemand in Not ist, und eilt ihm unverzüglich zu Hilfe.
-sableye-mega:Zobiris
+sableye-mega:Mega Zobiris
 sableye-megaDescription:Es ernährt sich von Edelsteinen. Im Dunkeln funkeln seine beiden Augen wie Juwelen.
-audino-mega:Ohrdoch
+audino-mega:Mega Ohrdoch
 audino-megaDescription:Berührt es jemanden mit den Fühlern an seinen Ohren, erfährt es durch den Herzschlag der Person, wie es ihr geht.
-slowbro-mega:Lahmus
+slowbro-mega:Mega Lahmus
 slowbro-megaDescription:Packt es die Zunge des festgebissenen Muschas, feuert dieses eine hochgiftige Flüssigkeit aus der Spitze seiner Spiralmuschel ab.
-steelix-mega:Stahlos
+steelix-mega:Mega Stahlos
 steelix-megaDescription:Man glaubt, dass sich sein Körper aufgrund des Schluckens von eisenhaltiger Erde verwandelt habe.
-pidgeot-mega:Tauboss
+pidgeot-mega:Mega Tauboss
 pidgeot-megaDescription:Durch seine gesteigerte Körperkraft ist es in der Lage, zwei Wochen ohne Pause durchzufliegen.
-sharpedo-mega:Tohaido
+sharpedo-mega:Mega Tohaido
 sharpedo-megaDescription:Tohaido trägt den Spitznamen „Tyrann des Meeres“. Schiffe, die in sein Revier eindringen, greift es ausnahmslos an.
-glalie-mega:Firnontor
+glalie-mega:Mega-Glatia
 glalie-megaDescription:Es kann Feuchtigkeit in der Luft augenblicklich zum Gefrieren bringen und nutzt dies, um seine Beute zu Eis erstarren zu lassen.
-diancie-mega:Diancie
+diancie-mega:Mega-Diancie
 diancie-megaDescription:Es kann im Nu viele Diamanten erzeugen, indem es luftgebundene Kohlenstoffpartikel mit seinen Händen komprimiert.
-metagross-mega:Metagross
+metagross-mega:Mega-Metagross
 metagross-megaDescription:Es kann seine Gegner besser analysieren als ein Supercomputer und treibt sie mit kühlem Kopf in die Enge.
 kyogre-primal:Kyogre
 kyogre-primalDescription:Es heißt, Kyogre sei die Personifizierung des Meeres. Legenden zufolge hat es in seinem Bestreben, sich die Naturenergie anzueignen, viele Male gegen Groudon gekämpft.
 groudon-primal:Groudon
 groudon-primalDescription:Mithilfe von Naturenergie kann es eine Protomorphose durchführen und so seine ursprüngliche Form zurückerlangen. Dadurch kann es Magma hervorbringen und die Landmasse vergrößern.
-rayquaza-mega:Rayquaza
+rayquaza-mega:Mega-Rayquaza
 rayquaza-megaDescription:Es fliegt durch die Ozonschicht und ernährt sich von Meteoren. Mithilfe der Energie, die durch diese Meteore in seinen Körper gelangt, kann es eine Mega-Entwicklung durchführen.
 pikachu-rock-star:Pikachu
 pikachu-rock-starDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
@@ -1982,11 +1982,11 @@ pikachu-cosplay:Pikachu
 pikachu-cosplayDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
 hoopa-unbound:Hoopa
 hoopa-unboundDescription:Mit seinen sechs Ringen und seinen sechs riesigen Armen kann es alles an sich reißen, was es möchte. Wenn seine Kraft versiegelt wird, nimmt es jedoch eine kleinere Gestalt an.
-camerupt-mega:Camerupt
+camerupt-mega:Mega-Camerupt
 camerupt-megaDescription:Die Höcker auf Camerupts Rücken sind durch eine Transformation seiner Knochen entstanden. Hin und wieder stoßen sie Magma aus. Dieses Pokémon bricht häufig aus, wenn es wütend ist.
-lopunny-mega:Schlapor
+lopunny-mega:Mega-Schlapor
 lopunny-megaDescription:Ist die heiße Jahreszeit vorbei, wechselt sein Fell zu einer Wollfaser, die viel Luft umschließt. So schützt sich Schlapor gegen die Kälte.
-salamence-mega:Brutalanda
+salamence-mega:Mega-Brutalanda
 salamence-megaDescription:Als Ergebnis seines lang gehegten Wunsches haben seine Zellen eine plötzliche Mutation vollzogen und ihm sind Flügel gewachsen.
 beedrill-mega:Bibor
 beedrill-megaDescription:Es verfügt über insgesamt drei Giftstachel, zwei an den Armen und einen am Hinterleib, mit denen es seine Gegner wiederholt angreift.
@@ -2398,9 +2398,9 @@ centiskorch-gmax:Infernopod
 centiskorch-gmaxDescription:Es ist angriffslustig veranlagt. Sein entflammter Körper und sein großes, scharfes Mundwerkzeug stellen eine enorme Gefahr dar.
 charizard-gmax:Glurak
 charizard-gmaxDescription:In seinem Inneren wirbeln 2 000 ºC heiße Flammen umher. Wenn es brüllt, steigt die Feuerkraft noch weiter an.
-charizard-megax:Glurak
+charizard-megax:MegaX-Glurak
 charizard-megaxDescription:In seinem Inneren wirbeln 2 000 ºC heiße Flammen umher. Wenn es brüllt, steigt die Feuerkraft noch weiter an.
-charizard-megay:Glurak
+charizard-megay:MegaY-Glurak
 charizard-megayDescription:In seinem Inneren wirbeln 2 000 ºC heiße Flammen umher. Wenn es brüllt, steigt die Feuerkraft noch weiter an.
 cherrim-sunshine:Kinoso
 cherrim-sunshineDescription:Wenn es in voller Blüte steht, strömt es einen zarten Duft aus, der Käfer-Pokémon anlockt.
@@ -2542,7 +2542,7 @@ hippopotas-f:Hippopotas
 hippopotas-fDescription:Es ist hauptsächlich tagsüber aktiv. Die Nächte in der Wüste sind kalt, deswegen vergräbt es sich zum Schlafen tief im Sand.
 hippowdon-f:Hippoterus
 hippowdon-fDescription:Wenn man es wütend macht, wird es rabiat. Es stößt aufgenommenen Sand aus und verursacht damit einen Sandsturm.
-hoopa-mega:Hoopa
+hoopa-mega:Mega-Hoopa
 hoopa-megaDescription:Mit seinen sechs Ringen und seinen sechs riesigen Armen kann es alles an sich reißen, was es möchte. Wenn seine Kraft versiegelt wird, nimmt es jedoch eine kleinere Gestalt an.
 houndoom-f:Hundemon
 houndoom-fDescription:Sein unheimliches Heulen ist unverkennbar. Früher wurde es von den Menschen als Bote des Todes gefürchtet.
@@ -2596,9 +2596,9 @@ meowth-galar:Gal Mauzi
 meowth-galarDescription:Je dunkler die Münze an seiner Stirn, desto fester ist sie und desto mehr Respekt hat seine Gruppe vor ihm. Es ist tapfer und kennt keine Angst.
 meowth-gmax:Mauzi
 meowth-gmaxDescription:Je dunkler die Münze an seiner Stirn, desto fester ist sie und desto mehr Respekt hat seine Gruppe vor ihm. Es ist tapfer und kennt keine Angst.
-mewtwo-megax:Mewtu
+mewtwo-megax:MegaX-Mewtu
 mewtwo-megaxDescription:Seine Psycho-Kräfte haben seine Muskeln stärker werden lassen. Es hat die Greifkraft von einer Tonne und legt in zwei Sekunden 100 m zurück.
-mewtwo-megay:Mewtu
+mewtwo-megay:MegaY-Mewtu
 mewtwo-megayDescription:Seine Psycho-Kräfte haben seine Muskeln stärker werden lassen. Es hat die Greifkraft von einer Tonne und legt in zwei Sekunden 100 m zurück.
 milotic-f:Milotic
 milotic-fDescription:Es heißt, der Anblick seiner wunderschönen Gestalt könne selbst das verrohteste Herz erweichen.
