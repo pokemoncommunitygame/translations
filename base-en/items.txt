@@ -1,5 +1,5 @@
 event_coin:Cake
-event_coinDescription:Exchange Cakes for event rewards of your choice during the PCG Easter Event 2025. This item will disappear one week after the event.
+event_coinDescription:Exchange Cakes for event rewards of your choice during the PCG Birthday Event 2025. This item will disappear one week after the event.
 mach_ball:Mach Ball
 mach_ballDescription:A sturdy ball, most effective when used on Fighting or Flying-type Pokemon.
 basic_ball:Basic Ball

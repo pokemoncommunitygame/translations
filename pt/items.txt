@@ -1,5 +1,5 @@
 event_coin:Cake
-event_coinDescription:Troque Cakes por recompensas de evento de sua escolha durante o Evento de Páscoa do PCG 2025. Este item desaparecerá uma semana após o evento.
+event_coinDescription:Troque Bolos por recompensas de evento à sua escolha durante o Evento de Aniversário PCG 2025. Este item desaparecerá uma semana após o evento.
 mach_ball:Mach Ball
 mach_ballDescription:Uma bola resistente, mais eficaz quando usada em Pokémon do tipo Lutador ou Voador.
 basic_ball:Basic Ball

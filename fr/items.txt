@@ -1,5 +1,5 @@
 event_coin:Gâteau
-event_coinDescription:Échangez des Gâteaux contre des récompenses d'événement de votre choix pendant l'événement de Pâques PCG 2025. Cet objet disparaîtra une semaine après l'événement.
+event_coinDescription:Échangez des Gâteaux contre des récompenses d'événement de votre choix durant l'Événement Anniversaire de la {PCG} 2025. Cet objet disparaîtra une semaine après l'événement.
 mach_ball:Mach Ball
 mach_ballDescription:Une balle robuste, la plus efficace lorsqu'elle est utilisée sur des Pokémon de type Combat ou Vol.
 basic_ball:Basique Ball
