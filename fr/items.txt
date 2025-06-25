@@ -4,7 +4,7 @@ mach_ball:Mach Ball
 mach_ballDescription:Une balle robuste, la plus efficace lorsqu'elle est utilisée sur des Pokémon de type Combat ou Vol.
 basic_ball:Basique Ball
 basic_ballDescription:Une pokéball ordinaire qui est utile lorsque vous essayez de capturer des Pokémon de type Normal.
-phantom_ball:Balle Fantomatique
+phantom_ball:Fantome ball
 phantom_ballDescription:Une balle au look effrayant. Taux de capture plus élevé sur les Pokémon de type Spectre.
 night_ball:Nocta Ball
 night_ballDescription:Une balle sombre. Fonctionne mieux sur des Pokémon de type Ténèbres.
