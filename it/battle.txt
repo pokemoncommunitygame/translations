@@ -1,0 +1,134 @@
+battleCantSwitch:Purtroppo, una mossa ti impedisce di cambiare.
+
+
+leaderboard:Classifica
+private:Privato
+stadium:Stadio
+tourney:Torneo
+challenge:Sfida
+noChallenge:Nessuna Sfida
+wins:Vittorie
+losses:Sconfitte
+season:Stagione
+rules:Regole
+opponent:Avversario
+roundReadySince:Round pronto da
+duplicatesAllowed:Duplicati permessi
+minBST:Min BST
+maxBST:Max BST
+battleInPVEBatles:Combatti con la tua squadra nelle battaglie PvE.
+youAreNotMeetingTheRequirements:Non soddisfi i requisiti!
+requirements:Requirements
+start:Inizio
+
+changePokemonButton:Cambia Pokémon
+surrenderButton:Arrenditi
+wantToSurrender:Vuoi arrenderti? (Arrendersi troppe volte può portare a un timeout!)
+wantToSurrenderPrivate:Vuoi arrenderti?
+searchBattle:Cerca Battaglia
+searchBattleRanked:Classificata
+searchBattleCasual:Amichevole
+searchTourneyBattleNotReady:Battaglia Torneo non pronta!
+searchBattleNotEnoguh:Hai bisogno di 6 Pokémon nella tua squadra per le battaglie pubbliche!
+
+wantToBattlePrivate:Inserisci la stessa password del tuo avversario per iniziare una battaglia privata.
+wantToBattleRanked:Vuoi iniziare una battaglia classificata?
+waitForPlayer:In attesa dell'altro giocatore...
+
+noTeam:Non hai una squadra.
+TeamFainted:Ricerca fallita. Uno o più dei tuoi Pokémon sono K.O.
+bannedPokemonInTeam:Ricerca fallita. Uno o più dei tuoi Pokémon sono banditi dalla coda delle battaglie pubbliche
+notEnoughPokemon:Ricerca fallita. Hai bisogno di almeno 6 Pokémon!
+userBanned:Sei stato bandito per:
+removeFromTeam:Rimuovi dalla squadra
+info:Info
+
+// battle
+battlePlayerNotAccepted:Il tuo avversario si è disconnesso prima che la battagli iniziasse.<br><br>Per favore riprova.
+battleCancelled:La battaglia è stata annullata.
+battleAlreadyEnded:La battaglia si è già conclusa.
+battleWaitForPlayer:Attendi l'altro giocatore...
+battleMoveFailed:Ma fallisce...
+battleNotEffective:Non è molto efficace...
+battleEffective:E' super efficace!
+battleNoEffect:Non ha effetto...
+battleCriticalHit:Brutto colpo!
+battleNotAwaitingMove:Hai già scelto la mossa.
+
+// field effects
+battleRainEnd: `Ha smesso di piovere`,
+battleRainStarted: `Ha iniziato a piovere`,
+battleHailStarted: `Ha iniziato a grandinare`,
+battleHailDamage: 'I Pokémon sono danneggiati dalla grandine.',
+battleHailEnd: 'Ha smesso di grandinare.',
+battleSandstormStarted:Si scatena una tempesta di sabbia
+battleSandstormDamage:I Pokémon sono danneggiati dalla tempesta di sabbia.
+battleSandstormEnd:La tempesta di sabbia si placa.
+battleSunStarted: `La luce solare diventa più intensa.`,
+battleSunEnd: `La luce solare è tornata alla normalità.`,
+
+// user field effect
+battleMistStarted:I tuoi Pokémon sono avvolti in un manto di nebbia
+battleMistPrevented:La nebbia impedisce la riduzione delle statistiche.
+battleMistEnd:La nebbia si è dissipata.
+battleLightScreenStarted:Uno schermo di luce protegge la squadra dell'utente.
+battleLightScreenEnd:Lo schermo di luce è scomparso.
+battleReflectStarted:La squadra dell'utente è protetta da riflessione.
+battleTailwindStarted:Il vento inizia a soffiare alle spalle della squadra dell'utente.
+battleTailwindEnd:Il vento smette di soffiare.
+battleReflectEnd:L'effetto di riflessione è terminato.
+battleTrickRoomStarted:Le dimensioni sono state distorte.
+battleTrickRoomEnd:Le dimensioni sono tornate alla normalità.
+battleHazeUsed:Le modifiche alle statistiche sono state resettate.
+
+// battle ended
+BattleWin:Congratulazioni, hai vinto la battaglia!
+BattleLose:Hai perso la battaglia!
+BattleNoXP:La tua squadra non ha guadagnato EXP!
+
+struggle:Sforzo
+
+battleDoesntExist:La battaglia non esiste!
+enterSpectateKey:Chiave per assistere:
+
+tooManyConcurrentBattles:Ci sono troppe battaglie in corso! Per favore riprova tra 5 minuti!
+
+ranked:Ranked
+addPokemonInstruction:Per aggiungere un Pokémon alla tua squadra, clicca sul pannello del computer in alto a sinistra, seleziona il tuo Pokémon e poi premi l'icona della spada.
+teamExchangeWarning:STAI PER SCAMBIARE LA TUA SQUADRA. QUESTA SQUADRA SCOMPARIRÀ PER SEMPRE.
+noReplayCodes:Impossibile trovare i codici replay!
+joinChallenge:Unisciti alla sfida!
+spectateChannel:Guarda il canale
+leaderboardStats:Classifica (Vittorie: {wins} Sconfitte: {loses})
+seasonStats:Stagione {season} (Vittorie: {seasonWins} Sconfitte: {seasonLoses})
+
+
+// status effects
+battleEnemySleeping:si addormenta.`,
+battleEnemyParalysis:è stato paralizzato.`,
+battleEnemyPoison:è stato avvelenato.`,
+battleEnemyToxic:è stato iperavvelenato.`,
+battleEnemyBurned:è stato scottato.`,
+battleIsParalyzed:è paralizzato e non può muoversi.`,
+battleEnemyConfused:è stato confuso`,
+battleEnemyEndConfusion:non è più confuso`,
+battleEnemyEndBurn:non è più bruciato`,
+battleEnemyEndParalysis:non è più paralizzato`,
+battleEnemyEndPoison:non è più avvelenato`,
+battleEnemyFrozen:è stato congelato`,
+battleIsSleeping:sta dormendo.`,
+battleConfused:è così confuso da colpirsi da solo.`,
+battleIsFrozen:è congelato`,
+battleFlinched:tentenna`,
+battleHealed: (pokemonName) => `<span class="battle-log-pokemonname" style="color:#63ff78"> i PV di ${pokemonName}</span> sono stati ripristinati.`,
+battleWokeUp:si è svegliato.`,
+battleUnthawed:si è scongelato.`,
+battleRecoilApplied:subisce il contraccolpo.`,
+battlePoisonDamage:soffre per l'avvelenamento.`,
+battleBurnDamage:soffre per la scottatura.`,
+
+battleEnemyStartMagnetRise:ha iniziato a levitare.`,
+battleEnemyEndMagnetRise:ha smesso di levitare.`,
+battleEnemyStartTaunt:è stato provocato.`,
+battleEnemyEndTaunt:non è più provocato.`,
+battleBellyDrum:riduce i propri PS e massimizza il suo attacco.`,

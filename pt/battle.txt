@@ -1,0 +1,141 @@
+battleCantSwitch:Infelizmente, um movimento está impedindo você de trocar.
+
+leaderboard:Placar
+private:Privado
+stadium:Estádio
+tourney:Torneio
+challenge:Desafio
+noChallenge:Sem Desafio
+wins:Vitórias
+losses:Derrotas
+season:Temporada
+rules:Regras
+opponent:Oponente
+roundReadySince:Rodada pronta desde
+duplicatesAllowed:Duplicatas permitidas
+minBST:Min BST
+maxBST:Max BST
+battleInPVEBatles:Lute com sua equipe em batalhas PvE.
+youAreNotMeetingTheRequirements:Você não está atendendo aos requisitos!
+requirements:Requirements
+start:Iniciar
+
+changePokemonButton:Trocar Pokemon
+surrenderButton:Desistir
+wantToSurrender:Você quer desistir? (Desistir demais pode levar a uma suspensão!)
+wantToSurrenderPrivate:Você quer desistir?
+searchBattle:Buscar Batalha
+searchBattleRanked:Rank
+searchBattleCasual:Casual
+
+
+searchTourneyBattleNotReady: `Batalha do torneio não está pronta!`,
+searchBattleNotEnoguh:Precisas de 6 Pokémon na tua equipa para as batalhas públicas!
+
+wantToBattlePrivate:Enter the same password as your opponent to start a private battle.
+wantToBattleRanked:Você quer buscar uma batalha ranqueada?
+waitForPlayer:Aguardando outro jogador...
+
+noTeam:Você não tem um time.
+TeamFainted:Busca falhou. Um ou mais dos seus Pokemon estão nocauteados
+bannedPokemonInTeam:Busca falhou. Um ou mais dos seus Pokemon estão banidos de batalhas públicas
+notEnoughPokemon:Busca falhou. Você precisa de pelo menos 6 Pokemon!
+userBanned:Você está banido por:
+removeFromTeam:Remover do time
+info:Info
+
+// battle
+battlePlayerNotAccepted:O seu oponente perdeu conexão antes que a batalha pudesse começar. Por favor tente novamente.
+battleCancelled:A batalha foi cancelada.
+battleAlreadyEnded:A batalha já terminou.
+battleWaitForPlayer:Aguardando outro jogador...
+
+battleMoveFailed:Falhou...
+battleNotEffective:Isso não foi muito eficaz...
+battleEffective:Foi super eficaz!
+battleNoEffect:Não tem efeito...
+battleCriticalHit:Um golpe crítico!
+battleNotAwaitingMove:Este movimento já foi escolhido.
+
+
+
+
+
+// field effects
+battleRainEnd: `Parou de chover`,
+battleRainStarted: `Começou a chover`,
+battleHailStarted: `Começou uma tempestade de neve`,
+battleHailDamage: 'Pokemon tomou dano da tempestade de neve.',
+battleHailEnd: 'A tempestade de neve terminou.',
+battleSandstormStarted:Começou uma tempestade de areia
+battleSandstormDamage:Pokemon tomou dano da tempestade de areia.
+battleSandstormEnd:A tempestade de areia terminou.
+battleSunStarted: `O sol brilha forte.`,
+battleSunEnd: `O sol desapareceu.`,
+
+// user field effect
+battleMistStarted:Os seus Pokemon foram envolvidos por uma névoa
+battleMistPrevented:A névoa previne que stats sejam reduzidos.
+battleMistEnd:A névoa se dissipou.
+battleLightScreenStarted:Uma tela de luz protege o time do usuário.
+battleLightScreenEnd:A tela de luz desapareceu.
+battleReflectStarted:O time do usuário está sendo protegido por reflect.
+battleTailwindStarted:O vento começou a soprar por trás do time do usuário.
+battleTailwindEnd:O vento parou de soprar.
+battleReflectEnd:O efeito de reflitir parou.
+battleTrickRoomStarted:As dimensões ficaram torcidas.
+battleTrickRoomEnd:As dimensões voltaram ao normal.
+battleHazeUsed:As mudanças de stats foram resetadas.
+
+// battle ended
+BattleWin:Parabéns, você venceu a batalha!
+BattleLose:Você perdeu a batalha!
+BattleNoXP:O seu time não recebeu XP!
+
+struggle:Struggle
+
+battleDoesntExist:Essa batalha não existe!
+enterSpectateKey:Chave de espectador:
+
+tooManyConcurrentBattles:Há batalhas demais acontecendo! Por favor tente novamente em 5 minutos!
+
+ranked:Ranqueado
+addPokemonInstruction:Para adicionar um Pokémon ao seu time, clique no painel do computador no canto superior esquerdo, selecione seu Pokémon e pressione o ícone da espada.
+teamExchangeWarning:VOCÊ ESTÁ PRESTES A TROCAR SEU TIME. ESTE TIME IRÁ DESAPARECER PARA SEMPRE.
+noReplayCodes:Não foi possível encontrar códigos de replay!
+joinChallenge:Entrar no desafio!
+spectateChannel:Assistir canal
+leaderboardStats:Classificação (Vitórias: {wins} Derrotas: {loses})
+seasonStats:Temporada {season} (Vitórias: {seasonWins} Derrotas: {seasonLoses})
+
+
+
+// status effects
+battleEnemySleeping:dormiu.`,
+battleEnemyParalysis:foi paralisado.`,
+battleEnemyPoison:foi envenenado.`,
+battleEnemyToxic:foi envenenado severamente.`,
+battleEnemyBurned:foi queimado.`,
+battleIsParalyzed:está paralisado e não consegue se mover.`,
+battleEnemyConfused:ficou confuso`,
+battleEnemyEndConfusion:deixou de estar confuso`,
+battleEnemyEndBurn:deixou de estar queimado`,
+battleEnemyEndParalysis:deixou de estar paralisado`,
+battleEnemyEndPoison:deixou de estar envenenado`,
+battleEnemyFrozen:está congelado`,
+battleIsSleeping:está dormindo e não consegue se mover.`,
+battleConfused:está confuso e se machucou.`,
+battleIsFrozen:está congelado e não consegue se mover.`,
+battleFlinched:recuou e não conseguiu atacar`,
+battleHealed:restaurou o seu HP.`,
+battleWokeUp:acordou.`,
+battleUnthawed:descongelou.`,
+battleRecoilApplied:levou dano de recuo.`,
+battlePoisonDamage:levou dano de envenenamento.`,
+battleBurnDamage:levou dano de queimadura.`,
+
+battleEnemyStartMagnetRise:iniciado de levitar.`,
+battleEnemyEndMagnetRise:parou de levitar.`,
+battleEnemyStartTaunt:foi provocado.`,
+battleEnemyEndTaunt:não está mais sob provocação.`,
+battleBellyDrum:reduz seus próprios HP e maximiza seu ataque.`,

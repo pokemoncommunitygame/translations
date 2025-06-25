@@ -1,0 +1,143 @@
+
+battleCantSwitch:Unfortunately, a move is preventing you from switching out.
+
+
+leaderboard:Leaderboard
+private:Private
+ranked:Ranked
+stadium:Stadium
+tourney:Tourney
+challenge:Challenge
+noChallenge:No Challenge
+wins:Wins
+losses:Losses
+season:Season
+rules:Rules
+opponent:Opponent
+roundReadySince:Round ready since
+duplicatesAllowed:Duplicates allowed
+minBST:Min BST
+maxBST:Max BST
+battleInPVEBatles:Battle with your Team in PvE battles.
+youAreNotMeetingTheRequirements:You are not meeting the requirements!
+requirements:Requirements
+start:Start
+
+
+changePokemonButton:Switch Pokémon
+surrenderButton:Surrender
+wantToSurrender:Do you want to surrender? (Surrendering too many times can lead to a timeout!)
+wantToSurrenderPrivate:Do you want to surrender?
+searchBattle:Search Battle
+searchBattleRanked:Ranked
+searchBattleCasual:Casual
+
+searchTourneyBattleNotReady: `Tourney Battle not ready!`,
+searchTourneyBattle:Tourney vs
+searchBattleNotEnoguh:  "You need 6 Pokémon in your team for public battles!
+
+wantToBattlePrivate:Enter the same password as your opponent to start a private battle.
+wantToBattleRanked:Do you want to start a ranked battle?
+waitForPlayer:Waiting for other player...
+
+noTeam:You don't have a team.
+TeamFainted:Searching failed. One or more of your Pokémon are KO
+bannedPokemonInTeam:Searching failed. One or more of your Pokémon are banned from the public battle queue
+notEnoughPokemon:Searching failed. You need at least 6 Pokémon!
+userBanned:You are banned for:
+removeFromTeam:Remove from team
+info:Info
+
+battlePlayerNotAccepted:Your opponent lost connection before the battle could start.Please try again.
+battleCancelled:The battle has been cancelled.
+battleAlreadyEnded:The battle already ended.
+battleWaitForPlayer:Waiting for other player...
+
+battleMoveFailed:It failed...
+battleNotEffective:That's not very effective...
+battleEffective:It was super effective!
+battleNoEffect:That has no effect...
+battleCriticalHit:A critical hit!
+battleNotAwaitingMove:Move already chosen.
+
+
+
+// field effects
+battleRainEnd: `It stopped raining`,
+battleRainStarted: `It started raining`,
+battleHailStarted: `It started hailing`,
+battleHailDamage: 'Pokémon took hail damage.',
+battleHailEnd: 'The hail stopped.',
+battleSandstormStarted:A sandstorm has started
+battleSandstormDamage:Pokémon are damaged by the sandstorm.
+battleSandstormEnd:The sandstorm ended.
+battleSunStarted: `The sun shines bright.`,
+battleSunEnd: `The sun has faded.`,
+
+// user field effect
+battleMistStarted:Your Pokémon were enveloped in a shroud of mist
+battleMistPrevented:Mist prevents stats from getting lowered.
+battleMistEnd:The mist has been lifted.
+battleLightScreenStarted:A light screen protects the user's team.
+battleLightScreenEnd:The light screen disappeared.
+battleReflectStarted:The team of the user is protected by reflect.
+battleTailwindStarted:The wind starts blowing behind the users team.
+battleTailwindEnd:The wind stops blowing.
+battleReflectEnd:The effect of reflect wore off.
+battleTrickRoomStarted:The dimensions got twisted.
+battleTrickRoomEnd:The dimensions got back to normal.
+battleHazeUsed:Stat changes have been reset.
+
+// battle ended
+BattleWin:Congratulations, you won the battle!
+BattleLose:You lost the battle!
+
+BattleNoXP:Your team didn't receive XP!
+
+struggle:Struggle
+
+battleDoesntExist:The battle doesn't exist!
+enterSpectateKey:Spectate key:
+
+tooManyConcurrentBattles:There are to many ongoing battles! Please try again in 5 minutes!
+addPokemonInstruction:To add a Pokémon to your team, click on the computer panel in the top left, select your Pokémon, and then press the sword icon.
+teamExchangeWarning:YOUR ARE ABOUT TO EXCHANGE YOUR TEAM. THIS TEAM WILL BE GONE FOREVER.
+noReplayCodes:Can't find replay codes!
+joinChallenge:Join challenge!
+spectateChannel:Spectate channel
+leaderboardStats:Leaderboard (Wins: {wins} Losses: {loses})
+seasonStats:Season {season} (Wins: {seasonWins} Losses: {seasonLoses})
+
+BattleXP:Everyone in your team gained ${points} XP! You received ${dollar}!
+
+
+// status effects
+battleEnemySleeping:fell asleep.`,
+battleEnemyParalysis:was paralysed.`,
+battleEnemyPoison:was poisoned.`,
+battleEnemyToxic:was badly poisoned.`,
+battleEnemyBurned:was burned.`,
+battleIsParalyzed:is paralysed and couldn't move.`,
+battleEnemyConfused:has been confused`,
+battleEnemyEndConfusion:snapped out of confusion`,
+battleEnemyEndBurn:is not burned anymore`,
+battleEnemyEndParalysis:is not paralyzed anymore`,
+battleEnemyEndPoison:is not poisoned anymore`,
+battleEnemyFrozen:was frozen`,
+battleIsSleeping:is sleeping and couldn't move.`,
+battleConfused:is confused and hurt itself.`,
+battleIsFrozen:is frozen and couldn't move`,
+battleFlinched:flinched and couldn't attack`,
+battleHealed:had its HP restored.`,
+battleWokeUp:woke up.`,
+battleUnthawed:unthawed.`,
+battleRecoilApplied:took recoil damage.`,
+battlePoisonDamage:took poison damage.`,
+battleBurnDamage:took burn damage.`,
+
+battleEnemyStartMagnetRise:started levitating.`,
+battleEnemyEndMagnetRise:stopped levitating.`,
+battleEnemyStartTaunt:was taunted.`,
+battleEnemyEndTaunt:is no longer taunted.`,
+battleBellyDrum:cut its own HP and maximizes its attack.`,
+clearSmog:'s stat changes were removed!`,

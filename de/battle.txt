@@ -1,0 +1,137 @@
+leaderboard:Bestenliste
+private:Privat
+ranked:Ranked
+stadium:Stadion
+tourney:Turnier
+challenge:Herausforderung
+noChallenge:Keine Herausforderung
+wins:Siege
+losses:Niederlagen
+season:Saison
+rules:Regeln
+opponent:Gegner
+roundReadySince:Runde bereit seit
+duplicatesAllowed:Duplikate erlaubt
+minBST:Min BST
+maxBST:Max BST
+battleInPVEBatles:Kämpfe mit deinem Team in PvE-Kämpfen.
+youAreNotMeetingTheRequirements:Du erfüllst die Anforderungen nicht!
+requirements:Requirements
+start:Start
+
+changePokemonButton:Pokémon wechseln
+surrenderButton:Aufgeben
+wantToSurrender:Willst du wirklich aufgeben? (Wenn du zu oft aufgibst kann dies zu einer Sperre führen!)
+wantToSurrenderPrivate:Willst du wirklich aufgeben?
+searchBattle:Kampf suchen
+searchBattleRanked:Ranked
+searchBattleCasual:Casual
+searchTourneyBattleNotReady: `Tourney Battle ist nicht bereit!`,
+searchBattleNotEnoguh:Du benötigst 6 Pokémon in deinem Team!
+
+wantToBattlePrivate:Enter the same password as your opponent to start a private battle.
+wantToBattleRanked:Möchtest du einen Wettkampf starten?
+waitForPlayer:Warten auf anderen Spieler...
+
+noTeam:Kein Team vorhanden.
+TeamFainted:Suche fehlgeschlagen. Eins oder mehrere deiner Pokemon sind kampfunfähig.
+bannedPokemonInTeam:Suche fehlgeschlagen. Eins oder mehrere deiner Pokemon sind von der öffentlichen Suche ausgeschlossen
+notEnoughPokemon:Suche fehlgeschlagen. Du benötigst 6 Pokémon!
+userBanned:Du bist gebannt für:
+removeFromTeam:Aus Team entfernen
+info:Info
+
+// battle
+battlePlayerNotAccepted:Dein Gegner hat die Verbindung verloren, bevor der Kampf beginnen konnte.Bitte versuche es erneut.
+battleCancelled:Der Kampf wurde abgesagt.
+battleAlreadyEnded:Der Kampf ist bereits vorbei.
+battleWaitForPlayer:Warten auf anderen Spieler...
+
+battleMoveFailed:Es ist fehlgeschlagen...
+battleNotEffective:Das ist nicht sehr effektiv...
+battleEffective:Das ist sehr effektiv!
+battleNoEffect:Das hat keinen Effekt...
+battleCriticalHit:Ein Volltreffer!
+battleNotAwaitingMove:Angriff bereits gewählt.
+
+
+// field effects
+battleRainEnd: `Der Regen lässt nach.`,
+battleRainStarted: `Es fängt an zu regnen.`,
+battleHailStarted: `Es fängt an zu hageln`,
+battleHailDamage: 'Pokémon nehmen Schaden durch den Hagel',
+battleHailEnd: 'Der Hagel lässt nach.',
+battleSandstormStarted:Ein Sandsturm zieht auf.
+battleSandstormDamage:Pokémon nehmen Schaden durch den Sandsturm.
+battleSandstormEnd:Der Sandsturm löst sich auf.
+battleSunStarted: `Die Sonne scheint stärker.`,
+battleSunEnd: `Das Sonnenlicht lässt nach.`,
+
+// user field effect
+battleMistStarted:Deine Pokémon wurden von dichtem Nebel umhüllt.
+battleMistPrevented:Weißnebel verhindert, dass die Werte gesenkt werden.
+battleMistEnd:Der Nebel löst sich auf.
+battleLightScreenStarted:Ein Lichtschild beschützt das Team des Anwenders.
+battleLightScreenEnd:Der Lichtschild löst sich auf
+battleReflectStarted:Das Team des Anwenders wird von einem Reflektor geschützt.
+battleReflectEnd:Der Reflektor löst sich auf.
+battleTailwindStarted:Das Team des Anwenders bekommt Rückenwind.
+battleTailwindEnd:Der Rückenwind lässt nach.
+battleTrickRoomStarted:Die Dimensionen wurden verdreht.
+battleTrickRoomEnd:Die Dimensionen wurden wieder normal.
+battleHazeUsed:Der Dunkelnebel hebt alle Statusveränderungen auf.
+
+
+battleCantSwitch:Leider verhindert eine Attacke, dass du auswechseln kannst.
+
+BattleWin:Glückwunsch, du hast den Kampf gewonnen!
+BattleLose:Du hast den Kampf leider verloren!
+
+BattleNoXP:Dein Team hat keine EP erhalten!
+
+struggle:Verzweifler
+
+battleDoesntExist:Das Battle existiert nicht!
+enterSpectateKey:Zuschauerschlüssel:
+
+tooManyConcurrentBattles:Zur Zeit laufen zu viele Battles gleichzeitig! Bitte versuche es in 5 Minuten erneut!
+
+addPokemonInstruction:Um ein Pokémon zu deinem Team hinzuzufügen, klicke auf das Computerpanel oben links, wähle dein Pokémon aus und drücke dann auf das Schwert-Icon.
+teamExchangeWarning:DU BIST DABEI DEIN TEAM AUSZUTAUSCHEN. DIESES TEAM WIRD FÜR IMMER VERSCHWINDEN.
+noReplayCodes:Keine Replay-Codes gefunden!
+joinChallenge:Herausforderung starten!
+spectateChannel:Kanal zuschauen
+leaderboardStats:Bestenliste (Siege: {wins} Niederlagen: {loses})
+seasonStats:Saison {season} (Siege: {seasonWins} Niederlagen: {seasonLoses})
+
+// status effects
+battleEnemySleeping:ist eingeschlafen.`,
+battleEnemyParalysis:wurde paralysiert.`,
+battleEnemyPoison:wurde vergiftet.`,
+battleEnemyToxic:wurde schwer vergiftet.`,
+battleEnemyBurned:wurde verbrannt.`,
+battleIsParalyzed:ist paralysiert und kann sich nicht bewegen.`,
+battleEnemyConfused:wurde verwirrt.`,
+battleEnemyEndConfusion:ist nicht mehr verwirrt.`,
+battleEnemyEndBurn:ist nicht mehr verbrannt.`,
+battleEnemyEndParalysis:ist nicht mehr paralysiert`,
+battleEnemyEndPoison:ist nicht mehr vergiftet`,
+battleEnemyFrozen:wurde eingefroren.`,
+battleIsSleeping:schläft und konnte nicht angreifen.`,
+battleConfused:hat sich vor Verwirrung selbst verletzt.`,
+battleIsFrozen:ist eingefroren und kann sich nicht bewegen`,
+battleFlinched:schreckt zurück`,
+battleHealed:KP wurden aufgefrischt.`,
+battleWokeUp:ist aufgewacht.`,
+battleUnthawed:taut auf.`,
+battleRecoilApplied:erleidet Schaden durch den Rückstoß.`,
+battlePoisonDamage:erleidet Schaden durch die Vergiftung.`,
+battleBurnDamage:erleidet Schaden durch die Verbrennung.`,
+
+battleEnemyStartMagnetRise:beginnt zu schweben.`,
+battleEnemyEndMagnetRise:hört auf zu schweben.`,
+battleEnemyStartTaunt:fällt auf den Verhöhner herein.`,
+battleEnemyEndTaunt:wird nicht mehr verhöhnt.`,
+battleBellyDrum:verringert seine eigenen KP und maximiert seinen Angriff.`,
+clearSmog:s Statusveränderungen wurden aufgehoben!`,
+

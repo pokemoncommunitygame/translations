@@ -1,0 +1,143 @@
+
+battleCantSwitch:Unfortunately, a move is preventing you from switching out.
+
+
+leaderboard:Leaderboard
+private:Private
+ranked:Ranked
+stadium:Stadium
+tourney:Tourney
+challenge:Challenge
+noChallenge:No Challenge
+wins:Wins
+losses:Losses
+season:Season
+rules:Rules
+opponent:Opponent
+roundReadySince:Round ready since
+duplicatesAllowed:Duplicates allowed
+minBST:Min BST
+maxBST:Max BST
+battleInPVEBatles:Battle with your Team in PvE battles.
+youAreNotMeetingTheRequirements:You are not meeting the requirements!
+requirements:Requirements
+start:Start
+
+
+changePokemonButton:Switch Pokémon
+surrenderButton:Surrender
+wantToSurrender:Do you want to surrender? (Surrendering too many times can lead to a timeout!)
+wantToSurrenderPrivate:Do you want to surrender?
+searchBattle:Search Battle
+searchBattleRanked:Ranked
+searchBattleCasual:Casual
+
+searchTourneyBattleNotReady: `Tourney Battle not ready!`,
+searchTourneyBattle:Tourney vs
+searchBattleNotEnoguh:  "You need 6 Pokémon in your team for public battles!
+
+wantToBattlePrivate:Enter the same password as your opponent to start a private battle.
+wantToBattleRanked:Do you want to start a ranked battle?
+waitForPlayer:Waiting for other player...
+
+noTeam:You don't have a team.
+TeamFainted:Searching failed. One or more of your Pokémon are KO
+bannedPokemonInTeam:Searching failed. One or more of your Pokémon are banned from the public battle queue
+notEnoughPokemon:Searching failed. You need at least 6 Pokémon!
+userBanned:You are banned for:
+removeFromTeam:Remove from team
+info:Info
+
+battlePlayerNotAccepted:Your opponent lost connection before the battle could start.Please try again.
+battleCancelled:The battle has been cancelled.
+battleAlreadyEnded:The battle already ended.
+battleWaitForPlayer:Waiting for other player...
+
+battleMoveFailed:It failed...
+battleNotEffective:That's not very effective...
+battleEffective:It was super effective!
+battleNoEffect:That has no effect...
+battleCriticalHit:A critical hit!
+battleNotAwaitingMove:Move already chosen.
+
+
+
+// field effects
+battleRainEnd: `It stopped raining`,
+battleRainStarted: `It started raining`,
+battleHailStarted: `It started hailing`,
+battleHailDamage: 'Pokémon took hail damage.',
+battleHailEnd: 'The hail stopped.',
+battleSandstormStarted:A sandstorm has started
+battleSandstormDamage:Pokémon are damaged by the sandstorm.
+battleSandstormEnd:The sandstorm ended.
+battleSunStarted: `The sun shines bright.`,
+battleSunEnd: `The sun has faded.`,
+
+// user field effect
+battleMistStarted:Your Pokémon were enveloped in a shroud of mist
+battleMistPrevented:Mist prevents stats from getting lowered.
+battleMistEnd:The mist has been lifted.
+battleLightScreenStarted:A light screen protects the user's team.
+battleLightScreenEnd:The light screen disappeared.
+battleReflectStarted:The team of the user is protected by reflect.
+battleTailwindStarted:The wind starts blowing behind the users team.
+battleTailwindEnd:The wind stops blowing.
+battleReflectEnd:The effect of reflect wore off.
+battleTrickRoomStarted:The dimensions got twisted.
+battleTrickRoomEnd:The dimensions got back to normal.
+battleHazeUsed:Stat changes have been reset.
+
+// battle ended
+BattleWin:Congratulations, you won the battle!
+BattleLose:You lost the battle!
+
+BattleNoXP:Your team didn't receive XP!
+
+struggle:Struggle
+
+battleDoesntExist:The battle doesn't exist!
+enterSpectateKey:Spectate key:
+
+tooManyConcurrentBattles:There are to many ongoing battles! Please try again in 5 minutes!
+addPokemonInstruction:To add a Pokémon to your team, click on the computer panel in the top left, select your Pokémon, and then press the sword icon.
+teamExchangeWarning:YOUR ARE ABOUT TO EXCHANGE YOUR TEAM. THIS TEAM WILL BE GONE FOREVER.
+noReplayCodes:Can't find replay codes!
+joinChallenge:Join challenge!
+spectateChannel:Spectate channel
+leaderboardStats:Leaderboard (Wins: {wins} Losses: {loses})
+seasonStats:Season {season} (Wins: {seasonWins} Losses: {seasonLoses})
+
+BattleXP:Everyone in your team gained ${points} XP! You received ${dollar}!
+
+
+// status effects
+battleEnemySleeping: (pokemonName) => `<span class="battle-log-pokemonname" style="color:#63ff78">${pokemonName}</span> fell asleep.`,
+battleEnemyParalysis: (pokemonName) => `<span class="battle-log-pokemonname" style="color:#63ff78">${pokemonName}</span> was paralysed.`,
+battleEnemyPoison: (pokemonName) => `<span class="battle-log-pokemonname" style="color:#63ff78">${pokemonName}</span> was poisoned.`,
+battleEnemyToxic: (pokemonName) => `<span class="battle-log-pokemonname" style="color:#63ff78">${pokemonName}</span> was badly poisoned.`,
+battleEnemyBurned: (pokemonName) => `<span class="battle-log-pokemonname" style="color:#63ff78">${pokemonName}</span> was burned.`,
+battleIsParalyzed: (pokemonName) => `<span class="battle-log-pokemonname" style="color:#63ff78">${pokemonName}</span> is paralysed and couldn't move.`,
+battleEnemyConfused: (pokemonName) => `<span class="battle-log-pokemonname" style="color:#63ff78">${pokemonName}</span> has been confused`,
+battleEnemyEndConfusion: (pokemonName) => `<span class="battle-log-pokemonname" style="color:#63ff78">${pokemonName}</span> snapped out of confusion`,
+battleEnemyEndBurn: (pokemonName) => `<span class="battle-log-pokemonname" style="color:#63ff78">${pokemonName}</span> is not burned anymore`,
+battleEnemyEndParalysis: (pokemonName) => `<span class="battle-log-pokemonname" style="color:#63ff78">${pokemonName}</span> is not paralyzed anymore`,
+battleEnemyEndPoison: (pokemonName) => `<span class="battle-log-pokemonname" style="color:#63ff78">${pokemonName}</span> is not poisoned anymore`,
+battleEnemyFrozen: (pokemonName) => `<span class="battle-log-pokemonname" style="color:#63ff78">${pokemonName}</span> was frozen`,
+battleIsSleeping: (pokemonName) => `<span class="battle-log-pokemonname" style="color:#63ff78">${pokemonName}</span> is sleeping and couldn't move.`,
+battleConfused: (pokemonName) => `<span class="battle-log-pokemonname" style="color:#63ff78">${pokemonName}</span> is confused and hurt itself.`,
+battleIsFrozen: (pokemonName) => `<span class="battle-log-pokemonname" style="color:#63ff78">${pokemonName}</span> is frozen and couldn't move`,
+battleFlinched: (pokemonName) => `<span class="battle-log-pokemonname" style="color:#63ff78">${pokemonName}</span> flinched and couldn't attack`,
+battleHealed: (pokemonName) => `<span class="battle-log-pokemonname" style="color:#63ff78">${pokemonName}</span> had its HP restored.`,
+battleWokeUp: (pokemonName) => `<span class="battle-log-pokemonname" style="color:#63ff78">${pokemonName}</span> woke up.`,
+battleUnthawed: (pokemonName) => `<span class="battle-log-pokemonname" style="color:#63ff78">${pokemonName}</span> unthawed.`,
+battleRecoilApplied: (pokemonName) => `<span class="battle-log-pokemonname" style="color:#63ff78">${pokemonName}</span> took recoil damage.`,
+battlePoisonDamage: (pokemonName) => `<span class="battle-log-pokemonname" style="color:#63ff78">${pokemonName}</span> took poison damage.`,
+battleBurnDamage: (pokemonName) => `<span class="battle-log-pokemonname" style="color:#63ff78">${pokemonName}</span> took burn damage.`,
+
+battleEnemyStartMagnetRise: (pokemonName) => `<span class="battle-log-pokemonname" style="color:#63ff78">${pokemonName}</span> started levitating.`,
+battleEnemyEndMagnetRise: (pokemonName) => `<span class="battle-log-pokemonname" style="color:#63ff78">${pokemonName}</span> stopped levitating.`,
+battleEnemyStartTaunt: (pokemonName) => `<span class="battle-log-pokemonname" style="color:#63ff78">${pokemonName}</span> was taunted.`,
+battleEnemyEndTaunt: (pokemonName) => `<span class="battle-log-pokemonname" style="color:#63ff78">${pokemonName}</span> is no longer taunted.`,
+battleBellyDrum: (pokemonName) => `<span class="battle-log-pokemonname" style="color:#63ff78">${pokemonName}</span> cut its own HP and maximizes its attack.`,
+clearSmog: (pokemonName) => `<span class="battle-log-pokemonname" style="color:#63ff78">${pokemonName}'s</span> stat changes were removed!`,
