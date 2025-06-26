@@ -196,3 +196,4 @@ physical:Physisch
 special:Spezial
 catch_rate:Fangrate
 battleCategory:Kampf
+tm_metronome_description:Lehrt einem beliebigen Pokémon die Attacke Metronom.

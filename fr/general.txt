@@ -196,3 +196,4 @@ physical:Physique
 special:Spécial
 catch_rate:Taux de Capture
 battleCategory:Bataille
+tm_metronome_description:Apprend la capacité Métronome à n'importe quel Pokémon.

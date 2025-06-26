@@ -196,3 +196,4 @@ physical:Físico
 special:Especial
 catch_rate:Tasa de Captura
 battleCategory:Batalla
+tm_metronome_description:Enseña a cualquier Pokémon el movimiento Metronome.

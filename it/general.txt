@@ -196,3 +196,4 @@ physical:Fisico
 special:Speciale
 catch_rate:Tasso di Cattura
 battleCategory:Battaglia
+tm_metronome_description:Insegna a qualsiasi Pokémon la mossa Metronomo.

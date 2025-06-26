@@ -196,3 +196,4 @@ physical:Physical
 special:Special
 catch_rate:Catch Rate
 battleCategory:Battle
+tm_metronome_description:Teaches any Pokémon the move Metronome.

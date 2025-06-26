@@ -196,3 +196,4 @@ physical:Физический
 special:Особый
 catch_rate:Уровень поимки
 battleCategory:Бой
+tm_metronome_description:Обучает любое Покемона движению Метроном.

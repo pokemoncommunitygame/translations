@@ -4,6 +4,7 @@ hidden_itemDescription:???
 
 tm_name:TM {moveName}
 tm_description:Teaches a {pkmt} type Pokémon the move {moveName}.
+tm_metronome_description:Teaches any Pokémon the move Metronome.
 
 supportUs:Support us by following on Twitch and receive up to 10% extra Pokemoney
 
