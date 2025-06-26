@@ -72,7 +72,6 @@ battleEnemyEndParalysis:non è più paralizzato
 battleEnemyEndPoison:non è più avvelenato
 battleEnemyFrozen:è stato congelato
 battleConfused:è così confuso da colpirsi da solo
-battleFlinched:tentenna
 battleWokeUp:si è svegliato
 battleUnthawed:si è scongelato
 battlePoisonDamage:soffre per l'avvelenamento
@@ -126,3 +125,6 @@ BELLY_DRUM:ha tagliato i suoi PS e massimizzato il suo attacco
 CLEAR_SMOG:le sue modifiche alle statistiche sono state rimosse!
 battlePokemonChanged:è stato scambiato con
 battleMoveUsed:usa
+PERISH_SONG_START:ha sentito il Canto Funesto
+PERISH_SONG_END:è svenuto!
+FLINCHED:ha tentennato e non può attaccare

@@ -61,8 +61,8 @@ teamExchangeWarning:ВЫ СОБИРАЕТЕСЬ СМЕНИТЬ СВОЮ КОМА
 noReplayCodes:Не могу найти коды повторов!
 joinChallenge:Присоединиться к вызову!
 spectateChannel:Наблюдать за каналом
-leaderboardStats:Таблица лидеров (Победы: {wins} Поражения: {loses})
-seasonStats:Сезон {season} (Победы: {seasonWins} Поражения: {seasonLoses})
+leaderboardStats:Таблица лидеров (Победы: {victories} Поражения: {number} )
+seasonStats:Сезон {season} (Победы: {victories} Поражения: {number} )
 BattleXP:Все в вашей команде получили {points} XP! Вы получили ${dollar}!
 battleEnemySleeping:уснул.
 battleEnemyParalysis:был парализован.
@@ -74,7 +74,6 @@ battleEnemyEndParalysis:больше не парализован
 battleEnemyEndPoison:больше не отравлен
 battleEnemyFrozen:был заморожен
 battleConfused:в замешательстве и ударил себя.
-battleFlinched:дрогнул и не смог нападать.
 battleWokeUp:проснулся.
 battleUnthawed:разморозился.
 battlePoisonDamage:получил урон от яда.
@@ -126,3 +125,6 @@ BELLY_DRUM:уменьшил свои HP и максимально повысил
 CLEAR_SMOG:изменения характеристик были удалены!
 battlePokemonChanged:был заменен на
 battleMoveUsed:использует  
+PERISH_SONG_START:услышал песню погибели
+PERISH_SONG_END:упал без сознания!
+FLINCHED:поморщился и не смог атаковать

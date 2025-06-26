@@ -60,8 +60,8 @@ teamExchangeWarning:VOCÊ ESTÁ PRESTES A TROCAR SEU TIME. ESTE TIME IRÁ DESAPA
 noReplayCodes:Não foi possível encontrar códigos de replay!
 joinChallenge:Entrar no desafio!
 spectateChannel:Assistir canal
-leaderboardStats:Classificação (Vitórias: {wins} Derrotas: {loses})
-seasonStats:Temporada {season} (Vitórias: {seasonWins} Derrotas: {seasonLoses})
+leaderboardStats:Líderes (Vitórias: {victories} Derrotas: {number} )
+seasonStats:Temporada {season} (Vitórias: {victories} Derrotas: {number} )
 battleEnemySleeping:dormiu
 battleEnemyParalysis:foi paralisado
 battleEnemyPoison:foi envenenado
@@ -72,7 +72,6 @@ battleEnemyEndParalysis:deixou de estar paralisado
 battleEnemyEndPoison:deixou de estar envenenado
 battleEnemyFrozen:está congelado
 battleConfused:está confuso e se machucou
-battleFlinched:recuou e não conseguiu atacar
 battleWokeUp:acordou
 battleUnthawed:descongelou
 battlePoisonDamage:levou dano de envenenamento
@@ -126,3 +125,6 @@ LIGHT_SCREEN_END:O Raio de Luz desapareceu.
 REFLECT_STARTED:A equipe do usuário está protegida por Refletir.
 TAILWIND_STARTED:O vento começa a soprar atrás da equipe do usuário.
 TAILWIND_END:O vento parou de soprar.
+PERISH_SONG_START:ouviu o Canto Mortal
+PERISH_SONG_END:desmaiou!
+FLINCHED:vacilou e não conseguiu atacar

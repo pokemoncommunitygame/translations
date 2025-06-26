@@ -60,8 +60,8 @@ teamExchangeWarning:DU BIST DABEI DEIN TEAM AUSZUTAUSCHEN. DIESES TEAM WIRD FÜR
 noReplayCodes:Keine Replay-Codes gefunden!
 joinChallenge:Herausforderung starten!
 spectateChannel:Kanal zuschauen
-leaderboardStats:Bestenliste (Siege: {wins} Niederlagen: {loses})
-seasonStats:Saison {season} (Siege: {seasonWins} Niederlagen: {seasonLoses})
+leaderboardStats:Leaderboard (Siege: {victories} Niederlagen: {number} )
+seasonStats:Saison {season} (Siege: {victories} Niederlagen: {number} )
 battleEnemySleeping:ist eingeschlafen
 battleEnemyParalysis:wurde paralysiert
 battleEnemyPoison:wurde vergiftet
@@ -72,7 +72,6 @@ battleEnemyEndParalysis:ist nicht mehr paralysiert
 battleEnemyEndPoison:ist nicht mehr vergiftet
 battleEnemyFrozen:wurde eingefroren
 battleConfused:hat sich vor Verwirrung selbst verletzt
-battleFlinched:schreckt zurück
 battleHealed:KP wurden aufgefrischt
 battleWokeUp:ist aufgewacht
 battleUnthawed:taut auf
@@ -126,3 +125,6 @@ BELLY_DRUM:reduziert sein eigenes KP und maximiert seinen Angriff
 CLEAR_SMOG:seine Statusänderungen wurden entfernt!
 battlePokemonChanged:wurde ausgetauscht mit
 battleMoveUsed:verwendet
+PERISH_SONG_START:hörte das Todesgesang
+PERISH_SONG_END:ist besiegt!
+FLINCHED:erschrak und konnte nicht angreifen

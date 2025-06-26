@@ -60,8 +60,8 @@ teamExchangeWarning:VOUS ÊTES SUR LE POINT D'ÉCHANGER VOTRE ÉQUIPE. CETTE ÉQ
 noReplayCodes:Impossible de trouver les codes de replay !
 joinChallenge:Rejoindre le défi !
 spectateChannel:Spectateur de chaîne
-leaderboardStats:Classement (Victoires: {wins} Défaites: {loses})
-seasonStats:Saison {season} (Victoires: {seasonWins} Défaites: {seasonLoses})
+leaderboardStats:Tableau des leaders (Victoires : {victories} Défaites : {number} )
+seasonStats:Saison {season} (Victoires : {victories} Défaites : {number} )
 battleEnemySleeping:s'est endormi
 battleEnemyParalysis:est paralysé
 battleEnemyPoison:est empoisonné
@@ -72,7 +72,6 @@ battleEnemyEndParalysis:n'est plus paralysé
 battleEnemyEndPoison:n'est plus empoisonné
 battleEnemyFrozen:est gelé
 battleConfused:est confus et s'est blessé lui-même
-battleFlinched:est apeuré et ne peut plus attaquer
 battleWokeUp:s'est réveillé
 battleUnthawed:est dégelé
 battlePoisonDamage:a pris des dégats de poison
@@ -126,3 +125,6 @@ BELLY_DRUM:a réduit ses PV et maximise son attaque
 CLEAR_SMOG:les changements de statuts ont été supprimés !
 battlePokemonChanged:a été remplacé par
 battleMoveUsed:utilise  
+PERISH_SONG_START:a entendu le Requiem
+PERISH_SONG_END:est tombé K.O.!
+FLINCHED:a sursauté et n'a pas pu attaquer

@@ -61,8 +61,8 @@ teamExchangeWarning:YOUR ARE ABOUT TO EXCHANGE YOUR TEAM. THIS TEAM WILL BE GONE
 noReplayCodes:Can't find replay codes!
 joinChallenge:Join challenge!
 spectateChannel:Spectate channel
-leaderboardStats:Leaderboard (Wins: {wins} Losses: {loses})
-seasonStats:Season {season} (Wins: {seasonWins} Losses: {seasonLoses})
+leaderboardStats:Leaderboard (Wins: {victories} Losses: {number} )
+seasonStats:Season {season} (Wins: {victories} Losses: {number} )
 BattleXP:Everyone in your team gained {points} XP! You received ${dollar}!
 battleEnemySleeping:fell asleep
 battleEnemyParalysis:was paralysed
@@ -74,7 +74,6 @@ battleEnemyEndParalysis:is not paralyzed anymore
 battleEnemyEndPoison:is not poisoned anymore
 battleEnemyFrozen:was frozen
 battleConfused:is confused and hurt itself
-battleFlinched:flinched and couldn't attack
 battleHealed:had its HP restored
 battleWokeUp:woke up
 battleUnthawed:unthawed
@@ -126,3 +125,6 @@ BELLY_DRUM:cut its own HP and maximizes its attack
 CLEAR_SMOG:'s stat changes were removed!
 battlePokemonChanged:was switched out with
 battleMoveUsed:uses
+PERISH_SONG_START:heard the Perish Song
+PERISH_SONG_END:fainted!
+FLINCHED:flinched and couldn't attack
