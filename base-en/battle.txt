@@ -32,9 +32,9 @@ searchBattle:Search Battle
 searchBattleRanked:Ranked
 searchBattleCasual:Casual
 
-searchTourneyBattleNotReady: `Tourney Battle not ready!`,
+searchTourneyBattleNotReady:Tourney Battle not ready!
 searchTourneyBattle:Tourney vs
-searchBattleNotEnoguh:  "You need 6 Pokémon in your team for public battles!
+searchBattleNotEnoguh:You need 6 Pokémon in your team for public battles!
 
 wantToBattlePrivate:Enter the same password as your opponent to start a private battle.
 wantToBattleRanked:Do you want to start a ranked battle?
@@ -53,45 +53,45 @@ battleCancelled:The battle has been cancelled.
 battleAlreadyEnded:The battle already ended.
 battleWaitForPlayer:Waiting for other player...
 
-battleMoveFailed:It failed...
+MOVE_FAILED:It failed...
 battleNotEffective:That's not very effective...
 battleEffective:It was super effective!
 battleNoEffect:That has no effect...
-battleCriticalHit:A critical hit!
+CRITICAL_HIT:A critical hit!
 battleNotAwaitingMove:Move already chosen.
+ATTACK_MISSED:'s attack missed.
 
 
 
 // field effects
-battleRainEnd: `It stopped raining`,
-battleRainStarted: `It started raining`,
-battleHailStarted: `It started hailing`,
-battleHailDamage: 'Pokémon took hail damage.',
-battleHailEnd: 'The hail stopped.',
-battleSandstormStarted:A sandstorm has started
+RAIN_END:It stopped raining
+RAIN_STARTED:It started raining
+HAIL_STARTED:It started hailing
+battleHailDamage:Pokémon took hail damage.
+HAIL_END:The hail stopped.
+SANDSTORM_STARTED:A sandstorm has started
 battleSandstormDamage:Pokémon are damaged by the sandstorm.
-battleSandstormEnd:The sandstorm ended.
-battleSunStarted: `The sun shines bright.`,
-battleSunEnd: `The sun has faded.`,
+SANDSTORM_END:The sandstorm ended.
+SUN_STARTED:The sun shines bright
+SUN_END:The sun has faded
 
 // user field effect
-battleMistStarted:Your Pokémon were enveloped in a shroud of mist
-battleMistPrevented:Mist prevents stats from getting lowered.
-battleMistEnd:The mist has been lifted.
-battleLightScreenStarted:A light screen protects the user's team.
-battleLightScreenEnd:The light screen disappeared.
-battleReflectStarted:The team of the user is protected by reflect.
-battleTailwindStarted:The wind starts blowing behind the users team.
-battleTailwindEnd:The wind stops blowing.
-battleReflectEnd:The effect of reflect wore off.
-battleTrickRoomStarted:The dimensions got twisted.
-battleTrickRoomEnd:The dimensions got back to normal.
-battleHazeUsed:Stat changes have been reset.
+MIST_STARTED:Your Pokémon were enveloped in a shroud of mist
+MIST_PREVENTED:Mist prevents stats from getting lowered.
+MIST_END:The mist has been lifted.
+LIGHT_SCREEN_STARTED:A light screen protects the user's team.
+LIGHT_SCREEN_END:The light screen disappeared.
+REFLECT_STARTED:The team of the user is protected by reflect.
+TAILWIND_STARTED:The wind starts blowing behind the users team.
+TAILWIND_END:The wind stops blowing.
+REFLECT_END:The effect of reflect wore off.
+TRICK_ROOM_STARTED:The dimensions got twisted.
+TRICK_ROOM_END:The dimensions got back to normal.
+HAZE_USED:Stat changes have been reset.
 
 // battle ended
 BattleWin:Congratulations, you won the battle!
 BattleLose:You lost the battle!
-
 BattleNoXP:Your team didn't receive XP!
 
 struggle:Struggle
@@ -110,34 +110,49 @@ seasonStats:Season {season} (Wins: {seasonWins} Losses: {seasonLoses})
 
 BattleXP:Everyone in your team gained ${points} XP! You received ${dollar}!
 
+battleMultipleHits:{amount} hits!
+
+battleDisallowSwitching:can't switch out anymore.
+battleAllowSwitching:can switch out again.
+
+battleStatUp1:'s ${statName} rose.
+battleStatUp2:'s ${statName} sharply rose!
+battleStatUp3:'s ${statName} rose drastically!
+battleStatDown1:'s ${statName} fell.
+battleStatDown2:'s ${statName} harshly fell!
+battleStatDown3:'s ${statName} severely fell!
+
 
 // status effects
-battleEnemySleeping:fell asleep.`,
-battleEnemyParalysis:was paralysed.`,
-battleEnemyPoison:was poisoned.`,
-battleEnemyToxic:was badly poisoned.`,
-battleEnemyBurned:was burned.`,
-battleIsParalyzed:is paralysed and couldn't move.`,
-battleEnemyConfused:has been confused`,
-battleEnemyEndConfusion:snapped out of confusion`,
-battleEnemyEndBurn:is not burned anymore`,
-battleEnemyEndParalysis:is not paralyzed anymore`,
-battleEnemyEndPoison:is not poisoned anymore`,
-battleEnemyFrozen:was frozen`,
-battleIsSleeping:is sleeping and couldn't move.`,
-battleConfused:is confused and hurt itself.`,
-battleIsFrozen:is frozen and couldn't move`,
-battleFlinched:flinched and couldn't attack`,
-battleHealed:had its HP restored.`,
-battleWokeUp:woke up.`,
-battleUnthawed:unthawed.`,
-battleRecoilApplied:took recoil damage.`,
-battlePoisonDamage:took poison damage.`,
-battleBurnDamage:took burn damage.`,
+battleEnemySleeping:fell asleep
+battleEnemyParalysis:was paralysed
+battleEnemyPoison:was poisoned
+battleEnemyToxic:was badly poisoned
+battleEnemyBurned:was burned
+IS_PARALYZED:is paralysed and couldn't move
+CONFUSION_APPLIED:has been confused
+END_CONFUSION:snapped out of confusion
+battleEnemyEndBurn:is not burned anymore
+battleEnemyEndParalysis:is not paralyzed anymore
+battleEnemyEndPoison:is not poisoned anymore
+battleEnemyFrozen:was frozen
+IS_SLEEPING:is sleeping and couldn't move
+battleConfused:is confused and hurt itself
+IS_FROZEN:is frozen and couldn't move
+battleFlinched:flinched and couldn't attack
+battleHealed:had its HP restored
+battleWokeUp:woke up
+battleUnthawed:unthawed
+RECOIL_APPLIED:took recoil damage
+battlePoisonDamage:took poison damage
+battleBurnDamage:took burn damage
 
-battleEnemyStartMagnetRise:started levitating.`,
-battleEnemyEndMagnetRise:stopped levitating.`,
-battleEnemyStartTaunt:was taunted.`,
-battleEnemyEndTaunt:is no longer taunted.`,
-battleBellyDrum:cut its own HP and maximizes its attack.`,
-clearSmog:'s stat changes were removed!`,
+START_MAGNET_RISE:started levitating
+END_MAGNET_RISE:stopped levitating
+TAUNTED_STARTED:was taunted
+TAUNTED_END:is no longer taunted
+BELLY_DRUM:cut its own HP and maximizes its attack
+CLEAR_SMOG:'s stat changes were removed!
+
+battlePokemonChanged:was switched out with
+battleMoveUsed:uses

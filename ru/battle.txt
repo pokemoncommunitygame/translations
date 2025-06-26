@@ -1,1 +1,128 @@
 battleCantSwitch:К сожалению, движение мешает вам поменять покемона.
+leaderboard:Таблица лидеров
+private:Приватный
+ranked:Рейтинговый
+stadium:Стадион
+tourney:Турнир
+challenge:Вызов
+noChallenge:Нет вызова
+wins:Победы
+losses:Поражения
+season:Сезон
+rules:Правила
+opponent:Противник
+roundReadySince:Раунд готов с
+duplicatesAllowed:Дубликаты разрешены
+minBST:Мин БСТ
+maxBST:Макс БСТ
+battleInPVEBatles:Сражайтесь вашей командой в PvE-боях.
+youAreNotMeetingTheRequirements:Вы не соответствуете требованиям!
+requirements:Требования
+start:Старт
+changePokemonButton:Сменить покемона
+surrenderButton:Сдаться
+wantToSurrender:Вы хотите сдаться? (Слишком частые сдачи могут привести к временной блокировке!)
+wantToSurrenderPrivate:Вы хотите сдаться?
+searchBattle:Поиск битвы
+searchBattleRanked:Рейтинговая
+searchBattleCasual:Обычная
+searchTourneyBattleNotReady:`Бой-турнир не готов!
+searchTourneyBattle:Турнир против
+searchBattleNotEnoguh:Вам нужно 6 Покемонов в вашей команде для публичных боев!
+wantToBattlePrivate:Введите тот же пароль, что и ваш соперник, чтобы начать частную битву.
+wantToBattleRanked:Вы хотите начать рейтинговую битву?
+waitForPlayer:Ожидание другого игрока...
+noTeam:У вас нет команды.
+TeamFainted:Поиск не удался. Один или более ваших покемонов находятся в нокауте
+bannedPokemonInTeam:Поиск не удался. Один или более ваших покемонов запрещены в очереди публичных битв
+notEnoughPokemon:Поиск не удался. У вас должно быть не менее 6 покемонов!
+userBanned:Вы заблокированы на:
+removeFromTeam:Удалить из команды
+info:Инфо
+battlePlayerNotAccepted:Ваш противник потерял соединение до начала боя. Пожалуйста, попробуйте снова.
+battleCancelled:Бой был отменен.
+battleAlreadyEnded:Бой уже завершился.
+battleWaitForPlayer:Ожидание другого игрока...
+battleNotEffective:Это не очень эффективно...
+battleEffective:Это было суперэффективно!
+battleNoEffect:Это не имеет эффекта...
+battleNotAwaitingMove:Ход уже выбран.
+battleHailDamage:Покемон получил урон от града.
+battleSandstormDamage:Покемоны получают урон от песчаной бури.
+BattleWin:Поздравляем, вы выиграли битву!
+BattleLose:Вы проиграли битву!
+BattleNoXP:Ваша команда не получила ОП!
+struggle:Борьба
+battleDoesntExist:Битва не существует!
+enterSpectateKey:Ключ наблюдения:
+tooManyConcurrentBattles:Слишком много текущих битв! Пожалуйста, попробуйте снова через 5 минут!
+addPokemonInstruction:Чтобы добавить покемона в вашу команду, нажмите на компьютерную панель в левом верхнем углу, выберите вашего покемона и нажмите на значок меча.
+teamExchangeWarning:ВЫ СОБИРАЕТЕСЬ СМЕНИТЬ СВОЮ КОМАНДУ. ЭТА КОМАНДА БУДЕТ ПОТЕРЯНА НАВСЕГДА.
+noReplayCodes:Не могу найти коды повторов!
+joinChallenge:Присоединиться к вызову!
+spectateChannel:Наблюдать за каналом
+leaderboardStats:Таблица лидеров (Победы: {wins} Поражения: {loses})
+seasonStats:Сезон {season} (Победы: {seasonWins} Поражения: {seasonLoses})
+BattleXP:Все в вашей команде получили ${points} XP! Вы получили ${dollar}!
+battleEnemySleeping:уснул.
+battleEnemyParalysis:был парализован.
+battleEnemyPoison:был отравлен.
+battleEnemyToxic:был сильно отравлен.
+battleEnemyBurned:был обожжён.
+battleEnemyEndBurn:больше не обожжён
+battleEnemyEndParalysis:больше не парализован
+battleEnemyEndPoison:больше не отравлен
+battleEnemyFrozen:был заморожен
+battleConfused:в замешательстве и ударил себя.
+battleFlinched:дрогнул и не смог нападать.
+battleWokeUp:проснулся.
+battleUnthawed:разморозился.
+battlePoisonDamage:получил урон от яда.
+battleBurnDamage:получил урон от ожога.
+battleHealed:восстановлены ОЗ
+MOVE_FAILED:Это не удалось...
+CRITICAL_HIT:Критический удар!
+ATTACK_MISSED:Атака {username} промахнулась.
+RAIN_END:Дождь прекратился
+RAIN_STARTED:Дождь начался
+HAIL_STARTED:Начался град
+HAIL_END:Град прекратился.
+SANDSTORM_STARTED:Началась песчаная буря
+SANDSTORM_END:Песчаная буря закончилась.
+SUN_STARTED:Солнце ярко светит
+SUN_END:Солнце исчезло
+MIST_STARTED:Ваши Покемоны окутаны завесой тумана
+MIST_PREVENTED:Туман предотвращает понижение характеристик.
+MIST_END:Туман рассеялся.
+LIGHT_SCREEN_STARTED:Световой экран защищает команду пользователя.
+LIGHT_SCREEN_END:Световой экран исчез.
+REFLECT_STARTED:Команда пользователя защищена отражением.
+TAILWIND_STARTED:Ветер дует за командой пользователей.
+TAILWIND_END:Ветер прекратился.
+REFLECT_END:Эффект отражения закончился.
+TRICK_ROOM_STARTED:Измерения исказились.
+TRICK_ROOM_END:Измерения вернулись к норме.
+HAZE_USED:Изменения характеристик сброшены.
+battleMultipleHits:{amount} ударов!
+battleDisallowSwitching:больше нельзя сменить покемона.
+battleAllowSwitching:можно снова сменить покемона.
+battleStatUp1:характеристика ${statName} повысилась.
+battleStatUp2:характеристика ${statName} резко повысилась!
+battleStatUp3:характеристика ${statName} значительно повысилась!
+battleStatDown1:характеристика ${statName} упала.
+battleStatDown2:характеристика ${statName} резко упала!
+battleStatDown3:характеристика ${statName} значительно упала!
+IS_PARALYZED:парализован и не может двигаться
+CONFUSION_APPLIED:впал в состояние растерянности
+END_CONFUSION:вышел из состояния растерянности
+IS_SLEEPING:спит и не может двигаться
+IS_FROZEN:замерз и не может двигаться
+RECOIL_APPLIED:получил отдачу от урона
+START_MAGNET_RISE:начал парить
+END_MAGNET_RISE:перестал левитировать
+TAUNTED_STARTED:был подвергнут насмешке
+TAUNTED_END:больше не подвергается насмешке
+BELLY_DRUM:уменьшил свои HP и максимально повысил свою атаку
+CLEAR_SMOG:изменения характеристик были удалены!
+battlePokemonChanged:был заменен на
+battleMoveUsed:использует  

@@ -1,5 +1,4 @@
 battleCantSwitch:Malheureusement, une capacité vous empêche de changer.
-
 leaderboard:Classement
 private:Privé
 stadium:Stade
@@ -19,7 +18,6 @@ battleInPVEBatles:Combattez avec votre équipe dans des batailles PvE.
 youAreNotMeetingTheRequirements:Vous ne remplissez pas les exigences !
 requirements:Requirements
 start:Commencer
-
 changePokemonButton:Échange de Pokemon
 surrenderButton:Surrender
 wantToSurrender:Voulez-vous abandonner le combat? (Abandonner trop souvent peut mener à un timeout)
@@ -28,12 +26,10 @@ searchBattle:Recherche de combat
 searchBattleRanked:Classé
 searchBattleCasual:Amical
 searchTourneyBattleNotReady:Le combat du tournois n'est pas prêt!
-searchBattleNotEnoguh:Vous devez avoir 6 Pokémon dans votre équipe pour les combats publiques!
-
+searchBattleNotEnoguh:Il te faut 6 Pokémon dans ton équipe pour les combats publics !
 wantToBattlePrivate:Entrez le même mot de passe que votre adversaire pour commencer un combat privé.
 wantToBattleRanked:Voulez-vous commencer un combat classé?
 waitForPlayer:En attente de votre adversaire...
-
 noTeam:Tu n'as pas d'équipe.
 TeamFainted:Echec de la recherche. Tous tes Pokémons sont K.O.
 bannedPokemonInTeam:La recherche a échoué. Un ou plusieurs de vos Pokémon sont interdits en combats publics
@@ -41,59 +37,23 @@ notEnoughPokemon:La recherche a échoué. Vous devez avoir au moins 6 Pokémon!
 userBanned:Vous êtes banni pendant:
 removeFromTeam:Retirer de l'équipe
 info:Info
-
-// battle
-battlePlayerNotAccepted:Ton adversaire a perdu la connexion avant que le combat ne commence.<br><br> Veuillez réessayer.
+battlePlayerNotAccepted:Ton adversaire a perdu la connexion avant que le combat ne commence. Veuillez réessayer.
 battleCancelled:Le combat a été annulé.
 battleAlreadyEnded:Le combat est déjà terminé.
 battleWaitForPlayer:Attente d'autres joueurs...
-battleMoveFailed:Cela a échoué...
 battleNotEffective:Ce n'est pas très efficace...
 battleEffective:C'est super efficace !
 battleNoEffect:Cela n'a pas d'effet...
-battleCriticalHit:Coup critique !
 battleNotAwaitingMove:Capacité déjà sélectionnée.
-
-
-// field effects
-battleRainEnd: `Il s'est arrêté de pleuvoir`,
-battleRainStarted: `Il commence à pleuvoir`,
-battleHailStarted: `Il commence à grêler`,
-battleHailDamage: 'Le Pokémon prend des dégats de grêle.',
-battleHailEnd:Il s'est arrêté de grêler.
-battleSandstormStarted:Une tempête de sable se prépare
+battleHailDamage:Le Pokémon prend des dégats de grêle.
 battleSandstormDamage:Le Pokémon prend des dégats de la tempête de sable.
-battleSandstormEnd:La tempête de sable se calme.
-battleSunStarted: `Les rayons du soleil brillent.`,
-battleSunEnd: `Le soleil se retire.`,
-
-
-// user field effect
-battleMistStarted:Vos Pokémon ont été enveloppés d'un voile de brume.
-battleMistPrevented:La brume empêche la baisse des statistiques.
-battleMistEnd:La brume a été levée.
-battleLightScreenStarted:Un mur de lumière protège l'équipe de l'utilisateur.
-battleLightScreenEnd:Le mur de lumière a disparu.
-battleReflectStarted:L'équipe de l'utilisateur est protégée par un reflet.
-battleTailwindStarted:Le vent commence à souffler derrière l'équipe de l'utilisateur.
-battleTailwindEnd:Le vent cesse de souffler.
-battleReflectEnd:L'effet de la réflexion s'est dissipé.
-battleTrickRoomStarted:Les dimensions ont été tordues.
-battleTrickRoomEnd:Les dimensions sont redevenues normales.
-battleHazeUsed:Les changements de stat ont été réinitialisés.
-
-// battle ended
 BattleWin:Félicitations, tu as remporté le combat !
 BattleLose:Tu as perdu le combat !
 BattleNoXP:Ton équipe n'a pas remporté d'EXP !
-
 struggle:Lutte
-
 battleDoesntExist:La combat n'existe pas!
 enterSpectateKey:Clé de spectateur:
-
 tooManyConcurrentBattles:Il y a trop de combats en cours ! Veuillez réessayer dans 5 minutes!
-
 ranked:Classé
 addPokemonInstruction:Pour ajouter un Pokémon à votre équipe, cliquez sur le panneau de l'ordinateur en haut à gauche, sélectionnez votre Pokémon, puis appuyez sur l'icône d'épée.
 teamExchangeWarning:VOUS ÊTES SUR LE POINT D'ÉCHANGER VOTRE ÉQUIPE. CETTE ÉQUIPE DISPARAÎTRA POUR TOUJOURS.
@@ -102,35 +62,67 @@ joinChallenge:Rejoindre le défi !
 spectateChannel:Spectateur de chaîne
 leaderboardStats:Classement (Victoires: {wins} Défaites: {loses})
 seasonStats:Saison {season} (Victoires: {seasonWins} Défaites: {seasonLoses})
-
-
-// status effects
-battleEnemySleeping:s'est endormi.`,
-battleEnemyParalysis:est paralysé.`,
-battleEnemyPoison:est empoisonné.`,
-battleEnemyToxic:est gravement empoisonné.`,
-battleEnemyBurned:est brulé.`,
-battleIsParalyzed:est paralysé.`,
-battleEnemyConfused:est confus.`,
-battleEnemyEndConfusion:n'est plus confus.`,
-battleEnemyEndBurn:n'est plus brûlé.`,
-battleEnemyEndParalysis:n'est plus paralysé.`,
-battleEnemyEndPoison:n'est plus empoisonné.`,
-battleEnemyFrozen:est gelé`,
-battleIsSleeping:est endormi et ne peut plus bouger.`,
-battleConfused:est confus et s'est blessé lui-même.`,
-battleIsFrozen:est gelé et ne peut plus bouger.`,
-battleFlinched:est apeuré et ne peut plus attaquer.`,
-battleHealed: (pokemonName) => `<span class="battle-log-pokemonname" style="color:#63ff78">HP of ${pokemonName}</span> ont été restaurés.`,
-battleWokeUp:s'est réveillé.`,
-battleUnthawed:est dégelé.`,
-battleRecoilApplied:a pris des dégats de recul.`,
-battlePoisonDamage:a pris des dégats de poison.`,
-battleBurnDamage:a pris des dégats de brûlure.`,
-
-battleEnemyStartMagnetRise:lévite.`,
-battleEnemyEndMagnetRise:ne lévite plus.`,
-battleEnemyStartTaunt:a été provoqué.`,
-battleEnemyEndTaunt:n'est plus provoqué.`,
-battleBellyDrum:réduit ses propres PV et maximise son attaque.`,
-
+battleEnemySleeping:s'est endormi
+battleEnemyParalysis:est paralysé
+battleEnemyPoison:est empoisonné
+battleEnemyToxic:est gravement empoisonné
+battleEnemyBurned:est brulé
+battleEnemyEndBurn:n'est plus brûlé
+battleEnemyEndParalysis:n'est plus paralysé
+battleEnemyEndPoison:n'est plus empoisonné
+battleEnemyFrozen:est gelé
+battleConfused:est confus et s'est blessé lui-même
+battleFlinched:est apeuré et ne peut plus attaquer
+battleWokeUp:s'est réveillé
+battleUnthawed:est dégelé
+battlePoisonDamage:a pris des dégats de poison
+battleBurnDamage:a pris des dégats de brûlure
+searchTourneyBattle:Tournoi vs
+BattleXP:Tout le monde dans ton équipe a gagné ${points} XP ! Tu as reçu ${dollar} !
+battleHealed:a récupéré ses PV.
+MOVE_FAILED:Ça a échoué...
+CRITICAL_HIT:Un coup critique !
+ATTACK_MISSED:L'attaque de {1} a échoué.
+RAIN_END:Il a cessé de pleuvoir.
+RAIN_STARTED:Il commence à pleuvoir.
+HAIL_STARTED:Il commence à grêler.
+HAIL_END:La grêle a cessé.
+SANDSTORM_STARTED:Une tempête de sable a commencé.
+SANDSTORM_END:La tempête de sable s'est terminée.
+SUN_STARTED:Le soleil brille fort.
+SUN_END:Le soleil s'est évanoui.
+MIST_STARTED:Tes Pokémon sont enveloppés d'un voile de brume.
+MIST_PREVENTED:La brume empêche les stats de diminuer.
+MIST_END:La brume s'est dissipée.
+LIGHT_SCREEN_STARTED:Un écran lumineux protège l'équipe de l'utilisateur.
+LIGHT_SCREEN_END:L'écran lumineux a disparu.
+REFLECT_STARTED:L'équipe de l'utilisateur est protégée par réflexion.
+TAILWIND_STARTED:Le vent commence à souffler derrière l'équipe de l'utilisateur.
+TAILWIND_END:Le vent cesse de souffler.
+REFLECT_END:L'effet de protection s'est dissipé.
+TRICK_ROOM_STARTED:Les dimensions se sont tordues.
+TRICK_ROOM_END:Les dimensions sont redevenues normales.
+HAZE_USED:Les changements de stats ont été réinitialisés.
+battleMultipleHits:{amount} coups !
+battleDisallowSwitching:ne peut plus être échangé.
+battleAllowSwitching:peut être échangé à nouveau.
+battleStatUp1:Sa statistique de ${statName} a augmenté.
+battleStatUp2:Sa statistique de ${statName} a fortement augmenté !
+battleStatUp3:Sa statistique de ${statName} a énormément augmenté !
+battleStatDown1:Sa statistique de ${statName} a baissé.
+battleStatDown2:Sa statistique de ${statName} a beaucoup baissé !
+battleStatDown3:Sa statistique de ${statName} a énormément baissé !
+IS_PARALYZED:est paralysé et ne peut pas bouger
+CONFUSION_APPLIED:est devenu confus
+END_CONFUSION:n'est plus confus
+IS_SLEEPING:dort et ne peut pas bouger
+IS_FROZEN:est gelé et ne peut pas bouger
+RECOIL_APPLIED:a subi des dégâts de recul
+START_MAGNET_RISE:a commencé à léviter
+END_MAGNET_RISE:a cessé de léviter
+TAUNTED_STARTED:a été provoqué
+TAUNTED_END:n'est plus provoqué
+BELLY_DRUM:a réduit ses PV et maximise son attaque
+CLEAR_SMOG:les changements de statuts ont été supprimés !
+battlePokemonChanged:a été remplacé par
+battleMoveUsed:utilise  
