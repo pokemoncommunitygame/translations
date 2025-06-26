@@ -63,7 +63,7 @@ joinChallenge:Присоединиться к вызову!
 spectateChannel:Наблюдать за каналом
 leaderboardStats:Таблица лидеров (Победы: {wins} Поражения: {loses})
 seasonStats:Сезон {season} (Победы: {seasonWins} Поражения: {seasonLoses})
-BattleXP:Все в вашей команде получили ${points} XP! Вы получили ${dollar}!
+BattleXP:Все в вашей команде получили {points} XP! Вы получили ${dollar}!
 battleEnemySleeping:уснул.
 battleEnemyParalysis:был парализован.
 battleEnemyPoison:был отравлен.
@@ -106,12 +106,12 @@ HAZE_USED:Изменения характеристик сброшены.
 battleMultipleHits:{amount} ударов!
 battleDisallowSwitching:больше нельзя сменить покемона.
 battleAllowSwitching:можно снова сменить покемона.
-battleStatUp1:характеристика ${statName} повысилась.
-battleStatUp2:характеристика ${statName} резко повысилась!
-battleStatUp3:характеристика ${statName} значительно повысилась!
-battleStatDown1:характеристика ${statName} упала.
-battleStatDown2:характеристика ${statName} резко упала!
-battleStatDown3:характеристика ${statName} значительно упала!
+battleStatUp1:{statName} поднялась.
+battleStatUp2:{statName} резко поднялась!
+battleStatUp3:{statName} значительно поднялась!
+battleStatDown1:{statName} упала.
+battleStatDown2:{statName} сильно упала!
+battleStatDown3:{statName} значительно упала!
 IS_PARALYZED:парализован и не может двигаться
 CONFUSION_APPLIED:впал в состояние растерянности
 END_CONFUSION:вышел из состояния растерянности

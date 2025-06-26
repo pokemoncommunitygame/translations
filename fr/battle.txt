@@ -78,7 +78,7 @@ battleUnthawed:est dégelé
 battlePoisonDamage:a pris des dégats de poison
 battleBurnDamage:a pris des dégats de brûlure
 searchTourneyBattle:Tournoi vs
-BattleXP:Tout le monde dans ton équipe a gagné ${points} XP ! Tu as reçu ${dollar} !
+BattleXP:Tout le monde dans ton équipe a gagné {points} XP ! Tu as reçu ${dollar} !
 battleHealed:a récupéré ses PV.
 MOVE_FAILED:Ça a échoué...
 CRITICAL_HIT:Un coup critique !
@@ -106,12 +106,12 @@ HAZE_USED:Les changements de stats ont été réinitialisés.
 battleMultipleHits:{amount} coups !
 battleDisallowSwitching:ne peut plus être échangé.
 battleAllowSwitching:peut être échangé à nouveau.
-battleStatUp1:Sa statistique de ${statName} a augmenté.
-battleStatUp2:Sa statistique de ${statName} a fortement augmenté !
-battleStatUp3:Sa statistique de ${statName} a énormément augmenté !
-battleStatDown1:Sa statistique de ${statName} a baissé.
-battleStatDown2:Sa statistique de ${statName} a beaucoup baissé !
-battleStatDown3:Sa statistique de ${statName} a énormément baissé !
+battleStatUp1:Le {statName} de {statName} a augmenté.
+battleStatUp2:Le {statName} de {statName} a fortement augmenté !
+battleStatUp3:Le {statName} de {statName} a énormément augmenté !
+battleStatDown1:Le {statName} de {statName} a diminué.
+battleStatDown2:Le {statName} de {statName} a fortement diminué !
+battleStatDown3:Le {statName} de {statName} a énormément diminué !
 IS_PARALYZED:est paralysé et ne peut pas bouger
 CONFUSION_APPLIED:est devenu confus
 END_CONFUSION:n'est plus confus

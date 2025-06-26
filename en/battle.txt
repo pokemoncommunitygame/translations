@@ -63,7 +63,7 @@ joinChallenge:Join challenge!
 spectateChannel:Spectate channel
 leaderboardStats:Leaderboard (Wins: {wins} Losses: {loses})
 seasonStats:Season {season} (Wins: {seasonWins} Losses: {seasonLoses})
-BattleXP:Everyone in your team gained ${points} XP! You received ${dollar}!
+BattleXP:Everyone in your team gained {points} XP! You received ${dollar}!
 battleEnemySleeping:fell asleep
 battleEnemyParalysis:was paralysed
 battleEnemyPoison:was poisoned
@@ -106,12 +106,12 @@ HAZE_USED:Stat changes have been reset.
 battleMultipleHits:{amount} hits!
 battleDisallowSwitching:can't switch out anymore.
 battleAllowSwitching:can switch out again.
-battleStatUp1:'s ${statName} rose.
-battleStatUp2:'s ${statName} sharply rose!
-battleStatUp3:'s ${statName} rose drastically!
-battleStatDown1:'s ${statName} fell.
-battleStatDown2:'s ${statName} harshly fell!
-battleStatDown3:'s ${statName} severely fell!
+battleStatUp1:'s {statName} rose.
+battleStatUp2:'s {statName} sharply rose!
+battleStatUp3:'s {statName} rose drastically!
+battleStatDown1:'s {statName} fell.
+battleStatDown2:'s {statName} harshly fell!
+battleStatDown3:'s {statName} severely fell!
 IS_PARALYZED:is paralysed and couldn't move
 CONFUSION_APPLIED:has been confused
 END_CONFUSION:snapped out of confusion

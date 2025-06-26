@@ -79,7 +79,7 @@ battleUnthawed:se descongeló
 battlePoisonDamage:recibió daño de veneno
 battleBurnDamage:recibió daño de quemadura
 searchTourneyBattle:Torneo vs
-BattleXP:Todos en tu equipo ganaron ${points} XP! ¡Recibiste ${dollar}!
+BattleXP:¡Todos en tu equipo ganaron {points} XP! ¡Recibiste ${dollar}!
 MOVE_FAILED:Falló...
 CRITICAL_HIT:¡Un golpe crítico!
 ATTACK_MISSED:El ataque de {attacker} falló.
@@ -105,12 +105,12 @@ HAZE_USED:Los cambios en las estadísticas se han restablecido.
 battleMultipleHits:¡{amount} golpes!
 battleDisallowSwitching:ya no puede cambiar.
 battleAllowSwitching:pude cambiar de nuevo.
-battleStatUp1:el {statName} subió.
-battleStatUp2:el {statName} subió mucho.
-battleStatUp3:el {statName} subió drásticamente.
-battleStatDown1:el {statName} bajó.
-battleStatDown2:el {statName} bajó mucho.
-battleStatDown3:el {statName} bajó drásticamente.
+battleStatUp1:su {statName} subió.
+battleStatUp2:su {statName} subió mucho.
+battleStatUp3:su {statName} subió drásticamente.
+battleStatDown1:su {statName} bajó.
+battleStatDown2:su {statName} bajó mucho.
+battleStatDown3:su {statName} bajó severamente.
 IS_PARALYZED:está paralizado y no pudo moverse
 CONFUSION_APPLIED:ha quedado confundido
 END_CONFUSION:ya no está confundido

@@ -78,7 +78,7 @@ battleUnthawed:descongelou
 battlePoisonDamage:levou dano de envenenamento
 battleBurnDamage:levou dano de queimadura
 searchTourneyBattle:Torneio vs
-BattleXP:Todos no seu time ganharam ${points} XP! Você recebeu ${dollar}!
+BattleXP:Todos em sua equipe ganharam {points} XP! Você recebeu ${dollar}!
 battleHealed:teve seus HP restaurados
 REFLECT_END:O efeito do Reflect desapareceu.
 TRICK_ROOM_STARTED:As dimensões ficaram distorcidas.
@@ -87,12 +87,12 @@ HAZE_USED:As mudanças de stats foram reiniciadas.
 battleMultipleHits:{amount} acertos!
 battleDisallowSwitching:não pode mais trocar de Pokémon.
 battleAllowSwitching:pode trocar de Pokémon novamente.
-battleStatUp1:o {statName} subiu.
-battleStatUp2:o {statName} subiu bastante!
-battleStatUp3:o {statName} subiu drasticamente!
-battleStatDown1:o {statName} caiu.
-battleStatDown2:o {statName} caiu bastante!
-battleStatDown3:o {statName} caiu drasticamente!
+battleStatUp1:seu/seua {statName} aumentou.
+battleStatUp2:seu/seua {statName} aumentou descontroladamente!
+battleStatUp3:seu/seua {statName} aumentou drasticamente!
+battleStatDown1:seu/seua {statName} caiu.
+battleStatDown2:seu/seua {statName} caiu severamente!
+battleStatDown3:seu/seua {statName} caiu drasticamente!
 IS_PARALYZED:está paralisado e não pôde se mover
 CONFUSION_APPLIED:ficou confuso
 END_CONFUSION:parou de ficar confuso

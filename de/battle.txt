@@ -79,7 +79,7 @@ battleUnthawed:taut auf
 battlePoisonDamage:erleidet Schaden durch die Vergiftung
 battleBurnDamage:erleidet Schaden durch die Verbrennung
 searchTourneyBattle:Tourney vs
-BattleXP:Jeder in deinem Team hat ${points} EP erhalten! Du hast ${dollar} bekommen!
+BattleXP:Jeder in deinem Team hat {points} EP erhalten! Du hast ${dollar} erhalten!
 MOVE_FAILED:Es schlug fehl...
 CRITICAL_HIT:Ein Volltreffer!
 ATTACK_MISSED:Der Angriff von {0} verfehlte.
@@ -106,12 +106,12 @@ HAZE_USED:Statusveränderungen wurden zurückgesetzt.
 battleMultipleHits:{amount} Treffer!
 battleDisallowSwitching:kann nicht mehr ausgetauscht werden.
 battleAllowSwitching:kann wieder ausgetauscht werden.
-battleStatUp1:'s {statName} stieg.
-battleStatUp2:'s {statName} stieg stark!
-battleStatUp3:'s {statName} stieg drastisch!
-battleStatDown1:'s {statName} fiel.
-battleStatDown2:'s {statName} fiel stark!
-battleStatDown3:'s {statName} fiel drastisch!
+battleStatUp1:s {statName} stieg.
+battleStatUp2:s {statName} stieg stark!
+battleStatUp3:s {statName} stieg drastisch!
+battleStatDown1:s {statName} fiel.
+battleStatDown2:s {statName} fiel stark!
+battleStatDown3:s {statName} fiel drastisch!
 IS_PARALYZED:ist paralysiert und konnte sich nicht bewegen
 CONFUSION_APPLIED:ist verwirrt
 END_CONFUSION:ist nicht mehr verwirrt
