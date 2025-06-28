@@ -128,3 +128,4 @@ battleMoveUsed:usa
 PERISH_SONG_START:ha sentito il Canto Funesto
 PERISH_SONG_END:è svenuto!
 FLINCHED:ha tentennato e non può attaccare
+PERISH_SONG_COOLDOWN:Il conto alla rovescia di è sceso a

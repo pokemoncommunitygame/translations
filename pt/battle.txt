@@ -128,3 +128,4 @@ TAILWIND_END:O vento parou de soprar.
 PERISH_SONG_START:ouviu o Canto Mortal
 PERISH_SONG_END:desmaiou!
 FLINCHED:vacilou e não conseguiu atacar
+PERISH_SONG_COOLDOWN:O contador de canto caiu para

@@ -128,3 +128,4 @@ battleMoveUsed:uses
 PERISH_SONG_START:heard the Perish Song
 PERISH_SONG_END:fainted!
 FLINCHED:flinched and couldn't attack
+PERISH_SONG_COOLDOWN:'s perish count fell to

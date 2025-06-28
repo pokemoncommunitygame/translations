@@ -128,3 +128,4 @@ battleMoveUsed:использует
 PERISH_SONG_START:услышал песню погибели
 PERISH_SONG_END:упал без сознания!
 FLINCHED:поморщился и не смог атаковать
+PERISH_SONG_COOLDOWN:'s судьбоносный отсчёт упал до

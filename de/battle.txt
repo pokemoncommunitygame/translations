@@ -128,3 +128,4 @@ battleMoveUsed:verwendet
 PERISH_SONG_START:hörte das Todesgesang
 PERISH_SONG_END:ist besiegt!
 FLINCHED:erschrak und konnte nicht angreifen
+PERISH_SONG_COOLDOWN:'s Verhängniszähler fiel auf

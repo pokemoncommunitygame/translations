@@ -128,3 +128,4 @@ REFLECT_END:El efecto de Reflejo se desvaneció.
 PERISH_SONG_START:escuchó la Canción Final
 PERISH_SONG_END:¡se debilitó!
 FLINCHED:se estremeció y no pudo atacar
+PERISH_SONG_COOLDOWN:el conteo de perecer de cayó a

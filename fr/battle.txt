@@ -128,3 +128,4 @@ battleMoveUsed:utilise
 PERISH_SONG_START:a entendu le Requiem
 PERISH_SONG_END:est tombé K.O.!
 FLINCHED:a sursauté et n'a pas pu attaquer
+PERISH_SONG_COOLDOWN:le décompte de péril de est tombé à
