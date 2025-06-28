@@ -406,7 +406,7 @@ slowking:Laschoking
 slowkingDescription:Bittet man es darum, löst es jedes noch so schwere Problem für einen. Jedoch ist niemand in der Lage, Laschokings Sprache zu verstehen.
 misdreavus:Traunfugil
 misdreavusDescription:Es genießt es, das Schluchzen eines Menschen nachzuahmen und andere damit zu erschrecken. Wen das kaltlässt, den kann es nicht leiden.
-unown-a:Icognito
+unown-a:Unown (A)
 unown-aDescription:Icognito hat die Form antiker Schriftzeichen. Bis heute ist unklar, was zuerst da war – die antiken Schriftzeichen oder die vielen unterschiedlichen Icognito. Trotz umfangreicher Forschung bleiben Fragen offen.
 wobbuffet:Woingenau
 wobbuffetDescription:Es lebt in der Dunkelheit, um seinen schwarzen Schweif zu verstecken. Es greift nie zuerst an.
@@ -1858,7 +1858,7 @@ kyurem-white:Kyurem (Weiß)
 kyurem-whiteDescription:Nachdem es Zekrom, das über identische Gene verfügt, absorbiert hat, kann es nun sowohl Elektro- als auch Eis-Energie einsetzen.
 keldeo-resolute:Keldeo (Resolutform)
 keldeo-resoluteDescription:Ist es sich seiner Sache sicher, strotzt es vor Kraft und seine Sprünge werden zu schnell für die menschliche Wahrnehmung.
-meowstic-female:Psiaugon
+meowstic-female:Meowstic (W)
 meowstic-femaleDescription:Setzen sie ihre Psycho-Kräfte ungezügelt frei, können sie damit ganze Öltanker versenken. Ihre mürrische Natur macht ihren Charme aus.
 aegislash-blade:Durengard (Schwert)
 aegislash-bladeDescription:Mithilfe seiner mysteriösen Kräfte kontrollierte es Menschen und Pokémon und ließ sie ein Land nach seinen Vorstellungen erschaffen.
@@ -2546,7 +2546,7 @@ hoopa-mega:Mega-Hoopa
 hoopa-megaDescription:Mit seinen sechs Ringen und seinen sechs riesigen Armen kann es alles an sich reißen, was es möchte. Wenn seine Kraft versiegelt wird, nimmt es jedoch eine kleinere Gestalt an.
 houndoom-f:Hundemon
 houndoom-fDescription:Sein unheimliches Heulen ist unverkennbar. Früher wurde es von den Menschen als Bote des Todes gefürchtet.
-indeedee-f:Servol (w.)
+indeedee-f:Servine
 indeedee-fDescription:Mit seinen Hörnern erfasst es die Gefühle von Lebewesen, die sich in seiner Nähe aufhalten. Positive Gefühle sind die Quelle seiner Kraft.
 inteleon-gmax:Gmax Intelleon
 inteleon-gmaxDescription:Dieser ausgezeichnete Scharfschütze kann eine rollende Beere problemlos aus 15 km Entfernung treffen.
@@ -2786,59 +2786,59 @@ toxtricity-lowkey:Riffex (Konzentrisch)
 toxtricity-lowkeyDescription:Wenn es mit speziellen Organen in seiner Brust Elektrizität erzeugt, erklingen dabei Geräusche, die an eine Bassgitarre erinnern.
 unfezant-f:Fasasnob
 unfezant-fDescription:Es ist schlau, aber auch sehr stolz. Seine Trainer genießen daher generell großen Respekt.
-unown-b:Icognito
+unown-b:Unown (B)
 unown-bDescription:Icognito hat die Form antiker Schriftzeichen. Bis heute ist unklar, was zuerst da war – die antiken Schriftzeichen oder die vielen unterschiedlichen Icognito. Trotz umfangreicher Forschung bleiben Fragen offen.
-unown-c:Icognito
+unown-c:Unown (C)
 unown-cDescription:Icognito hat die Form antiker Schriftzeichen. Bis heute ist unklar, was zuerst da war – die antiken Schriftzeichen oder die vielen unterschiedlichen Icognito. Trotz umfangreicher Forschung bleiben Fragen offen.
-unown-d:Icognito
+unown-d:Unown (D)
 unown-dDescription:Icognito hat die Form antiker Schriftzeichen. Bis heute ist unklar, was zuerst da war – die antiken Schriftzeichen oder die vielen unterschiedlichen Icognito. Trotz umfangreicher Forschung bleiben Fragen offen.
-unown-e:Icognito
+unown-e:Unown (E)
 unown-eDescription:Icognito hat die Form antiker Schriftzeichen. Bis heute ist unklar, was zuerst da war – die antiken Schriftzeichen oder die vielen unterschiedlichen Icognito. Trotz umfangreicher Forschung bleiben Fragen offen.
-unown-exclamation:Icognito
+unown-exclamation:Unown (Ausrufezeichen)
 unown-exclamationDescription:Icognito hat die Form antiker Schriftzeichen. Bis heute ist unklar, was zuerst da war – die antiken Schriftzeichen oder die vielen unterschiedlichen Icognito. Trotz umfangreicher Forschung bleiben Fragen offen.
 unown-f:Icognito
 unown-fDescription:Icognito hat die Form antiker Schriftzeichen. Bis heute ist unklar, was zuerst da war – die antiken Schriftzeichen oder die vielen unterschiedlichen Icognito. Trotz umfangreicher Forschung bleiben Fragen offen.
-unown-g:Icognito
+unown-g:Unown (G)
 unown-gDescription:Icognito hat die Form antiker Schriftzeichen. Bis heute ist unklar, was zuerst da war – die antiken Schriftzeichen oder die vielen unterschiedlichen Icognito. Trotz umfangreicher Forschung bleiben Fragen offen.
-unown-h:Icognito
+unown-h:Unown (H)
 unown-hDescription:Icognito hat die Form antiker Schriftzeichen. Bis heute ist unklar, was zuerst da war – die antiken Schriftzeichen oder die vielen unterschiedlichen Icognito. Trotz umfangreicher Forschung bleiben Fragen offen.
-unown-i:Icognito
+unown-i:Unown (I)
 unown-iDescription:Icognito hat die Form antiker Schriftzeichen. Bis heute ist unklar, was zuerst da war – die antiken Schriftzeichen oder die vielen unterschiedlichen Icognito. Trotz umfangreicher Forschung bleiben Fragen offen.
-unown-j:Icognito
+unown-j:Unown (J)
 unown-jDescription:Icognito hat die Form antiker Schriftzeichen. Bis heute ist unklar, was zuerst da war – die antiken Schriftzeichen oder die vielen unterschiedlichen Icognito. Trotz umfangreicher Forschung bleiben Fragen offen.
-unown-k:Icognito
+unown-k:Unown (K)
 unown-kDescription:Icognito hat die Form antiker Schriftzeichen. Bis heute ist unklar, was zuerst da war – die antiken Schriftzeichen oder die vielen unterschiedlichen Icognito. Trotz umfangreicher Forschung bleiben Fragen offen.
-unown-l:Icognito
+unown-l:Unown (L)
 unown-lDescription:Icognito hat die Form antiker Schriftzeichen. Bis heute ist unklar, was zuerst da war – die antiken Schriftzeichen oder die vielen unterschiedlichen Icognito. Trotz umfangreicher Forschung bleiben Fragen offen.
-unown-m:Icognito
+unown-m:Unown (M)
 unown-mDescription:Icognito hat die Form antiker Schriftzeichen. Bis heute ist unklar, was zuerst da war – die antiken Schriftzeichen oder die vielen unterschiedlichen Icognito. Trotz umfangreicher Forschung bleiben Fragen offen.
-unown-n:Icognito
+unown-n:Unown (N)
 unown-nDescription:Icognito hat die Form antiker Schriftzeichen. Bis heute ist unklar, was zuerst da war – die antiken Schriftzeichen oder die vielen unterschiedlichen Icognito. Trotz umfangreicher Forschung bleiben Fragen offen.
-unown-o:Icognito
+unown-o:Unown (O)
 unown-oDescription:Icognito hat die Form antiker Schriftzeichen. Bis heute ist unklar, was zuerst da war – die antiken Schriftzeichen oder die vielen unterschiedlichen Icognito. Trotz umfangreicher Forschung bleiben Fragen offen.
-unown-p:Icognito
+unown-p:Unown (P)
 unown-pDescription:Icognito hat die Form antiker Schriftzeichen. Bis heute ist unklar, was zuerst da war – die antiken Schriftzeichen oder die vielen unterschiedlichen Icognito. Trotz umfangreicher Forschung bleiben Fragen offen.
-unown-q:Icognito
+unown-q:Unown (Q)
 unown-qDescription:Icognito hat die Form antiker Schriftzeichen. Bis heute ist unklar, was zuerst da war – die antiken Schriftzeichen oder die vielen unterschiedlichen Icognito. Trotz umfangreicher Forschung bleiben Fragen offen.
-unown-question:Icognito
+unown-question:Unown (Fragezeichen)
 unown-questionDescription:Icognito hat die Form antiker Schriftzeichen. Bis heute ist unklar, was zuerst da war – die antiken Schriftzeichen oder die vielen unterschiedlichen Icognito. Trotz umfangreicher Forschung bleiben Fragen offen.
-unown-r:Icognito
+unown-r:Unown (R)
 unown-rDescription:Icognito hat die Form antiker Schriftzeichen. Bis heute ist unklar, was zuerst da war – die antiken Schriftzeichen oder die vielen unterschiedlichen Icognito. Trotz umfangreicher Forschung bleiben Fragen offen.
-unown-s:Icognito
+unown-s:Unown (S)
 unown-sDescription:Icognito hat die Form antiker Schriftzeichen. Bis heute ist unklar, was zuerst da war – die antiken Schriftzeichen oder die vielen unterschiedlichen Icognito. Trotz umfangreicher Forschung bleiben Fragen offen.
-unown-t:Icognito
+unown-t:Unown (T)
 unown-tDescription:Icognito hat die Form antiker Schriftzeichen. Bis heute ist unklar, was zuerst da war – die antiken Schriftzeichen oder die vielen unterschiedlichen Icognito. Trotz umfangreicher Forschung bleiben Fragen offen.
-unown-u:Icognito
+unown-u:Unown (U)
 unown-uDescription:Icognito hat die Form antiker Schriftzeichen. Bis heute ist unklar, was zuerst da war – die antiken Schriftzeichen oder die vielen unterschiedlichen Icognito. Trotz umfangreicher Forschung bleiben Fragen offen.
-unown-v:Icognito
+unown-v:Unown (V)
 unown-vDescription:Icognito hat die Form antiker Schriftzeichen. Bis heute ist unklar, was zuerst da war – die antiken Schriftzeichen oder die vielen unterschiedlichen Icognito. Trotz umfangreicher Forschung bleiben Fragen offen.
-unown-w:Icognito
+unown-w:Unown (W)
 unown-wDescription:Icognito hat die Form antiker Schriftzeichen. Bis heute ist unklar, was zuerst da war – die antiken Schriftzeichen oder die vielen unterschiedlichen Icognito. Trotz umfangreicher Forschung bleiben Fragen offen.
-unown-x:Icognito
+unown-x:Unown (X)
 unown-xDescription:Icognito hat die Form antiker Schriftzeichen. Bis heute ist unklar, was zuerst da war – die antiken Schriftzeichen oder die vielen unterschiedlichen Icognito. Trotz umfangreicher Forschung bleiben Fragen offen.
-unown-y:Icognito
+unown-y:Unown (Y)
 unown-yDescription:Icognito hat die Form antiker Schriftzeichen. Bis heute ist unklar, was zuerst da war – die antiken Schriftzeichen oder die vielen unterschiedlichen Icognito. Trotz umfangreicher Forschung bleiben Fragen offen.
-unown-z:Icognito
+unown-z:Unown (Z)
 unown-zDescription:Icognito hat die Form antiker Schriftzeichen. Bis heute ist unklar, was zuerst da war – die antiken Schriftzeichen oder die vielen unterschiedlichen Icognito. Trotz umfangreicher Forschung bleiben Fragen offen.
 ursaring-f:Ursaring
 ursaring-fDescription:In den von Ursaring bewohnten Wäldern gibt es viele Flüsse und hohe Bäume, in denen es Nahrung findet. Dieses Pokémon läuft täglich durch den Wald, um nach Essbarem zu suchen.
@@ -2884,7 +2884,7 @@ hisuian-goodra:His Viscogon
 hisuian-goodraDescription:Es greift mit seinen ausfahrbaren Fühlern an, deren Durchschlagskraft hundertmal so stark wie der Faustschlag eines Schwergewichtsboxers ist.
 hisuian-zoroark:His Zoroark
 hisuian-zoroarkDescription:Durch die zerzauste weiße Mähne gleicht es Gevatter Tod. Getrieben von bitterem Groll, von dem es selbst zerfressen wird, streckt es Feinde ohne Rücksicht auf das eigene Leben nieder.
-hisuian-basculegion-female:Hisuian-Salmagnis (Weiblich)
+hisuian-basculegion-female:Hisui Basculegion (W)
 hisuian-basculegion-femaleDescription:Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal.
 gliscor-pcg:PCG Skorgro
 gliscor-pcgDescription:Es fliegt völlig lautlos. Erst fängt es seine Beute mit seinem langen Schweif, dann saugt es sie aus. (Art by Studio Karli)
@@ -2900,7 +2900,7 @@ hisuian-lilligant:His Dressella
 hisuian-lilligantDescription:Das aus seiner Blume gewonnene ätherische Öl verströmt den allerfeinsten Duft, doch es kostet ein Vermögen.
 hisuian-sneasel:His Sniebel
 hisuian-sneaselDescription:Dieses durchtriebene und gewissenlose Pokémon beobachtet Nester, bis die Eltern ausgeflogen sind, und stiehlt dann deren Eier.
-hisuian-basculegion-male:Hisuian-Salmagnis (Männlich)
+hisuian-basculegion-male:Hisui Basculegion (M)
 hisuian-basculegion-maleDescription:Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal.
 ursaluna:Ursaluna
 ursalunaDescription:I believe it was Hisui's swampy terrain that gave Ursaluna its burly physique and newfound capacity to manipulate peat at will.
@@ -2982,7 +2982,7 @@ quaquaval:Bailonda
 quaquavalDescription:Dancing in ways that evoke far-away places, this Pokémon mesmerizes all that see it. Flourishes of its decorative water feathers slice into its foes.
 lechonk:Ferkuli
 lechonkDescription:This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest.
-oinkologne-male:Schweikologne (Männlich)
+oinkologne-male:Oinkologne (M)
 oinkologne-maleDescription:It entrances female Pokémon with the sweet, alluring scent that wafts from all over its body.
 tarountula:Tarundel
 tarountulaDescription:The thread it secretes from its rear is as strong as wire. The secret behind the thread’s strength is the topic of ongoing research.

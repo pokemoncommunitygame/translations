@@ -414,7 +414,7 @@ slowking:Slowking
 slowkingDescription:Es capaz de dar respuesta a cualquier cuestión que se le formule, pero, por desgracia, nadie logra descifrar una sola palabra de lo que dice.
 misdreavus:Misdreavus
 misdreavusDescription:Disfruta imitando llantos humanos para asustar a la gente. Los valientes no le caen demasiado bien.
-unown-a:Unown
+unown-a:Unown (A)
 unown-aDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
 wobbuffet:Wobbuffet
 wobbuffetDescription:Para mantener oculta su negra cola, vive en silencio en la oscuridad. Nunca ataca primero.
@@ -1846,7 +1846,7 @@ kyurem-white:Kyurem (Blanco)
 kyurem-whiteDescription:Tras la fusión con Zekrom, con el que comparte el ADN, puede absorber y controlar la energía eléctrica y la energía del hielo.
 keldeo-resolute:Keldeo (Resuelto)
 keldeo-resoluteDescription:Cuando está decidido, su cuerpo rebosa brío, y es capaz de saltar más alto y correr más de lo que la vista alcanza.
-meowstic-female:Meowstic
+meowstic-female:Meowstic (F)
 meowstic-femaleDescription:El fuerte instinto protector de los machos los lleva a liberar todo su poder cuando se trata de defenderse a sí mismos o a su Entrenador.
 aegislash-blade:Aegislash
 aegislash-bladeDescription:Mediante el control ejercido con su inmenso poder espectral, logró que humanos y Pokémon le forjaran un país a medida de sus necesidades.
@@ -2546,7 +2546,7 @@ hoopa-mega:Mega Hoopa
 hoopa-megaDescription:Dicen que gracias a sus seis anillos y seis enormes brazos puede robar todo lo que se le antoja. Adquirió una forma reducida cuando alguien selló su poder.
 houndoom-f:Houndoom
 houndoom-fDescription:Su rasgo distintivo son los escalofriantes aullidos que profiere. Antiguamente, era temido y considerado un emisario del inframundo.
-indeedee-f:Indeedee (Female)
+indeedee-f:Indeedee (F)
 indeedee-fDescription:Con sus cuernos percibe las emociones de los seres vivos que se hallen cerca. Los sentimientos positivos constituyen su fuente de energía.
 inteleon-gmax:Gmax Inteleon
 inteleon-gmaxDescription:Posee una puntería extraordinaria. Para este Pokémon, acertar a una baya que rueda a 15 km de distancia es pan comido.
@@ -2782,59 +2782,59 @@ toxtricity-lowkey:Toxtricity (Discreto)
 toxtricity-lowkeyDescription:Su propio veneno le afecta al cerebro y le hace perder el control. Cuando esto ocurre, transpira un sudor tóxico que contamina el terreno.
 unfezant-f:Unfezant
 unfezant-fDescription:Es un Pokémon muy inteligente y orgulloso. Se tiene en alta estima a aquellos que se convierten en sus Entrenadores.
-unown-b:Unown
+unown-b:Unown (B)
 unown-bDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
-unown-c:Unown
+unown-c:Unown (C)
 unown-cDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
-unown-d:Unown
+unown-d:Unown (D)
 unown-dDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
-unown-e:Unown
+unown-e:Unown (E)
 unown-eDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
-unown-exclamation:Unown
+unown-exclamation:Unown (Exclamación)
 unown-exclamationDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
 unown-f:Unown
 unown-fDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
-unown-g:Unown
+unown-g:Unown (G)
 unown-gDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
-unown-h:Unown
+unown-h:Unown (H)
 unown-hDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
-unown-i:Unown
+unown-i:Unown (I)
 unown-iDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
-unown-j:Unown
+unown-j:Unown (J)
 unown-jDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
-unown-k:Unown
+unown-k:Unown (K)
 unown-kDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
-unown-l:Unown
+unown-l:Unown (L)
 unown-lDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
-unown-m:Unown
+unown-m:Unown (M)
 unown-mDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
-unown-n:Unown
+unown-n:Unown (N)
 unown-nDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
-unown-o:Unown
+unown-o:Unown (O)
 unown-oDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
-unown-p:Unown
+unown-p:Unown (P)
 unown-pDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
-unown-q:Unown
+unown-q:Unown (Q)
 unown-qDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
-unown-question:Unown
+unown-question:Unown (Pregunta)
 unown-questionDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
-unown-r:Unown
+unown-r:Unown (R)
 unown-rDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
-unown-s:Unown
+unown-s:Unown (S)
 unown-sDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
-unown-t:Unown
+unown-t:Unown (T)
 unown-tDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
-unown-u:Unown
+unown-u:Unown (U)
 unown-uDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
-unown-v:Unown
+unown-v:Unown (V)
 unown-vDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
-unown-w:Unown
+unown-w:Unown (W)
 unown-wDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
-unown-x:Unown
+unown-x:Unown (X)
 unown-xDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
-unown-y:Unown
+unown-y:Unown (Y)
 unown-yDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
-unown-z:Unown
+unown-z:Unown (Z)
 unown-zDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
 ursaring-f:Ursaring
 ursaring-fDescription:En los bosques habitados por Ursaring, dicen que abundan los arroyos y árboles gigantes en los que guardan su alimento. Este Pokémon se dedica todos los días a pasear por el bosque para buscar comida y guardarla.
@@ -2880,7 +2880,7 @@ hisuian-goodra:His Goodra
 hisuian-goodraDescription:Ataca extendiendo sus largas antenas. La fuerza que despliega es 100 veces superior a la del puñetazo de un boxeador de peso pesado.
 hisuian-zoroark:His Zoroark
 hisuian-zoroarkDescription:With its disheveled white fur, it looks like an embodiment of death. Heedless of its own safety, Zoroark attacks its nemeses with a bitter energy so intense, it lacerates Zoroark's own body.
-hisuian-basculegion-female:Basculegion de Hisui (Hembra)
+hisuian-basculegion-female:Basculegion de Hisui (H)
 hisuian-basculegion-femaleDescription:Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal.
 gliscor-pcg:PCG Gliscor
 gliscor-pcgDescription:Vuela sin hacer nada de ruido. Con su larga cola captura a sus presas y las muerde con sus colmillos. (Art by Studio Karli)
@@ -2896,7 +2896,7 @@ hisuian-lilligant:His Lilligant
 hisuian-lilligantDescription:El aceite esencial que se extrae de su flor emana un aroma sublime, aunque su precio resulta desorbitado.
 hisuian-sneasel:His Sneasel
 hisuian-sneaselDescription:Es un Pokémon de naturaleza astuta y fiera. Se cuela en los nidos de otros Pokémon cuando no están y roba sus huevos.
-hisuian-basculegion-male:Basculegion de Hisui (Macho)
+hisuian-basculegion-male:Basculegion de Hisui (M)
 hisuian-basculegion-maleDescription:Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal.
 ursaluna:Ursaluna
 ursalunaDescription:I believe it was Hisui's swampy terrain that gave Ursaluna its burly physique and newfound capacity to manipulate peat at will.
@@ -2980,7 +2980,7 @@ quaquaval:Quaquaval
 quaquavalDescription:Dancing in ways that evoke far-away places, this Pokémon mesmerizes all that see it. Flourishes of its decorative water feathers slice into its foes.
 lechonk:Lechonk
 lechonkDescription:This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest.
-oinkologne-male:Oinkologne (Macho)
+oinkologne-male:Oinkologne (M)
 oinkologne-maleDescription:It entrances female Pokémon with the sweet, alluring scent that wafts from all over its body.
 tarountula:Tarountula
 tarountulaDescription:The thread it secretes from its rear is as strong as wire. The secret behind the thread’s strength is the topic of ongoing research.

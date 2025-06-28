@@ -408,7 +408,7 @@ slowking:Slowking
 slowkingDescription:Slowking can solve any problem presented to it, but no one can understand a thing Slowking says.
 misdreavus:Misdreavus
 misdreavusDescription:What makes it happy is imitating the voices of weeping people and scaring everyone. It doesn’t deal well with folks who aren’t easily frightened.
-unown-a:Unown
+unown-a:Unown (A)
 unown-aDescription:This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.
 wobbuffet:Wobbuffet
 wobbuffetDescription:To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack.
@@ -1858,7 +1858,7 @@ kyurem-white:Kyurem (White)
 kyurem-whiteDescription:The sameness of Zekrom’s and Kyurem’s genes allowed Kyurem to absorb Zekrom. Kyurem can now use the power of both electricity and ice.
 keldeo-resolute:Keldeo (Resolute)
 keldeo-resoluteDescription:When it is resolute, its body fills with power and it becomes swifter. Its jumps are then too fast to follow.
-meowstic-female:Meowstic
+meowstic-female:Meowstic (F)
 meowstic-femaleDescription:The defensive instinct of the males is strong. It’s when they’re protecting themselves or their partners that they unleash their full power.
 aegislash-blade:Aegislash (Blade)
 aegislash-bladeDescription:Once upon a time, a king with an Aegislash reigned over the land. His Pokémon eventually drained him of life, and his kingdom fell with him.
@@ -2544,7 +2544,7 @@ hoopa-mega:Mega Hoopa
 hoopa-megaDescription:It is said to be able to seize anything it desires with its six rings and six huge arms. With its power sealed, it is transformed into a much smaller form.
 houndoom-f:Houndoom
 houndoom-fDescription:Identifiable by its eerie howls, people a long time ago thought it was the grim reaper and feared it.
-indeedee-f:Indeedee (Female)
+indeedee-f:Indeedee (F)
 indeedee-fDescription:Through its horns, it can pick up on the emotions of creatures around it. Positive emotions are the source of its strength.
 inteleon-gmax:Gmax Inteleon
 inteleon-gmaxDescription:Its nictitating membranes let it pick out foes’ weak points so it can precisely blast them with water that shoots from its fingertips at Mach 3.
@@ -2782,59 +2782,59 @@ toxtricity-lowkey:Toxtricity (Lowkey)
 toxtricity-lowkeyDescription:This short-tempered and aggressive Pokémon chugs stagnant water to absorb any toxins it might contain.
 unfezant-f:Unfezant
 unfezant-fDescription:This Pokémon is intelligent and intensely proud. People will sit up and take notice if you become the Trainer of one.
-unown-b:Unown
+unown-b:Unown (B)
 unown-bDescription:This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.
-unown-c:Unown
+unown-c:Unown (C)
 unown-cDescription:This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.
-unown-d:Unown
+unown-d:Unown (D)
 unown-dDescription:This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.
-unown-e:Unown
+unown-e:Unown (E)
 unown-eDescription:This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.
-unown-exclamation:Unown
+unown-exclamation:Unown (Exclamation)
 unown-exclamationDescription:This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.
 unown-f:Unown
 unown-fDescription:This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.
-unown-g:Unown
+unown-g:Unown (G)
 unown-gDescription:This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.
-unown-h:Unown
+unown-h:Unown (H)
 unown-hDescription:This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.
-unown-i:Unown
+unown-i:Unown (I)
 unown-iDescription:This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.
-unown-j:Unown
+unown-j:Unown (J)
 unown-jDescription:This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.
-unown-k:Unown
+unown-k:Unown (K)
 unown-kDescription:This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.
-unown-l:Unown
+unown-l:Unown (L)
 unown-lDescription:This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.
-unown-m:Unown
+unown-m:Unown (M)
 unown-mDescription:This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.
-unown-n:Unown
+unown-n:Unown (N)
 unown-nDescription:This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.
-unown-o:Unown
+unown-o:Unown (O)
 unown-oDescription:This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.
-unown-p:Unown
+unown-p:Unown (P)
 unown-pDescription:This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.
-unown-q:Unown
+unown-q:Unown (Q)
 unown-qDescription:This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.
-unown-question:Unown
+unown-question:Unown (Question)
 unown-questionDescription:This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.
-unown-r:Unown
+unown-r:Unown (R)
 unown-rDescription:This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.
-unown-s:Unown
+unown-s:Unown (S)
 unown-sDescription:This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.
-unown-t:Unown
+unown-t:Unown (T)
 unown-tDescription:This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.
-unown-u:Unown
+unown-u:Unown (U)
 unown-uDescription:This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.
-unown-v:Unown
+unown-v:Unown (V)
 unown-vDescription:This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.
-unown-w:Unown
+unown-w:Unown (W)
 unown-wDescription:This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.
-unown-x:Unown
+unown-x:Unown (X)
 unown-xDescription:This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.
-unown-y:Unown
+unown-y:Unown (Y)
 unown-yDescription:This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.
-unown-z:Unown
+unown-z:Unown (Z)
 unown-zDescription:This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.
 ursaring-f:Ursaring
 ursaring-fDescription:In the forests inhabited by Ursaring, it is said that there are many streams and towering trees where they gather food. This Pokémon walks through its forest gathering food every day.
@@ -2880,7 +2880,7 @@ hisuian-goodra:His Goodra
 hisuian-goodraDescription:Able to freely control the hardness of its metallic shell. It loathes solitude and is extremely clingy—it will fume and run riot if those dearest to it ever leave its side.
 hisuian-zoroark:His Zoroark
 hisuian-zoroarkDescription:With its disheveled white fur, it looks like an embodiment of death. Heedless of its own safety, Zoroark attacks its nemeses with a bitter energy so intense, it lacerates Zoroark's own body.
-hisuian-basculegion-female:His Basculegion (Female)
+hisuian-basculegion-female:His Basculegion (F)
 hisuian-basculegion-femaleDescription:Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal.
 gliscor-pcg:PCG Gliscor
 gliscor-pcgDescription:Its flight is soundless. It uses its lengthy tail to carry off its prey... Then its elongated fangs do the rest. (Art by Studio Karli)
@@ -2896,7 +2896,7 @@ hisuian-lilligant:His Lilligant
 hisuian-lilligantDescription:I suspect that its well-developed legs are the result of a life spent on mountains covered in deep snow. The scent it exudes from its flower crown heartens those in proximity.
 hisuian-sneasel:His Sneasel
 hisuian-sneaselDescription:It has a cunning yet savage disposition. It waits for parents to leave their nests, and then it sneaks in to steal their eggs.
-hisuian-basculegion-male:His Basculegion (Male)
+hisuian-basculegion-male:His Basculegion (M)
 hisuian-basculegion-maleDescription:Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal.
 ursaluna:Ursaluna
 ursalunaDescription:I believe it was Hisui's swampy terrain that gave Ursaluna its burly physique and newfound capacity to manipulate peat at will.
@@ -2980,7 +2980,7 @@ quaquaval:Quaquaval
 quaquavalDescription:Dancing in ways that evoke far-away places, this Pokémon mesmerizes all that see it. Flourishes of its decorative water feathers slice into its foes.
 lechonk:Lechonk
 lechonkDescription:This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest.
-oinkologne-male:Oinkologne (Male)
+oinkologne-male:Oinkologne (M)
 oinkologne-maleDescription:It entrances female Pokémon with the sweet, alluring scent that wafts from all over its body.
 tarountula:Tarountula
 tarountulaDescription:The thread it secretes from its rear is as strong as wire. The secret behind the thread’s strength is the topic of ongoing research.

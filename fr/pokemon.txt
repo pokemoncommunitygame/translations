@@ -408,7 +408,7 @@ slowking:Roigada
 slowkingDescription:Il est capable de résoudre tous les problèmes qu’on lui présente, mais personne ne parvient à comprendre ce qu’il dit.
 misdreavus:Feuforêve
 misdreavusDescription:Il adore faire peur aux humains en imitant leurs pleurs, et n’apprécie guère ceux qui ne se laissent pas intimider.
-unown-a:Zarbi
+unown-a:Unown (A)
 unown-aDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
 wobbuffet:Qulbutoké
 wobbuffetDescription:Il vit discrètement dans l’obscurité pour cacher sa queue noire. Il n’attaque jamais en premier.
@@ -1844,7 +1844,7 @@ kyurem-white:Kyurem (Blanc)
 kyurem-whiteDescription:Il se serait congelé lui-même avec son souffle glacé pour stabiliser sa structure cellulaire.
 keldeo-resolute:Keldeo (Résolu)
 keldeo-resoluteDescription:Lorsqu’il est résolu, de l’énergie sature son corps et le propulse à des vitesses qui dépassent la perception humaine.
-meowstic-female:Mistigrix
+meowstic-female:Meowstic (F)
 meowstic-femaleDescription:Ses pouvoirs psychiques sont assez puissants pour détruire un pétrolier s’il les utilise sans retenue. Il est grognon, mais c’est ce qui fait son charme.
 aegislash-blade:Exagide
 aegislash-bladeDescription:Un roi régnait jadis, un Exagide à ses côtés. L’absorption de l’énergie vitale du souverain causa sa perte, ainsi que celle de son royaume.
@@ -2544,7 +2544,7 @@ hoopa-mega:Méga-Hoopa
 hoopa-megaDescription:On raconte que grâce à ses six anneaux et ses six énormes bras, il est capable de dérober tout ce qui lui plaît. Mais son pouvoir a été scellé, et il a été réduit à l’état d’un être minuscule.
 houndoom-f:Démolosse
 houndoom-fDescription:Ceux qui le craignaient jadis lui ont donné le surnom de « messager de la Faucheuse » à cause de son hurlement sinistre si particulier.
-indeedee-f:Wimessir (Female)
+indeedee-f:Indeedee (F)
 indeedee-fDescription:Ils font l’impossible pour s’attirer la gratitude des humains et des Pokémon. Les femelles sont d’excellentes gardiennes d’enfants.
 inteleon-gmax:Gmax Lézargus
 inteleon-gmaxDescription:Pour ce tireur d’élite au talent exceptionnel, toucher une Baie qui roule au sol à 15 km de distance est un véritable jeu d’enfant.
@@ -2784,59 +2784,59 @@ toxtricity-lowkey:Toxtricity (Discret)
 toxtricity-lowkeyDescription:Son poison lui monte au cerveau et il perd tout contrôle. À chaque excès de violence, il répand des gouttes de sueur toxiques qui polluent le sol.
 unfezant-f:Déflaisan
 unfezant-fDescription:Ce Pokémon est aussi intelligent qu’il est arrogant. Les Dresseurs de Déflaisan sont tenus en haute estime.
-unown-b:Zarbi
+unown-b:Unown (B)
 unown-bDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
-unown-c:Zarbi
+unown-c:Unown (C)
 unown-cDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
-unown-d:Zarbi
+unown-d:Unown (D)
 unown-dDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
-unown-e:Zarbi
+unown-e:Unown (E)
 unown-eDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
-unown-exclamation:Zarbi
+unown-exclamation:Unown (Point d'exclamation)
 unown-exclamationDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
 unown-f:Zarbi
 unown-fDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
-unown-g:Zarbi
+unown-g:Unown (G)
 unown-gDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
-unown-h:Zarbi
+unown-h:Unown (H)
 unown-hDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
-unown-i:Zarbi
+unown-i:Unown (I)
 unown-iDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
-unown-j:Zarbi
+unown-j:Unown (J)
 unown-jDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
-unown-k:Zarbi
+unown-k:Unown (K)
 unown-kDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
-unown-l:Zarbi
+unown-l:Unown (L)
 unown-lDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
-unown-m:Zarbi
+unown-m:Unown (M)
 unown-mDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
-unown-n:Zarbi
+unown-n:Unown (N)
 unown-nDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
-unown-o:Zarbi
+unown-o:Unown (O)
 unown-oDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
-unown-p:Zarbi
+unown-p:Unown (P)
 unown-pDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
-unown-q:Zarbi
+unown-q:Unown (Q)
 unown-qDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
-unown-question:Zarbi
+unown-question:Unown (Point d'interrogation)
 unown-questionDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
-unown-r:Zarbi
+unown-r:Unown (R)
 unown-rDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
-unown-s:Zarbi
+unown-s:Unown (S)
 unown-sDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
-unown-t:Zarbi
+unown-t:Unown (T)
 unown-tDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
-unown-u:Zarbi
+unown-u:Unown (U)
 unown-uDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
-unown-v:Zarbi
+unown-v:Unown (V)
 unown-vDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
-unown-w:Zarbi
+unown-w:Unown (W)
 unown-wDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
-unown-x:Zarbi
+unown-x:Unown (X)
 unown-xDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
-unown-y:Zarbi
+unown-y:Unown (Y)
 unown-yDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
-unown-z:Zarbi
+unown-z:Unown (Z)
 unown-zDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
 ursaring-f:Ursaring
 ursaring-fDescription:On dit que les Ursaring trouvent leur nourriture dans les cours d’eau et les grands arbres des forêts où ils habitent. Ce Pokémon erre dans la forêt toute la journée pour chercher de la nourriture.
@@ -2882,7 +2882,7 @@ hisuian-goodra:His Muplodocus
 hisuian-goodraDescription:Il attaque à l’aide de ses longues cornes. Ses coups sont cent fois plus puissants que ceux d’un champion poids lourds de boxe.
 hisuian-zoroark:His Zoroark
 hisuian-zoroarkDescription:With its disheveled white fur, it looks like an embodiment of death. Heedless of its own safety, Zoroark attacks its nemeses with a bitter energy so intense, it lacerates Zoroark's own body.
-hisuian-basculegion-female:Basculegion de Hisui (Femelle)
+hisuian-basculegion-female:Basculegion de Hisui (F)
 hisuian-basculegion-femaleDescription:Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal.
 gliscor-pcg:PCG Scorvol
 gliscor-pcgDescription:Il vole sans un bruit, et capture ses proies avec sa queue pour leur infliger une morsure critique. (Art by Studio Karli)
@@ -2898,7 +2898,7 @@ hisuian-lilligant:His Fragilady
 hisuian-lilligantDescription:L’huile essentielle extraite de sa fleur dégage un parfum exceptionnel, mais elle coûte extrêmement cher.
 hisuian-sneasel:His Farfuret
 hisuian-sneaselDescription:Un Pokémon aussi cruel que fourbe. Il se glisse dans le nid des autres Pokémon en leur absence pour dérober leurs Œufs.
-hisuian-basculegion-male:Basculegion de Hisui (Mâle)  
+hisuian-basculegion-male:Basculegion de Hisui (M)
 hisuian-basculegion-maleDescription:Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal.
 ursaluna:Ursaking
 ursalunaDescription:I believe it was Hisui's swampy terrain that gave Ursaluna its burly physique and newfound capacity to manipulate peat at will.
@@ -2982,7 +2982,7 @@ quaquaval:Palmaval
 quaquavalDescription:Dancing in ways that evoke far-away places, this Pokémon mesmerizes all that see it. Flourishes of its decorative water feathers slice into its foes.
 lechonk:Gourmelet
 lechonkDescription:This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest.
-oinkologne-male:Oinkologne (Mâle)
+oinkologne-male:Oinkologne (M)
 oinkologne-maleDescription:It entrances female Pokémon with the sweet, alluring scent that wafts from all over its body.
 tarountula:Tissenboule
 tarountulaDescription:The thread it secretes from its rear is as strong as wire. The secret behind the thread’s strength is the topic of ongoing research.
