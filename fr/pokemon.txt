@@ -2092,9 +2092,9 @@ oricorio-pom-pom:Plumeline (Pom-Pom)
 oricorio-pom-pomDescription:This Oricorio has drunk bright yellow nectar. When it sees someone looking glum, it will try to cheer them up with a dance.
 oricorio-pau:Plumeline (Pau)
 oricorio-pauDescription:This Oricorio has sipped pink nectar. It gets so caught up in its dancing that it sometimes doesn’t hear its Trainer’s orders.
-abomasnow-f:Blizzaroi
+abomasnow-f:Abomasnow (F)
 abomasnow-fDescription:Ce grand Pokémon déclenche des blizzards. Lorsqu’il agite son corps, tout ce qui l’entoure se retrouve couvert de neige.
-aipom-f:Capumain
+aipom-f:Aipom (F)
 aipom-fDescription:Il guette ses proies depuis la cime des arbres. Quand il aperçoit un Croquine, son mets préféré, il se jette dessus.
 alcremie-caramel-swirl-berry:Alcremie (Tourbillon Caramel-Baies)
 alcremie-caramel-swirl-berryDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
@@ -2330,7 +2330,7 @@ alcremie-vanillacream-ribbon:Alcremie (Crème Vanille-Ruban)
 alcremie-vanillacream-ribbonDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
 alcremie-vanillacream-star:Alcremie (Crème Vanille-Étoile)
 alcremie-vanillacream-starDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-ambipom-f:Capidextre
+ambipom-f:Ambipom (F)
 ambipom-fDescription:Il utilise toujours ses deux queues pour faire la moindre tâche. Il s’en sert aussi pour enlacer les gens qu’il affectionne tout particulièrement.
 appletun-gmax:Gmax Appletun
 appletun-gmaxDescription:Son corps est recouvert de nectar. La peau de son dos, particulièrement sucrée, constituait jadis le goûter des enfants.
@@ -2368,15 +2368,15 @@ arceus-steel:Steel Arceus
 arceus-steelDescription:Dans la mythologie, ce Pokémon existait déjà avant la formation de l’univers.
 arceus-water:Water Arceus
 arceus-waterDescription:Dans la mythologie, ce Pokémon existait déjà avant la formation de l’univers.
-beautifly-f:Charmillon
+beautifly-f:Charmillon (F)
 beautifly-fDescription:Charmillon a une longue trompe en spirale, particulièrement pratique pour récupérer le pollen des fleurs. Ce Pokémon se laisse porter par les vents printaniers pendant qu’il butine.
-bibarel-f:Castorno
+bibarel-f:Castorno (F)
 bibarel-fDescription:Il construit des barrages de boue et d’écorce le long des fleuves. C’est un ouvrier de renom.
-bidoof-f:Keunotor
+bidoof-f:Keunotor (F)
 bidoof-fDescription:Il ronge constamment des troncs et des pierres pour se faire les incisives. Il niche le long de l’eau.
-blaziken-f:Braségali
+blaziken-f:Braségali (F)
 blaziken-fDescription:Braségali a des jambes incroyablement puissantes. Il peut sauter par-dessus un immeuble de trente étages. Les coups de poing enflammés de ce Pokémon peuvent carboniser ses ennemis.
-buizel-f:Mustébouée
+buizel-f:Mustébouée (F)
 buizel-fDescription:Il utilise la bouée autour de son cou pour passer sa tête hors de l’eau et observer les alentours.
 burmy-sandy:Burmy (Sable)
 burmy-sandyDescription:S’il perd sa cape au combat, il en tisse rapidement une nouvelle avec ce qui lui tombe sous la main.
@@ -2384,11 +2384,11 @@ burmy-trash:Burmy (Déchet)
 burmy-trashDescription:S’il perd sa cape au combat, il en tisse rapidement une nouvelle avec ce qui lui tombe sous la main.
 butterfree-gmax:Gmax Papilusion
 butterfree-gmaxDescription:Il soulève ses ennemis en provoquant un ouragan à même d’emporter des camions de dix tonnes, puis les achève avec ses écailles toxiques.
-cacturne-f:Cacturne
+cacturne-f:Écayon (F)
 cacturne-fDescription:Lorsqu’un voyageur traverse le désert au milieu de la nuit, les Cacturne le suivent en groupe. Ces Pokémon attendent le bon moment, quand le voyageur est fatigué et qu’il n’est plus capable de bouger.
 calyrex-ice:Calyrex (Glace)
 calyrex-iceDescription:not avaliable
-camerupt-f:Camérupt
+camerupt-f:Camérupt (F)
 camerupt-fDescription:Les bosses sur le dos de Camérupt sont apparues après une déformation de ses os. Elles crachent parfois du magma en fusion. Ce Pokémon entre apparemment en éruption lorsqu’il est énervé.
 calyrex-shadow:Calyrex (Ombre)
 calyrex-shadowDescription:not avaliable
@@ -2404,9 +2404,9 @@ cherrim-sunshine:Cherrim (Ensoleillé)
 cherrim-sunshineDescription:Lorsqu’il se ferme, ses pétales sont si durs qu’il ne craint plus les attaques des Pokémon oiseaux.
 coalossal-gmax:Gmax Monthracite
 coalossal-gmaxDescription:On raconte qu’il y a longtemps, il a sauvé de nombreuses vies d’une vague de froid en se transformant en brasero géant.
-combee-f:Apitrini
+combee-f:Apitrini (F)
 combee-fDescription:Du lever du soleil à la tombée de la nuit, il récolte du nectar pour Apireine et sa colonie.
-combusken-f:Galifeu
+combusken-f:Galerinferno (F)
 combusken-fDescription:Galifeu combat grâce aux flammes ardentes qu’il crache de son bec et à ses coups de pied destructeurs. Le cri de ce Pokémon est très puissant et très gênant pour l’adversaire.
 copperajah-gmax:Gmax Pachyradjah
 copperajah-gmaxDescription:Lorsqu’il bénéficie de la puissance du Gigamax, il peut mettre en pièces de grands bâtiments d’un seul coup de son énorme trompe.
@@ -2418,7 +2418,7 @@ cramorant-gorging:Nigosier
 cramorant-gorgingDescription:Très glouton, il avale les Embrochet d’une seule bouchée, mais il lui arrive de se tromper et de tenter de gober un autre Pokémon.
 cramorant-gulping:Nigosier (Gulping)
 cramorant-gulpingDescription:Très glouton, il avale les Embrochet d’une seule bouchée, mais il lui arrive de se tromper et de tenter de gober un autre Pokémon.
-croagunk-f:Cradopaud
+croagunk-f:Cradopaud (F)
 croagunk-fDescription:Dilué, son poison sert de remède. Cela lui a valu de devenir la mascotte populaire d’une entreprise de produits pharmaceutiques.
 darmanitan-galar:Gal Darumacho
 darmanitan-galarDescription:Sa puissance augmente à mesure que la flamme de son corps s’intensifie. La température de celle-ci peut parfois dépasser les 1 400 °C.
@@ -2432,13 +2432,13 @@ deerling-summer:Vivaldaim (Été)
 deerling-summerDescription:Quand la saison change, il change de pelage et d’odeur. Un Pokémon qui annonce le passage des saisons.
 deerling-winter:Vivaldaim (Hiver)
 deerling-winterDescription:Quand la saison change, il change de pelage et d’odeur. Un Pokémon qui annonce le passage des saisons.
-donphan-f:Donphan
+donphan-f:Donnfan (F)
 donphan-fDescription:Si Donphan décidait de charger, il pourrait détruire une maison. Grâce à sa force étonnante, ce Pokémon peut aider à déplacer les rochers et les coulées de boue qui bloquent les chemins de montagne.
 drednaw-gmax:Gmax Torgamord
 drednaw-gmaxDescription:Son cou extensible lui permet d’atteindre des ennemis éloignés en un instant pour leur porter un coup décisif avec ses crocs aiguisés.
 duraludon-gmax:Gmax Duralugon
 duraludon-gmaxDescription:Son corps, composé d’un métal spécial, est léger et lui offre une excellente mobilité. Il est toutefois sensible à la pluie et vit donc dans les grottes.
-dustox-f:Papinox
+dustox-f:Papinox (F)
 dustox-fDescription:Lorsque Papinox bat des ailes, une légère poussière se répand. Cette poussière est en fait un puissant poison capable de mettre au tapis un boxeur professionnel. Ce Pokémon cherche sa nourriture avec ses antennes, comme un radar.
 eevee-gmax:Gmax Évoli
 eevee-gmaxDescription:Son adorable innocence a pris des proportions XXL. Il cherche à jouer avec tout le monde, mais il est si grand qu’il écrase ses camarades de jeu.
@@ -2450,7 +2450,7 @@ eternatus-eternamax:Ethernatus (Ethernamax)
 eternatus-eternamaxDescription:Il se trouvait dans une météorite qui s’est écrasée il y a 20 000 ans. Il semble y avoir un lien entre ce Pokémon et le phénomène Dynamax.
 farfetchd-galar:Gal Canarticho
 farfetchd-galarDescription:Les Canarticho ont pris cette forme à force de manier les poireaux de Galar, qui sont plus longs et plus larges que ceux des autres régions.
-finneon-f:Écayon
+finneon-f:Écayon (F)
 finneon-fDescription:Il attire ses proies avec ses nageoires caudales lumineuses. Il passe la journée à la surface et se retire dans les abysses la nuit venue.
 flabebe-blue:Flabébé (Bleu)
 flabebe-blueDescription:Il confectionne la couronne qui orne sa tête en récoltant du pollen. Elle recèle de nombreuses propriétés curatives.
@@ -2462,7 +2462,7 @@ flabebe-yellow:Flabébé (Jaune)
 flabebe-yellowDescription:Il confectionne la couronne qui orne sa tête en récoltant du pollen. Elle recèle de nombreuses propriétés curatives.
 flapple-gmax:Gmax Pomdrapi
 flapple-gmaxDescription:Lorsqu’il allonge le cou, un parfum de nectar extrêmement sucré se répand, et les Pokémon qui le hument tombent tous dans les pommes.
-floatzel-f:Mustéflott
+floatzel-f:Mustéflott (F)
 floatzel-fDescription:Il a développé une bouée pour poursuivre ses proies aquatiques. Elle fait office de canot gonflable.
 floette-blue:Floette (Bleu)
 floette-blueDescription:Il fait profiter ses fleurs de ses pouvoirs et met tout son cœur à leur entretien. Gare à ceux qui ravagent ses plates-bandes !
@@ -2480,7 +2480,7 @@ florges-white:Florges (Blanc)
 florges-whiteDescription:Il peut vivre des centaines d’années, et consacre sa longue existence à l’entretien des jardins.
 florges-yellow:Florges (Jaune)
 florges-yellowDescription:Il peut vivre des centaines d’années, et consacre sa longue existence à l’entretien des jardins.
-frillish-f:Viskuse
+frillish-f:Viskuse (F)
 frillish-fDescription:Ses membres en forme de voiles fins sont couverts de milliers de dards venimeux. Chez la femelle, ces dards sont un peu plus longs.
 furfrou-dandy:Furfrou (Dandy)
 furfrou-dandyDescription:Sa fourrure pousse indéfiniment, mais il refuse de se faire couper la toison par une personne en qui il n’a pas confiance.
@@ -2500,11 +2500,11 @@ furfrou-pharaoh:Furfrou (Pharaon)
 furfrou-pharaohDescription:Sa fourrure pousse indéfiniment, mais il refuse de se faire couper la toison par une personne en qui il n’a pas confiance.
 furfrou-star:Furfrou (Étoile)
 furfrou-starDescription:Sa fourrure pousse indéfiniment, mais il refuse de se faire couper la toison par une personne en qui il n’a pas confiance.
-gabite-f:Carmache
+gabite-f:Carmache (F)
 gabite-fDescription:Il mue régulièrement au cours de sa croissance. Les écailles ainsi tombées peuvent être pilées pour préparer des remèdes traditionnels.
 garbodor-gmax:Gmax Miasmax
 garbodor-gmaxDescription:Quiconque entre en contact avec le gaz toxique qui jaillit de sa bouche et de ses doigts sera empoisonné jusqu’aux os.
-garchomp-f:Carchacrok
+garchomp-f:Carchacrok (F)
 garchomp-fDescription:En plus de maximiser son aérodynamisme, ses écailles lisses et pointues ont l’avantage de blesser ses ennemis quand ils l’attaquent.
 gastrodon-east:Gastrodon (Est)
 gastrodon-eastDescription:Son corps est caoutchouteux, mais très résistant, car la puissance des chocs qu’il subit se répand sur toute sa surface.
@@ -2518,77 +2518,77 @@ genesect-shock:Genesect (Électro)
 genesect-shockDescription:Un Pokémon existant depuis 300 millions d’années, et modifié par la Team Plasma. Il a maintenant un canon dans le dos.
 gengar-gmax:Gmax Ectoplasma
 gengar-gmaxDescription:On dit qu’Ectoplasma surgit parfois des ténèbres pour prendre la vie des personnes égarées en montagne.
-gible-f:Griknot
+gible-f:Gible (F)
 gible-fDescription:Il vient d’un endroit où il fait bien plus chaud que dans la région d’Alola. La facture de chauffage est donc élevée quand on vit avec lui.
-girafarig-f:Girafarig
+girafarig-f:Girafarig (F)
 girafarig-fDescription:La tête à l’arrière de Girafarig abrite un cerveau trop petit pour penser. En revanche, cette tête arrière n’a pas besoin de dormir, ce qui lui permet de monter la garde tout le temps.
-gligar-f:Scorplane
+gligar-f:Gligar (F)
 gligar-fDescription:Scorplane plane dans les airs sans un bruit, comme s’il glissait. Ce Pokémon s’accroche au visage de son ennemi grâce aux serres de ses pattes arrière et aux pinces de ses pattes avant, et pique avec son dard empoisonné.
-golbat-f:Nosferalto
+golbat-f:Golbat (F)
 golbat-fDescription:Il s’approche furtivement et attaque sans crier gare. Ses crocs acérés lui servent à sucer le sang.
 greninja-ash:Greninja (Sacha)
 greninja-ashDescription:Aussi insaisissable qu’un ninja, il se joue de ses ennemis grâce à sa célérité, et les tranche de ses Sheauriken.
 grimmsnarl-gmax:Gmax Angoliath
 grimmsnarl-gmaxDescription:Ses cheveux sont comme des muscles filandreux qu’il peut détacher pour saisir ses adversaires, tels des tentacules.
-gulpin-f:Gloupti
+gulpin-f:Gulpin (F)
 gulpin-fDescription:Le corps de Gloupti n’est pratiquement qu’un gros estomac. En comparaison, son cœur et son cerveau sont tout petits. L’estomac de ce Pokémon contient des enzymes spéciales capables de tout dissoudre.
 hatterene-gmax:Gmax Sorcilence
 hatterene-gmaxDescription:Surnommé la « déesse déchaînée », ce Pokémon fait tomber des rayons similaires à la foudre avec ses tentacules.
-heracross-f:Scarhino
+heracross-f:Heracross (F)
 heracross-fDescription:Ce Pokémon est fier de sa force colossale qui lui permet de soulever cent fois son propre poids avec facilité.
-hippopotas-f:Hippopotas
+hippopotas-f:Hippopotas (F)
 hippopotas-fDescription:Il est principalement actif pendant la journée. Il s’enfouit profondément dans le sable pour dormir, car les nuits désertiques sont très froides.
-hippowdon-f:Hippodocus
+hippowdon-f:Hippowdon (F)
 hippowdon-fDescription:Il entre dans une violente colère quand on l’énerve : il expulse le sable qu’il a accumulé pour provoquer de véritables tempêtes.
 hoopa-mega:Méga-Hoopa
 hoopa-megaDescription:On raconte que grâce à ses six anneaux et ses six énormes bras, il est capable de dérober tout ce qui lui plaît. Mais son pouvoir a été scellé, et il a été réduit à l’état d’un être minuscule.
-houndoom-f:Démolosse
+houndoom-f:Houndoom (F)
 houndoom-fDescription:Ceux qui le craignaient jadis lui ont donné le surnom de « messager de la Faucheuse » à cause de son hurlement sinistre si particulier.
 indeedee-f:Indeedee (F)
 indeedee-fDescription:Ils font l’impossible pour s’attirer la gratitude des humains et des Pokémon. Les femelles sont d’excellentes gardiennes d’enfants.
 inteleon-gmax:Gmax Lézargus
 inteleon-gmaxDescription:Pour ce tireur d’élite au talent exceptionnel, toucher une Baie qui roule au sol à 15 km de distance est un véritable jeu d’enfant.
-jellicent-f:Moyade
+jellicent-f:Jellicent (F)
 jellicent-fDescription:Les nuits de pleine lune, ils se réunissent à la surface de la mer pour attendre leurs proies.
 kingler-gmax:Gmax Krabboss
 kingler-gmaxDescription:Sa pince gigantesque possède une puissance destructrice phénoménale, mais hors combat, son poids devient un handicap.
-kricketot-f:Crikzik
+kricketot-f:Kricketot (F)
 kricketot-fDescription:Quand ses antennes s’entrechoquent, elles laissent échapper un bruit de xylophone.
-kricketune-f:Kricketune
+kricketune-f:Kricketune (F)
 kricketune-fDescription:Il exprime ses émotions par des mélodies. Les scientifiques étudient actuellement leur structure.
 lapras-gmax:Gmax Lokhlass
 lapras-gmaxDescription:S’il croise un iceberg, il crée un grand anneau avec des cristaux de glace pour le détruire et continuer sa croisière paisiblement.
-ledian-f:Coxyclaque
+ledian-f:Ledian (F)
 ledian-fDescription:Il vole dans le ciel nocturne en répandant une poudre scintillante. Si elle vous touche, quelque chose de positif devrait bientôt vous arriver.
-ledyba-f:Coxy
+ledyba-f:Ledyba (F)
 ledyba-fDescription:Extrêmement timide, ce Pokémon défend le nid qu’il partage avec ses congénères en utilisant Protection.
 linoone-galar:Gal Linéon
 linoone-galarDescription:Il se sert de sa force de propulsion et de ses griffes aiguisées pour achever ses proies. Il a du mal à courir sur les routes sinueuses.
-ludicolo-f:Ludicolo
+ludicolo-f:Ludicolo (F)
 ludicolo-fDescription:Il bouge son corps sur un rythme entraînant pour décupler ses forces.
-lumineon-f:Luminéon
+lumineon-f:Lumineon (F)
 lumineon-fDescription:Il se déplace en rampant dans les profondeurs de l’océan. Ses nageoires brillent telles des étoiles dans le ciel nocturne.
-luxio-f:Luxio
+luxio-f:Luxio (F)
 luxio-fDescription:Quand il croise un ennemi, il se prépare au combat en sortant ses griffes dont les coups ont une puissance qui atteint un million de volts.
-luxray-f:Luxray
+luxray-f:Luxray (F)
 luxray-fDescription:Il dort beaucoup pour récupérer la quantité d’énergie électrique énorme qu’il consomme afin de voir à travers la matière.
 machamp-gmax:Gmax Mackogneur
 machamp-gmaxDescription:Sa puissance démultipliée lui a un jour permis de soulever un paquebot en détresse pour le ramener jusqu’au port.
 magearna-original:Magearna (Original)
 magearna-originalDescription:Il a été créé par un scientifique il y a environ 500 ans de cela. Sa véritable essence est un organe nommé Animacœur.
-magikarp-f:Magicarpe
+magikarp-f:Magikarp (F)
 magikarp-fDescription:Ce Pokémon est si faible que, dans les eaux à forts courants, il se contente de se laisser porter lamentablement.
-mamoswine-f:Mammochon
+mamoswine-f:Mammochon (F)
 mamoswine-fDescription:Comme son physique le laisse deviner, il est très fort. La taille de ses défenses de glace augmente à mesure que la température baisse.
-medicham-f:Charmina
+medicham-f:Medicham (F)
 medicham-fDescription:Grâce au pouvoir de la méditation, Charmina a développé son sixième sens. Il peut utiliser des pouvoirs télékinétiques. On sait que ce Pokémon peut méditer pendant un mois sans manger.
-meditite-f:Méditikka
+meditite-f:Méditikka (F)
 meditite-fDescription:Méditikka intensifie son énergie intérieure grâce à la méditation. Il lui suffit d’une Baie par jour pour survivre. La diète fait partie de l’entraînement de ce Pokémon.
-meganium-f:Méganium
+meganium-f:Meganium (F)
 meganium-fDescription:Le parfum de la fleur de Méganium apaise et calme les esprits. Pendant les combats, ce Pokémon émet son parfum relaxant pour atténuer l’agressivité de l’ennemi.
 melmetal-gmax:Gmax Mélmetal
 melmetal-gmaxDescription:On dit que, grâce à la force centrifuge, les coups de poing qu’il assène avec ses lourds écrous seraient les plus dévastateurs parmi les Pokémon.
-meowstic-f:Mistigrix
+meowstic-f:Mistigrix (F)
 meowstic-fDescription:Ses pouvoirs psychiques sont assez puissants pour détruire un pétrolier s’il les utilise sans retenue. Il est grognon, mais c’est ce qui fait son charme.
 meowth-galar:Gal Miaouss
 meowth-galarDescription:Un Pokémon aussi fier qu’intelligent. Il a recours à la ruse pour attaquer sans relâche le point faible de ses ennemis.
@@ -2598,7 +2598,7 @@ mewtwo-megax:MégaX Mewtwo
 mewtwo-megaxDescription:Son corps a rétréci, mais sa puissance s’est démultipliée. Il peut réduire un gratte-ciel en miettes d’une simple pensée.
 mewtwo-megay:MégaY Mewtwo
 mewtwo-megayDescription:Son corps a rétréci, mais sa puissance s’est démultipliée. Il peut réduire un gratte-ciel en miettes d’une simple pensée.
-milotic-f:Milobellus
+milotic-f:Milobellus (F)
 milotic-fDescription:On dit que la beauté de ce Pokémon est telle qu’elle apaise l’esprit de ceux qui le voient.
 mimikyu-busted:Mimikyu (Démasqué)
 mimikyu-bustedDescription:Les malheureux chercheurs qui ont regardé sous son déguisement en lambeaux ont succombé à une mystérieuse maladie.
@@ -2622,7 +2622,7 @@ morpeko-hangry:Morpeko (Vorace)
 morpeko-hangryDescription:Ses hormones de satiété ont modifié son comportement. Tant qu’il ne sera pas rassasié, il enchaînera les mauvais tours.
 mrmime-galar:Gal M. Mime
 mrmime-galarDescription:Son talent pour le mime est indéniable. Il émet des ondes du bout des doigts pour créer un mur qui le protège de nombreuses attaques.
-murkrow-f:Cornèbre
+murkrow-f:Cornèbre (F)
 murkrow-fDescription:Il cherche des objets brillants pour son chef. Sa réputation d’oiseau de mauvais augure lui vaut la haine de nombreuses personnes.
 necrozma-dawnwings:Necrozma (Ailes de l'Aurore)
 necrozma-dawnwingsDescription:Sa quête de lumière, sa source de vie, le rend violent. Il détruit tout sur son passage avec ses rayons laser.
@@ -2630,19 +2630,19 @@ necrozma-duskmane:Necrozma (Crinière du Couchant)
 necrozma-duskmaneDescription:Sa quête de lumière, sa source de vie, le rend violent. Il détruit tout sur son passage avec ses rayons laser.
 necrozma-ultra:Necrozma (Ultra)
 necrozma-ultraDescription:Sa quête de lumière, sa source de vie, le rend violent. Il détruit tout sur son passage avec ses rayons laser.
-numel-f:Chamallot
+numel-f:Chamallot (F)
 numel-fDescription:Chamallot stocke du magma à 1 200 °C dans son corps. Lorsqu’il est mouillé, le magma se refroidit et durcit. Le corps du Pokémon devient alors très lourd et ses mouvements très lents.
-nuzleaf-f:Pifeuil
+nuzleaf-f:Pifeuil (F)
 nuzleaf-fDescription:Il vit dans les trous des grands arbres. Le sifflement qu’il produit avec sa feuille suffit à remplir ses adversaires d’effroi.
-octillery-f:Octillery
+octillery-f:Octillery (F)
 octillery-fDescription:Il capture ses ennemis avec ses tentacules et les écrase ensuite avec sa tête dure comme la pierre.
 orbeetle-gmax:Gmax Astronelle
 orbeetle-gmaxDescription:Il déploie ses pouvoirs psychiques pour sonder les alentours, sur un rayon pouvant atteindre 10 km.
-pachirisu-f:Pachirisu
+pachirisu-f:Pachirisu (F)
 pachirisu-fDescription:Il arrive que deux Pachirisu se frottent les joues pour partager l’électricité qu’ils ont accumulée.
 pikachu-alola:Alo Pikachu
 pikachu-alolaDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
-pikachu-f:Pikachu
+pikachu-f:Pikachu (F)
 pikachu-fDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
 pikachu-gmax:Gmax Pikachu
 pikachu-gmaxDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
@@ -2660,37 +2660,37 @@ pikachu-rockstar:Pikachu (Rockstar)
 pikachu-rockstarDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
 pikachu-sinnoh:Pikachu (Sinnoh)
 pikachu-sinnohDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
-pikachu-starter-f:Pikachu
+pikachu-starter-f:Pikachu (Starter-F)
 pikachu-starter-fDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
 pikachu-starter:Pikachu (Starter)
 pikachu-starterDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
 pikachu-unova:Pikachu (Unova)
 pikachu-unovaDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
-piloswine-f:Cochignon
+piloswine-f:Cochignon (F)
 piloswine-fDescription:Bien qu’il soit pourvu de pattes courtes, ses sabots larges et pointus l’empêchent de glisser sur la glace.
-politoed-f:Tarpaud
+politoed-f:Tarpaud (F)
 politoed-fDescription:Le cri des mâles est plus puissant que celui des femelles, qui préfèrent les voix fortes et intimidantes.
 polteageist-antique:Polteageist (Antique)
 polteageist-antiqueDescription:Quand il s’énerve, il se jette corps et thé dans la bouche de son ennemi. Si ce dernier l’avale, il sera pris de terribles tremblements.
 ponyta-galar:Gal Ponyta
 ponyta-galarDescription:Il semblerait qu’une fois qu’un Dresseur a gagné la confiance de Ponyta, sa crinière enflammée ne le brûle plus au toucher.
-pyroar-f:Némélios
+pyroar-f:Némélios (F)
 pyroar-fDescription:Son souffle enflammé atteint les 6 000 °C, mais il ne l’utilise jamais contre ses proies. Il préfère en effet la viande crue.
-quagsire-f:Maraiste
+quagsire-f:Maraiste (F)
 quagsire-fDescription:Il est toujours gluant. Quand il nage, il se cogne souvent la tête au fond des rivières, mais semble s’en moquer.
-raticate-f:Rattatac
+raticate-f:Rattatac (F)
 raticate-fDescription:Ses pattes arrière sont palmées. Il peut donc poursuivre sa proie dans les cours d’eau et les rivières.
-rattata-f:Rattata
+rattata-f:Rattata (F)
 rattata-fDescription:Ses vibrisses lui confèrent un odorat très développé. Il peut ainsi détecter et localiser d’un coup de museau la nourriture cachée.
-relicanth-f:Relicanth
+relicanth-f:Relicanth (F)
 relicanth-fDescription:On raconte que s’il n’a pas changé d’apparence en 100 millions d’années, c’est parce qu’il a atteint le stade de forme de vie parfaite.
-rhydon-f:Rhinoféros
+rhydon-f:Rhinoféros (F)
 rhydon-fDescription:Son épiderme est si épais qu’il lui permet même de survivre dans du magma d’une température de 2 000 °C.
-rhyperior-f:Rhinastoc
+rhyperior-f:Rhinastoc (F)
 rhyperior-fDescription:Il repousse les attaques avec ses Protecteurs et profite du moment où l’adversaire est déstabilisé pour le transpercer avec sa vrille, dont il est fier.
-roselia-f:Rosélia
+roselia-f:Rosélia (F)
 roselia-fDescription:Ses mains sécrètent chacune un poison différent dont il se sert pour attaquer. Plus le parfum de Rosélia est intense, plus sa santé est bonne.
-roserade-f:Roserade
+roserade-f:Roserade (F)
 roserade-fDescription:Sa main gauche administre un poison lent, et la droite, un poison foudroyant. Les deux peuvent être fatals.
 sandaconda-gmax:Gmax Dunaconda
 sandaconda-gmaxDescription:S’il s’enroule d’une manière aussi particulière, c’est pour optimiser l’expulsion de sable par ses narines.
@@ -2700,15 +2700,15 @@ sawsbuck-summer:Sawsbuck (Été)
 sawsbuck-summerDescription:Il change d’habitat selon les saisons. Certains disent même qu’il est celui qui apporte le printemps.
 sawsbuck-winter:Sawsbuck (Hiver)
 sawsbuck-winterDescription:Il change d’habitat selon les saisons. Certains disent même qu’il est celui qui apporte le printemps.
-scizor-f:Cizayox
+scizor-f:Cizayox (F)
 scizor-fDescription:Malgré son corps fin, sa puissance de frappe est prodigieuse, car même ses muscles sont composés de métal.
-scyther-f:Insécateur
+scyther-f:Insécateur (F)
 scyther-fDescription:Si l’on voit un grand nombre d’arbres abattus au même endroit dans une forêt, cela signifie que l’on se trouve sur le territoire d’un Insécateur.
 shellos-east:Shellos (Est)
 shellos-eastDescription:Son apparence diffère en fonction de son environnement. Selon une théorie, il prendrait cette forme dans les mers froides.
-shiftry-f:Tengalice
+shiftry-f:Tengalice (F)
 shiftry-fDescription:Il vit caché au fond des forêts. On raconte qu’il fait souffler la bise lorsqu’il agite ses grands éventails.
-shinx-f:Lixy
+shinx-f:Lixy (F)
 shinx-fDescription:Sa fourrure s’illumine grâce à l’électricité. Il agite l’extrémité lumineuse de sa queue pour envoyer des signes à ses congénères.
 silvally-bug:Bug Silvallié
 silvally-bugDescription:Après avoir été réveillé avec succès, il peut changer de type et se battre, tout comme un certain Pokémon décrit dans les légendes. Il s'agit de sa forme de type bug.
@@ -2752,37 +2752,37 @@ slowking-galar:Gal Roigada
 slowking-galarDescription:Il est capable de résoudre tous les problèmes qu’on lui présente, mais personne ne parvient à comprendre ce qu’il dit.
 slowpoke-galar:Gal Ramoloss
 slowpoke-galarDescription:Son alimentation à base de graines de plantes endémiques de Galar confère à sa queue un goût épicé.
-sneasel-f:Farfuret
+sneasel-f:Farfuret (F)
 sneasel-fDescription:Un Pokémon aussi cruel que fourbe. Il se glisse dans le nid des autres Pokémon en leur absence pour dérober leurs Œufs.
 snorlax-gmax:Gmax Ronflex
 snorlax-gmaxDescription:L’estomac de ce Pokémon est si résistant qu’il peut même digérer de la nourriture avariée.
-snover-f:Blizzi
+snover-f:Blizzi (F)
 snover-fDescription:Les Baies en forme de crèmes glacées qui poussent sur son ventre sont le mets favori des Darumarond vivant à Galar.
-staraptor-f:Étouraptor
+staraptor-f:Étouraptor (F)
 staraptor-fDescription:Lorsque Étourvol évolue en Étouraptor, il quitte son groupe pour vivre seul. Ses ailes sont très développées.
-staravia-f:Étourvol
+staravia-f:Étourvol (F)
 staravia-fDescription:Il peuple les champs et les forêts. Lorsque deux volées se croisent, elles luttent pour le territoire.
-starly-f:Étourmi
+starly-f:Étourmi (F)
 starly-fDescription:Ce Pokémon très bruyant parcourt champs et forêts en nuées pour chasser les Pokémon Insecte.
-steelix-f:Steelix
+steelix-f:Steelix (F)
 steelix-fDescription:On pense que son corps s’est transformé à force d’avaler le fer contenu dans la terre en creusant.
 stunfisk-galar:Gal Limonde
 stunfisk-galarDescription:Lorsque les parties jaunes de son corps envoient une puissante décharge électrique, il ébauche un sourire. Personne ne sait pourquoi.
-sudowoodo-f:Simularbre
+sudowoodo-f:Simularbre (F)
 sudowoodo-fDescription:Il se déguise en arbre pour éviter de se faire attaquer. Il déteste l’eau et se cache par temps de pluie.
-swalot-f:Avaltout
+swalot-f:Écayon (F)
 swalot-fDescription:Avaltout n’a pas de dents, ce qui le force à tout avaler en une bouchée. Quand il bâille, sa bouche prend une taille impressionnante, et on pourrait y placer une roue de voiture.
-tangrowth-f:Bouldeneu
+tangrowth-f:Bouldeneu (F)
 tangrowth-fDescription:Ses lianes poussent plus rapidement s’il vit sous un climat chaud. Quand elles deviennent trop longues, il se les coupe.
-torchic-f:Poussifeu
+torchic-f:Poussifeu (F)
 torchic-fDescription:Poussifeu dispose d’un endroit dans son corps pour stocker sa flamme. Si on lui fait un gros câlin, sa flamme s’illumine chaleureusement. Ce Pokémon est couvert d’un duvet très doux.
-toxicroak-f:Coatox
+toxicroak-f:Coatox (F)
 toxicroak-fDescription:Il lance un coassement viril de victoire quand il parvient à terrasser sa proie. Il s’apparente aux Crapustule.
 toxtricity-gmax:Gmax Salarsen
 toxtricity-gmaxDescription:Son poison lui monte au cerveau et il perd tout contrôle. À chaque excès de violence, il répand des gouttes de sueur toxiques qui polluent le sol.
 toxtricity-lowkey:Toxtricity (Discret)
 toxtricity-lowkeyDescription:Son poison lui monte au cerveau et il perd tout contrôle. À chaque excès de violence, il répand des gouttes de sueur toxiques qui polluent le sol.
-unfezant-f:Déflaisan
+unfezant-f:Déflaisan (F)
 unfezant-fDescription:Ce Pokémon est aussi intelligent qu’il est arrogant. Les Dresseurs de Déflaisan sont tenus en haute estime.
 unown-b:Unown (B)
 unown-bDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
@@ -2794,7 +2794,7 @@ unown-e:Unown (E)
 unown-eDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
 unown-exclamation:Unown (Point d'exclamation)
 unown-exclamationDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
-unown-f:Zarbi
+unown-f:Zarbi (F)
 unown-fDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
 unown-g:Unown (G)
 unown-gDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
@@ -2838,21 +2838,21 @@ unown-y:Unown (Y)
 unown-yDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
 unown-z:Unown (Z)
 unown-zDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
-ursaring-f:Ursaring
+ursaring-f:Ursaring (F)
 ursaring-fDescription:On dit que les Ursaring trouvent leur nourriture dans les cours d’eau et les grands arbres des forêts où ils habitent. Ce Pokémon erre dans la forêt toute la journée pour chercher de la nourriture.
 urshifu-rapidstrike:Urshifu (Multi-Coup)
 urshifu-rapidstrikeDescription:On dit qu’il lui suffit de lancer un regard empli d’une colère sourde aux êtres maléfiques pour leur ôter la vie.
-weavile-f:Dimoret
+weavile-f:Dimoret (F)
 weavile-fDescription:Il communique avec ses semblables en gravant des motifs avec ses griffes. Il existerait près de 500 signes différents.
 weezing-galar:Gal Smogogo
 weezing-galarDescription:À l’époque où il y avait des usines partout et où l’air était très pollué, il a pris cette forme. Personne ne sait pourquoi.
 wishiwashi-school:Wimessir (Banc)
 wishiwashi-schoolDescription:Ses yeux se mouillent quand il sent le danger approcher. Le scintillement de ses larmes sert de signal pour que ses congénères se rassemblent.
-wobbuffet-f:Qulbutoké
+wobbuffet-f:Qulbutoké (F)
 wobbuffet-fDescription:Il vit discrètement dans l’obscurité pour cacher sa queue noire. Il n’attaque jamais en premier.
-wooper-f:Axoloto
+wooper-f:Axoloto (F)
 wooper-fDescription:Lorsqu’il est sur la terre ferme, il couvre son corps d’un voile toxique qui le protège de la déshydratation.
-xatu-f:Xatu
+xatu-f:Xatu (F)
 xatu-fDescription:Capable de voir le passé et l’avenir, ce Pokémon mystérieux consacre toutes ses journées à observer la course du soleil.
 xerneas-neutral:Xerneas (Neutre)
 xerneas-neutralDescription:D’après la légende, quand ses bois brillent de sept couleurs, cela signifie qu’il prodigue la vie éternelle.
@@ -2868,7 +2868,7 @@ zarude-dada:Zarude (Dada)
 zarude-dadaDescription:L’affection qu’il porte au petit être humain qu’il a recueilli et élevé depuis son plus jeune âge lui confère une force particulière.
 zigzagoon-galar:Gal Zigzaton
 zigzagoon-galarDescription:Le Zigzaton de Galar a adopté cette forme dans les autres régions. Il est très doué pour dénicher des choses.
-zubat-f:Nosferapti
+zubat-f:Roucool (F)
 zubat-fDescription:Il émet des ultrasons pour se diriger et éviter les obstacles sur son trajet.
 zygarde-10:Zygarde (10%)
 zygarde-10Description:Ce Pokémon serait capable de prendre une forme encore plus puissante quand il se bat contre un ennemi qui menace l’écosystème.

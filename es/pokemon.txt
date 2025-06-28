@@ -12,11 +12,11 @@ uxie:Uxie
 uxieDescription:Se dice que su aparición otorgó a los humanos la inteligencia para mejorar sus vidas.
 lunala:Lunala
 lunalaDescription:Devora toda la luz que haya a su alrededor y adopta la forma de una luna llena que ilumina la oscura noche.
-golbat-f:Golbat
+golbat-f:Golbat (F)
 golbat-fDescription:Tras aproximarse sigilosamente a su objetivo, utiliza sus afilados colmillos para chuparle la sangre.
-kricketot-f:Kricketot
+kricketot-f:Kricketot (F)
 kricketot-fDescription:Si choca sus antenas, emite un sonido similar al de un xilófono.
-rhydon-f:Rhydon
+rhydon-f:Rhydon (H)
 rhydon-fDescription:La piel le sirve de escudo protector. Puede vivir en lava líquida a 2000 °C.
 bulbasaur:Bulbasaur
 bulbasaurDescription:Desde que nace, crece alimentándose de los nutrientes que contiene la semilla de su lomo.
@@ -2096,9 +2096,9 @@ oricorio-pom-pom:Oricorio (Pom-Pom)
 oricorio-pom-pomDescription:This Oricorio has drunk bright yellow nectar. When it sees someone looking glum, it will try to cheer them up with a dance.
 oricorio-pau:Oricorio (Pau)
 oricorio-pauDescription:This Oricorio has sipped pink nectar. It gets so caught up in its dancing that it sometimes doesn’t hear its Trainer’s orders.
-abomasnow-f:Abomasnow
+abomasnow-f:Abomasnow (F)
 abomasnow-fDescription:Posee la capacidad de generar ventiscas. Si agita su enorme cuerpo, el terreno circundante queda inmediatamente cubierto de nieve.
-aipom-f:Aipom
+aipom-f:Aipom (F)
 aipom-fDescription:Sube a las copas de los árboles para buscar presas. Si encuentra un Bounsweet, su manjar predilecto, se alboroza y se abalanza sobre él.
 alcremie-caramel-swirl-berry:Alcremie (Remolino de Caramelo-Baya)
 alcremie-caramel-swirl-berryDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
@@ -2334,7 +2334,7 @@ alcremie-vanillacream-ribbon:Alcremie (Crema de Vainilla-Cinta)
 alcremie-vanillacream-ribbonDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
 alcremie-vanillacream-star:Alcremie (Crema de Vainilla-Estrella)
 alcremie-vanillacream-starDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-ambipom-f:Ambipom
+ambipom-f:Ambipom (F)
 ambipom-fDescription:Utiliza las dos colas para todo. Cuando abraza a alguien con ellas significa que esa persona se ha ganado por completo su confianza.
 appletun-gmax:Gmax Appletun
 appletun-gmaxDescription:Su cuerpo está recubierto de néctar. La piel de la espalda es tan dulce que los niños de antaño solían tomarla como merienda.
@@ -2372,15 +2372,15 @@ arceus-steel:Steel Arceus
 arceus-steelDescription:La mitología cuenta que este Pokémon nació antes de que el Universo existiera.
 arceus-water:Water Arceus
 arceus-waterDescription:La mitología cuenta que este Pokémon nació antes de que el Universo existiera.
-beautifly-f:Beautifly
+beautifly-f:Beautifly (F)
 beautifly-fDescription:Beautifly tiene una boca enorme en espiral que parece una aguja y le resulta muy útil para recolectar polen. Este Pokémon va revoloteando de flor en flor para recogerlo.
-bibarel-f:Bibarel
+bibarel-f:Bibarel (F)
 bibarel-fDescription:Para anidar, crea presas en los ríos con maderas y barro. Tiene fama de trabajador.
-bidoof-f:Bidoof
+bidoof-f:Bidoof (F)
 bidoof-fDescription:Roe constantemente los troncos y las rocas para limarse los dientes. Anida cerca del agua.
-blaziken-f:Blaziken
+blaziken-f:Blaziken (F)
 blaziken-fDescription:Blaziken tiene unas piernas tan fuertes que puede saltar por encima de un edificio de 30 pisos con facilidad. Además, da unos puñetazos fulminantes que dejan al oponente chamuscado y lleno de tizne.
-buizel-f:Buizel
+buizel-f:Buizel (F)
 buizel-fDescription:Hincha el flotador de su cuello para flotar y saca la cabeza de la superficie del agua para explorar sus alrededores.
 burmy-sandy:Burmy (Arena)
 burmy-sandyDescription:Si su caparazón se rompe en combate, lo rehace rápidamente con lo que tenga a mano.
@@ -2388,13 +2388,13 @@ burmy-trash:Burmy (Basura)
 burmy-trashDescription:Si su caparazón se rompe en combate, lo rehace rápidamente con lo que tenga a mano.
 butterfree-gmax:Gmax Butterfree
 butterfree-gmaxDescription:Recoge néctar a diario y se lo adhiere al pelo de las patas para llevarlo a su nido.
-cacturne-f:Cacturne
+cacturne-f:Cacturne (F)
 cacturne-fDescription:Cuando alguien se adentra en un desierto por la noche, Cacturne le sigue junto con varios de los suyos. Este Pokémon espera pacientemente a que el viajero se fatigue y no pueda continuar más, vencido por el cansancio.
 calyrex-ice:Calyrex (Hielo)
 calyrex-iceDescription:not avaliable
 calyrex-shadow:Calyrex (Sombra)
 calyrex-shadowDescription:not avaliable
-camerupt-f:Camerupt
+camerupt-f:Camerupt (F)
 camerupt-fDescription:Las jorobas de Camerupt se originaron por una deformación de los huesos. A veces escupen magma líquido, sobre todo cuando el Pokémon se enfada.
 centiskorch-gmax:Gmax Centiskorch
 centiskorch-gmaxDescription:Posee una naturaleza agresiva. El peligro que entraña su cuerpo candente es considerable, aunque sus afilados colmillos no le van a la zaga.
@@ -2408,9 +2408,9 @@ cherrim-sunshine:Cherrim (Sol)
 cherrim-sunshineDescription:Cuando abre sus pétalos, libera una sutil fragancia que atrae a los Pokémon insecto.
 coalossal-gmax:Gmax Coalossal
 coalossal-gmaxDescription:Dicen que hace tiempo salvó incontables vidas de una cruenta ola de frío usando su cuerpo a modo de estufa gigante.
-combee-f:Combee
+combee-f:Combee (F)
 combee-fDescription:Recolecta néctar de sol a sol para entregarlo a la colonia y a Vespiquen.
-combusken-f:Combusken
+combusken-f:Combusken (F)
 combusken-fDescription:Combusken lucha haciendo uso de las abrasadoras llamas que expulsa por el pico y de unas patadas fulminantes. Este Pokémon emite un sonido muy fuerte y molesto.
 copperajah-gmax:Gmax Copperajah
 copperajah-gmaxDescription:Viven en manadas. La fuerza prensil de su trompa es tan extraordinaria que le permite hacer añicos incluso grandes rocas.
@@ -2422,7 +2422,7 @@ cramorant-gorging:Cramorant
 cramorant-gorgingDescription:Traga Arrokuda enteros debido a su glotonería, tan notable que en ocasiones ingiere hasta otros Pokémon sin querer.
 cramorant-gulping:Cramorant (Gulping)
 cramorant-gulpingDescription:Traga Arrokuda enteros debido a su glotonería, tan notable que en ocasiones ingiere hasta otros Pokémon sin querer.
-croagunk-f:Croagunk
+croagunk-f:Croagunk (F)
 croagunk-fDescription:Su veneno posee propiedades medicinales si se diluye. Se ha vuelto muy popular desde que una empresa farmacéutica lo adoptó como mascota.
 darmanitan-galar:Gal Darmanitan
 darmanitan-galarDescription:Su fuerza aumenta cuanto más se aviva su fuego interior, que puede alcanzar temperaturas superiores a los 1400 °C.
@@ -2436,13 +2436,13 @@ deerling-summer:Deerling (Verano)
 deerling-summerDescription:Durante los cambios de estación, su pelaje y olor cambian. Esto anuncia el comienzo de una estación.
 deerling-winter:Deerling (Invierno)
 deerling-winterDescription:Durante los cambios de estación, su pelaje y olor cambian. Esto anuncia el comienzo de una estación.
-donphan-f:Donphan
+donphan-f:Donphan (F)
 donphan-fDescription:Si Donphan tuviera que dar un golpe con todo el cuerpo, con lo robusto que es echaría abajo hasta una casa. Estos Pokémon usan su fuerza para ayudar a despejar pasos de montaña cuando hay piedras o lodo.
 drednaw-gmax:Gmax Drednaw
 drednaw-gmaxDescription:Su cuello extensible le permite alcanzar a los rivales a distancia. Hundiendo sus afilados dientes, les da el golpe de gracia.
 duraludon-gmax:Gmax Duraludon
 duraludon-gmaxDescription:La solidez de su estructura celular, capaz de soportar la fuerza de un terremoto, destaca incluso entre los Pokémon de tipo Acero.
-dustox-f:Dustox
+dustox-f:Dustox (F)
 dustox-fDescription:Cuando Dustox bate las alas, libera un polvillo fino que en realidad es un peligroso veneno que puede resultar dañino hasta al más fuerte de los fuertes. Las antenas le sirven de radar para buscar comida.
 eevee-gmax:Gmax Eevee
 eevee-gmaxDescription:Su irregular estructura genética alberga el secreto de la capacidad que posee este Pokémon tan especial para adoptar evoluciones muy variadas.
@@ -2454,7 +2454,7 @@ eternatus-eternamax:Eternatus (Eternamax)
 eternatus-eternamaxDescription:Fue hallado en el interior de un meteorito caído hace 20 000 años. Por lo visto, está relacionado con el misterio que rodea al fenómeno Dinamax.
 farfetchd-galar:Gal Farfetch’d
 farfetchd-galarDescription:Los Farfetch’d de Galar han adoptado esta forma de tanto blandir los puerros típicos de la región, que son gruesos y largos.
-finneon-f:Finneon
+finneon-f:Finneon (F)
 finneon-fDescription:Por el día permanece cerca de la superficie y se retira a las profundidades por la noche. Atrae a las presas con sus brillantes aletas caudales.
 flabebe-blue:Flabébé (Azul)
 flabebe-blueDescription:Acumula el polen de las flores para confeccionar la tiara que lleva en la cabeza, que cuenta con propiedades curativas.
@@ -2466,7 +2466,7 @@ flabebe-yellow:Flabébé (Amarillo)
 flabebe-yellowDescription:Acumula el polen de las flores para confeccionar la tiara que lleva en la cabeza, que cuenta con propiedades curativas.
 flapple-gmax:Gmax Flapple
 flapple-gmaxDescription:Escupe una saliva sumamente ácida y vuela con sus alas compuestas por piel de manzana, cuyo aspecto es capaz de adoptar.
-floatzel-f:Floatzel
+floatzel-f:Floatzel (F)
 floatzel-fDescription:Su flotador se desarrolló a raíz de perseguir presas acuáticas. También sirve como balsa.
 floette-blue:Floette (Azul)
 floette-blueDescription:Confiere su poder a las flores y cuida de ellas con mucho esmero; no perdona que destruyan los campos donde estas crecen.
@@ -2484,7 +2484,7 @@ florges-white:Florges (Blanco)
 florges-whiteDescription:Su esperanza de vida asciende a varios siglos y dedica toda su dilatada existencia al cuidado de los jardines.
 florges-yellow:Florges (Amarillo)
 florges-yellowDescription:Su esperanza de vida asciende a varios siglos y dedica toda su dilatada existencia al cuidado de los jardines.
-frillish-f:Frillish
+frillish-f:Frillish (F)
 frillish-fDescription:Sus tentáculos en forma de velo albergan miles de púas tóxicas, que son ligeramente más largas en el caso de las hembras.
 furfrou-dandy:Furfrou (Chic)
 furfrou-dandyDescription:El pelo le crece sin cesar, pero solo deja que se lo corten aquellos de quienes se fía plenamente.
@@ -2504,11 +2504,11 @@ furfrou-pharaoh:Furfrou (Faraón)
 furfrou-pharaohDescription:El pelo le crece sin cesar, pero solo deja que se lo corten aquellos de quienes se fía plenamente.
 furfrou-star:Furfrou (Estrella)
 furfrou-starDescription:El pelo le crece sin cesar, pero solo deja que se lo corten aquellos de quienes se fía plenamente.
-gabite-f:Gabite
+gabite-f:Gabite (F)
 gabite-fDescription:Muda la piel a medida que crece. Las escamas que pierde se pueden pulverizar para utilizar como ingrediente en remedios medicinales.
 garbodor-gmax:Gmax Garbodor
 garbodor-gmaxDescription:El veneno líquido que brota de su brazo derecho es tan nocivo que puede acabar con una criatura ya débil al menor contacto.
-garchomp-f:Garchomp
+garchomp-f:Garchomp (F)
 garchomp-fDescription:Sus escamas, pequeñas, lisas y afiladas, no solo lo hacen más aerodinámico, sino que le sirven para herir al rival que ose atacarlo.
 gastrodon-east:Gastrodon (Este)
 gastrodon-eastDescription:Lo recubre una sustancia viscosa. Se resiente cuando se seca, de modo que no puede permanecer mucho tiempo en tierra firme.
@@ -2522,73 +2522,73 @@ genesect-shock:Genesect (Choque)
 genesect-shockDescription:Un Pokémon de hace 300 millones de años y alterado por el Equipo Plasma, quienes le han equipado con un cañón en el lomo.
 gengar-gmax:Gmax Gengar
 gengar-gmaxDescription:Tiende trampas mortales: quienes osan acercarse a su boca escuchan la llamada de sus seres queridos.
-gible-f:Gible
+gible-f:Gible (F)
 gible-fDescription:Un Pokémon habituado a un clima aún más cálido que el de Alola. Quien convive con un Gible gasta mucho dinero en calefacción.
-girafarig-f:Girafarig
+girafarig-f:Girafarig (F)
 girafarig-fDescription:La cabeza trasera de Girafarig tiene un cerebro muy pequeño para pensar, pero, como no le hace falta dormir, al menos puede hacer de centinela las 24 horas del día.
-gligar-f:Gligar
+gligar-f:Gligar (F)
 gligar-fDescription:Gligar planea por el aire sin hacer ningún ruido, como si fuera patinando. Este Pokémon se agarra a la cara de su rival con las patas traseras, con forma de garra, y las pinzas de las delanteras y le inyecta veneno por el aguijón.
 greninja-ash:Greninja (Ceniza)
 greninja-ashDescription:Aparece y desaparece de improvisto, cual ninja. Marea al oponente con su soberbia agilidad y lo hace trizas con sus Shuriken de Agua.
 grimmsnarl-gmax:Gmax Grimmsnarl
 grimmsnarl-gmaxDescription:Su cabello desempeña una función similar a la de fibras musculares. Al soltárselo, su movimiento tentacular le permite reducir a su objetivo.
-gulpin-f:Gulpin
+gulpin-f:Gulpin (F)
 gulpin-fDescription:La mayor parte del cuerpo de Gulpin está ocupado por su estómago. En comparación, el corazón y el cerebro son muy pequeños. Este Pokémon tiene enzimas especiales en el estómago capaces de corroerlo todo.
 hatterene-gmax:Gmax Hatterene
 hatterene-gmaxDescription:Recibe el apodo de Hechicera del Bosque. Quienes arman demasiado barullo se exponen a ser despedazados por las garras de su tentáculo.
-heracross-f:Heracross
+heracross-f:Heracross (F)
 heracross-fDescription:Este Pokémon muestra una fuerza hercúlea, que le permite levantar cien veces su propio peso sin inmutarse.
-hippopotas-f:Hippopotas
+hippopotas-f:Hippopotas (F)
 hippopotas-fDescription:Este Pokémon de hábitos diurnos se entierra en la arena para dormir cuando la temperatura en el desierto se desploma al caer la noche.
-hippowdon-f:Hippowdon
+hippowdon-f:Hippowdon (F)
 hippowdon-fDescription:Puede ser muy agresivo cuando se enfada. Provoca auténticas tempestades de arena al expeler la que ha tragado.
 hoopa-mega:Mega Hoopa
 hoopa-megaDescription:Dicen que gracias a sus seis anillos y seis enormes brazos puede robar todo lo que se le antoja. Adquirió una forma reducida cuando alguien selló su poder.
-houndoom-f:Houndoom
+houndoom-f:Houndoom (F)
 houndoom-fDescription:Su rasgo distintivo son los escalofriantes aullidos que profiere. Antiguamente, era temido y considerado un emisario del inframundo.
 indeedee-f:Indeedee (F)
 indeedee-fDescription:Con sus cuernos percibe las emociones de los seres vivos que se hallen cerca. Los sentimientos positivos constituyen su fuente de energía.
 inteleon-gmax:Gmax Inteleon
 inteleon-gmaxDescription:Posee una puntería extraordinaria. Para este Pokémon, acertar a una baya que rueda a 15 km de distancia es pan comido.
-jellicent-f:Jellicent
+jellicent-f:Jellicent (F)
 jellicent-fDescription:Las noches de luna llena, bancos enteros de Jellicent emergen a la superficie y aguardan la llegada de alguna presa incauta.
 kingler-gmax:Gmax Kingler
 kingler-gmaxDescription:Su gran pinza posee una potencia devastadora, pero su peso excesivo la convierte en un estorbo fuera del terreno de combate.
-kricketune-f:Kricketune
+kricketune-f:Kricketune (F)
 kricketune-fDescription:Los científicos tratan de estudiar sus melodías, que son reflejo de sus emociones.
 lapras-gmax:Gmax Lapras
 lapras-gmaxDescription:Surca los mares tranquilamente y destroza los icebergs que encuentra a su paso formando a su alrededor un gran anillo de cristales de hielo.
-ledian-f:Ledian
+ledian-f:Ledian (F)
 ledian-fDescription:Vuela por el cielo nocturno esparciendo un polvo brillante. Dicen que entrar en contacto con este polvo trae buena suerte.
-ledyba-f:Ledyba
+ledyba-f:Ledyba (F)
 ledyba-fDescription:Un Pokémon bastante temeroso. Junto con sus congéneres, protege su nido usando Reflejo.
 linoone-galar:Gal Linoone
 linoone-galarDescription:Posee un carácter beligerante y temerario. Hace frente impávidamente a oponentes mucho más fuertes que él.
-ludicolo-f:Ludicolo
+ludicolo-f:Ludicolo (F)
 ludicolo-fDescription:Mover su cuerpo al ritmo de música festiva puede hacer que aumente su fuerza.
-lumineon-f:Lumineon
+lumineon-f:Lumineon (F)
 lumineon-fDescription:Nada arrastrándose por el lecho marino. Sus espléndidas aletas brillan como las estrellas del firmamento.
-luxio-f:Luxio
+luxio-f:Luxio (F)
 luxio-fDescription:Cuando encuentra a un adversario, se prepara para combatir sacando las garras, que emiten una corriente eléctrica de un millón de voltios.
-luxray-f:Luxray
+luxray-f:Luxray (F)
 luxray-fDescription:Duerme durante largos períodos para recuperar la enorme cantidad de electricidad que consume al usar su capacidad para ver a través de objetos.
 machamp-gmax:Machamp Gigamax
 machamp-gmaxDescription:Puede dar varios puñetazos de una sola vez gracias a sus cuatro brazos. Golpea más rápido de lo que piensa.
 magearna-original:Magearna (Original)
 magearna-originalDescription:Pokémon artificial creado por científicos hace unos 500 años. Su verdadera esencia es una pieza llamada Coránima.
-magikarp-f:Magikarp
+magikarp-f:Magikarp (F)
 magikarp-fDescription:Este Pokémon débil y patético se limita a dejarse llevar por la corriente cuando esta tiene fuerza.
-mamoswine-f:Mamoswine
+mamoswine-f:Mamoswine (F)
 mamoswine-fDescription:Es tan fuerte como parece. Cuanto más frío hace, más gruesos, largos e imponentes se vuelven sus colmillos de hielo.
-medicham-f:Medicham
+medicham-f:Medicham (H)
 medicham-fDescription:A través de la meditación, Medicham desarrolló su sexto sentido y aprendió a usar poderes psicoquinéticos. Se sabe que este Pokémon puede pasarse un mes meditando y sin comer.
-meditite-f:Meditite
+meditite-f:Meditite (H)
 meditite-fDescription:Meditite aumenta su energía interior mediante meditación. Para subsistir le basta con una baya al día. El comer poco entra dentro de su entrenamiento.
-meganium-f:Meganium
+meganium-f:Meganium (H)
 meganium-fDescription:La fragancia de la flor de Meganium aplaca y suaviza los ánimos. Al luchar, este Pokémon libera mayor cantidad de esencia para disminuir el ánimo de combate de su oponente.
 melmetal-gmax:Melmetal Gigamax
 melmetal-gmaxDescription:Gracias a la inercia y la fuerza centrífuga, los puñetazos que propina con sus pesadas tuercas son los más potentes del mundo Pokémon.
-meowstic-f:Meowstic
+meowstic-f:Meowstic (H)
 meowstic-fDescription:El fuerte instinto protector de los machos los lleva a liberar todo su poder cuando se trata de defenderse a sí mismos o a su Entrenador.
 meowth-galar:Gal Meowth
 meowth-galarDescription:Se lava cuidadosamente la cara para que no se le ensucie la moneda de oro que tiene en la frente. No se lleva nada bien con los Meowth de Galar.
@@ -2598,7 +2598,7 @@ mewtwo-megax:Mewtwo MegaX
 mewtwo-megaxDescription:Su poder psíquico ha incrementado su masa muscular. Posee una fuerza de agarre de una tonelada y puede correr 100 m en dos segundos.
 mewtwo-megay:Mewtwo MegaY
 mewtwo-megayDescription:Su poder psíquico ha incrementado su masa muscular. Posee una fuerza de agarre de una tonelada y puede correr 100 m en dos segundos.
-milotic-f:Milotic
+milotic-f:Milotic (H)
 milotic-fDescription:Se dice que su hermosa figura puede apaciguar el corazón de aquellos que tengan el ánimo alterado.
 mimikyu-busted:Mimikyu (Roto)
 mimikyu-bustedDescription:Un investigador que miró dentro del saco para estudiar a este Pokémon perdió la vida a causa de una misteriosa enfermedad.
@@ -2622,7 +2622,7 @@ morpeko-hangry:Morpeko (Famélico)
 morpeko-hangryDescription:Siempre tiene apetito, sin importar lo mucho que coma. Lleva con sumo cuidado las semillas que ha tostado con su propia electricidad.
 mrmime-galar:Gal Mr. Mime
 mrmime-galarDescription:Emite un aire glacial por las plantas de los pies. Baila claqué con entusiasmo sobre las superficies que ha congelado.
-murkrow-f:Murkrow
+murkrow-f:Murkrow (H)
 murkrow-fDescription:Busca objetos brillantes para su patrón. No cuenta con muchas simpatías, pues la gente lo considera ave de mal agüero.
 necrozma-dawnwings:Necrozma (Alas del Alba)
 necrozma-dawnwingsDescription:Tras someter a Solgaleo, Necrozma absorbe por la fuerza su energía ilimitada y siembra el caos y la destrucción por doquier.
@@ -2630,19 +2630,19 @@ necrozma-duskmane:Necrozma (Crin del Ocaso)
 necrozma-duskmaneDescription:Tras someter a Solgaleo, Necrozma absorbe por la fuerza su energía ilimitada y siembra el caos y la destrucción por doquier.
 necrozma-ultra:Necrozma (Ultra)
 necrozma-ultraDescription:Tras someter a Solgaleo, Necrozma absorbe por la fuerza su energía ilimitada y siembra el caos y la destrucción por doquier.
-numel-f:Numel
+numel-f:Numel (H)
 numel-fDescription:Numel acumula en su interior un magma de 1200 °C. Si se moja, el magma se enfría y se solidifica. Cuando esto ocurre, aumenta su tamaño y se vuelve pesado y lento en sus movimientos.
-nuzleaf-f:Nuzleaf
+nuzleaf-f:Nuzleaf (H)
 nuzleaf-fDescription:Vive en las oquedades de los árboles grandes. El sonido que emite al usar la hoja de la cabeza como flauta asusta a quienes lo escuchan.
-octillery-f:Octillery
+octillery-f:Octillery (H)
 octillery-fDescription:Atrapa a sus enemigos con los tentáculos y después los golpea con su dura cabeza.
 orbeetle-gmax:Orbeetle Gigamax
 orbeetle-gmaxDescription:Si despliega su máximo poder, es capaz de controlar la mente de todos cuantos se hallen a su alrededor.
-pachirisu-f:Pachirisu
+pachirisu-f:Pachirisu (H)
 pachirisu-fDescription:A veces se ve a dos frotándose las bolsas de las mejillas para compartir electricidad almacenada.
 pikachu-alola:Alo Pikachu
 pikachu-alolaDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
-pikachu-f:Pikachu
+pikachu-f:Pikachu (H)
 pikachu-fDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
 pikachu-gmax:Pikachu Gigamax
 pikachu-gmaxDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
@@ -2660,35 +2660,35 @@ pikachu-rockstar:Pikachu (Estrella del Rock)
 pikachu-rockstarDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
 pikachu-sinnoh:Pikachu (Sinnoh)
 pikachu-sinnohDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
-pikachu-starter-f:Pikachu
+pikachu-starter-f:Pikachu (Inicial-H)
 pikachu-starter-fDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
 pikachu-starter:Pikachu (Inicial)
 pikachu-starterDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
 pikachu-unova:Pikachu (Teselia)
 pikachu-unovaDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
-piloswine-f:Piloswine
+piloswine-f:Piloswine (H)
 piloswine-fDescription:Aunque tiene las patas cortas, sus fuertes pezuñas le permiten caminar por la nieve sin resbalar.
-politoed-f:Politoed
+politoed-f:Politoed (H)
 politoed-fDescription:Los machos emiten gritos muy potentes. Las hembras sienten predilección por los de voz grave e imponente.
 polteageist-antique:Polteageist (Antiguo)
 polteageist-antiqueDescription:Si se enfada, el té que conforma su cuerpo se lanza a la boca del rival. El desdichado que lo ingiera sufrirá violentos escalofríos.
 ponyta-galar:Gal Ponyta
 ponyta-galarDescription:Puede leerle la mente a cualquiera con tan solo mirarle a los ojos. Si detecta algún pensamiento ruin, desaparece instantáneamente.
-pyroar-f:Pyroar
+pyroar-f:Pyroar (H)
 pyroar-fDescription:Su aliento alcanza temperaturas de 6000 ºC, aunque no lo emplea contra sus presas, ya que prefiere la carne más bien cruda.
-quagsire-f:Quagsire
+quagsire-f:Quagsire (H)
 quagsire-fDescription:Su cuerpo siempre resulta escurridizo al tacto. Suele chocarse contra el lecho del río al nadar, pero no le importa demasiado.
-raticate-f:Raticate
+raticate-f:Raticate (H)
 raticate-fDescription:Obliga a los Rattata a llevar comida a su madriguera. Solo acepta los manjares más deliciosos y nutritivos.
-rattata-f:Rattata
+rattata-f:Rattata (H)
 rattata-fDescription:Sus bigotes son órganos olfativos muy agudos que le permiten localizar el alimento ipso facto, aunque esté oculto.
-relicanth-f:Relicanth
+relicanth-f:Relicanth (H)
 relicanth-fDescription:La razón por la que su aspecto no ha cambiado un ápice durante 100 millones de años se debe, al parecer, a que es una forma de vida perfecta.
-rhyperior-f:Rhyperior
+rhyperior-f:Rhyperior (F)
 rhyperior-fDescription:Repele los ataques usando un Protector y aprovecha el momento en que el rival baja la guardia para perforarlo con su taladro.
-roselia-f:Roselia
+roselia-f:Roselia (F)
 roselia-fDescription:Ataca con sus manos, cada una de las cuales contiene un tipo de veneno diferente. Cuanto más intenso es su aroma, mejor salud tiene.
-roserade-f:Roserade
+roserade-f:Roserade (F)
 roserade-fDescription:Las toxinas de la mano derecha son de efecto inmediato, y las de la izquierda, retardado. No obstante, ambas pueden ser letales.
 sandaconda-gmax:Sandaconda Gigamax
 sandaconda-gmaxDescription:La manera tan particular que tiene de enrollarse sobre sí mismo le permite expulsar con mayor eficacia la arena que almacena en la bolsa.
@@ -2698,15 +2698,15 @@ sawsbuck-summer:Sawsbuck (Verano)
 sawsbuck-summerDescription:Migra con el cambio de estación, por lo que hay quien considera a Sawsbuck el heraldo de la primavera.
 sawsbuck-winter:Sawsbuck (Invierno)
 sawsbuck-winterDescription:Migra con el cambio de estación, por lo que hay quien considera a Sawsbuck el heraldo de la primavera.
-scizor-f:Scizor
+scizor-f:Scizor (F)
 scizor-fDescription:Su potencia de ataque, que asombra dada su delgadez, se debe a que sus músculos están hechos de metal.
-scyther-f:Scyther
+scyther-f:Scyther (F)
 scyther-fDescription:El territorio de un Scyther se identifica fácilmente por el gran número de árboles talados de forma indiscriminada en una misma zona del bosque.
 shellos-east:Shellos (Este)
 shellos-eastDescription:Su aspecto cambia en función de su entorno. En teoría, esta es la forma que adopta cuando habita en mares de aguas heladas.
-shiftry-f:Shiftry
+shiftry-f:Shiftry (F)
 shiftry-fDescription:Vive sigiloso en lo más profundo del bosque. Se dice que con sus abanicos puede generar vientos gélidos.
-shinx-f:Shinx
+shinx-f:Shinx (F)
 shinx-fDescription:Su pelaje brilla gracias a la electricidad. Envía señales a sus semejantes agitando la punta luminosa de la cola.
 silvally-bug:Bug Silvally
 silvally-bugDescription:Una vez despertado con éxito, puede cambiar de tipo y combatir, como cierto Pokémon de las leyendas. Esta es su forma de tipo bug.
@@ -2750,37 +2750,37 @@ slowking-galar:Gal Slowking
 slowking-galarDescription:Es capaz de dar respuesta a cualquier cuestión que se le formule, pero, por desgracia, nadie logra descifrar una sola palabra de lo que dice.
 slowpoke-galar:Gal Slowpoke
 slowpoke-galarDescription:Las semillas de ciertas plantas autóctonas de Galar que consume aportan a su cola un sabor especiado.
-sneasel-f:Sneasel
+sneasel-f:Sneasel (F)
 sneasel-fDescription:Es un Pokémon de naturaleza astuta y fiera. Se cuela en los nidos de otros Pokémon cuando no están y roba sus huevos.
 snorlax-gmax:Snorlax Gigamax
 snorlax-gmaxDescription:Posee una fuerza aterradora. Su imponente aspecto y proverbial indolencia hacen que sea fácil confundirlo con una montaña.
-snover-f:Snover
+snover-f:Snover (F)
 snover-fDescription:Las bayas con aspecto de helado que le crecen alrededor de la barriga son la comida favorita de los Darumaka que habitan en Galar.
-staraptor-f:Staraptor
+staraptor-f:Staraptor (F)
 staraptor-fDescription:Al evolucionar a Staraptor deja su bandada y pasa a vivir en soledad. Sus alas son inmensas.
-staravia-f:Staravia
+staravia-f:Staravia (F)
 staravia-fDescription:Vive en bosques y campos. Si dos bandadas se encuentran, pelean por el territorio.
-starly-f:Starly
+starly-f:Starly (F)
 starly-fDescription:Sobrevuela los campos buscando Pokémon de tipo Bicho. Chilla de forma muy estridente.
-steelix-f:Steelix
+steelix-f:Steelix (F)
 steelix-fDescription:Se cree que su cuerpo se ha ido transformando por el hierro acumulado en la tierra que ha ingerido.
 stunfisk-galar:Gal Stunfisk
 stunfisk-galarDescription:Se desconoce la razón, pero esboza una leve sonrisa al liberar potentes descargas eléctricas a través de las zonas amarillentas de su cuerpo.
-sudowoodo-f:Sudowoodo
+sudowoodo-f:Sudowoodo (F)
 sudowoodo-fDescription:Finge ser un árbol para evitar que lo ataquen. Odia tanto el agua que desaparecerá si empieza a llover.
-swalot-f:Swalot
+swalot-f:Swalot (F)
 swalot-fDescription:Swalot no tiene dientes, así que lo que come se lo traga de una vez; da igual lo que sea. A este Pokémon le cabría un neumático en la boca sin problema.
-tangrowth-f:Tangrowth
+tangrowth-f:Tangrowth (F)
 tangrowth-fDescription:Las lianas le crecen más rápidamente si vive en regiones cálidas. Cuando alcanzan cierta longitud, se las corta.
-torchic-f:Torchic
+torchic-f:Torchic (F)
 torchic-fDescription:Torchic tiene un lugar en el interior de su organismo en el que guarda la llama que posee. Si le das un abrazo, arderá encantado. Este Pokémon está recubierto totalmente de sedoso plumón.
-toxicroak-f:Toxicroak
+toxicroak-f:Toxicroak (F)
 toxicroak-fDescription:Cuando abate una presa, emite un croar de victoria a pleno pulmón. Está emparentado con los Seismitoad.
 toxtricity-gmax:Toxtricity Gigamax
 toxtricity-gmaxDescription:Su propio veneno le afecta al cerebro y le hace perder el control. Cuando esto ocurre, transpira un sudor tóxico que contamina el terreno.
 toxtricity-lowkey:Toxtricity (Discreto)
 toxtricity-lowkeyDescription:Su propio veneno le afecta al cerebro y le hace perder el control. Cuando esto ocurre, transpira un sudor tóxico que contamina el terreno.
-unfezant-f:Unfezant
+unfezant-f:Unfezant (F)
 unfezant-fDescription:Es un Pokémon muy inteligente y orgulloso. Se tiene en alta estima a aquellos que se convierten en sus Entrenadores.
 unown-b:Unown (B)
 unown-bDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
@@ -2792,7 +2792,7 @@ unown-e:Unown (E)
 unown-eDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
 unown-exclamation:Unown (Exclamación)
 unown-exclamationDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
-unown-f:Unown
+unown-f:Unown (F)
 unown-fDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
 unown-g:Unown (G)
 unown-gDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
@@ -2836,21 +2836,21 @@ unown-y:Unown (Y)
 unown-yDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
 unown-z:Unown (Z)
 unown-zDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
-ursaring-f:Ursaring
+ursaring-f:Ursaring (F)
 ursaring-fDescription:En los bosques habitados por Ursaring, dicen que abundan los arroyos y árboles gigantes en los que guardan su alimento. Este Pokémon se dedica todos los días a pasear por el bosque para buscar comida y guardarla.
 urshifu-rapidstrike:Urshifu (Golpe Fluido)
 urshifu-rapidstrikeDescription:Vive en zonas montañosas en áreas recónditas, donde entrena corriendo por escarpados riscos para fortalecer sus piernas y refinar su técnica.
-weavile-f:Weavile
+weavile-f:Weavile (F)
 weavile-fDescription:Se comunican mediante marcas que tallan con sus garras. Se cree que tienen un repertorio de más de 500.
 weezing-galar:Gal Weezing
 weezing-galarDescription:Se desconoce el motivo, pero adoptó esta forma tiempo atrás, cuando las numerosas chimeneas de las fábricas de la región contaminaban el aire.
 wishiwashi-school:Wishiwashi (Banco)
 wishiwashi-schoolDescription:Los Wishiwashi se agrupan en bancos para enfrentarse a rivales fuertes. Si resultan heridos, se dispersan y vuelven a quedarse solos.
-wobbuffet-f:Wobbuffet
+wobbuffet-f:Wobbuffet (F)
 wobbuffet-fDescription:Para mantener oculta su negra cola, vive en silencio en la oscuridad. Nunca ataca primero.
-wooper-f:Wooper
+wooper-f:Wooper (F)
 wooper-fDescription:Cuando se desplaza en tierra firme, cubre su cuerpo con una membrana mucosa y venenosa para mantener hidratada la piel.
-xatu-f:Xatu
+xatu-f:Xatu (F)
 xatu-fDescription:Este extraño Pokémon puede ver el pasado y el futuro. Se pasa el día mirando al sol.
 xerneas-neutral:Xerneas (Neutral)
 xerneas-neutralDescription:Cuando los cuernos de su cabeza brillan en siete colores, se dice que comparte el don de la vida eterna.
@@ -2866,7 +2866,7 @@ zarude-dada:Zarude (Dada)
 zarude-dadaDescription:Las lianas que le brotan del cuerpo nutren y fertilizan el mantillo del bosque cuando se le desprenden.
 zigzagoon-galar:Gal Zigzagoon
 zigzagoon-galarDescription:Parece ser que esta es la forma primitiva de Zigzagoon. Arma un alboroto tremendo a su alrededor cuando se mueve en zigzag.
-zubat-f:Zubat
+zubat-f:Zubat (F)
 zubat-fDescription:Emite ultrasonidos que utiliza como sonar para evitar obstáculos cuando vuela.
 zygarde-10:Zygarde (10)
 zygarde-10Description:Según los rumores, puede adoptar una forma aún más poderosa cuando se enfrenta a quienquiera que amenace el ecosistema.
