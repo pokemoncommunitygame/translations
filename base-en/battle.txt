@@ -159,3 +159,4 @@ battleMoveUsed:uses
 
 PERISH_SONG_START:heard the Perish Song
 PERISH_SONG_END:fainted!
+PERISH_SONG_COOLDOWN:'s perish count fell to
