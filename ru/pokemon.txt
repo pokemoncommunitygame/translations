@@ -54,7 +54,7 @@ kakuna:Kakuna
 kakunaDescription:Способно двигаться лишь слегка. Когда в опасности, может выпустить жало и отравить врага.
 nidoking:Nidoking
 nidokingDescription:Его стальная шкура усиливает мощный удар. Его рога настолько твердые, что могут пробить алмаз.
-cherrim-sunshine:Cherrim
+cherrim-sunshine:Cherrim (Солнечная форма)
 cherrim-sunshineDescription:Слабый аромат, исходящий из его полного цветка, привлекает к нему жуков-покемонов.
 linoone-galar:Gal Linoone
 linoone-galarDescription:Этот очень агрессивный Покемон безрассудно бросает вызов противникам, сильнее себя.
@@ -1620,19 +1620,19 @@ rockruff-sinister:Син Рокрафф
 rockruff-sinisterDescription:Этот Покемон пугает противников, ударяя по земле камнями на своей шее. В тот момент, когда противник дрогнет, Рокрафф атакует.
 kartana-sinister:Син Картана
 kartana-sinisterDescription:Хотя он инопланетен для этого мира и представляет здесь опасность, в мире, где он обычно живет, это, видимо, обычный организм.
-deoxys-attack:Деоксис
+deoxys-attack:Deoxys (Атака)
 deoxys-attackDescription:Деоксис возник из вируса, пришедшего из космоса. Он обладает высоким интеллектом и владеет психокинетическими способностями. Этот Покемон стреляет лазерами из кристаллического органа на своей груди.
-deoxys-defense:Деоксис
+deoxys-defense:Deoxys (Защита)
 deoxys-defenseDescription:Деоксис возник из вируса, пришедшего из космоса. Он обладает высоким интеллектом и владеет психокинетическими способностями. Этот Покемон стреляет лазерами из кристаллического органа на своей груди.
-deoxys-speed:Деоксис
+deoxys-speed:Deoxys (Скорость)
 deoxys-speedDescription:Деоксис возник из вируса, пришедшего из космоса. Он обладает высоким интеллектом и владеет психокинетическими способностями. Этот Покемон стреляет лазерами из кристаллического органа на своей груди.
 wormadam-sandy:Вормадам (Песчаная)
 wormadam-sandyDescription:Когда Бурми эволюционировал, его плащ стал частью тела этого Покемона. Плащ никогда не сбрасывается.
 wormadam-trash:Вормадам (Мусорный)
 wormadam-trashDescription:Когда Бурми эволюционировал, его плащ стал частью тела этого покемона. Этот плащ никогда не сбрасывается.
-shaymin-sky:Шеймин
+shaymin-sky:Shaymin (Небесная форма)
 shaymin-skyDescription:Цветение цветов Грацидеи дарует ему способность летать. Чувства благодарности — это то послание, которое он передает.
-giratina-origin:Гиратина
+giratina-origin:Giratina (Исходная форма)
 giratina-originDescription:Она была изгнана за свою жестокость. Она молчаливо наблюдала за старым миром из Искаженного Мира.
 rotom-heat:Ротом (Тепло)
 rotom-heatDescription:С телом из плазмы, он может обитать во всех видах машин. Любит удивлять других.
@@ -1650,39 +1650,39 @@ castform-rainy:Кастформ (Дождевой)
 castform-rainyDescription:Его форма меняется в зависимости от погоды. Чем суровее условия, тем суровее характер Кастформа!
 castform-snowy:Кастформ (Снежный)
 castform-snowyDescription:Его форма меняется в зависимости от погоды. Чем более суровые условия, тем более суров характер Кастформа!
-basculin-blue-striped:Баскулин
+basculin-blue-striped:Basculin (Сине-полосатая форма)
 basculin-blue-stripedDescription:Известные своей агрессивностью, эти Покемоны чаще всего дерутся с косяками красно-полосатых Баскулинов.
-darmanitan-zen:Дарманитан
+darmanitan-zen:Darmanitan (Дзен форма)
 darmanitan-zenDescription:Когда ранен, он перестает двигаться. Он замирает как камень, чтобы медитировать, обостряя свой ум и дух.
-meloetta-pirouette:Мелоэтта
+meloetta-pirouette:Meloetta (Пируэт)
 meloetta-pirouetteDescription:Ее мелодии исполняются с помощью специального метода вокализации, который может контролировать чувства слушателей.
-tornadus-therian:Торнадус
+tornadus-therian:Tornadus (Териан форма)
 tornadus-therianDescription:Торнадус излучает огромную энергию из своего хвоста, вызывая сильные бури. Его сила достаточно велика, чтобы сносить дома.
-thundurus-therian:Тандурус
+thundurus-therian:Thundurus (Териан форма)
 thundurus-therianDescription:Летая по округе, он повсюду выпускает молнии, вызывая лесные пожары. Поэтому его недолюбливают.
-landorus-therian:Ландорус
+landorus-therian:Landorus (Териан форма)
 landorus-therianDescription:Из сил молний и ветра он создает энергию, чтобы обогащать почву и делать землю плодородной.
-kyurem-black:Кюрем
+kyurem-black:Kyurem (Чёрная форма)
 kyurem-blackDescription:Идентичность генов Зекрома и Кюрема позволила Кюрему поглотить Зекрома. Теперь Кюрем может использовать силу как электричества, так и льда.
-kyurem-white:Кюрем
+kyurem-white:Kyurem (Белая форма)
 kyurem-whiteDescription:Идентичность генов Зекрома и Кюрема позволила Кюрему поглотить Зекрома. Теперь Кюрем может использовать силу как электричества, так и льда.
-keldeo-resolute:Кельдео
+keldeo-resolute:Keldeo (Решительная форма)
 keldeo-resoluteDescription:Когда оно решительно настроено, его тело наполняется силой, и оно становится быстрейшим. Его прыжки тогда слишком быстры, чтобы их отследить.
 meowstic-female:Мяустик
 meowstic-femaleDescription:Защитный инстинкт самцов очень силен. Именно когда они защищают себя или партнера, они проявляют свою полную мощь.
 aegislash-blade:Эйджислаш (Лезвие)
 aegislash-bladeDescription:Однажды давно король с Эйджислашем правил на земле. В конечном итоге его Покемон высосал из него жизнь, и его королевство пало вместе с ним.
-pumpkaboo-small:Пампкабу
+pumpkaboo-small:Pumpkaboo (Маленькая форма)
 pumpkaboo-smallDescription:Свет, который исходит из отверстий в тыкве, может гипнотизировать и контролировать людей и Покой которая его видит.
-pumpkaboo-large:Пампкабу
+pumpkaboo-large:Pumpkaboo (Большая форма)
 pumpkaboo-largeDescription:Свет, который исходит из отверстий в тыкве, может гипнотизировать и контролировать людей и Покой которая его видит.
-pumpkaboo-super:Пампкабу
+pumpkaboo-super:Pumpkaboo (Супер форма)
 pumpkaboo-superDescription:Свет, который исходит из отверстий в тыкве, может гипнотизировать и контролировать людей и Покой которая его видит.
-gourgeist-small:Гургайст
+gourgeist-small:Gourgeist (Маленькая форма)
 gourgeist-smallDescription:В темноте ночи новолуния Гургайст стучит в дверь. Того, кто ответит, унесет в загробный мир.
-gourgeist-large:Гургайст
+gourgeist-large:Gourgeist (Большая форма)
 gourgeist-largeDescription:В темноте ночи новолуния Гургайст стучит в дверь. Того, кто ответит, унесет в загробный мир.
-gourgeist-super:Гургайст
+gourgeist-super:Гургейст (Супер)
 gourgeist-superDescription:В темноте ночи новолуния Гургайст стучит в дверь. Того, кто ответит, унесет в загробный мир.
 venusaur-mega:Мега Венузавр
 venusaur-megaDescription:Огромное количество пыльцы вырывается из него с силой вулканического извержения. Вдыхание слишком большого количества пыльцы может вызвать обморок.
@@ -1772,25 +1772,25 @@ diancie-mega:Мега Diancie
 diancie-megaDescription:Она может мгновенно создавать множество алмазов, сжимая углерод в воздухе между своих рук.
 metagross-mega:Мега Metagross
 metagross-megaDescription:Она анализирует противников с точностью, превосходящей суперкомпьютер, что позволяет спокойно загонять их в угол.
-kyogre-primal:Кайогр
+kyogre-primal:Кайогр (Первобытный)
 kyogre-primalDescription:Говорят, что Кайогр является воплощением самого моря. Легенды гласят о его многочисленных схватках с {Groudon}, когда каждый стремился заполучить силу природы.
-groudon-primal:Граудон
+groudon-primal:Гроудон (Первобытный)
 groudon-primalDescription:Через возврат в Примальную форму и с полной силой природы, он вернет себе истинную форму. Он может вызвать извержение магмы и расширять земные массивы.
 rayquaza-mega:Мега Rayquaza
 rayquaza-megaDescription:Она вечно летает через озоновый слой, потребляя метеориты для поддержания жизнеспособности. Многочисленные метеориты в её теле обеспечивают ей энергию, необходимую для Мега Эволюции.
-pikachu-rock-star:Пикачу
+pikachu-rock-star:Пикачу (Рок-Звезда)
 pikachu-rock-starDescription:Когда он поражает противников своим хвостом в форме молнии, он вызывает всплеск электричества, эквивалентный удару молнии.
-pikachu-belle:Пикачу
+pikachu-belle:Пикачу (Милашка)
 pikachu-belleDescription:Когда он поражает противников своим хвостом в форме молнии, он вызывает всплеск электричества, эквивалентный удару молнии.
-pikachu-pop-star:Пикачу
+pikachu-pop-star:Пикачу (Поп-Звезда)
 pikachu-pop-starDescription:Когда он поражает противников своим хвостом в форме молнии, он вызывает всплеск электричества, эквивалентный удару молнии.
-pikachu-phd:Пикачу
+pikachu-phd:Пикачу (Доктор)
 pikachu-phdDescription:Когда он поражает противников своим хвостом в форме молнии, он вызывает всплеск электричества, эквивалентный удару молнии.
-pikachu-libre:Пикачу
+pikachu-libre:Пикачу (Либре)
 pikachu-libreDescription:Когда он поражает противников своим хвостом в форме молнии, он вызывает всплеск электричества, эквивалентный удару молнии.
-pikachu-cosplay:Пикачу
+pikachu-cosplay:Пикачу (Косплей)
 pikachu-cosplayDescription:Когда оно ударяет своих соперников хвостом в форме молнии, оно выпускает разряд электричества, эквивалентный удару молнии.
-hoopa-unbound:Хупа
+hoopa-unbound:Хупа (Безграничный)
 hoopa-unboundDescription:Говорят, что оно может захватить всё, что пожелает, с помощью своих шести колец и шести огромных рук. Когда его сила запечатана, оно превращается в гораздо меньшую форму.
 camerupt-mega:Мега Camerupt
 camerupt-megaDescription:Горбы на спине Камерупта образованы преобразованием его костей. Иногда они выбрасывают расплавленную магму. Этот Покемон, по-видимому, часто извергается, когда разъярён.
@@ -1806,15 +1806,15 @@ raticate-alola:Ало Ратикейт
 raticate-alolaDescription:Его задние лапы перепончатые. Они действуют как ласты, поэтому оно может плавать в реках и охотиться на добычу.
 raticate-totem-alola:Ало Ратикейт
 raticate-totem-alolaDescription:Его задние лапы перепончатые. Они действуют как ласты, поэтому оно может плавать в реках и охотиться на добычу.
-pikachu-original-cap:Пикачу
+pikachu-original-cap:Пикачу (Оригинальная Кепка)
 pikachu-original-capDescription:Когда оно ударяет своих соперников хвостом в форме молнии, оно выпускает разряд электричества, эквивалентный удару молнии.
-pikachu-hoenn-cap:Пикачу
+pikachu-hoenn-cap:Пикачу (Кепка Хоэнн)
 pikachu-hoenn-capDescription:Когда он поражает противников своим хвостом в форме молнии, он высвобождает разряд электричества, эквивалентный удару молнии.
-pikachu-sinnoh-cap:Пикачу
+pikachu-sinnoh-cap:Пикачу (Кепка Синно)
 pikachu-sinnoh-capDescription:Когда он поражает противников своим хвостом в форме молнии, он высвобождает разряд электричества, эквивалентный удару молнии.
-pikachu-unova-cap:Пикачу
+pikachu-unova-cap:Пикачу (Кепка Юнова)
 pikachu-unova-capDescription:Когда он поражает противников своим хвостом в форме молнии, он высвобождает разряд электричества, эквивалентный удару молнии.
-pikachu-kalos-cap:Пикачу
+pikachu-kalos-cap:Пикачу (Кепка Калос)
 pikachu-kalos-capDescription:Когда он поражает противников своим хвостом в форме молнии, он высвобождает разряд электричества, эквивалентный удару молнии.
 pikachu-alola-cap:Ало Пикачу
 pikachu-alola-capDescription:Когда он поражает противников своим хвостом в форме молнии, он высвобождает разряд электричества, эквивалентный удару молнии.
@@ -1852,43 +1852,43 @@ lycanroc-midnight:Ликанрок (Полночь)
 lycanroc-midnightDescription:Быстрыми движениями этот Покемон постепенно загоняет добычу в угол. Клыки Ликанрока всегда направлены к слабым местам противников.
 lycanroc-dusk:Ликанрок (Сумерки)
 lycanroc-duskDescription:Быстрыми движениями этот Покемон постепенно загоняет добычу в угол. Клыки Ликанрока всегда направлены к слабым местам противников.
-vivillon-archipelago:Вивилон
+vivillon-archipelago:Вивильон (Архипелаг)
 vivillon-archipelagoDescription:Узор на крыльях этого Покемона зависит от климата и топографии его среды обитания. Он разбрасывает разноцветные чешуйки.
-vivillon-continental:Вивилон
+vivillon-continental:Вивильон (Континентальный)
 vivillon-continentalDescription:Узор на крыльях этого Покемона зависит от климата и топографии его среды обитания. Он разбрасывает разноцветные чешуйки.
-vivillon-elegant:Вивилон
+vivillon-elegant:Вивильон (Элегантный)
 vivillon-elegantDescription:Узор на крыльях этого Покемона зависит от климата и топографии его среды обитания. Он разбрасывает разноцветные чешуйки.
-vivillon-fancy:Вивилон
+vivillon-fancy:Вивильон (Фантазийный)
 vivillon-fancyDescription:Узор на крыльях этого Покемона зависит от климата и топографии его среды обитания. Он разбрасывает разноцветные чешуйки.
-vivillon-garden:Вивилон
+vivillon-garden:Вивильон (Садовый)
 vivillon-gardenDescription:Узор на крыльях этого Покемона зависит от климата и топографии его среды обитания. Он разбрасывает разноцветные чешуйки.
-vivillon-highplains:Вивилон
+vivillon-highplains:Вивийон (Предгорья)
 vivillon-highplainsDescription:Узор на крыльях этого Покемона зависит от климата и топографии его среды обитания. Он разбрасывает разноцветные чешуйки.
-vivillon-icysnow:Вивилон
+vivillon-icysnow:Вивийон (Ледяной снег)
 vivillon-icysnowDescription:Узор на крыльях этого Покемона зависит от климата и топографии его среды обитания. Он разбрасывает разноцветные чешуйки.
-vivillon-jungle:Вивилон
+vivillon-jungle:Вивийон (Джунгли)
 vivillon-jungleDescription:Узор на крыльях этого Покемона зависит от климата и топографии его среды обитания. Он разбрасывает разноцветные чешуйки.
-vivillon-marine:Вивийон
+vivillon-marine:Вивийон (Морская)
 vivillon-marineDescription:Узоры на крыльях этого Покемона зависят от климата и топографии его среды обитания. Он разбрасывает разноцветные чешуйки.
-vivillon-modern:Вивийон
+vivillon-modern:Вивийон (Современная)
 vivillon-modernDescription:Узоры на крыльях этого Покемона зависят от климата и топографии его среды обитания. Он разбрасывает разноцветные чешуйки.
-vivillon-monsoon:Вивийон
+vivillon-monsoon:Вивийон (Муссон)
 vivillon-monsoonDescription:Узоры на крыльях этого Покемона зависят от климата и топографии его среды обитания. Он разбрасывает разноцветные чешуйки.
-vivillon-ocean:Вивийон
+vivillon-ocean:Вивийон (Океан)
 vivillon-oceanDescription:Узоры на крыльях этого Покемона зависят от климата и топографии его среды обитания. Он разбрасывает разноцветные чешуйки.
-vivillon-pokeball:Вивийон
+vivillon-pokeball:Вивийон (Покебол)
 vivillon-pokeballDescription:Узоры на крыльях этого Покемона зависят от климата и топографии его среды обитания. Он разбрасывает разноцветные чешуйки.
-vivillon-polar:Вивийон
+vivillon-polar:Вивийон (Полярная)
 vivillon-polarDescription:Узоры на крыльях этого Покемона зависят от климата и топографии его среды обитания. Он разбрасывает разноцветные чешуйки.
-vivillon-river:Вивийон
+vivillon-river:Вивийон (Река)
 vivillon-riverDescription:Узоры на крыльях этого Покемона зависят от климата и топографии его среды обитания. Он разбрасывает разноцветные чешуйки.
-vivillon-sandstorm:Вивийон
+vivillon-sandstorm:Вивийон (Песчаная буря)
 vivillon-sandstormDescription:Узоры на крыльях этого Покемона зависят от климата и топографии его среды обитания. Он разбрасывает разноцветные чешуйки.
-vivillon-savanna:Вивийон
+vivillon-savanna:Вивийон (Саванна)
 vivillon-savannaDescription:Узоры на крыльях этого Покемона зависят от климата и топографии его среды обитания. Он разбрасывает разноцветные чешуйки.
-vivillon-sun:Вивийон
+vivillon-sun:Вивийон (Солнце)
 vivillon-sunDescription:Узоры на крыльях этого Покемона зависят от климата и топографии его среды обитания. Он разбрасывает разноцветные чешуйки.
-vivillon-tundra:Вивийон
+vivillon-tundra:Вивийон (Тундра)
 vivillon-tundraDescription:Узоры на крыльях этого Покемона зависят от климата и топографии его среды обитания. Он разбрасывает разноцветные чешуйки.
 oricorio-sensu:Орикорио (Сэнсу)
 oricorio-sensuDescription:Этот Орикорио пил фиолетовый нектар. Некоторые танцоры используют его грациозный, элегантный танец как вдохновение.
@@ -1898,7 +1898,7 @@ galarian-articuno:Гал Артикуно
 galarian-articunoDescription:Легендарный Покемон-птица. Он замораживает воду, содержащуюся в зимнем воздухе, и вызывает снегопад.
 magnemite-pcg:PCG Магнемайт
 magnemite-pcgDescription:Он питается электричеством. Во время полета Магнемайт испускает электромагнитные волны из модулей по бокам своего тела. (Иллюстрация от xByHell)
-alcremie-rainbow:Алкреми
+alcremie-rainbow:Алкреми (Радуга)
 alcremie-rainbowDescription:Когда Алкреми доволен, крем, который он выделяет из рук, становится слаще и более насыщенным.
 oricorio-pom-pom:Орикорио (Пом-Пом)
 oricorio-pom-pomDescription:Этот Орикорио пил ярко-желтый нектар. Когда он видит кого-то в плохом настроении, он старается развеселить их танцем.
@@ -1908,239 +1908,239 @@ abomasnow-f:Абомасноу
 abomasnow-fDescription:Этот Покемон славится тем, что вызывает бураны. Достаточно одного движения его массивного тела, чтобы вызвать снежную слепоту.
 aipom-f:Айпом
 aipom-fDescription:Он ищет добычу с вершин деревьев. Когда он замечает свою любимую еду, Бонсвит, Айпом возбуждается и нападает.
-alcremie-caramel-swirl-berry:Алкреми
+alcremie-caramel-swirl-berry:Алкреми (Карамельный завиток-Ягода)
 alcremie-caramel-swirl-berryDescription:Когда Алкреми довольна, крем, который она выделяет из своих рук, становится слаще и гуще.
-alcremie-caramel-swirl-clover:Алкреми
+alcremie-caramel-swirl-clover:Алкреми (Карамельный завиток-Клевер)
 alcremie-caramel-swirl-cloverDescription:Когда Алкреми довольна, крем, который она выделяет из своих рук, становится слаще и гуще.
-alcremie-caramel-swirl-flower:Алкреми
+alcremie-caramel-swirl-flower:Алкреми (Карамельный завиток-Цветок)
 alcremie-caramel-swirl-flowerDescription:Когда Алкреми довольна, крем, который она выделяет из своих рук, становится слаще и гуще.
-alcremie-caramel-swirl-love:Алкреми
+alcremie-caramel-swirl-love:Алкреми (Карамельный завиток-Любовь)
 alcremie-caramel-swirl-loveDescription:Когда Алкреми довольна, крем, который она выделяет из своих рук, становится слаще и гуще.
-alcremie-caramel-swirl-ribbon:Алкреми
+alcremie-caramel-swirl-ribbon:Алкреми (Карамельный завиток-Бант)
 alcremie-caramel-swirl-ribbonDescription:Когда Алкреми довольна, крем, который она выделяет из своих рук, становится слаще и гуще.
-alcremie-caramel-swirl-star:Алкреми
+alcremie-caramel-swirl-star:Алкреми (Карамельный вихрь-звезда)
 alcremie-caramel-swirl-starDescription:Когда Алкреми довольна, крем, который она выделяет из своих рук, становится слаще и гуще.
-alcremie-caramelswirl-berry:Алкреми
+alcremie-caramelswirl-berry:Алкреми (Карамельный вихрь-ягода)
 alcremie-caramelswirl-berryDescription:Когда Алкреми довольна, крем, который она выделяет из своих рук, становится слаще и гуще.
-alcremie-caramelswirl-clover:Алкреми
+alcremie-caramelswirl-clover:Алкреми (Карамельный вихрь-клевер)
 alcremie-caramelswirl-cloverDescription:Когда Алкреми довольна, крем, который она выделяет из своих рук, становится слаще и гуще.
-alcremie-caramelswirl-flower:Алкреми
+alcremie-caramelswirl-flower:Алкреми (Карамельный вихрь-цветок)
 alcremie-caramelswirl-flowerDescription:Когда Алкреми довольна, крем, который она выделяет из своих рук, становится слаще и гуще.
-alcremie-caramelswirl-love:Алкреми
+alcremie-caramelswirl-love:Алкреми (Карамельный вихрь-любовь)
 alcremie-caramelswirl-loveDescription:Когда Алкреми довольна, крем, который она выделяет из своих рук, становится слаще и гуще.
-alcremie-caramelswirl-ribbon:Alcremie
+alcremie-caramelswirl-ribbon:Алкреми (Карамельный вихрь-лента)
 alcremie-caramelswirl-ribbonDescription:Когда Alcremie довольна, крем, который она выделяет из своих рук, становится слаще и гуще.
-alcremie-caramelswirl-star:Alcremie
+alcremie-caramelswirl-star:Алкреми (Карамельный вихрь-звезда)
 alcremie-caramelswirl-starDescription:Когда Alcremie довольна, крем, который она выделяет из своих рук, становится слаще и гуще.
-alcremie-caramelswirl:Alcremie
+alcremie-caramelswirl:Алкреми (Карамельный вихрь)
 alcremie-caramelswirlDescription:Когда Alcremie довольна, крем, который она выделяет из своих рук, становится слаще и гуще.
 alcremie-gmax:Г-макс Алкреми
 alcremie-gmaxDescription:Когда Alcremie довольна, крем, который она выделяет из своих рук, становится слаще и гуще.
-alcremie-lemon-cream-berry:Alcremie
+alcremie-lemon-cream-berry:Алкреми (Лимонный крем-ягода)
 alcremie-lemon-cream-berryDescription:Когда Alcremie довольна, крем, который она выделяет из своих рук, становится слаще и гуще.
-alcremie-lemon-cream-clover:Alcremie
+alcremie-lemon-cream-clover:Алкреми (Лимонный крем-клевер)
 alcremie-lemon-cream-cloverDescription:Когда Alcremie довольна, крем, который она выделяет из своих рук, становится слаще и гуще.
-alcremie-lemon-cream-flower:Alcremie
+alcremie-lemon-cream-flower:Алкреми (Лимонный крем-цветок)
 alcremie-lemon-cream-flowerDescription:Когда Alcremie довольна, крем, который она выделяет из своих рук, становится слаще и гуще.
-alcremie-lemon-cream-love:Alcremie
+alcremie-lemon-cream-love:Алкреми (Лимонный крем-любовь)
 alcremie-lemon-cream-loveDescription:Когда Alcremie довольна, крем, который она выделяет из своих рук, становится слаще и гуще.
-alcremie-lemon-cream-ribbon:Alcremie
+alcremie-lemon-cream-ribbon:Алкреми (Лимонный крем-лента)
 alcremie-lemon-cream-ribbonDescription:Когда Alcremie довольна, крем, который она выделяет из своих рук, становится слаще и гуще.
-alcremie-lemon-cream-star:Alcremie
+alcremie-lemon-cream-star:Алкреми (Лимонный крем-звезда)
 alcremie-lemon-cream-starDescription:Когда Alcremie довольна, крем, который она выделяет из своих рук, становится слаще и гуще.
-alcremie-lemoncream-berry:Алкреми
+alcremie-lemoncream-berry:Алкреми (Лимоннокремовый-ягода)
 alcremie-lemoncream-berryDescription:Когда Алкреми доволен, крем, который он выделяет из своих рук, становится слаще и гуще.
-alcremie-lemoncream-clover:Алкреми
+alcremie-lemoncream-clover:Алкреми (Лимоннокремовый-клевер)
 alcremie-lemoncream-cloverDescription:Когда Алкреми доволен, крем, который он выделяет из своих рук, становится слаще и гуще.
-alcremie-lemoncream-flower:Алкреми
+alcremie-lemoncream-flower:Алкреми (Лимоннокремовый-цветок)
 alcremie-lemoncream-flowerDescription:Когда Алкреми доволен, крем, который он выделяет из своих рук, становится слаще и гуще.
-alcremie-lemoncream-love:Алкреми
+alcremie-lemoncream-love:Алкреми (Лимоннокремовый-любовь)
 alcremie-lemoncream-loveDescription:Когда Алкреми доволен, крем, который он выделяет из своих рук, становится слаще и гуще.
-alcremie-lemoncream-ribbon:Алкреми
+alcremie-lemoncream-ribbon:Алкреми (Лимоннокремовый-лента)
 alcremie-lemoncream-ribbonDescription:Когда Алкреми доволен, крем, который он выделяет из своих рук, становится слаще и гуще.
-alcremie-lemoncream-star:Алкреми
+alcremie-lemoncream-star:Алкреми (Лимоннокремовый-звезда)
 alcremie-lemoncream-starDescription:Когда Алкреми доволен, крем, который он выделяет из своих рук, становится слаще и гуще.
-alcremie-lemoncream:Алкреми
+alcremie-lemoncream:Алкреми (Лемонкрем)
 alcremie-lemoncreamDescription:Когда Алкреми доволен, крем, который он выделяет из своих рук, становится слаще и гуще.
-alcremie-matcha-cream-berry:Алкреми
+alcremie-matcha-cream-berry:Алкреми (Матча-Крем-Берри)
 alcremie-matcha-cream-berryDescription:Когда Алкреми доволен, крем, который он выделяет из своих рук, становится слаще и гуще.
-alcremie-matcha-cream-clover:Алкреми
+alcremie-matcha-cream-clover:Алкреми (Матча-Крем-Кловер)
 alcremie-matcha-cream-cloverDescription:Когда Алкреми доволен, крем, который он выделяет из своих рук, становится слаще и гуще.
-alcremie-matcha-cream-flower:Алкреми
+alcremie-matcha-cream-flower:Алкреми (Матча-Крем-Флауэр)
 alcremie-matcha-cream-flowerDescription:Когда Алкреми доволен, крем, который он выделяет из своих рук, становится слаще и гуще.
-alcremie-matcha-cream-love:Алкреми
+alcremie-matcha-cream-love:Алкреми (Матча-Крем-Лав)
 alcremie-matcha-cream-loveDescription:Когда Алкреми довольна, крем, выделяемый из её рук, становится слаще и насыщеннее.
-alcremie-matcha-cream-ribbon:Алкреми
+alcremie-matcha-cream-ribbon:Алкреми (Матча-Крем-Риббон)
 alcremie-matcha-cream-ribbonDescription:Когда Алкреми довольна, крем, выделяемый из её рук, становится слаще и насыщеннее.
-alcremie-matcha-cream-star:Алкреми
+alcremie-matcha-cream-star:Алкреми (Матча-Крем-Стар)
 alcremie-matcha-cream-starDescription:Когда Алкреми довольна, крем, выделяемый из её рук, становится слаще и насыщеннее.
-alcremie-matchacream-berry:Алкреми
+alcremie-matchacream-berry:Алкреми (Матчакрем-Берри)
 alcremie-matchacream-berryDescription:Когда Алкреми довольна, крем, выделяемый из её рук, становится слаще и насыщеннее.
-alcremie-matchacream-clover:Алкреми
+alcremie-matchacream-clover:Алкреми (Матчакрем-Кловер)
 alcremie-matchacream-cloverDescription:Когда Алкреми довольна, крем, выделяемый из её рук, становится слаще и насыщеннее.
-alcremie-matchacream-flower:Алкреми
+alcremie-matchacream-flower:Алкреми (Матчакрем-Флауэр)
 alcremie-matchacream-flowerDescription:Когда Алкреми довольна, крем, выделяемый из её рук, становится слаще и насыщеннее.
-alcremie-matchacream-love:Алкреми
+alcremie-matchacream-love:Алкреми (Матчакрем-Лав)
 alcremie-matchacream-loveDescription:Когда Алкреми довольна, крем, выделяемый из её рук, становится слаще и насыщеннее.
-alcremie-matchacream-ribbon:Алкреми
+alcremie-matchacream-ribbon:Алкреми (Матчакрем-Риббон)
 alcremie-matchacream-ribbonDescription:Когда Алкреми довольна, крем, выделяемый из её рук, становится слаще и насыщеннее.
-alcremie-matchacream-star:Алкреми
+alcremie-matchacream-star:Алкреми (Матчакрем-Стар)
 alcremie-matchacream-starDescription:Когда Алкреми довольна, крем, выделяемый из её рук, становится слаще и насыщеннее.
-alcremie-matchacream:Алкреми
+alcremie-matchacream:Алкреми (Матчакрем)
 alcremie-matchacreamDescription:Когда Алкреми довольна, крем, выделяемый из её рук, становится слаще и насыщеннее.
-alcremie-mint-cream-berry:Алкреми
+alcremie-mint-cream-berry:Алкреми (Мятный-Крем-Берри)
 alcremie-mint-cream-berryDescription:Когда Алкреми доволен, крем, который он выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-mint-cream-clover:Алкреми
+alcremie-mint-cream-clover:Алкреми (Мятный-Крем-Кловер)
 alcremie-mint-cream-cloverDescription:Когда Алкреми доволен, крем, который он выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-mint-cream-flower:Алкреми
+alcremie-mint-cream-flower:Алкреми (Мятный-Крем-Флауэр)
 alcremie-mint-cream-flowerDescription:Когда Алкреми доволен, крем, который он выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-mint-cream-love:Алкреми
+alcremie-mint-cream-love:Алкреми (Мятный-Крем-Лав)
 alcremie-mint-cream-loveDescription:Когда Алкреми доволен, крем, который он выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-mint-cream-ribbon:Алкреми
+alcremie-mint-cream-ribbon:Алкреми (Мятный-Крем-Риббон)
 alcremie-mint-cream-ribbonDescription:Когда Алкреми доволен, крем, который он выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-mint-cream-star:Алкреми
+alcremie-mint-cream-star:Алкреми (Мятный-Крем-Стар)
 alcremie-mint-cream-starDescription:Когда Алкреми доволен, крем, который он выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-mintcream-berry:Алкреми
+alcremie-mintcream-berry:Алкреми (Мятно-ягодный)
 alcremie-mintcream-berryDescription:Когда Алкреми доволен, крем, который он выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-mintcream-clover:Алкреми
+alcremie-mintcream-clover:Алкреми (Мятно-клеверный)
 alcremie-mintcream-cloverDescription:Когда Алкреми доволен, крем, который он выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-mintcream-flower:Алкреми
+alcremie-mintcream-flower:Алкреми (Мятно-цветочный)
 alcremie-mintcream-flowerDescription:Когда Алкреми доволен, крем, который он выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-mintcream-love:Алкреми
+alcremie-mintcream-love:Алкреми (Мятно-любовный)
 alcremie-mintcream-loveDescription:Когда Алкреми доволен, крем, который он выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-mintcream-ribbon:Алкреми
+alcremie-mintcream-ribbon:Алкреми (Мятно-лентовый)
 alcremie-mintcream-ribbonDescription:Когда Алкреми довольна, крем, который она выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-mintcream-star:Алкреми
+alcremie-mintcream-star:Алкреми (Мятно-звёздный)
 alcremie-mintcream-starDescription:Когда Алкреми довольна, крем, который она выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-mintcream:Алкреми
+alcremie-mintcream:Алкреми (Мятный Крем)
 alcremie-mintcreamDescription:Когда Алкреми довольна, крем, который она выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-rainbow-swirl-berry:Алкреми
+alcremie-rainbow-swirl-berry:Алкреми (Радужный Завиток-Ягодный)
 alcremie-rainbow-swirl-berryDescription:Когда Алкреми довольна, крем, который она выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-rainbow-swirl-clover:Алкреми
+alcremie-rainbow-swirl-clover:Алкреми (Радужный Завиток-Клеверный)
 alcremie-rainbow-swirl-cloverDescription:Когда Алкреми довольна, крем, который она выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-rainbow-swirl-flower:Алкреми
+alcremie-rainbow-swirl-flower:Алкреми (Радужный Завиток-Цветочный)
 alcremie-rainbow-swirl-flowerDescription:Когда Алкреми довольна, крем, который она выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-rainbow-swirl-love:Алкреми
+alcremie-rainbow-swirl-love:Алкреми (Радужный Завиток-Любовный)
 alcremie-rainbow-swirl-loveDescription:Когда Алкреми довольна, крем, который она выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-rainbow-swirl-ribbon:Алкреми
+alcremie-rainbow-swirl-ribbon:Алкреми (Радужный Завиток-Лентовый)
 alcremie-rainbow-swirl-ribbonDescription:Когда Алкреми довольна, крем, который она выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-rainbow-swirl-star:Алкреми
+alcremie-rainbow-swirl-star:Алкреми (Радужный Завиток-Звёздный)
 alcremie-rainbow-swirl-starDescription:Когда Алкреми довольна, крем, который она выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-rainbowswirl-berry:Алкреми
+alcremie-rainbowswirl-berry:Алкреми (Радужный Завиток-Ягодный)
 alcremie-rainbowswirl-berryDescription:Когда Алкреми довольна, крем, который она выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-rainbowswirl-clover:Алкреми
+alcremie-rainbowswirl-clover:Алкреми (Радужный Завиток-Клеверный)
 alcremie-rainbowswirl-cloverDescription:Когда Алкреми доволен, крем, выделяемый из его рук, становится слаще и богаче.
-alcremie-rainbowswirl-flower:Алкреми
+alcremie-rainbowswirl-flower:Алкреми (Радужный Завиток-Цветочный)
 alcremie-rainbowswirl-flowerDescription:Когда Алкреми доволен, крем, выделяемый из его рук, становится слаще и богаче.
-alcremie-rainbowswirl-love:Алкреми
+alcremie-rainbowswirl-love:Алкреми (Радужный Завиток-Любовный)
 alcremie-rainbowswirl-loveDescription:Когда Алкреми доволен, крем, выделяемый из его рук, становится слаще и богаче.
-alcremie-rainbowswirl-ribbon:Алкреми
+alcremie-rainbowswirl-ribbon:Алкреми (Радужный Завиток-Лентовый)
 alcremie-rainbowswirl-ribbonDescription:Когда Алкреми доволен, крем, выделяемый из его рук, становится слаще и богаче.
-alcremie-rainbowswirl-star:Алкреми
+alcremie-rainbowswirl-star:Алкреми (Радужный Завиток-Звёздный)
 alcremie-rainbowswirl-starDescription:Когда Алкреми доволен, крем, выделяемый из его рук, становится слаще и богаче.
-alcremie-rainbowswirl:Алкреми
+alcremie-rainbowswirl:Алкреми (Радужный Завиток)
 alcremie-rainbowswirlDescription:Когда Алкреми доволен, крем, выделяемый из его рук, становится слаще и богаче.
-alcremie-ruby-cream-berry:Алкреми
+alcremie-ruby-cream-berry:Алкреми (Руби-Крем-Ягода)
 alcremie-ruby-cream-berryDescription:Когда Алкреми доволен, крем, выделяемый из его рук, становится слаще и богаче.
-alcremie-ruby-cream-clover:Алкреми
+alcremie-ruby-cream-clover:Алкреми (Руби-Крем-Клевер)
 alcremie-ruby-cream-cloverDescription:Когда Алкреми доволен, крем, выделяемый из его рук, становится слаще и богаче.
-alcremie-ruby-cream-flower:Алкреми
+alcremie-ruby-cream-flower:Алкреми (Руби-Крем-Цветок)
 alcremie-ruby-cream-flowerDescription:Когда Алкреми доволен, крем, выделяемый из его рук, становится слаще и богаче.
-alcremie-ruby-cream-love:Алкреми
+alcremie-ruby-cream-love:Алкреми (Руби-Крем-Любовь)
 alcremie-ruby-cream-loveDescription:Когда Алкреми доволен, крем, выделяемый из его рук, становится слаще и богаче.
-alcremie-ruby-cream-ribbon:Алкреми
+alcremie-ruby-cream-ribbon:Алкреми (Руби-Крем-Лента)
 alcremie-ruby-cream-ribbonDescription:Когда Алкреми довольна, крем, который она выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-ruby-cream-star:Алкреми
+alcremie-ruby-cream-star:Алкреми (Руби-Крем-Звезда)
 alcremie-ruby-cream-starDescription:Когда Алкреми довольна, крем, который она выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-ruby-swirl-berry:Алкреми
+alcremie-ruby-swirl-berry:Алкреми (Руби-Свил-Ягода)
 alcremie-ruby-swirl-berryDescription:Когда Алкреми довольна, крем, который она выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-ruby-swirl-clover:Алкреми
+alcremie-ruby-swirl-clover:Алкреми (Руби-Свил-Клевер)
 alcremie-ruby-swirl-cloverDescription:Когда Алкреми довольна, крем, который она выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-ruby-swirl-flower:Алкреми
+alcremie-ruby-swirl-flower:Алкреми (Руби-Свил-Цветок)
 alcremie-ruby-swirl-flowerDescription:Когда Алкреми довольна, крем, который она выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-ruby-swirl-love:Алкреми
+alcremie-ruby-swirl-love:Алкреми (Руби-Свил-Любовь)
 alcremie-ruby-swirl-loveDescription:Когда Алкреми довольна, крем, который она выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-ruby-swirl-ribbon:Алкреми
+alcremie-ruby-swirl-ribbon:Алкреми (Руби-Свил-Лента)
 alcremie-ruby-swirl-ribbonDescription:Когда Алкреми довольна, крем, который она выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-ruby-swirl-star:Алкреми
+alcremie-ruby-swirl-star:Алкреми (Руби-Свил-Звезда)
 alcremie-ruby-swirl-starDescription:Когда Алкреми довольна, крем, который она выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-rubycream-berry:Алкреми
+alcremie-rubycream-berry:Алкреми (Рубикрим-Ягода)
 alcremie-rubycream-berryDescription:Когда Алкреми довольна, крем, который она выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-rubycream-clover:Алкреми
+alcremie-rubycream-clover:Алкреми (Рубикрим-Клевер)
 alcremie-rubycream-cloverDescription:Когда Алкреми довольна, крем, который она выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-rubycream-flower:Алкреми
+alcremie-rubycream-flower:Алкреми (Рубикрим-Цветок)
 alcremie-rubycream-flowerDescription:Когда Алкреми довольна, крем, выделяемый из ее рук, становится слаще и богаче.
-alcremie-rubycream-love:Алкреми
+alcremie-rubycream-love:Алкреми (Рубикрим-Любовь)
 alcremie-rubycream-loveDescription:Когда Алкреми довольна, крем, выделяемый из ее рук, становится слаще и богаче.
-alcremie-rubycream-ribbon:Алкреми
+alcremie-rubycream-ribbon:Алкреми (Рубикрим-Лента)
 alcremie-rubycream-ribbonDescription:Когда Алкреми довольна, крем, выделяемый из ее рук, становится слаще и богаче.
-alcremie-rubycream-star:Алкреми
+alcremie-rubycream-star:Алкреми (Рубикрим-Звезда)
 alcremie-rubycream-starDescription:Когда Алкреми довольна, крем, выделяемый из ее рук, становится слаще и богаче.
-alcremie-rubycream:Алкреми
+alcremie-rubycream:Алкреми (Рубикрим)
 alcremie-rubycreamDescription:Когда Алкреми довольна, крем, выделяемый из ее рук, становится слаще и богаче.
-alcremie-rubyswirl-berry:Алкреми
+alcremie-rubyswirl-berry:Алкреми (Рубисвил-Ягода)
 alcremie-rubyswirl-berryDescription:Когда Алкреми довольна, крем, выделяемый из ее рук, становится слаще и богаче.
-alcremie-rubyswirl-clover:Алкреми
+alcremie-rubyswirl-clover:Алкреми (Рубисвёрл-Клевер)
 alcremie-rubyswirl-cloverDescription:Когда Алкреми довольна, крем, выделяемый из ее рук, становится слаще и богаче.
-alcremie-rubyswirl-flower:Алкреми
+alcremie-rubyswirl-flower:Алкреми (Рубисвёрл-Флауэр)
 alcremie-rubyswirl-flowerDescription:Когда Алкреми довольна, крем, выделяемый из ее рук, становится слаще и богаче.
-alcremie-rubyswirl-love:Алкреми
+alcremie-rubyswirl-love:Алкреми (Рубисвёрл-Лав)
 alcremie-rubyswirl-loveDescription:Когда Алкреми довольна, крем, выделяемый из ее рук, становится слаще и богаче.
-alcremie-rubyswirl-ribbon:Алкреми
+alcremie-rubyswirl-ribbon:Алкреми (Рубисвёрл-Риббон)
 alcremie-rubyswirl-ribbonDescription:Когда Алкреми довольна, крем, выделяемый из ее рук, становится слаще и богаче.
-alcremie-rubyswirl-star:Алкрими
+alcremie-rubyswirl-star:Алкреми (Рубисвёрл-Стар)
 alcremie-rubyswirl-starDescription:Когда Алкрими доволен, сливки, которые он выделяет из рук, становятся слаще и насыщеннее.
-alcremie-rubyswirl:Алкрими
+alcremie-rubyswirl:Алкреми (Рубисвёрл)
 alcremie-rubyswirlDescription:Когда Алкрими доволен, сливки, которые он выделяет из рук, становятся слаще и насыщеннее.
-alcremie-salted-cream-berry:Алкрими
+alcremie-salted-cream-berry:Алкреми (Солёный-Крем-Бэрри)
 alcremie-salted-cream-berryDescription:Когда Алкрими доволен, сливки, которые он выделяет из рук, становятся слаще и насыщеннее.
-alcremie-salted-cream-clover:Алкрими
+alcremie-salted-cream-clover:Алкреми (Солёный-Крем-Клевер)
 alcremie-salted-cream-cloverDescription:Когда Алкрими доволен, сливки, которые он выделяет из рук, становятся слаще и насыщеннее.
-alcremie-salted-cream-flower:Алкрими
+alcremie-salted-cream-flower:Алкреми (Солёный-Крем-Флауэр)
 alcremie-salted-cream-flowerDescription:Когда Алкрими доволен, сливки, которые он выделяет из рук, становятся слаще и насыщеннее.
-alcremie-salted-cream-love:Алкрими
+alcremie-salted-cream-love:Алкреми (Солёный-Крем-Лав)
 alcremie-salted-cream-loveDescription:Когда Алкрими доволен, сливки, которые он выделяет из рук, становятся слаще и насыщеннее.
-alcremie-salted-cream-ribbon:Алкрими
+alcremie-salted-cream-ribbon:Алкреми (Солёный-Крем-Риббон)
 alcremie-salted-cream-ribbonDescription:Когда Алкрими доволен, сливки, которые он выделяет из рук, становятся слаще и насыщеннее.
-alcremie-salted-cream-star:Алкрими
+alcremie-salted-cream-star:Алкреми (Солёный-Крем-Стар)
 alcremie-salted-cream-starDescription:Когда Алкрими доволен, сливки, которые он выделяет из рук, становятся слаще и насыщеннее.
-alcremie-saltedcream-berry:Алкрими
+alcremie-saltedcream-berry:Алкреми (Солёныйкрем-Бэрри)
 alcremie-saltedcream-berryDescription:Когда Алкрими доволен, сливки, которые он выделяет из рук, становятся слаще и насыщеннее.
-alcremie-saltedcream-clover:Алкрими
+alcremie-saltedcream-clover:Алкреми (Солёныйкрем-Клевер)
 alcremie-saltedcream-cloverDescription:Когда Алкрими доволен, сливки, которые он выделяет из рук, становятся слаще и насыщеннее.
-alcremie-saltedcream-flower:Алкреми
+alcremie-saltedcream-flower:Алкреми (Солёныйкрем-Флауэр)
 alcremie-saltedcream-flowerDescription:Когда Алкреми довольна, крем, выделяемый из её рук, становится слаще и насыщеннее.
-alcremie-saltedcream-love:Алкреми
+alcremie-saltedcream-love:Алкреми (Солёныйкрем-Лав)
 alcremie-saltedcream-loveDescription:Когда Алкреми довольна, крем, выделяемый из её рук, становится слаще и насыщеннее.
-alcremie-saltedcream-ribbon:Алкреми
+alcremie-saltedcream-ribbon:Алкреми (Солёныйкрем-Риббон)
 alcremie-saltedcream-ribbonDescription:Когда Алкреми довольна, крем, выделяемый из её рук, становится слаще и насыщеннее.
-alcremie-saltedcream-star:Алкреми
+alcremie-saltedcream-star:Алкреми (Солёныйкрем-Стар)
 alcremie-saltedcream-starDescription:Когда Алкреми довольна, крем, выделяемый из её рук, становится слаще и насыщеннее.
-alcremie-saltedcream:Алкреми
+alcremie-saltedcream:Алкреми (Солёныйкрем)
 alcremie-saltedcreamDescription:Когда Алкреми довольна, крем, выделяемый из её рук, становится слаще и насыщеннее.
-alcremie-vanilla-cream-berry:Алкреми
+alcremie-vanilla-cream-berry:Алкреми (Ванильный-Крем-Бэрри)
 alcremie-vanilla-cream-berryDescription:Когда Алкреми довольна, крем, выделяемый из её рук, становится слаще и насыщеннее.
-alcremie-vanilla-cream-clover:Алкреми
+alcremie-vanilla-cream-clover:Алкреми (Ванилла-Крем-Клевер)
 alcremie-vanilla-cream-cloverDescription:Когда Алкреми довольна, крем, выделяемый из её рук, становится слаще и насыщеннее.
-alcremie-vanilla-cream-flower:Алкреми
+alcremie-vanilla-cream-flower:Алкреми (Ванилла-Крем-Цветок)
 alcremie-vanilla-cream-flowerDescription:Когда Алкреми довольна, крем, выделяемый из её рук, становится слаще и насыщеннее.
-alcremie-vanilla-cream-love:Алкреми
+alcremie-vanilla-cream-love:Алкреми (Ванилла-Крем-Любовь)
 alcremie-vanilla-cream-loveDescription:Когда Алкреми довольна, крем, выделяемый из её рук, становится слаще и насыщеннее.
-alcremie-vanilla-cream-ribbon:Алкреми
+alcremie-vanilla-cream-ribbon:Алкреми (Ванилла-Крем-Лента)
 alcremie-vanilla-cream-ribbonDescription:Когда Алкреми довольна, крем, выделяемый из её рук, становится слаще и насыщеннее.
-alcremie-vanilla-cream-star:Alcremie
+alcremie-vanilla-cream-star:Алкреми (Ванилла-Крем-Звезда)
 alcremie-vanilla-cream-starDescription:Когда Alcremie доволен, крем, который он выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-vanillacream-berry:Alcremie
+alcremie-vanillacream-berry:Алкреми (Ванилакрем-Ягода)
 alcremie-vanillacream-berryDescription:Когда Alcremie доволен, крем, который он выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-vanillacream-clover:Alcremie
+alcremie-vanillacream-clover:Алкреми (Ванилакрем-Клевер)
 alcremie-vanillacream-cloverDescription:Когда Alcremie доволен, крем, который он выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-vanillacream-flower:Alcremie
+alcremie-vanillacream-flower:Алкреми (Ванилакрем-Цветок)
 alcremie-vanillacream-flowerDescription:Когда Alcremie доволен, крем, который он выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-vanillacream-love:Alcremie
+alcremie-vanillacream-love:Алкреми (Ванилакрем-Любовь)
 alcremie-vanillacream-loveDescription:Когда Alcremie доволен, крем, который он выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-vanillacream-ribbon:Alcremie
+alcremie-vanillacream-ribbon:Алкреми (Ванилакрем-Лента)
 alcremie-vanillacream-ribbonDescription:Когда Alcremie доволен, крем, который он выделяет из своих рук, становится слаще и насыщеннее.
-alcremie-vanillacream-star:Alcremie
+alcremie-vanillacream-star:Алкреми (Ванилакрем-Звезда)
 alcremie-vanillacream-starDescription:Когда Alcremie доволен, крем, который он выделяет из своих рук, становится слаще и насыщеннее.
 ambipom-f:Ambipom
 ambipom-fDescription:Он использует свои хвосты для всего. Если он обвивает оба своих хвоста вокруг тебя и сжимает, это доказательство, что ты ему действительно нравишься.
@@ -2190,17 +2190,17 @@ blaziken-f:Блейзикен
 blaziken-fDescription:У Блейзикена невероятно сильные ноги — он легко перепрыгивает 30-этажное здание за один прыжок. Его огненные удары оставляют противников обожженными и почерневшими.
 buizel-f:Buizel
 buizel-fDescription:Она надувает плавательный мешок вокруг шеи и высовывает голову из воды, чтобы увидеть, что происходит.
-burmy-sandy:Burmy
+burmy-sandy:Бурми (Песчаный)
 burmy-sandyDescription:Если покрытие сломано в бою, оно быстро восстанавливает его, используя ближайшие материалы.
-burmy-trash:Burmy
+burmy-trash:Бурми (Мусор)
 burmy-trashDescription:Если покрытие сломано в бою, оно быстро восстанавливает его, используя ближайшие материалы.
 butterfree-gmax:Г-макс Баттерфри
 butterfree-gmaxDescription:Когда она заманивает противников в торнадо, которое может унести грузовик массой 10 тонн, она добивает их ядовитыми чешуйками.
 cacturne-f:Cacturne
 cacturne-fDescription:Если путешественник проходит через пустыню глубокой ночью, Cacturne будет следовать за ним вместе с разношерстной группой. Покемоны ждут, когда путешественник устанет и станет неспособен двигаться.
-calyrex-ice:Calyrex
+calyrex-ice:Калирекс (Лёд)
 calyrex-iceDescription:Легенды гласят, что Calyrex был королем, правившим Галарами в древние времена. У него есть способность исцелять сердца и заставлять растения расти.
-calyrex-shadow:Calyrex
+calyrex-shadow:Калирекс (Тень)
 calyrex-shadowDescription:Легенды гласят, что Calyrex был королем, правившим Галарами в древние времена. У него есть способность исцелять сердца и заставлять растения расти.
 camerupt-f:Camerupt
 camerupt-fDescription:Горбы на спине Camerupt формируются в результате трансформации его костей. Иногда они извергают раскаленную магму. Очевидно, этот покемон часто извергается, когда сердится.
@@ -2236,11 +2236,11 @@ darmanitan-galarzen:Гал Дарманитан
 darmanitan-galarzenDescription:Когда ранен, он перестает двигаться. Замирает, как камень, чтобы медитировать, остря свой разум и дух.
 darumaka-galar:Гал Дарумака
 darumaka-galarDescription:Этот популярный символ удачи никогда не свалится во сне, как бы его ни толкали или тянули.
-deerling-autumn:Дирлинг
+deerling-autumn:Дирлинг (Осень)
 deerling-autumnDescription:Смена времен года меняет цвет и запах шерсти этого покемона. Люди используют это, чтобы отмечать смену сезонов.
-deerling-summer:Дирлинг
+deerling-summer:Дирлинг (Лето)
 deerling-summerDescription:Смена времен года меняет цвет и запах шерсти этого покемона. Люди используют это, чтобы отмечать смену сезонов.
-deerling-winter:Дирлинг
+deerling-winter:Дирлинг (Зима)
 deerling-winterDescription:Смена времен года меняет цвет и запах шерсти этого покемона. Люди используют это, чтобы отмечать смену сезонов.
 donphan-f:Донфан
 donphan-fDescription:Если Донфан таранит своими твердым телом, даже дом может быть разрушен. Используя свою огромную силу, покемон помогает очищать горные тропы от обвалов скал и грязи.
@@ -2252,63 +2252,63 @@ dustox-f:Dustox
 dustox-fDescription:Когда Дастокс машет крыльями, вокруг разносится мелкая пыль. Эта пыль на самом деле является мощным ядом, который даже профессионального рестлера заставит плохо себя чувствовать. Этот Покемон ищет пищу, используя свои усики как радар.
 eevee-gmax:Г-макс Иви
 eevee-gmaxDescription:Благодаря нестабильной генетике, этот особенный Покемон скрывает в себе множество различных возможных эволюций.
-eevee-starter:Иви
+eevee-starter:Иви (Стартер)
 eevee-starterDescription:Благодаря нестабильной генетике, этот особенный Покемон скрывает в себе множество различных возможных эволюций.
-eiscue-noice:Эйсакью
+eiscue-noice:Эйскью (Холодок)
 eiscue-noiceDescription:Этот Покемон охлаждает свою чувствительную к теплу голову льдом. Он ловит свою пищу, опуская единственный волос в море, чтобы приманить добычу.
-eternatus-eternamax:Этернатус
+eternatus-eternamax:Этернатус (Этернамакс)
 eternatus-eternamaxDescription:Он находился внутри метеорита, упавшего 20,000 лет назад. Кажется, существует связь между этим Покемоном и феноменом Дайнамакс.
 farfetchd-galar:Гал Фарфетч’д
 farfetchd-galarDescription:Они используют стебли растений как оружие, но не все из них делают это одинаково. Были отмечены несколько различных стилей боя с использованием стеблей.
 finneon-f:Финнеон
 finneon-fDescription:Он привлекает добычу своими сверкающими хвостовыми плавниками. Днем он находится у поверхности, а ночью перемещается в глубины.
-flabebe-blue:Флабэбэ
+flabebe-blue:Флабебе (Синий)
 flabebe-blueDescription:Флабэбэ носит корону, сделанную из пыльцы, которую он собрал с цветка. Корона обладает скрытыми целебными свойствами.
-flabebe-orange:Флабэбэ
+flabebe-orange:Флабебе (Оранжевый)
 flabebe-orangeDescription:Флабэбэ носит корону, сделанную из пыльцы, которую он собрал с цветка. Корона обладает скрытыми целебными свойствами.
-flabebe-white:Флабэбэ
+flabebe-white:Флабебе (Белый)
 flabebe-whiteDescription:Флабэбэ носит корону, сделанную из пыльцы, которую он собрал с цветка. Корона обладает скрытыми целебными свойствами.
-flabebe-yellow:Флабебе
+flabebe-yellow:Флабебе (Желтый)
 flabebe-yellowDescription:Флабебе носит корону, сделанную из пыльцы, собранной с цветка. У короны скрытые лечебные свойства.
 flapple-gmax:Г-макс Флаппл
 flapple-gmaxDescription:Он летит на крыльях из яблочной кожуры и плюется мощной кислотой. Он также может принимать форму яблока.
 floatzel-f:Флоцел
 floatzel-fDescription:Его плавательный мешок развился в результате охоты за водными тварями. Он может служить и резиновой лодкой.
-floette-blue:Флоэтт
+floette-blue:Флоэтт (Синий)
 floette-blueDescription:Она отдает свою силу цветам, вкладывая в них всю душу. Флоэтт никогда не прощает тех, кто портит цветочные клумбы.
-floette-orange:Флоэтт
+floette-orange:Флоэтт (Оранжевый)
 floette-orangeDescription:Она отдает свою силу цветам, вкладывая в них всю душу. Флоэтт никогда не прощает тех, кто портит цветочные клумбы.
-floette-white:Флоэтт
+floette-white:Флоэтт (Белый)
 floette-whiteDescription:Она отдает свою силу цветам, вкладывая в них всю душу. Флоэтт никогда не прощает тех, кто портит цветочные клумбы.
-floette-yellow:Флоэтт
+floette-yellow:Флоэтт (Желтый)
 floette-yellowDescription:Она отдает свою силу цветам, вкладывая в них всю душу. Флоэтт никогда не прощает тех, кто портит цветочные клумбы.
-florges-blue:Флоржес
+florges-blue:Флоржес (Синий)
 florges-blueDescription:Ее жизнь может длиться несколько сотен лет. Говорят, что она посвящает всю свою жизнь защите садов.
-florges-orange:Флоржес
+florges-orange:Флоржес (Оранжевый)
 florges-orangeDescription:Ее жизнь может длиться несколько сотен лет. Говорят, что она посвящает всю свою жизнь защите садов.
-florges-white:Флоржес
+florges-white:Флоржес (Белый)
 florges-whiteDescription:Ее жизнь может длиться несколько сотен лет. Говорят, что она посвящает всю свою жизнь защите садов.
-florges-yellow:Флоргес
+florges-yellow:Флоржес (Желтый)
 florges-yellowDescription:Его жизнь может длиться несколько сотен лет. Говорят, что он посвящает всю свою жизнь защите садов.
 frillish-f:Фриллиш
 frillish-fDescription:Легенда гласит, что жители затонувшего древнего города превратились в этих покемонов.
-furfrou-dandy:Фурфру
+furfrou-dandy:Фурфру (Дэнди)
 furfrou-dandyDescription:Если оставить его в покое, его шерсть будет становиться все длиннее, но он позволит стричь ее только тем, кому он доверяет.
-furfrou-debutante:Фурфру
+furfrou-debutante:Фурфру (Дебютантка)
 furfrou-debutanteDescription:Если оставить его в покое, его шерсть будет становиться все длиннее, но он позволит стричь ее только тем, кому он доверяет.
-furfrou-diamond:Фурфру
+furfrou-diamond:Фурфру (Бриллиант)
 furfrou-diamondDescription:Если оставить его в покое, его шерсть будет становиться все длиннее, но он позволит стричь ее только тем, кому он доверяет.
-furfrou-heart:Фурфру
+furfrou-heart:Фурфру (Сердце)
 furfrou-heartDescription:Если оставить его в покое, его шерсть будет становиться все длиннее, но он позволит стричь ее только тем, кому он доверяет.
-furfrou-kabuki:Фурфру
+furfrou-kabuki:Фурфру (Кабуки)
 furfrou-kabukiDescription:Если оставить его в покое, его шерсть будет становиться все длиннее, но он позволит стричь ее только тем, кому он доверяет.
-furfrou-lareine:Фурфру
+furfrou-lareine:Фурфру (Ларейн)
 furfrou-lareineDescription:Если оставить его в покое, его шерсть будет становиться все длиннее, но он позволит стричь ее только тем, кому он доверяет.
-furfrou-matron:Фурфру
+furfrou-matron:Фурфру (Мачеха)
 furfrou-matronDescription:Если оставить его в покое, его шерсть будет становиться все длиннее, но он позволит стричь ее только тем, кому он доверяет.
-furfrou-pharaoh:Фурфру
+furfrou-pharaoh:Фурфру (Фараон)
 furfrou-pharaohDescription:Если оставить его в покое, его шерсть будет становиться все длиннее, но он позволит стричь ее только тем, кому он доверяет.
-furfrou-star:Фурфру
+furfrou-star:Фурфру (Звезда)
 furfrou-starDescription:Если оставить в покое, его шерсть будет расти все длиннее и длиннее, но подстричь ее позволит только тому, кому доверяет.
 gabite-f:Габайт
 gabite-fDescription:Он сбрасывает кожу и постепенно становится больше. Его чешую можно измельчить в порошок и использовать как сырье для традиционной медицины.
@@ -2316,15 +2316,15 @@ garbodor-gmax:Г-макс Гарбодор
 garbodor-gmaxDescription:Токсичная жидкость, которую он выбрасывает из правой руки, настолько ядовита, что может мгновенно убить ослабленное существо.
 garchomp-f:Гарчомп
 garchomp-fDescription:Его тонкая чешуя снижает сопротивление ветру, а острые края также травмируют любого противника, который атакует его.
-gastrodon-east:Гастродон
+gastrodon-east:Гастродон (Восток)
 gastrodon-eastDescription:Мягкость его тела помогает рассеивать силу ударов, и хотя его тело необычно мягкое, оно также удивительно устойчивое.
-genesect-burn:Генесект
+genesect-burn:Генесект (Горение)
 genesect-burnDescription:Этот покемон существовал 300 миллионов лет назад. Команда Плазма изменила его и прикрепила пушку к его спине.
-genesect-chill:Генесект
+genesect-chill:Генесект (Охлаждение)
 genesect-chillDescription:Этот покемон существовал 300 миллионов лет назад. Команда Плазма изменила его и прикрепила пушку к его спине.
-genesect-douse:Генесект
+genesect-douse:Генесект (Угашение)
 genesect-douseDescription:Этот покемон существовал 300 миллионов лет назад. Команда Плазма изменила его и прикрепила пушку к его спине.
-genesect-shock:Генесект
+genesect-shock:Генесект (Шок)
 genesect-shockDescription:Этот покемон существовал 300 миллионов лет назад. Команда Плазма изменила его и прикрепила пушку к его спине.
 gengar-gmax:Г-макс Гэнгар
 gengar-gmaxDescription:Он расставляет ловушки, надеясь украсть жизни тех, кого поймает. Если встать перед его ртом, можно услышать, как ваши близкие зовут вас.
@@ -2334,7 +2334,7 @@ girafarig-f:Джирафариг
 girafarig-fDescription:Задняя голова Джирафарига содержит крошечный мозг, который слишком мал для мышления. Однако задняя голова не нуждается в сне, поэтому может наблюдать за окружением круглосуточно.
 gligar-f:Глигар
 gligar-fDescription:Глигар безшумно парит в воздухе, словно скользя. Этот покемон цепляется за лицо врага с помощью когтистых задних лап и больших клешней на передних лапах, затем вводит жертве яд своим жалом.
-greninja-ash:Грениндзя
+greninja-ash:Грениндзя (Пепел)
 greninja-ashDescription:Он появляется и исчезает с грацией ниндзя. Он играет со своей добычей с помощью быстрых движений, при этом разрезая её водяными звёздочками.
 golbat-f:Голбат
 golbat-fDescription:Он атакует скрытно, без предупреждения. Его острые клыки используются для укуса и высасывания крови.
@@ -2398,7 +2398,7 @@ mewtwo-megay:МегаY Mewtwo
 mewtwo-megayDescription:Психическая сила увеличила его мышцы. У него сила захвата в одну тонну, и он может пробежать сто метров за две секунды!
 milotic-f:Милотик
 milotic-fDescription:Говорят, что один взгляд на Милотика и его красоту успокоит любые враждебные эмоции, которые ты испытываешь.
-mimikyu-busted:Mimikyu
+mimikyu-busted:Мимикью (Сломанный)
 mimikyu-bustedDescription:Был ученый, который в научных целях заглянул под старое покрывало Mimikyu. Ученый умер от загадочной болезни.
 minior-blue:Minior (Голубой)
 minior-blueDescription:Хотя его внешняя оболочка необычайно прочна, от удара о землю она разлетается на куски.
@@ -2416,17 +2416,17 @@ minior-yellow:Minior (Желтый)
 minior-yellowDescription:Хотя его внешняя оболочка необычайно прочна, от удара о землю она разлетается на куски.
 moltres-galar:Гал Moltres
 moltres-galarDescription:Легендарная птица Покемон. Когда она машет своими огненными крыльями, даже ночное небо становится красным.
-morpeko-hangry:Morpeko
+morpeko-hangry:Морпеко (Голодный)
 morpeko-hangryDescription:Она носит с собой эл.жареные семена, будто это ценные сокровища. Сколько бы ни ела, вскоре снова проголодается.
 mrmime-galar:Галарский Мистер Майм
 mrmime-galarDescription:Известен своими первоклассными навыками пантомимы. Он защищается от атак, излучая ауры из пальцев для создания стен.
 murkrow-f:Мёркроу
 murkrow-fDescription:Он ищет блестящие вещи для своего босса. Присутствие Мёркроу считается неудачей, поэтому многие люди его ненавидят.
-necrozma-dawnwings:Некрозма
+necrozma-dawnwings:Некрозма (Крылья зари)
 necrozma-dawnwingsDescription:Когда Некрозма соединяется с Лунала, он становится жестоким, видя врагов повсюду. Он может сжечь мир лазерами.
-necrozma-duskmane:Некрозма
+necrozma-duskmane:Некрозма (Мантиа заката)
 necrozma-duskmaneDescription:Когда Некрозма соединяется с Лунала, он становится жестоким, видя врагов повсюду. Он может сжечь мир лазерами.
-necrozma-ultra:Некрозма
+necrozma-ultra:Некрозма (Ультра)
 necrozma-ultraDescription:Когда Некрозма соединяется с Лунала, он становится жестоким, видя врагов повсюду. Он может сжечь мир лазерами.
 numel-f:Нюмел
 numel-fDescription:Нюмел хранит магму температурой почти 2,200 градусов по Фаренгейту у себя в теле. Если он намокает, магма остывает и затвердевает. В этом случае его тело становится тяжелым, и движения замедляются.
@@ -2444,31 +2444,31 @@ pikachu-f:Пикачу
 pikachu-fDescription:Когда оно бьет соперников своим хвостом в форме молнии, оно выдает заряд электричества, эквивалентный удару молнии.
 pikachu-gmax:Г-макс Пикачу
 pikachu-gmaxDescription:Когда оно бьет соперников своим хвостом в форме молнии, оно выдает заряд электричества, эквивалентный удару молнии.
-pikachu-hoenn:Пикачу
+pikachu-hoenn:Пикачу (Хоэнн)
 pikachu-hoennDescription:Когда оно бьет соперников своим хвостом в форме молнии, оно выдает заряд электричества, эквивалентный удару молнии.
-pikachu-kalos:Пикачу
+pikachu-kalos:Пикачу (Калос)
 pikachu-kalosDescription:Когда оно бьет соперников своим хвостом в форме молнии, оно выдает заряд электричества, эквивалентный удару молнии.
-pikachu-original:Пикачу
+pikachu-original:Пикачу (Оригинал)
 pikachu-originalDescription:Когда оно бьет соперников своим хвостом в форме молнии, оно выдает заряд электричества, эквивалентный удару молнии.
-pikachu-partner:Пикачу
+pikachu-partner:Пикачу (Напарник)
 pikachu-partnerDescription:Когда оно бьет соперников своим хвостом в форме молнии, оно выдает заряд электричества, эквивалентный удару молнии.
-pikachu-popstar:Пикачу
+pikachu-popstar:Пикачу (Поп-звезда)
 pikachu-popstarDescription:Когда оно бьет соперников своим хвостом в форме молнии, оно выдает заряд электричества, эквивалентный удару молнии.
-pikachu-rockstar:Пикачу
+pikachu-rockstar:Пикачу (Рок-звезда)
 pikachu-rockstarDescription:Когда оно бьет соперников своим хвостом в форме молнии, оно выдает заряд электричества, эквивалентный удару молнии.
-pikachu-sinnoh:Пикачу
+pikachu-sinnoh:Пикачу (Синно)
 pikachu-sinnohDescription:Когда оно бьет соперников своим хвостом в форме молнии, оно выдает заряд электричества, эквивалентный удару молнии.
 pikachu-starter-f:Пикачу
 pikachu-starter-fDescription:Когда оно обрушивается на противников своим хвостом-молнией, оно передает удар электричеством, сравнимый с ударом молнии.
-pikachu-starter:Пикачу
+pikachu-starter:Пикачу (Начальный)
 pikachu-starterDescription:Когда оно обрушивается на противников своим хвостом-молнией, оно передает удар электричеством, сравнимый с ударом молнии.
-pikachu-unova:Пикачу
+pikachu-unova:Пикачу (Юнова)
 pikachu-unovaDescription:Когда оно обрушивается на противников своим хвостом-молнией, оно передает удар электричеством, сравнимый с ударом молнии.
 piloswine-f:Пилосвайн
 piloswine-fDescription:Хотя ноги у него короткие, его крепкие копыта не позволяют поскользнуться, даже на льду.
 politoed-f:Политоэд
 politoed-fDescription:Крик самца громче, чем у самки. Самцы Политоэд с глубокими, угрожающими голосами более популярны у противоположного пола.
-polteageist-antique:Полтигейст
+polteageist-antique:Полтигейст (Антикварный)
 polteageist-antiqueDescription:Когда Полтигейст злится, он выплескивает чай из своего тела в рот нарушителя. Чай вызывает сильные ознобы, если его проглотить.
 ponyta-galar:Галар Понита
 ponyta-galarDescription:Этот Покемон смотрит вам в глаза и читает содержимое вашего сердца. Если в нем обнаруживается зло, оно тут же прячется.
@@ -2492,17 +2492,17 @@ roserade-f:Roserade
 roserade-fDescription:Яд в правой руке действует быстро. Яд в левой руке действует медленно. Оба являются угрожающими для жизни.
 sandaconda-gmax:Г-макс Сандаконда
 sandaconda-gmaxDescription:Песок вращается вокруг его тела с такой скоростью и мощностью, что может разнести небоскрёб.
-sawsbuck-autumn:Sawsbuck
+sawsbuck-autumn:Сосбак (Осень)
 sawsbuck-autumnDescription:Они мигрируют в зависимости от сезонов, поэтому некоторые люди называют Sawsbuck предвестниками весны.
-sawsbuck-summer:Sawsbuck
+sawsbuck-summer:Сосбак (Лето)
 sawsbuck-summerDescription:Они мигрируют в зависимости от сезонов, поэтому некоторые люди называют Sawsbuck предвестниками весны.
-sawsbuck-winter:Sawsbuck
+sawsbuck-winter:Сосбак (Зима)
 sawsbuck-winterDescription:Они мигрируют в зависимости от сезонов, поэтому некоторые люди называют Sawsbuck предвестниками весны.
 scizor-f:Сизор
 scizor-fDescription:Хотя его тело стройное, у Сизора огромная атакующая мощь. Даже мускулы Сизора сделаны из металла.
 scyther-f:Сайтер
 scyther-fDescription:Если вы наткнетесь на участок в лесу, где много деревьев было срублено, значит, вы нашли территорию Сайтера.
-shellos-east:Шеллос
+shellos-east:Шелос (Восток)
 shellos-eastDescription:Воздействие сильной силы на этого покемона заставляет его выделять странную фиолетовую жидкость. Несмотря на то, что она безвредна, жидкость ужасно липкая.
 shiftry-f:Шифтри
 shiftry-fDescription:Он живет тихо в густом лесу. Говорят, что он создает холодные зимние ветры с помощью своих листовых вееров.
@@ -2542,7 +2542,7 @@ silvally-steel:Силвалли стали
 silvally-steelDescription:После успешного пробуждения он может менять свой тип и сражаться — как и некий легендарный Покемон. Это его стальная форма.
 silvally-water:Силвалли воды
 silvally-waterDescription:После успешного пробуждения он может менять свой тип и сражаться — как и некий легендарный Покемон. Это его водная форма.
-sinistea-antique:Синистеа
+sinistea-antique:Синисти (Антикварный)
 sinistea-antiqueDescription:Чайная чашка, в которой живет этот Покемон, является знаменитым произведением антикварной посуды. В обращении много подделок.
 slowbro-galar:Гал Слоубро
 slowbro-galarDescription:Если этот Покемон сожмет язык {Shellder}, кусающего его, {Shellder} выпустит токсичную жидкость из кончика своей раковины.
@@ -2578,7 +2578,7 @@ toxicroak-f:Токсикроак
 toxicroak-fDescription:Токсикроак громко издает победный крик, когда его добыча побеждена. Этот Pokémon и Сеймитод — родственные виды.
 toxtricity-gmax:Г-макс Токситричити
 toxtricity-gmaxDescription:Этот вспыльчивый и агрессивный Pokémon пьет застойную воду, чтобы поглотить любые токсины, которые могут в ней содержаться.
-toxtricity-lowkey:Toxtricity
+toxtricity-lowkey:Токстрисити (Низкие)
 toxtricity-lowkeyDescription:Этот горячий и агрессивный покемон пьёт застоявшуюся воду, чтобы впитать любые содержащиеся в ней токсины.
 unfezant-f:Unfezant
 unfezant-fDescription:Этот покемон умен и чрезвычайно горд. Люди обратят на вас внимание, если вы станете его тренером.
@@ -2638,13 +2638,13 @@ unown-z:Unown
 unown-zDescription:Этот Покемон имеет форму древней письменности. Загадка, что появилось первым — древние письмена или различные Unown. Исследования в этой области продолжаются, но ничего не известно.
 ursaring-f:Ursaring
 ursaring-fDescription:В лесах, где обитает Ursaring, говорят, что есть много ручьев и высоких деревьев, где они собирают пищу. Этот Покемон каждый день гуляет по своему лесу в поисках пищи.
-urshifu-rapidstrike:Уршифу
+urshifu-rapidstrike:Уршифу (Быстрый удар)
 urshifu-rapidstrikeDescription:Эта форма Уршифу твёрдо уверена, что врагов нужно побеждать, нанося много ударов подряд. Его атаки непрерывны и текут, как река.
 weavile-f:Вивайл
 weavile-fDescription:С помощью своих когтей, оно оставляет подсказки для своих друзей. По слухам, число уникальных знаков превышает 500.
 weezing-galar:Гал Визинг
 weezing-galarDescription:Давно, в те времена, когда множество фабрик загрязняли воздух, Визинг по какой-то причине изменился на эту форму.
-wishiwashi-school:Вишиваши
+wishiwashi-school:Вишиваши (Школьная форма)
 wishiwashi-schoolDescription:Когда оно чувствует опасность, его глаза наполняются слезами. Блестящие слёзы служат сигналом для других Вишиваши.
 wobbuffet-f:Воббафет
 wobbuffet-fDescription:Чтобы скрыть свой чёрный хвост, оно тихо живёт в темноте. Никогда не атакует первым.
@@ -2652,25 +2652,25 @@ wooper-f:Вупер
 wooper-fDescription:Когда оно передвигается по земле, тело покрывается ядовитой плёнкой, предотвращающей обезвоживание кожи.
 xatu-f:Ксату
 xatu-fDescription:Этот странный покемон видит как прошлое, так и будущее. Он целый день наблюдает за движением солнца.
-xerneas-neutral:Ксернеас
+xerneas-neutral:Ксернеас (Нейтральная форма)
 xerneas-neutralDescription:Говорят, что когда рога на его голове сияют семью цветами, он делится вечной жизнью.
 yamask-galar:Гал Ямаск
 yamask-galarDescription:Дух человека из прошедшей эпохи стал этим покемоном. Оно бродит по руинам, в поисках того, кто узнает его лицо.
-zacian-crowned:Зациан
+zacian-crowned:Зейшиан (Коронованный)
 zacian-crownedDescription:Этот покемон много лет пребывал в спячке. Некоторые говорят, что она старшая сестра Замазенты — другие считают, что эти два покемона соперники.
-zamazenta-crowned:Замазента
+zamazenta-crowned:Замазента (Коронованный)
 zamazenta-crownedDescription:Этот Покемон спал эоны в виде статуи. Он так долго был в спячке, что люди забыли о его существовании.
 zapdos-galar:Гал Запдос
 zapdos-galarDescription:Говорят, что эта легендарная птица Покемон появляется, когда небо темнеет и сыплется молния.
-zarude-dada:Заруде
+zarude-dada:Заруде (Дада)
 zarude-dadaDescription:Особая сила этого Заруде берет начало в его любви и заботе о человеческом ребёнке-сироте, которого Покемон вырастил с младенчества.
 zigzagoon-galar:Гал Зигзагун
 zigzagoon-galarDescription:Зигзагун, приспособившийся к регионам вне Галар, приобрел этот вид. Если вы что-то потеряли, этот Покемон, вероятно, сможет это найти.
 zubat-f:Зубат
 zubat-fDescription:Издаёт ультразвуковые крики во время полёта, которые действуют как сонар, предупреждающий о препятствиях на его пути.
-zygarde-10:Зигард
+zygarde-10:Зигард (10%)
 zygarde-10Description:Некоторые говорят, что он может превратиться в ещё более мощную форму в бою с теми, кто угрожает экосистеме.
-zygarde-complete:Зигард
+zygarde-complete:Зигард (Полная форма)
 zygarde-completeDescription:Некоторые говорят, что он может превратиться в ещё более мощную форму в бою с теми, кто угрожает экосистеме.
 hisiuan-braviary:Хис Бравиари
 hisiuan-braviaryDescription:Так как этот Покемон вспыльчив и воинственен, роль перевозчика в Галаре занял Корвикнайт.
@@ -2680,7 +2680,7 @@ hisuian-goodra:Хис Гудра
 hisuian-goodraDescription:Способен свободно контролировать твёрдость своей металлической оболочки. Ненавидит одиночество и очень привязчив—если те, кто ему дорог, покинут его, он начнёт злиться и буянить.
 hisuian-zoroark:Его Зороарк
 hisuian-zoroarkDescription:С его растрепанной белой шерстью он выглядит как воплощение смерти. Не заботясь о собственной безопасности, Зороарк атакует своих врагов с горькой энергией, настолько сильной, что это режет его собственное тело.
-hisuian-basculegion-female:Basculegion
+hisuian-basculegion-female:Баскулегион (Девочка)
 hisuian-basculegion-femaleDescription:Одевается в души соратников, погибших, не достигнув цели путешествия вверх по течению. Ни один другой вид во всех реках Хисуи не равен Basculegion.
 gliscor-pcg:PCG Gliscor
 gliscor-pcgDescription:Его полет бесшумен. Он использует свой длинный хвост, чтобы уносить добычу... Затем его удлиненные клыки делают остальное. (Арт от Studio Karli)
@@ -2696,7 +2696,7 @@ hisuian-lilligant:Его Лиллигант
 hisuian-lilligantDescription:Я подозреваю, что его хорошо развитые ноги — результат жизни в горах, покрытых глубоким снегом. Аромат, который он источает из своей цветочной короны, приободряет тех, кто находится рядом.
 hisuian-sneasel:Его Снизел
 hisuian-sneaselDescription:У него хитрый, но свирепый характер. Он ждет, когда родители покинут гнезда, а затем тайком пробирается, чтобы украсть их яйца.
-hisuian-basculegion-male:Basculegion
+hisuian-basculegion-male:Баскулегион (Мальчик)
 hisuian-basculegion-maleDescription:Одевается в души соратников, погибших, не достигнув цели путешествия вверх по течению. Ни один другой вид во всех реках Хисуи не равен Basculegion.
 ursaluna:Урсалуна
 ursalunaDescription:Я полагаю, что именно болотистая местность Хисуй придает Урсалуне её массивное телосложение и новую способность управлять торфом по своему желанию.
@@ -2710,7 +2710,7 @@ kleavor:Клеавор
 kleavorDescription:Жестокое существо, срубающее высокие деревья своими грубыми топорами и защищающееся твердым камнем. Если в дикой природе случайно столкнуться с этим Покемоном, единственный выход — убегать.
 hisuian-avalugg:Авалагг Хисуи
 hisuian-avaluggDescription:Когда Авалагг перемещается в течение дня, трещины на его теле углубляются. Тело Покемона возвращается к своему первоначальному состоянию в течение ночи.
-basculin-white-striped:Баскулин
+basculin-white-striped:Баскулин (Белая Полоса)
 basculin-white-stripedDescription:Известные своей агрессивностью, эти Покемоны чаще всего сражаются с косяками полосатых красных Баскулинов.
 ninetales-pcg:PCG Найнтейлз
 ninetales-pcgDescription:Хотя он проводит путешественников, заблудившихся на заснеженной горе, к ее подножию, он не простит тех, кто причиняет вред природе. (Автор: Beliwolfi & Lenathepanda)
@@ -2758,7 +2758,7 @@ oranguru-pcg:PCG Орангуру
 oranguru-pcgDescription:Он досконально знает лес. Если {oranguru-pcg} встречает раненого покемона, {oranguru-pcg} соберет лечебные травы, чтобы его вылечить. (Арт от T_M_B_O)
 magnezone-retro:Магнезон (Ретро)
 magnezone-retroDescription:Считается, что особое магнитное поле изменило молекулярную структуру тела этого покемона, и именно это вызвало его эволюцию.
-enamorus-incarnate:Энаморус
+enamorus-incarnate:Энаморус (Воплощение)
 enamorus-incarnateDescription:Когда он прилетает в этот край с заморских земель, суровая зима заканчивается. Согласно легенде, любовь этого Покемона дает начало новому росту жизни в {Hisui}.
 sprigatito:Спригатито
 sprigatitoDescription:Сладкий аромат, исходящий от его тела, завораживает окружающих. Этот аромат становится сильнее, когда Покемон находится на солнце.
@@ -2780,7 +2780,7 @@ quaquaval:Квакуваваль
 quaquavalDescription:Танцуя так, что он вызывает в воображении дальние края, этот Покемон завораживает всех, кто его видит. Удары его декоративных водяных перьев разрезают врагов.
 lechonk:Леционк
 lechonkDescription:Этот покемон отвергает всё, кроме самой изысканной еды. Его тело издает травяной аромат, который ненавидят жучьи покемоны.
-oinkologne-male:Ойнколоне
+oinkologne-male:Оинколонь (Мужской)
 oinkologne-maleDescription:Он очаровывает покемонов женского пола сладким, привлекательным ароматом, который исходит от всего его тела.
 tarountula:Тарунтула
 tarountulaDescription:Нить, которую она выделяет с задней части тела, прочна, как проволока. Тайна прочности этой нити является темой текущих исследований.
@@ -2798,7 +2798,7 @@ pawmot:Пауммот
 pawmotDescription:Пушистая шерсть Пауммота действует как батарея. Она может накапливать такое же количество электричества, как электрический автомобиль.
 tandemaus:Тандемас
 tandemausDescription:Пара остается вместе, несмотря ни на что. Они делят любую найденную еду ровно пополам и затем едят её вместе.
-maushold-family-of-four:Моусхолд
+maushold-family-of-four:Маусхолд (Семья из четырех)
 maushold-family-of-fourDescription:Бóльшая пара защищает малышей во время сражений. При встрече с сильными противниками вся группа вступает в бой.
 fidough:Фидау
 fidoughDescription:Дрожжи в дыхании Фидау полезны для готовки, поэтому это Покемона защищают люди с давних времен.
@@ -2810,7 +2810,7 @@ dolliv:Доллив
 dollivDescription:Он греется на солнце до тех пор, пока плоды на его голове не созреют. После этого Доллив покидает человеческие поселения и отправляется в путешествие.
 arboliva:Арболива
 arbolivaDescription:Этот Покемон отгоняет врагов, выстреливая в них своим богатым ароматным маслом с силой, достаточной для разрушения валуна.
-squawkabilly-green-plumage:Сквокабилли
+squawkabilly-green-plumage:Сквакбилли (Зеленое Перо)
 squawkabilly-green-plumageDescription:Стаи с зелеными перьями имеют наибольшее влияние. Когда они ищут еду по утрам и вечерам, становится очень шумно.
 nacli:Накли
 nacliDescription:Земля скребет его тело, когда он путешествует, оставляя за собой след соли. Соль постоянно создается и восполняется в теле Накли.
@@ -2876,7 +2876,7 @@ bombirdier:Бомбардьер
 bombirdierDescription:Бомбардьер использует фартук на груди, чтобы упаковывать еду, которую он переносит обратно в своё гнездо. Он любит сбрасывать вещи, которые издают громкие звуки.
 finizen:Финизен
 finizenDescription:Его водное кольцо состоит из морской воды, смешанной с липкой жидкостью, которую Финизен выделяет из своего дыхательного отверстия.
-palafin-zero:Палафин
+palafin-zero:Палафин (Ноль)
 palafin-zeroDescription:Его физические способности ничем не отличаются от способностей Финизена, но когда его союзники в опасности, он трансформируется и усиливается.
 varoom:Варум
 varoomDescription:Стальная часть - это настоящее тело Варума. Этот Покемон цепляется за скалы и превращает содержащиеся в них минералы в энергию для своих действий.
@@ -2904,7 +2904,7 @@ veluza:Велуза
 veluzaDescription:Велуза обладает отличными регенеративными способностями. Оно сбрасывает лишнюю плоть, чтобы повысить свою ловкость, а затем бросается на свою добычу.
 dondozo:Дондозо
 dondozoDescription:Он относится к Татсугири как к своему боссу и преданно следует за ним. Несмотря на свою мощь, Дондозо, похоже, не очень умный.
-tatsugiri-curly:Татсугири
+tatsugiri-curly:Татсугири (Кудрявый)
 tatsugiri-curlyDescription:Татсугири - крайне хитрое Покемон. Оно притворяется слабым, чтобы приманить добычу, а затем приказывает своему партнеру атаковать.
 annihilape:Эннилиэйп
 annihilapeDescription:Он наполняет свои кулаки энергией ярости, которую скрывал в своем сердце. Противники, пораженные такими кулаками, останутся потрясены до глубины души.
@@ -2912,7 +2912,7 @@ clodsire:Клодсайр
 clodsireDescription:Он живет на дне прудов и болот. Кладсайр переносит Вуперов на спине, переправляя их через воду с одного берега на другой.
 farigiraf:Фаригираф
 farigirafDescription:Затвердевшая голова на хвосте защищает основную голову, когда Фаригираф вращает своей длинной шеей, чтобы ударить врагов.
-dudunsparce-two-segment:Дудунспарс
+dudunsparce-two-segment:Дудунспарс (Два Сегмента)
 dudunsparce-two-segmentDescription:Он выгоняет врагов из гнезда, вдыхая столько воздуха, чтобы заполнить свои длинные, узкие легкие, а затем выпускает его в мощном взрыве.
 kingambit:Кингамбит
 kingambitDescription:Хотя он командует огромной армией в бою, он не умеет разрабатывать сложные стратегии. Он просто использует грубую силу, чтобы продолжать наступление.
@@ -2950,11 +2950,11 @@ gimmighoul:Гиммигул
 gimmighoulDescription:Он живет внутри старого сокровищного сундука. Иногда его оставляют в уголках магазинов, так как никто не догадывается, что это на самом деле Покемон.
 gholdengo:Голденго
 gholdengoDescription:У него прочное тело, составленное из сложенных монет. Голденго подавляет своих врагов, посылая монету за монетой в быстрой последовательности.
-wo-chien:Во-Чьен
+wo-chien:Во-Чиен
 wo-chienDescription:Он истощает жизненные силы растений, заставляя близлежащие леса мгновенно засыхать, а поля становиться бесплодными.
-chien-pao:Чьен-Пао
+chien-pao:Чиен-Пао
 chien-paoDescription:Ненависть тех, кто пал от меча давным-давно, облачилась в снег и стала Покемоном.
-ting-lu:Тинг-Лу
+ting-lu:Тин-Лу
 ting-luDescription:Он медленно опускает свою чрезвычайно тяжелую голову на землю, раскалывая её огромными трещинами, достигающими в глубину более 160 футов.
 chi-yu:Чи-Ю
 chi-yuDescription:Зависть, накопленная в изогнутых бусинах, что вызвали множество конфликтов, облачилась в огонь и стала Покемоном.
@@ -3215,6 +3215,6 @@ lumineon-f:Люминион
 luxio-f:Люксио
 luxray-f:Люксрей
 machamp-gmax:Г-макс Мачамп
-magearna-original:Магеарна
+magearna-original:Магеарна (Оригинал)
 magikarp-f:Мэджикарп
 mamoswine-f:Мамосвайн

@@ -54,7 +54,7 @@ kakuna:Kakuna
 kakunaDescription:Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy.
 nidoking:Nidoking
 nidokingDescription:Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond.
-cherrim-sunshine:Cherrim
+cherrim-sunshine:Cherrim (Sunshine)
 cherrim-sunshineDescription:The faint scent that emanates from its full blossom entices bug Pokémon to it.
 linoone-galar:Gal Linoone
 linoone-galarDescription:This very aggressive Pokémon will recklessly challenge opponents stronger than itself.
@@ -1810,19 +1810,19 @@ rockruff-sinister:Sin Rockruff
 rockruff-sinisterDescription:This Pokémon intimidates opponents by striking the ground with the rocks on its neck. The moment an opponent flinches, Rockruff attacks.
 kartana-sinister:Sin Kartana
 kartana-sinisterDescription:Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives.
-deoxys-attack:Deoxys
+deoxys-attack:Deoxys (Attack)
 deoxys-attackDescription:Deoxys emerged from a virus that came from space. It is highly intelligent and wields psychokinetic powers. This Pokémon shoots lasers from the crystalline organ on its chest.
-deoxys-defense:Deoxys
+deoxys-defense:Deoxys (Defense)
 deoxys-defenseDescription:Deoxys emerged from a virus that came from space. It is highly intelligent and wields psychokinetic powers. This Pokémon shoots lasers from the crystalline organ on its chest.
-deoxys-speed:Deoxys
+deoxys-speed:Deoxys (Speed)
 deoxys-speedDescription:Deoxys emerged from a virus that came from space. It is highly intelligent and wields psychokinetic powers. This Pokémon shoots lasers from the crystalline organ on its chest.
 wormadam-sandy:Wormadam (Sandy)
 wormadam-sandyDescription:When Burmy evolved, its cloak became a part of this Pokémon’s body. The cloak is never shed.
 wormadam-trash:Wormadam (Trash)
 wormadam-trashDescription:When Burmy evolved, its cloak became a part of this Pokémon’s body. The cloak is never shed.
-shaymin-sky:Shaymin
+shaymin-sky:Shaymin (Sky)
 shaymin-skyDescription:The blooming of Gracidea flowers confers the power of flight upon it. Feelings of gratitude are the message it delivers.
-giratina-origin:Giratina
+giratina-origin:Giratina (Origin)
 giratina-originDescription:It was banished for its violence. It silently gazed upon the old world from the Distortion World.
 rotom-heat:Rotom (Heat)
 rotom-heatDescription:With a body made of plasma, it can inhabit all sorts of machines. It loves to surprise others.
@@ -1840,39 +1840,39 @@ castform-rainy:Castform (Rainy)
 castform-rainyDescription:Its form changes depending on the weather. The rougher conditions get, the rougher Castform’s disposition!
 castform-snowy:Castform (Snowy)
 castform-snowyDescription:Its form changes depending on the weather. The rougher conditions get, the rougher Castform’s disposition!
-basculin-blue-striped:Basculin
+basculin-blue-striped:Basculin (Blue-Striped)
 basculin-blue-stripedDescription:Known for their violence, these Pokémon have the most fights with schools of red- striped Basculin.
-darmanitan-zen:Darmanitan
+darmanitan-zen:Darmanitan (Zen)
 darmanitan-zenDescription:When wounded, it stops moving. It goes as still as stone to meditate, sharpening its mind and spirit.
-meloetta-pirouette:Meloetta
+meloetta-pirouette:Meloetta (Pirouette)
 meloetta-pirouetteDescription:Its melodies are sung with a special vocalization method that can control the feelings of those who hear it.
-tornadus-therian:Tornadus
+tornadus-therian:Tornadus (Therian)
 tornadus-therianDescription:Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away.
-thundurus-therian:Thundurus
+thundurus-therian:Thundurus (Therian)
 thundurus-therianDescription:As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.
-landorus-therian:Landorus
+landorus-therian:Landorus (Therian)
 landorus-therianDescription:From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.
-kyurem-black:Kyurem
+kyurem-black:Kyurem (Black)
 kyurem-blackDescription:The sameness of Zekrom’s and Kyurem’s genes allowed Kyurem to absorb Zekrom. Kyurem can now use the power of both electricity and ice.
-kyurem-white:Kyurem
+kyurem-white:Kyurem (White)
 kyurem-whiteDescription:The sameness of Zekrom’s and Kyurem’s genes allowed Kyurem to absorb Zekrom. Kyurem can now use the power of both electricity and ice.
-keldeo-resolute:Keldeo
+keldeo-resolute:Keldeo (Resolute)
 keldeo-resoluteDescription:When it is resolute, its body fills with power and it becomes swifter. Its jumps are then too fast to follow.
 meowstic-female:Meowstic
 meowstic-femaleDescription:The defensive instinct of the males is strong. It’s when they’re protecting themselves or their partners that they unleash their full power.
 aegislash-blade:Aegislash (Blade)
 aegislash-bladeDescription:Once upon a time, a king with an Aegislash reigned over the land. His Pokémon eventually drained him of life, and his kingdom fell with him.
-pumpkaboo-small:Pumpkaboo
+pumpkaboo-small:Pumpkaboo (Small)
 pumpkaboo-smallDescription:The light that streams out from the holes in the pumpkin can hypnotize and control the people and Pokémon that see it.
-pumpkaboo-large:Pumpkaboo
+pumpkaboo-large:Pumpkaboo (Large)
 pumpkaboo-largeDescription:The light that streams out from the holes in the pumpkin can hypnotize and control the people and Pokémon that see it.
-pumpkaboo-super:Pumpkaboo
+pumpkaboo-super:Pumpkaboo (Super)
 pumpkaboo-superDescription:The light that streams out from the holes in the pumpkin can hypnotize and control the people and Pokémon that see it.
-gourgeist-small:Gourgeist
+gourgeist-small:Gourgeist (Small)
 gourgeist-smallDescription:In the darkness of a new-moon night, Gourgeist will come knocking. Whoever answers the door will be swept off to the afterlife.
-gourgeist-large:Gourgeist
+gourgeist-large:Gourgeist (Large)
 gourgeist-largeDescription:In the darkness of a new-moon night, Gourgeist will come knocking. Whoever answers the door will be swept off to the afterlife.
-gourgeist-super:Gourgeist
+gourgeist-super:Gourgeist (Super)
 gourgeist-superDescription:In the darkness of a new-moon night, Gourgeist will come knocking. Whoever answers the door will be swept off to the afterlife.
 venusaur-mega:Mega Venusaur
 venusaur-megaDescription:Huge amounts of pollen burst from it with the force of a volcanic eruption. Breathing in too much of the pollen can cause fainting.
@@ -1962,25 +1962,25 @@ diancie-mega:Mega Diancie
 diancie-megaDescription:It can instantly create many diamonds by compressing the carbon in the air between its hands.
 metagross-mega:Mega Metagross
 metagross-megaDescription:It analyzes its opponents with more accuracy than a supercomputer, which enables it to calmly back them into a corner.
-kyogre-primal:Kyogre
+kyogre-primal:Kyogre (Primal)
 kyogre-primalDescription:Kyogre is said to be the personification of the sea itself. Legends tell of its many clashes against Groudon, as each sought to gain the power of nature.
-groudon-primal:Groudon
+groudon-primal:Groudon (Primal)
 groudon-primalDescription:Through Primal Reversion and with nature’s full power, it will take back its true form. It can cause magma to erupt and expand the landmass of the world.
 rayquaza-mega:Mega Rayquaza
 rayquaza-megaDescription:It flies forever through the ozone layer, consuming meteoroids for sustenance. The many meteoroids in its body provide the energy it needs to Mega Evolve.
-pikachu-rock-star:Pikachu
+pikachu-rock-star:Pikachu (Rock-Star)
 pikachu-rock-starDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
-pikachu-belle:Pikachu
+pikachu-belle:Pikachu (Belle)
 pikachu-belleDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
-pikachu-pop-star:Pikachu
+pikachu-pop-star:Pikachu (Pop-Star)
 pikachu-pop-starDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
-pikachu-phd:Pikachu
+pikachu-phd:Pikachu (Phd)
 pikachu-phdDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
-pikachu-libre:Pikachu
+pikachu-libre:Pikachu (Libre)
 pikachu-libreDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
-pikachu-cosplay:Pikachu
+pikachu-cosplay:Pikachu (Cosplay)
 pikachu-cosplayDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
-hoopa-unbound:Hoopa
+hoopa-unbound:Hoopa (Unbound)
 hoopa-unboundDescription:It is said to be able to seize anything it desires with its six rings and six huge arms. With its power sealed, it is transformed into a much smaller form.
 camerupt-mega:Mega Camerupt
 camerupt-megaDescription:The humps on Camerupt’s back are formed by a transformation of its bones. They sometimes blast out molten magma. This Pokémon apparently erupts often when it is enraged.
@@ -1996,15 +1996,15 @@ raticate-alola:Alo Raticate
 raticate-alolaDescription:Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey.
 raticate-totem-alola:Alo Raticate
 raticate-totem-alolaDescription:Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey.
-pikachu-original-cap:Pikachu
+pikachu-original-cap:Pikachu (Original-Cap)
 pikachu-original-capDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
-pikachu-hoenn-cap:Pikachu
+pikachu-hoenn-cap:Pikachu (Hoenn-Cap)
 pikachu-hoenn-capDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
-pikachu-sinnoh-cap:Pikachu
+pikachu-sinnoh-cap:Pikachu (Sinnoh-Cap)
 pikachu-sinnoh-capDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
-pikachu-unova-cap:Pikachu
+pikachu-unova-cap:Pikachu (Unova-Cap)
 pikachu-unova-capDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
-pikachu-kalos-cap:Pikachu
+pikachu-kalos-cap:Pikachu (Kalos-Cap)
 pikachu-kalos-capDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
 pikachu-alola-cap:Alo Pikachu
 pikachu-alola-capDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
@@ -2042,43 +2042,43 @@ lycanroc-midnight:Lycanroc (Midnight)
 lycanroc-midnightDescription:With swift movements, this Pokémon gradually backs its prey into a corner. Lycanroc’s fangs are always aimed toward opponents’ weak spots.
 lycanroc-dusk:Lycanroc (Dusk)
 lycanroc-duskDescription:With swift movements, this Pokémon gradually backs its prey into a corner. Lycanroc’s fangs are always aimed toward opponents’ weak spots.
-vivillon-archipelago:Vivillon
+vivillon-archipelago:Vivillon (Archipelago)
 vivillon-archipelagoDescription:The patterns on this Pokémon’s wings depend on the climate and topography of its habitat. It scatters colorful scales.
-vivillon-continental:Vivillon
+vivillon-continental:Vivillon (Continental)
 vivillon-continentalDescription:The patterns on this Pokémon’s wings depend on the climate and topography of its habitat. It scatters colorful scales.
-vivillon-elegant:Vivillon
+vivillon-elegant:Vivillon (Elegant)
 vivillon-elegantDescription:The patterns on this Pokémon’s wings depend on the climate and topography of its habitat. It scatters colorful scales.
-vivillon-fancy:Vivillon
+vivillon-fancy:Vivillon (Fancy)
 vivillon-fancyDescription:The patterns on this Pokémon’s wings depend on the climate and topography of its habitat. It scatters colorful scales.
-vivillon-garden:Vivillon
+vivillon-garden:Vivillon (Garden)
 vivillon-gardenDescription:The patterns on this Pokémon’s wings depend on the climate and topography of its habitat. It scatters colorful scales.
-vivillon-highplains:Vivillon
+vivillon-highplains:Vivillon (Highplains)
 vivillon-highplainsDescription:The patterns on this Pokémon’s wings depend on the climate and topography of its habitat. It scatters colorful scales.
-vivillon-icysnow:Vivillon
+vivillon-icysnow:Vivillon (Icysnow)
 vivillon-icysnowDescription:The patterns on this Pokémon’s wings depend on the climate and topography of its habitat. It scatters colorful scales.
-vivillon-jungle:Vivillon
+vivillon-jungle:Vivillon (Jungle)
 vivillon-jungleDescription:The patterns on this Pokémon’s wings depend on the climate and topography of its habitat. It scatters colorful scales.
-vivillon-marine:Vivillon
+vivillon-marine:Vivillon (Marine)
 vivillon-marineDescription:The patterns on this Pokémon’s wings depend on the climate and topography of its habitat. It scatters colorful scales.
-vivillon-modern:Vivillon
+vivillon-modern:Vivillon (Modern)
 vivillon-modernDescription:The patterns on this Pokémon’s wings depend on the climate and topography of its habitat. It scatters colorful scales.
-vivillon-monsoon:Vivillon
+vivillon-monsoon:Vivillon (Monsoon)
 vivillon-monsoonDescription:The patterns on this Pokémon’s wings depend on the climate and topography of its habitat. It scatters colorful scales.
-vivillon-ocean:Vivillon
+vivillon-ocean:Vivillon (Ocean)
 vivillon-oceanDescription:The patterns on this Pokémon’s wings depend on the climate and topography of its habitat. It scatters colorful scales.
-vivillon-pokeball:Vivillon
+vivillon-pokeball:Vivillon (Pokeball)
 vivillon-pokeballDescription:The patterns on this Pokémon’s wings depend on the climate and topography of its habitat. It scatters colorful scales.
-vivillon-polar:Vivillon
+vivillon-polar:Vivillon (Polar)
 vivillon-polarDescription:The patterns on this Pokémon’s wings depend on the climate and topography of its habitat. It scatters colorful scales.
-vivillon-river:Vivillon
+vivillon-river:Vivillon (River)
 vivillon-riverDescription:The patterns on this Pokémon’s wings depend on the climate and topography of its habitat. It scatters colorful scales.
-vivillon-sandstorm:Vivillon
+vivillon-sandstorm:Vivillon (Sandstorm)
 vivillon-sandstormDescription:The patterns on this Pokémon’s wings depend on the climate and topography of its habitat. It scatters colorful scales.
-vivillon-savanna:Vivillon
+vivillon-savanna:Vivillon (Savanna)
 vivillon-savannaDescription:The patterns on this Pokémon’s wings depend on the climate and topography of its habitat. It scatters colorful scales.
-vivillon-sun:Vivillon
+vivillon-sun:Vivillon (Sun)
 vivillon-sunDescription:The patterns on this Pokémon’s wings depend on the climate and topography of its habitat. It scatters colorful scales.
-vivillon-tundra:Vivillon
+vivillon-tundra:Vivillon (Tundra)
 vivillon-tundraDescription:The patterns on this Pokémon’s wings depend on the climate and topography of its habitat. It scatters colorful scales.
 oricorio-sensu:Oricorio (Sensu)
 oricorio-sensuDescription:This Oricorio has sipped purple nectar. Some dancers use its graceful, elegant dancing as inspiration.
@@ -2088,7 +2088,7 @@ galarian-articuno:Gal Articuno
 galarian-articunoDescription:A legendary bird Pokémon. It freezes water that is contained in winter air and makes it snow.
 magnemite-pcg:PCG Magnemite
 magnemite-pcgDescription:It subsists on electricity. As Magnemite flies, it emits electromagnetic waves from the units on each side of its body. (Art by xByHell)
-alcremie-rainbow:Alcremie
+alcremie-rainbow:Alcremie (Rainbow)
 alcremie-rainbowDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
 oricorio-pom-pom:Oricorio (Pom-Pom)
 oricorio-pom-pomDescription:This Oricorio has drunk bright yellow nectar. When it sees someone looking glum, it will try to cheer them up with a dance.
@@ -2098,239 +2098,239 @@ abomasnow-f:Abomasnow
 abomasnow-fDescription:This Pokémon is known to bring blizzards. A shake of its massive body is enough to cause whiteout conditions.
 aipom-f:Aipom
 aipom-fDescription:It searches for prey from the tops of trees. When it spots its favorite food, Bounsweet, Aipom gets excited and pounces.
-alcremie-caramel-swirl-berry:Alcremie
+alcremie-caramel-swirl-berry:Alcremie (Caramel-Swirl-Berry)
 alcremie-caramel-swirl-berryDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-caramel-swirl-clover:Alcremie
+alcremie-caramel-swirl-clover:Alcremie (Caramel-Swirl-Clover)
 alcremie-caramel-swirl-cloverDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-caramel-swirl-flower:Alcremie
+alcremie-caramel-swirl-flower:Alcremie (Caramel-Swirl-Flower)
 alcremie-caramel-swirl-flowerDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-caramel-swirl-love:Alcremie
+alcremie-caramel-swirl-love:Alcremie (Caramel-Swirl-Love)
 alcremie-caramel-swirl-loveDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-caramel-swirl-ribbon:Alcremie
+alcremie-caramel-swirl-ribbon:Alcremie (Caramel-Swirl-Ribbon)
 alcremie-caramel-swirl-ribbonDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-caramel-swirl-star:Alcremie
+alcremie-caramel-swirl-star:Alcremie (Caramel-Swirl-Star)
 alcremie-caramel-swirl-starDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-caramelswirl-berry:Alcremie
+alcremie-caramelswirl-berry:Alcremie (Caramelswirl-Berry)
 alcremie-caramelswirl-berryDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-caramelswirl-clover:Alcremie
+alcremie-caramelswirl-clover:Alcremie (Caramelswirl-Clover)
 alcremie-caramelswirl-cloverDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-caramelswirl-flower:Alcremie
+alcremie-caramelswirl-flower:Alcremie (Caramelswirl-Flower)
 alcremie-caramelswirl-flowerDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-caramelswirl-love:Alcremie
+alcremie-caramelswirl-love:Alcremie (Caramelswirl-Love)
 alcremie-caramelswirl-loveDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-caramelswirl-ribbon:Alcremie
+alcremie-caramelswirl-ribbon:Alcremie (Caramelswirl-Ribbon)
 alcremie-caramelswirl-ribbonDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-caramelswirl-star:Alcremie
+alcremie-caramelswirl-star:Alcremie (Caramelswirl-Star)
 alcremie-caramelswirl-starDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-caramelswirl:Alcremie
+alcremie-caramelswirl:Alcremie (Caramelswirl)
 alcremie-caramelswirlDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
 alcremie-gmax:Gmax Alcremie
 alcremie-gmaxDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-lemon-cream-berry:Alcremie
+alcremie-lemon-cream-berry:Alcremie (Lemon-Cream-Berry)
 alcremie-lemon-cream-berryDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-lemon-cream-clover:Alcremie
+alcremie-lemon-cream-clover:Alcremie (Lemon-Cream-Clover)
 alcremie-lemon-cream-cloverDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-lemon-cream-flower:Alcremie
+alcremie-lemon-cream-flower:Alcremie (Lemon-Cream-Flower)
 alcremie-lemon-cream-flowerDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-lemon-cream-love:Alcremie
+alcremie-lemon-cream-love:Alcremie (Lemon-Cream-Love)
 alcremie-lemon-cream-loveDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-lemon-cream-ribbon:Alcremie
+alcremie-lemon-cream-ribbon:Alcremie (Lemon-Cream-Ribbon)
 alcremie-lemon-cream-ribbonDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-lemon-cream-star:Alcremie
+alcremie-lemon-cream-star:Alcremie (Lemon-Cream-Star)
 alcremie-lemon-cream-starDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-lemoncream-berry:Alcremie
+alcremie-lemoncream-berry:Alcremie (Lemoncream-Berry)
 alcremie-lemoncream-berryDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-lemoncream-clover:Alcremie
+alcremie-lemoncream-clover:Alcremie (Lemoncream-Clover)
 alcremie-lemoncream-cloverDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-lemoncream-flower:Alcremie
+alcremie-lemoncream-flower:Alcremie (Lemoncream-Flower)
 alcremie-lemoncream-flowerDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-lemoncream-love:Alcremie
+alcremie-lemoncream-love:Alcremie (Lemoncream-Love)
 alcremie-lemoncream-loveDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-lemoncream-ribbon:Alcremie
+alcremie-lemoncream-ribbon:Alcremie (Lemoncream-Ribbon)
 alcremie-lemoncream-ribbonDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-lemoncream-star:Alcremie
+alcremie-lemoncream-star:Alcremie (Lemoncream-Star)
 alcremie-lemoncream-starDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-lemoncream:Alcremie
+alcremie-lemoncream:Alcremie (Lemoncream)
 alcremie-lemoncreamDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-matcha-cream-berry:Alcremie
+alcremie-matcha-cream-berry:Alcremie (Matcha-Cream-Berry)
 alcremie-matcha-cream-berryDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-matcha-cream-clover:Alcremie
+alcremie-matcha-cream-clover:Alcremie (Matcha-Cream-Clover)
 alcremie-matcha-cream-cloverDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-matcha-cream-flower:Alcremie
+alcremie-matcha-cream-flower:Alcremie (Matcha-Cream-Flower)
 alcremie-matcha-cream-flowerDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-matcha-cream-love:Alcremie
+alcremie-matcha-cream-love:Alcremie (Matcha-Cream-Love)
 alcremie-matcha-cream-loveDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-matcha-cream-ribbon:Alcremie
+alcremie-matcha-cream-ribbon:Alcremie (Matcha-Cream-Ribbon)
 alcremie-matcha-cream-ribbonDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-matcha-cream-star:Alcremie
+alcremie-matcha-cream-star:Alcremie (Matcha-Cream-Star)
 alcremie-matcha-cream-starDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-matchacream-berry:Alcremie
+alcremie-matchacream-berry:Alcremie (Matchacream-Berry)
 alcremie-matchacream-berryDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-matchacream-clover:Alcremie
+alcremie-matchacream-clover:Alcremie (Matchacream-Clover)
 alcremie-matchacream-cloverDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-matchacream-flower:Alcremie
+alcremie-matchacream-flower:Alcremie (Matchacream-Flower)
 alcremie-matchacream-flowerDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-matchacream-love:Alcremie
+alcremie-matchacream-love:Alcremie (Matchacream-Love)
 alcremie-matchacream-loveDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-matchacream-ribbon:Alcremie
+alcremie-matchacream-ribbon:Alcremie (Matchacream-Ribbon)
 alcremie-matchacream-ribbonDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-matchacream-star:Alcremie
+alcremie-matchacream-star:Alcremie (Matchacream-Star)
 alcremie-matchacream-starDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-matchacream:Alcremie
+alcremie-matchacream:Alcremie (Matchacream)
 alcremie-matchacreamDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-mint-cream-berry:Alcremie
+alcremie-mint-cream-berry:Alcremie (Mint-Cream-Berry)
 alcremie-mint-cream-berryDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-mint-cream-clover:Alcremie
+alcremie-mint-cream-clover:Alcremie (Mint-Cream-Clover)
 alcremie-mint-cream-cloverDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-mint-cream-flower:Alcremie
+alcremie-mint-cream-flower:Alcremie (Mint-Cream-Flower)
 alcremie-mint-cream-flowerDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-mint-cream-love:Alcremie
+alcremie-mint-cream-love:Alcremie (Mint-Cream-Love)
 alcremie-mint-cream-loveDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-mint-cream-ribbon:Alcremie
+alcremie-mint-cream-ribbon:Alcremie (Mint-Cream-Ribbon)
 alcremie-mint-cream-ribbonDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-mint-cream-star:Alcremie
+alcremie-mint-cream-star:Alcremie (Mint-Cream-Star)
 alcremie-mint-cream-starDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-mintcream-berry:Alcremie
+alcremie-mintcream-berry:Alcremie (Mintcream-Berry)
 alcremie-mintcream-berryDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-mintcream-clover:Alcremie
+alcremie-mintcream-clover:Alcremie (Mintcream-Clover)
 alcremie-mintcream-cloverDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-mintcream-flower:Alcremie
+alcremie-mintcream-flower:Alcremie (Mintcream-Flower)
 alcremie-mintcream-flowerDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-mintcream-love:Alcremie
+alcremie-mintcream-love:Alcremie (Mintcream-Love)
 alcremie-mintcream-loveDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-mintcream-ribbon:Alcremie
+alcremie-mintcream-ribbon:Alcremie (Mintcream-Ribbon)
 alcremie-mintcream-ribbonDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-mintcream-star:Alcremie
+alcremie-mintcream-star:Alcremie (Mintcream-Star)
 alcremie-mintcream-starDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-mintcream:Alcremie
+alcremie-mintcream:Alcremie (Mintcream)
 alcremie-mintcreamDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-rainbow-swirl-berry:Alcremie
+alcremie-rainbow-swirl-berry:Alcremie (Rainbow-Swirl-Berry)
 alcremie-rainbow-swirl-berryDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-rainbow-swirl-clover:Alcremie
+alcremie-rainbow-swirl-clover:Alcremie (Rainbow-Swirl-Clover)
 alcremie-rainbow-swirl-cloverDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-rainbow-swirl-flower:Alcremie
+alcremie-rainbow-swirl-flower:Alcremie (Rainbow-Swirl-Flower)
 alcremie-rainbow-swirl-flowerDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-rainbow-swirl-love:Alcremie
+alcremie-rainbow-swirl-love:Alcremie (Rainbow-Swirl-Love)
 alcremie-rainbow-swirl-loveDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-rainbow-swirl-ribbon:Alcremie
+alcremie-rainbow-swirl-ribbon:Alcremie (Rainbow-Swirl-Ribbon)
 alcremie-rainbow-swirl-ribbonDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-rainbow-swirl-star:Alcremie
+alcremie-rainbow-swirl-star:Alcremie (Rainbow-Swirl-Star)
 alcremie-rainbow-swirl-starDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-rainbowswirl-berry:Alcremie
+alcremie-rainbowswirl-berry:Alcremie (Rainbowswirl-Berry)
 alcremie-rainbowswirl-berryDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-rainbowswirl-clover:Alcremie
+alcremie-rainbowswirl-clover:Alcremie (Rainbowswirl-Clover)
 alcremie-rainbowswirl-cloverDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-rainbowswirl-flower:Alcremie
+alcremie-rainbowswirl-flower:Alcremie (Rainbowswirl-Flower)
 alcremie-rainbowswirl-flowerDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-rainbowswirl-love:Alcremie
+alcremie-rainbowswirl-love:Alcremie (Rainbowswirl-Love)
 alcremie-rainbowswirl-loveDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-rainbowswirl-ribbon:Alcremie
+alcremie-rainbowswirl-ribbon:Alcremie (Rainbowswirl-Ribbon)
 alcremie-rainbowswirl-ribbonDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-rainbowswirl-star:Alcremie
+alcremie-rainbowswirl-star:Alcremie (Rainbowswirl-Star)
 alcremie-rainbowswirl-starDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-rainbowswirl:Alcremie
+alcremie-rainbowswirl:Alcremie (Rainbowswirl)
 alcremie-rainbowswirlDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-ruby-cream-berry:Alcremie
+alcremie-ruby-cream-berry:Alcremie (Ruby-Cream-Berry)
 alcremie-ruby-cream-berryDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-ruby-cream-clover:Alcremie
+alcremie-ruby-cream-clover:Alcremie (Ruby-Cream-Clover)
 alcremie-ruby-cream-cloverDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-ruby-cream-flower:Alcremie
+alcremie-ruby-cream-flower:Alcremie (Ruby-Cream-Flower)
 alcremie-ruby-cream-flowerDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-ruby-cream-love:Alcremie
+alcremie-ruby-cream-love:Alcremie (Ruby-Cream-Love)
 alcremie-ruby-cream-loveDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-ruby-cream-ribbon:Alcremie
+alcremie-ruby-cream-ribbon:Alcremie (Ruby-Cream-Ribbon)
 alcremie-ruby-cream-ribbonDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-ruby-cream-star:Alcremie
+alcremie-ruby-cream-star:Alcremie (Ruby-Cream-Star)
 alcremie-ruby-cream-starDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-ruby-swirl-berry:Alcremie
+alcremie-ruby-swirl-berry:Alcremie (Ruby-Swirl-Berry)
 alcremie-ruby-swirl-berryDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-ruby-swirl-clover:Alcremie
+alcremie-ruby-swirl-clover:Alcremie (Ruby-Swirl-Clover)
 alcremie-ruby-swirl-cloverDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-ruby-swirl-flower:Alcremie
+alcremie-ruby-swirl-flower:Alcremie (Ruby-Swirl-Flower)
 alcremie-ruby-swirl-flowerDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-ruby-swirl-love:Alcremie
+alcremie-ruby-swirl-love:Alcremie (Ruby-Swirl-Love)
 alcremie-ruby-swirl-loveDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-ruby-swirl-ribbon:Alcremie
+alcremie-ruby-swirl-ribbon:Alcremie (Ruby-Swirl-Ribbon)
 alcremie-ruby-swirl-ribbonDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-ruby-swirl-star:Alcremie
+alcremie-ruby-swirl-star:Alcremie (Ruby-Swirl-Star)
 alcremie-ruby-swirl-starDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-rubycream-berry:Alcremie
+alcremie-rubycream-berry:Alcremie (Rubycream-Berry)
 alcremie-rubycream-berryDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-rubycream-clover:Alcremie
+alcremie-rubycream-clover:Alcremie (Rubycream-Clover)
 alcremie-rubycream-cloverDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-rubycream-flower:Alcremie
+alcremie-rubycream-flower:Alcremie (Rubycream-Flower)
 alcremie-rubycream-flowerDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-rubycream-love:Alcremie
+alcremie-rubycream-love:Alcremie (Rubycream-Love)
 alcremie-rubycream-loveDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-rubycream-ribbon:Alcremie
+alcremie-rubycream-ribbon:Alcremie (Rubycream-Ribbon)
 alcremie-rubycream-ribbonDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-rubycream-star:Alcremie
+alcremie-rubycream-star:Alcremie (Rubycream-Star)
 alcremie-rubycream-starDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-rubycream:Alcremie
+alcremie-rubycream:Alcremie (Rubycream)
 alcremie-rubycreamDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-rubyswirl-berry:Alcremie
+alcremie-rubyswirl-berry:Alcremie (Rubyswirl-Berry)
 alcremie-rubyswirl-berryDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-rubyswirl-clover:Alcremie
+alcremie-rubyswirl-clover:Alcremie (Rubyswirl-Clover)
 alcremie-rubyswirl-cloverDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-rubyswirl-flower:Alcremie
+alcremie-rubyswirl-flower:Alcremie (Rubyswirl-Flower)
 alcremie-rubyswirl-flowerDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-rubyswirl-love:Alcremie
+alcremie-rubyswirl-love:Alcremie (Rubyswirl-Love)
 alcremie-rubyswirl-loveDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-rubyswirl-ribbon:Alcremie
+alcremie-rubyswirl-ribbon:Alcremie (Rubyswirl-Ribbon)
 alcremie-rubyswirl-ribbonDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-rubyswirl-star:Alcremie
+alcremie-rubyswirl-star:Alcremie (Rubyswirl-Star)
 alcremie-rubyswirl-starDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-rubyswirl:Alcremie
+alcremie-rubyswirl:Alcremie (Rubyswirl)
 alcremie-rubyswirlDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-salted-cream-berry:Alcremie
+alcremie-salted-cream-berry:Alcremie (Salted-Cream-Berry)
 alcremie-salted-cream-berryDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-salted-cream-clover:Alcremie
+alcremie-salted-cream-clover:Alcremie (Salted-Cream-Clover)
 alcremie-salted-cream-cloverDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-salted-cream-flower:Alcremie
+alcremie-salted-cream-flower:Alcremie (Salted-Cream-Flower)
 alcremie-salted-cream-flowerDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-salted-cream-love:Alcremie
+alcremie-salted-cream-love:Alcremie (Salted-Cream-Love)
 alcremie-salted-cream-loveDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-salted-cream-ribbon:Alcremie
+alcremie-salted-cream-ribbon:Alcremie (Salted-Cream-Ribbon)
 alcremie-salted-cream-ribbonDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-salted-cream-star:Alcremie
+alcremie-salted-cream-star:Alcremie (Salted-Cream-Star)
 alcremie-salted-cream-starDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-saltedcream-berry:Alcremie
+alcremie-saltedcream-berry:Alcremie (Saltedcream-Berry)
 alcremie-saltedcream-berryDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-saltedcream-clover:Alcremie
+alcremie-saltedcream-clover:Alcremie (Saltedcream-Clover)
 alcremie-saltedcream-cloverDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-saltedcream-flower:Alcremie
+alcremie-saltedcream-flower:Alcremie (Saltedcream-Flower)
 alcremie-saltedcream-flowerDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-saltedcream-love:Alcremie
+alcremie-saltedcream-love:Alcremie (Saltedcream-Love)
 alcremie-saltedcream-loveDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-saltedcream-ribbon:Alcremie
+alcremie-saltedcream-ribbon:Alcremie (Saltedcream-Ribbon)
 alcremie-saltedcream-ribbonDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-saltedcream-star:Alcremie
+alcremie-saltedcream-star:Alcremie (Saltedcream-Star)
 alcremie-saltedcream-starDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-saltedcream:Alcremie
+alcremie-saltedcream:Alcremie (Saltedcream)
 alcremie-saltedcreamDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-vanilla-cream-berry:Alcremie
+alcremie-vanilla-cream-berry:Alcremie (Vanilla-Cream-Berry)
 alcremie-vanilla-cream-berryDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-vanilla-cream-clover:Alcremie
+alcremie-vanilla-cream-clover:Alcremie (Vanilla-Cream-Clover)
 alcremie-vanilla-cream-cloverDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-vanilla-cream-flower:Alcremie
+alcremie-vanilla-cream-flower:Alcremie (Vanilla-Cream-Flower)
 alcremie-vanilla-cream-flowerDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-vanilla-cream-love:Alcremie
+alcremie-vanilla-cream-love:Alcremie (Vanilla-Cream-Love)
 alcremie-vanilla-cream-loveDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-vanilla-cream-ribbon:Alcremie
+alcremie-vanilla-cream-ribbon:Alcremie (Vanilla-Cream-Ribbon)
 alcremie-vanilla-cream-ribbonDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-vanilla-cream-star:Alcremie
+alcremie-vanilla-cream-star:Alcremie (Vanilla-Cream-Star)
 alcremie-vanilla-cream-starDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-vanillacream-berry:Alcremie
+alcremie-vanillacream-berry:Alcremie (Vanillacream-Berry)
 alcremie-vanillacream-berryDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-vanillacream-clover:Alcremie
+alcremie-vanillacream-clover:Alcremie (Vanillacream-Clover)
 alcremie-vanillacream-cloverDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-vanillacream-flower:Alcremie
+alcremie-vanillacream-flower:Alcremie (Vanillacream-Flower)
 alcremie-vanillacream-flowerDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-vanillacream-love:Alcremie
+alcremie-vanillacream-love:Alcremie (Vanillacream-Love)
 alcremie-vanillacream-loveDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-vanillacream-ribbon:Alcremie
+alcremie-vanillacream-ribbon:Alcremie (Vanillacream-Ribbon)
 alcremie-vanillacream-ribbonDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
-alcremie-vanillacream-star:Alcremie
+alcremie-vanillacream-star:Alcremie (Vanillacream-Star)
 alcremie-vanillacream-starDescription:When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
 ambipom-f:Ambipom
 ambipom-fDescription:It uses its tails for everything. If it wraps both of its tails around you and gives you a squeeze, that’s proof it really likes you.
@@ -2380,17 +2380,17 @@ blaziken-f:Blaziken
 blaziken-fDescription:Blaziken has incredibly strong legs—it can easily clear a 30-story building in one leap. This Pokémon’s blazing punches leave its foes scorched and blackened.
 buizel-f:Buizel
 buizel-fDescription:It inflates the flotation sac around its neck and pokes its head out of the water to see what is going on.
-burmy-sandy:Burmy
+burmy-sandy:Burmy (Sandy)
 burmy-sandyDescription:If its cloak is broken in battle, it quickly remakes the cloak with materials nearby.
-burmy-trash:Burmy
+burmy-trash:Burmy (Trash)
 burmy-trashDescription:If its cloak is broken in battle, it quickly remakes the cloak with materials nearby.
 butterfree-gmax:Gmax Butterfree
 butterfree-gmaxDescription:Once it has opponents trapped in a tornado that could blow away a 10-ton truck, it finishes them off with its poisonous scales.
 cacturne-f:Cacturne
 cacturne-fDescription:If a traveler is going through a desert in the thick of night, Cacturne will follow in a ragtag group. The Pokémon are biding their time, waiting for the traveler to tire and become incapable of moving.
-calyrex-ice:Calyrex
+calyrex-ice:Calyrex (Ice)
 calyrex-iceDescription:Calyrex is known in legend as a king that ruled over Galar in ancient times. It has the power to cause hearts to mend and plants to spring forth.
-calyrex-shadow:Calyrex
+calyrex-shadow:Calyrex (Shadow)
 calyrex-shadowDescription:Calyrex is known in legend as a king that ruled over Galar in ancient times. It has the power to cause hearts to mend and plants to spring forth.
 camerupt-f:Camerupt
 camerupt-fDescription:The humps on Camerupt’s back are formed by a transformation of its bones. They sometimes blast out molten magma. This Pokémon apparently erupts often when it is enraged.
@@ -2426,11 +2426,11 @@ darmanitan-galarzen:Gal Darmanitan
 darmanitan-galarzenDescription:When wounded, it stops moving. It goes as still as stone to meditate, sharpening its mind and spirit.
 darumaka-galar:Gal Darumaka
 darumaka-galarDescription:This popular symbol of good fortune will never fall over in its sleep, no matter how it’s pushed or pulled.
-deerling-autumn:Deerling
+deerling-autumn:Deerling (Autumn)
 deerling-autumnDescription:The turning of the seasons changes the color and scent of this Pokémon’s fur. People use it to mark the seasons.
-deerling-summer:Deerling
+deerling-summer:Deerling (Summer)
 deerling-summerDescription:The turning of the seasons changes the color and scent of this Pokémon’s fur. People use it to mark the seasons.
-deerling-winter:Deerling
+deerling-winter:Deerling (Winter)
 deerling-winterDescription:The turning of the seasons changes the color and scent of this Pokémon’s fur. People use it to mark the seasons.
 donphan-f:Donphan
 donphan-fDescription:If Donphan were to tackle with its hard body, even a house could be destroyed. Using its massive strength, the Pokémon helps clear rock and mud slides that block mountain trails.
@@ -2442,63 +2442,63 @@ dustox-f:Dustox
 dustox-fDescription:When Dustox flaps its wings, a fine dust is scattered all over. This dust is actually a powerful poison that will even make a pro wrestler sick. This Pokémon searches for food using its antennae like radar.
 eevee-gmax:Gmax Eevee
 eevee-gmaxDescription:Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.
-eevee-starter:Eevee
+eevee-starter:Eevee (Starter)
 eevee-starterDescription:Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.
-eiscue-noice:Eiscue
+eiscue-noice:Eiscue (Noice)
 eiscue-noiceDescription:This Pokémon keeps its heat-sensitive head cool with ice. It fishes for its food, dangling its single hair into the sea to lure in prey.
-eternatus-eternamax:Eternatus
+eternatus-eternamax:Eternatus (Eternamax)
 eternatus-eternamaxDescription:It was inside a meteorite that fell 20,000 years ago. There seems to be a connection between this Pokémon and the Dynamax phenomenon.
 farfetchd-galar:Gal Farfetch’d
 farfetchd-galarDescription:They use a plant stalk as a weapon, but not all of them use it in the same way. Several distinct styles of stalk fighting have been observed.
 finneon-f:Finneon
 finneon-fDescription:It lures in prey with its shining tail fins. It stays near the surface during the day and moves to the depths when night falls.
-flabebe-blue:Flabébé
+flabebe-blue:Flabébé (Blue)
 flabebe-blueDescription:Flabébé wears a crown made from pollen it’s collected from its flower. The crown has hidden healing properties.
-flabebe-orange:Flabébé
+flabebe-orange:Flabébé (Orange)
 flabebe-orangeDescription:Flabébé wears a crown made from pollen it’s collected from its flower. The crown has hidden healing properties.
-flabebe-white:Flabébé
+flabebe-white:Flabébé (White)
 flabebe-whiteDescription:Flabébé wears a crown made from pollen it’s collected from its flower. The crown has hidden healing properties.
-flabebe-yellow:Flabébé
+flabebe-yellow:Flabébé (Yellow)
 flabebe-yellowDescription:Flabébé wears a crown made from pollen it’s collected from its flower. The crown has hidden healing properties.
 flapple-gmax:Gmax Flapple
 flapple-gmaxDescription:It flies on wings of apple skin and spits a powerful acid. It can also change its shape into that of an apple.
 floatzel-f:Floatzel
 floatzel-fDescription:Its flotation sac developed as a result of pursuing aquatic prey. It can double as a rubber raft.
-floette-blue:Floette
+floette-blue:Floette (Blue)
 floette-blueDescription:It gives its own power to flowers, pouring its heart into caring for them. Floette never forgives anyone who messes up a flower bed.
-floette-orange:Floette
+floette-orange:Floette (Orange)
 floette-orangeDescription:It gives its own power to flowers, pouring its heart into caring for them. Floette never forgives anyone who messes up a flower bed.
-floette-white:Floette
+floette-white:Floette (White)
 floette-whiteDescription:It gives its own power to flowers, pouring its heart into caring for them. Floette never forgives anyone who messes up a flower bed.
-floette-yellow:Floette
+floette-yellow:Floette (Yellow)
 floette-yellowDescription:It gives its own power to flowers, pouring its heart into caring for them. Floette never forgives anyone who messes up a flower bed.
-florges-blue:Florges
+florges-blue:Florges (Blue)
 florges-blueDescription:Its life can span several hundred years. It’s said to devote its entire life to protecting gardens.
-florges-orange:Florges
+florges-orange:Florges (Orange)
 florges-orangeDescription:Its life can span several hundred years. It’s said to devote its entire life to protecting gardens.
-florges-white:Florges
+florges-white:Florges (White)
 florges-whiteDescription:Its life can span several hundred years. It’s said to devote its entire life to protecting gardens.
-florges-yellow:Florges
+florges-yellow:Florges (Yellow)
 florges-yellowDescription:Its life can span several hundred years. It’s said to devote its entire life to protecting gardens.
 frillish-f:Frillish
 frillish-fDescription:Legend has it that the residents of a sunken ancient city changed into these Pokémon.
-furfrou-dandy:Furfrou
+furfrou-dandy:Furfrou (Dandy)
 furfrou-dandyDescription:Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it.
-furfrou-debutante:Furfrou
+furfrou-debutante:Furfrou (Debutante)
 furfrou-debutanteDescription:Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it.
-furfrou-diamond:Furfrou
+furfrou-diamond:Furfrou (Diamond)
 furfrou-diamondDescription:Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it.
-furfrou-heart:Furfrou
+furfrou-heart:Furfrou (Heart)
 furfrou-heartDescription:Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it.
-furfrou-kabuki:Furfrou
+furfrou-kabuki:Furfrou (Kabuki)
 furfrou-kabukiDescription:Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it.
-furfrou-lareine:Furfrou
+furfrou-lareine:Furfrou (Lareine)
 furfrou-lareineDescription:Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it.
-furfrou-matron:Furfrou
+furfrou-matron:Furfrou (Matron)
 furfrou-matronDescription:Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it.
-furfrou-pharaoh:Furfrou
+furfrou-pharaoh:Furfrou (Pharaoh)
 furfrou-pharaohDescription:Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it.
-furfrou-star:Furfrou
+furfrou-star:Furfrou (Star)
 furfrou-starDescription:Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it.
 gabite-f:Gabite
 gabite-fDescription:It sheds its skin and gradually grows larger. Its scales can be ground into a powder and used as raw materials for traditional medicine.
@@ -2506,15 +2506,15 @@ garbodor-gmax:Gmax Garbodor
 garbodor-gmaxDescription:The toxic liquid it launches from its right arm is so virulent that it can kill a weakened creature instantly.
 garchomp-f:Garchomp
 garchomp-fDescription:Its fine scales don’t just reduce wind resistance—their sharp edges also cause injury to any opponent who attacks it.
-gastrodon-east:Gastrodon
+gastrodon-east:Gastrodon (East)
 gastrodon-eastDescription:The softness of its body helps disperse the force of impacts, so although its body is uncommonly squishy, it’s also surprisingly resilient.
-genesect-burn:Genesect
+genesect-burn:Genesect (Burn)
 genesect-burnDescription:This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.
-genesect-chill:Genesect
+genesect-chill:Genesect (Chill)
 genesect-chillDescription:This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.
-genesect-douse:Genesect
+genesect-douse:Genesect (Douse)
 genesect-douseDescription:This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.
-genesect-shock:Genesect
+genesect-shock:Genesect (Shock)
 genesect-shockDescription:This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.
 gengar-gmax:Gmax Gengar
 gengar-gmaxDescription:It lays traps, hoping to steal the lives of those it catches. If you stand in front of its mouth, you’ll hear your loved ones’ voices calling out to you.
@@ -2524,7 +2524,7 @@ girafarig-f:Girafarig
 girafarig-fDescription:Girafarig’s rear head contains a tiny brain that is too small for thinking. However, the rear head doesn’t need to sleep, so it can keep watch over its surroundings 24 hours a day.
 gligar-f:Gligar
 gligar-fDescription:Gligar glides through the air without a sound as if it were sliding. This Pokémon hangs on to the face of its foe using its clawed hind legs and the large pincers on its forelegs, then injects the prey with its poison barb.
-greninja-ash:Greninja
+greninja-ash:Greninja (Ash)
 greninja-ashDescription:It appears and vanishes with a ninja’s grace. It toys with its enemies using swift movements, while slicing them with throwing stars of sharpest water.
 golbat-f:Golbat
 golbat-fDescription:It attacks in a stealthy manner, without warning. Its sharp fangs are used to bite and to suck blood.
@@ -2572,7 +2572,7 @@ luxray-f:Luxray
 luxray-fDescription:Seeing through solid objects uses up a lot of Luxray’s electricity, so the Pokémon sleeps for long periods of time to store up energy.
 machamp-gmax:Gmax Machamp
 machamp-gmaxDescription:With four arms that react more quickly than it can think, it can execute many punches at once.
-magearna-original:Magearna
+magearna-original:Magearna (Original)
 magearna-originalDescription:Built roughly 500 years ago by a scientist, the part called the Soul-Heart is the actual life-form.
 magikarp-f:Magikarp
 magikarp-fDescription:This weak and pathetic Pokémon gets easily pushed along rivers when there are strong currents.
@@ -2598,7 +2598,7 @@ mewtwo-megay:MegaY Mewtwo
 mewtwo-megayDescription:Psychic power has augmented its muscles. It has a grip strength of one ton and can sprint a hundred meters in two seconds flat!
 milotic-f:Milotic
 milotic-fDescription:It’s said that a glimpse of a Milotic and its beauty will calm any hostile emotions you’re feeling.
-mimikyu-busted:Mimikyu
+mimikyu-busted:Mimikyu (Busted)
 mimikyu-bustedDescription:There was a scientist who peeked under Mimikyu’s old rag in the name of research. The scientist died of a mysterious disease.
 minior-blue:Minior (Blue)
 minior-blueDescription:Although its outer shell is uncommonly durable, the shock of falling to the ground smashes the shell to smithereens.
@@ -2616,17 +2616,17 @@ minior-yellow:Minior (Yellow)
 minior-yellowDescription:Although its outer shell is uncommonly durable, the shock of falling to the ground smashes the shell to smithereens.
 moltres-galar:Gal Moltres
 moltres-galarDescription:A legendary bird Pokémon. As it flaps its flaming wings, even the night sky will turn red.
-morpeko-hangry:Morpeko
+morpeko-hangry:Morpeko (Hangry)
 morpeko-hangryDescription:It carries electrically roasted seeds with it as if they’re precious treasures. No matter how much it eats, it always gets hungry again in short order.
 mrmime-galar:Gal Mr. Mime
 mrmime-galarDescription:It’s known for its top-notch pantomime skills. It protects itself from all sorts of attacks by emitting auras from its fingers to create walls.
 murkrow-f:Murkrow
 murkrow-fDescription:It searches for shiny things for its boss. Murkrow’s presence is said to be unlucky, so many people detest it.
-necrozma-dawnwings:Necrozma
+necrozma-dawnwings:Necrozma (Dawnwings)
 necrozma-dawnwingsDescription:When Necrozma latches on to Lunala, it becomes vicious, seeing enemies everywhere it looks. It will burn the world with lasers.
-necrozma-duskmane:Necrozma
+necrozma-duskmane:Necrozma (Duskmane)
 necrozma-duskmaneDescription:When Necrozma latches on to Lunala, it becomes vicious, seeing enemies everywhere it looks. It will burn the world with lasers.
-necrozma-ultra:Necrozma
+necrozma-ultra:Necrozma (Ultra)
 necrozma-ultraDescription:When Necrozma latches on to Lunala, it becomes vicious, seeing enemies everywhere it looks. It will burn the world with lasers.
 numel-f:Numel
 numel-fDescription:Numel stores magma of almost 2,200 degrees Fahrenheit within its body. If it gets wet, the magma cools and hardens. In that event, the Pokémon’s body grows heavy and its movements become sluggish.
@@ -2644,31 +2644,31 @@ pikachu-f:Pikachu
 pikachu-fDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
 pikachu-gmax:Gmax Pikachu
 pikachu-gmaxDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
-pikachu-hoenn:Pikachu
+pikachu-hoenn:Pikachu (Hoenn)
 pikachu-hoennDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
-pikachu-kalos:Pikachu
+pikachu-kalos:Pikachu (Kalos)
 pikachu-kalosDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
-pikachu-original:Pikachu
+pikachu-original:Pikachu (Original)
 pikachu-originalDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
-pikachu-partner:Pikachu
+pikachu-partner:Pikachu (Partner)
 pikachu-partnerDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
-pikachu-popstar:Pikachu
+pikachu-popstar:Pikachu (Popstar)
 pikachu-popstarDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
-pikachu-rockstar:Pikachu
+pikachu-rockstar:Pikachu (Rockstar)
 pikachu-rockstarDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
-pikachu-sinnoh:Pikachu
+pikachu-sinnoh:Pikachu (Sinnoh)
 pikachu-sinnohDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
 pikachu-starter-f:Pikachu
 pikachu-starter-fDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
-pikachu-starter:Pikachu
+pikachu-starter:Pikachu (Starter)
 pikachu-starterDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
-pikachu-unova:Pikachu
+pikachu-unova:Pikachu (Unova)
 pikachu-unovaDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
 piloswine-f:Piloswine
 piloswine-fDescription:Although its legs are short, its rugged hooves prevent it from slipping, even on icy ground.
 politoed-f:Politoed
 politoed-fDescription:The cry of a male is louder than that of a female. Male Politoed with deep, menacing voices find more popularity with the opposite gender.
-polteageist-antique:Polteageist
+polteageist-antique:Polteageist (Antique)
 polteageist-antiqueDescription:When angered, it launches tea from its body at the offender’s mouth. The tea causes strong chills if swallowed.
 ponyta-galar:Gal Ponyta
 ponyta-galarDescription:This Pokémon will look into your eyes and read the contents of your heart. If it finds evil there, it promptly hides away.
@@ -2692,17 +2692,17 @@ roserade-f:Roserade
 roserade-fDescription:The poison in its right hand is quick acting. The poison in its left hand is slow acting. Both are life threatening.
 sandaconda-gmax:Gmax Sandaconda
 sandaconda-gmaxDescription:Sand swirls around its body with such speed and power that it could pulverize a skyscraper.
-sawsbuck-autumn:Sawsbuck
+sawsbuck-autumn:Sawsbuck (Autumn)
 sawsbuck-autumnDescription:They migrate according to the seasons, so some people call Sawsbuck the harbingers of spring.
-sawsbuck-summer:Sawsbuck
+sawsbuck-summer:Sawsbuck (Summer)
 sawsbuck-summerDescription:They migrate according to the seasons, so some people call Sawsbuck the harbingers of spring.
-sawsbuck-winter:Sawsbuck
+sawsbuck-winter:Sawsbuck (Winter)
 sawsbuck-winterDescription:They migrate according to the seasons, so some people call Sawsbuck the harbingers of spring.
 scizor-f:Scizor
 scizor-fDescription:Though its body is slim, Scizor has tremendous attacking power. Even Scizor’s muscles are made of metal.
 scyther-f:Scyther
 scyther-fDescription:If you come across an area in a forest where a lot of the trees have been cut down, what you’ve found is a Scyther’s territory.
-shellos-east:Shellos
+shellos-east:Shellos (East)
 shellos-eastDescription:Subjecting this Pokémon to a strong force causes it to secrete a strange purple fluid. Though harmless, the fluid is awfully sticky.
 shiftry-f:Shiftry
 shiftry-fDescription:It lives quietly in the deep forest. It is said to create chilly winter winds with the fans it holds.
@@ -2742,7 +2742,7 @@ silvally-steel:Steel Silvally
 silvally-steelDescription:Having been awakened successfully, it can change its type and battle—just like a certain Pokémon depicted in legends. This is its steel type form.
 silvally-water:Water Silvally
 silvally-waterDescription:Having been awakened successfully, it can change its type and battle—just like a certain Pokémon depicted in legends. This is its water type form.
-sinistea-antique:Sinistea
+sinistea-antique:Sinistea (Antique)
 sinistea-antiqueDescription:The teacup in which this Pokémon makes its home is a famous piece of antique tableware. Many forgeries are in circulation.
 slowbro-galar:Gal Slowbro
 slowbro-galarDescription:If this Pokémon squeezes the tongue of the Shellder biting it, the Shellder will launch a toxic liquid from the tip of its shell.
@@ -2778,7 +2778,7 @@ toxicroak-f:Toxicroak
 toxicroak-fDescription:It booms out a victory croak when its prey goes down in defeat. This Pokémon and Seismitoad are related species.
 toxtricity-gmax:Gmax Toxtricity
 toxtricity-gmaxDescription:This short-tempered and aggressive Pokémon chugs stagnant water to absorb any toxins it might contain.
-toxtricity-lowkey:Toxtricity
+toxtricity-lowkey:Toxtricity (Lowkey)
 toxtricity-lowkeyDescription:This short-tempered and aggressive Pokémon chugs stagnant water to absorb any toxins it might contain.
 unfezant-f:Unfezant
 unfezant-fDescription:This Pokémon is intelligent and intensely proud. People will sit up and take notice if you become the Trainer of one.
@@ -2838,13 +2838,13 @@ unown-z:Unown
 unown-zDescription:This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.
 ursaring-f:Ursaring
 ursaring-fDescription:In the forests inhabited by Ursaring, it is said that there are many streams and towering trees where they gather food. This Pokémon walks through its forest gathering food every day.
-urshifu-rapidstrike:Urshifu
+urshifu-rapidstrike:Urshifu (Rapidstrike)
 urshifu-rapidstrikeDescription:This form of Urshifu is a strong believer in defeating foes by raining many blows down on them. Its strikes are nonstop, flowing like a river.
 weavile-f:Weavile
 weavile-fDescription:With its claws, it leaves behind signs for its friends to find. The number of distinct signs is said to be over 500.
 weezing-galar:Gal Weezing
 weezing-galarDescription:Long ago, during a time when droves of factories fouled the air with pollution, Weezing changed into this form for some reason.
-wishiwashi-school:Wishiwashi
+wishiwashi-school:Wishiwashi (School)
 wishiwashi-schoolDescription:When it senses danger, its eyes tear up. The sparkle of its tears signals other Wishiwashi to gather.
 wobbuffet-f:Wobbuffet
 wobbuffet-fDescription:To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack.
@@ -2852,25 +2852,25 @@ wooper-f:Wooper
 wooper-fDescription:When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.
 xatu-f:Xatu
 xatu-fDescription:This odd Pokémon can see both the past and the future. It eyes the sun’s movement all day.
-xerneas-neutral:Xerneas
+xerneas-neutral:Xerneas (Neutral)
 xerneas-neutralDescription:When the horns on its head shine in seven colors, it is said to be sharing everlasting life.
 yamask-galar:Gal Yamask
 yamask-galarDescription:The spirit of a person from a bygone age became this Pokémon. It rambles through ruins, searching for someone who knows its face.
-zacian-crowned:Zacian
+zacian-crowned:Zacian (Crowned)
 zacian-crownedDescription:This Pokémon has slumbered for many years. Some say it’s Zamazenta’s elder sister—others say the two Pokémon are rivals.
-zamazenta-crowned:Zamazenta
+zamazenta-crowned:Zamazenta (Crowned)
 zamazenta-crownedDescription:This Pokémon slept for aeons while in the form of a statue. It was asleep for so long, people forgot that it ever existed.
 zapdos-galar:Gal Zapdos
 zapdos-galarDescription:This legendary bird Pokémon is said to appear when the sky turns dark and lightning showers down.
-zarude-dada:Zarude
+zarude-dada:Zarude (Dada)
 zarude-dadaDescription:This Zarude’s special strength stems from its love and care for an orphaned human child that the Pokémon has raised since the child’s infancy.
 zigzagoon-galar:Gal Zigzagoon
 zigzagoon-galarDescription:Zigzagoon that adapted to regions outside Galar acquired this appearance. If you’ve lost something, this Pokémon can likely find it.
 zubat-f:Zubat
 zubat-fDescription:Emits ultrasonic cries while it flies. They act as a sonar used to check for objects in its way.
-zygarde-10:Zygarde
+zygarde-10:Zygarde (10)
 zygarde-10Description:Some say it can change to an even more powerful form when battling those who threaten the ecosystem.
-zygarde-complete:Zygarde
+zygarde-complete:Zygarde (Complete)
 zygarde-completeDescription:Some say it can change to an even more powerful form when battling those who threaten the ecosystem.
 hisiuan-braviary:His Braviary
 hisiuan-braviaryDescription:Because this Pokémon is hotheaded and belligerent, it’s Corviknight that’s taken the role of transportation in Galar.
@@ -2880,7 +2880,7 @@ hisuian-goodra:His Goodra
 hisuian-goodraDescription:Able to freely control the hardness of its metallic shell. It loathes solitude and is extremely clingy—it will fume and run riot if those dearest to it ever leave its side.
 hisuian-zoroark:His Zoroark
 hisuian-zoroarkDescription:With its disheveled white fur, it looks like an embodiment of death. Heedless of its own safety, Zoroark attacks its nemeses with a bitter energy so intense, it lacerates Zoroark's own body.
-hisuian-basculegion-female:Basculegion
+hisuian-basculegion-female:His Basculegion (Female)
 hisuian-basculegion-femaleDescription:Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal.
 gliscor-pcg:PCG Gliscor
 gliscor-pcgDescription:Its flight is soundless. It uses its lengthy tail to carry off its prey... Then its elongated fangs do the rest. (Art by Studio Karli)
@@ -2896,7 +2896,7 @@ hisuian-lilligant:His Lilligant
 hisuian-lilligantDescription:I suspect that its well-developed legs are the result of a life spent on mountains covered in deep snow. The scent it exudes from its flower crown heartens those in proximity.
 hisuian-sneasel:His Sneasel
 hisuian-sneaselDescription:It has a cunning yet savage disposition. It waits for parents to leave their nests, and then it sneaks in to steal their eggs.
-hisuian-basculegion-male:Basculegion
+hisuian-basculegion-male:His Basculegion (Male)
 hisuian-basculegion-maleDescription:Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal.
 ursaluna:Ursaluna
 ursalunaDescription:I believe it was Hisui's swampy terrain that gave Ursaluna its burly physique and newfound capacity to manipulate peat at will.
@@ -2910,7 +2910,7 @@ kleavor:Kleavor
 kleavorDescription:A violent creature that fells towering trees with its crude axes and shields itself with hard stone. If one should chance upon this Pokémon in the wilds, one's only recourse is to flee.
 hisuian-avalugg:His Avalugg
 hisuian-avaluggDescription:As Avalugg moves about during the day, the cracks in its body deepen. The Pokémon’s body returns to a pristine state overnight.
-basculin-white-striped:Basculin
+basculin-white-striped:Basculin (White-Striped)
 basculin-white-stripedDescription:Known for their violence, these Pokémon have the most fights with schools of red- striped Basculin.
 ninetales-pcg:PCG Ninetales
 ninetales-pcgDescription:While it will guide travelers who get lost on a snowy mountain down to the mountain’s base, it won’t forgive anyone who harms nature. (Art by Beliwolfi & Lenathepanda)
@@ -2958,7 +2958,7 @@ oranguru-pcg:PCG Oranguru
 oranguru-pcgDescription:It knows the forest inside and out. If it comes across a wounded Pokémon, Oranguru will gather medicinal herbs to treat it. (Art by T_M_B_O)
 magnezone-retro:Magnezone (Retro)
 magnezone-retroDescription:It’s thought that a special magnetic field changed the molecular structure of this Pokémon’s body, and that’s what caused the Pokémon’s evolution.
-enamorus-incarnate:Enamorus
+enamorus-incarnate:Enamorus (Incarnate)
 enamorus-incarnateDescription:When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon's love gives rise to the budding of fresh life across Hisui.
 sprigatito:Sprigatito
 sprigatitoDescription:The sweet scent its body gives off mesmerizes those around it. The scent grows stronger when this Pokémon is in the sun.
@@ -2980,7 +2980,7 @@ quaquaval:Quaquaval
 quaquavalDescription:Dancing in ways that evoke far-away places, this Pokémon mesmerizes all that see it. Flourishes of its decorative water feathers slice into its foes.
 lechonk:Lechonk
 lechonkDescription:This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest.
-oinkologne-male:Oinkologne
+oinkologne-male:Oinkologne (Male)
 oinkologne-maleDescription:It entrances female Pokémon with the sweet, alluring scent that wafts from all over its body.
 tarountula:Tarountula
 tarountulaDescription:The thread it secretes from its rear is as strong as wire. The secret behind the thread’s strength is the topic of ongoing research.
@@ -2998,7 +2998,7 @@ pawmot:Pawmot
 pawmotDescription:Pawmot’s fluffy fur acts as a battery. It can store the same amount of electricity as an electric car.
 tandemaus:Tandemaus
 tandemausDescription:The pair sticks together no matter what. They split any food they find exactly in half and then eat it together.
-maushold-family-of-four:Maushold
+maushold-family-of-four:Maushold (Family-Of-Four)
 maushold-family-of-fourDescription:The larger pair protects the little ones during battles. When facing strong opponents, the whole group will join the fight.
 fidough:Fidough
 fidoughDescription:The yeast in Fidough’s breath is useful for cooking, so this Pokémon has been protected by people since long ago.
@@ -3010,7 +3010,7 @@ dolliv:Dolliv
 dollivDescription:It basks in the sun to its heart’s content until the fruits on its head ripen. After that, Dolliv departs from human settlements and goes on a journey.
 arboliva:Arboliva
 arbolivaDescription:This Pokémon drives back enemies by launching its rich, aromatic oil at them with enough force to smash a boulder.
-squawkabilly-green-plumage:Squawkabilly
+squawkabilly-green-plumage:Squawkabilly (Green-Plumage)
 squawkabilly-green-plumageDescription:Green-feathered flocks hold the most sway. When they’re out searching for food in the mornings and evenings, it gets very noisy.
 nacli:Nacli
 nacliDescription:The ground scrapes its body as it travels, causing it to leave salt behind. Salt is constantly being created and replenished inside Nacli’s body.
@@ -3076,7 +3076,7 @@ bombirdier:Bombirdier
 bombirdierDescription:Bombirdier uses the apron on its chest to bundle up food, which it carries back to its nest. It enjoys dropping things that make loud noises.
 finizen:Finizen
 finizenDescription:Its water ring is made from seawater mixed with a sticky fluid that Finizen secretes from its blowhole.
-palafin-zero:Palafin
+palafin-zero:Palafin (Zero)
 palafin-zeroDescription:Its physical capabilities are no different than a Finizen’s, but when its allies are in danger, it transforms and powers itself up.
 varoom:Varoom
 varoomDescription:The steel section is Varoom’s actual body. This Pokémon clings to rocks and converts the minerals within into energy to fuel its activities.
@@ -3104,7 +3104,7 @@ veluza:Veluza
 veluzaDescription:Veluza has excellent regenerative capabilities. It sheds spare flesh from its body to boost its agility, then charges at its prey.
 dondozo:Dondozo
 dondozoDescription:It treats Tatsugiri like its boss and follows it loyally. Though powerful, Dondozo is apparently not very smart.
-tatsugiri-curly:Tatsugiri
+tatsugiri-curly:Tatsugiri (Curly)
 tatsugiri-curlyDescription:Tatsugiri is an extremely cunning Pokémon. It feigns weakness to lure in prey, then orders its partner to attack.
 annihilape:Annihilape
 annihilapeDescription:It imbues its fists with the power of the rage that it kept hidden in its heart. Opponents struck by these imbued fists will be shattered to their core.
@@ -3112,7 +3112,7 @@ clodsire:Clodsire
 clodsireDescription:It lives at the bottom of ponds and swamps. It will carry Wooper on its back and ferry them across water from one shore to the other.
 farigiraf:Farigiraf
 farigirafDescription:The hardened head from the tail protects the head of the main body as Farigiraf whips its long neck around to headbutt enemies.
-dudunsparce-two-segment:Dudunsparce
+dudunsparce-two-segment:Dudunsparce (Two-Segment)
 dudunsparce-two-segmentDescription:It drives enemies out of its nest by sucking in enough air to fill its long, narrow lungs, then releasing the air in an intense blast.
 kingambit:Kingambit
 kingambitDescription:Though it commands a massive army in battle, it’s not skilled at devising complex strategies. It just uses brute strength to keep pushing.

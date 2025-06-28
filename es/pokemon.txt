@@ -1798,17 +1798,17 @@ spectrier:Spectrier
 spectrierDescription:As it dashes through the night, Spectrier absorbs the life-force of sleeping creatures. It craves silence and solitude.
 calyrex:Calyrex
 calyrexDescription:Calyrex is known in legend as a king that ruled over Galar in ancient times. It has the power to cause hearts to mend and plants to spring forth.
-deoxys-attack:Deoxys
+deoxys-attack:Deoxys (Ataque)
 deoxys-attackDescription:Deoxys surgió a partir de un virus espacial. Tiene un alto nivel intelectual y poderes psicoquinéticos. Este Pokémon dispara rayos láser por el órgano cristalino que tiene en el torso.
-deoxys-defense:Deoxys
+deoxys-defense:Deoxys (Defensa)
 deoxys-defenseDescription:Deoxys surgió a partir de un virus espacial. Tiene un alto nivel intelectual y poderes psicoquinéticos. Este Pokémon dispara rayos láser por el órgano cristalino que tiene en el torso.
-deoxys-speed:Deoxys
+deoxys-speed:Deoxys (Velocidad)
 deoxys-speedDescription:Deoxys surgió a partir de un virus espacial. Tiene un alto nivel intelectual y poderes psicoquinéticos. Este Pokémon dispara rayos láser por el órgano cristalino que tiene en el torso.
 wormadam-trash:Wormadam (Trash)
 wormadam-trashDescription:Cuando Burmy evolucionó, su caparazón pasó a formar parte de este Pokémon.
-shaymin-sky:Shaymin
+shaymin-sky:Shaymin (Cielo)
 shaymin-skyDescription:Se dice que, cuando florecen las Gracídeas, Shaymin alza el vuelo para mostrar su gratitud.
-giratina-origin:Giratina
+giratina-origin:Giratina (Origen)
 giratina-originDescription:Fue desterrado por su violencia. Observa el mundo en silencio desde el Mundo Distorsión.
 rotom-heat:Rotom (Heat)
 rotom-heatDescription:Su cuerpo de plasma le permite infiltrarse en toda clase de dispositivos electrónicos. Adora sobresaltar a la gente.
@@ -1828,37 +1828,37 @@ castform-rainy:Castform (Rainy)
 castform-rainyDescription:El tiempo atmosférico cambia tanto su aspecto como su estado de ánimo. Cuanto más arrecia, más agresivo se vuelve.
 castform-snowy:Castform (Snowy)
 castform-snowyDescription:El tiempo atmosférico cambia tanto su aspecto como su estado de ánimo. Cuanto más arrecia, más agresivo se vuelve.
-basculin-blue-striped:Basculin
+basculin-blue-striped:Basculin (Rayas Azules)
 basculin-blue-stripedDescription:Un alimento básico de la dieta de antaño. A los jóvenes se les daba Basculin de raya roja por su alto contenido en ácidos grasos.
-darmanitan-zen:Darmanitan
+darmanitan-zen:Darmanitan (Zen)
 darmanitan-zenDescription:Su fuerza aumenta cuanto más se aviva su fuego interior, que puede alcanzar temperaturas superiores a los 1400 °C.
-meloetta-pirouette:Meloetta
+meloetta-pirouette:Meloetta (Pirouette)
 meloetta-pirouetteDescription:Controla los sentimientos de los que escuchan las melodías que emite con su singular vocalización.
-tornadus-therian:Tornadus
+tornadus-therian:Tornadus (Tótem)
 tornadus-therianDescription:La energía que desprende de su cola genera violentas tempestades capaces de echar abajo casas.
-thundurus-therian:Thundurus
+thundurus-therian:Thundurus (Tótem)
 thundurus-therianDescription:Su gusto por surcar el cielo lanzando rayos y provocando incendios forestales le ha granjeado pocas simpatías.
-landorus-therian:Landorus
+landorus-therian:Landorus (Tótem)
 landorus-therianDescription:Utiliza energía que obtiene del viento y del relámpago para nutrir el suelo y generar abundantes cosechas.
-kyurem-black:Kyurem
+kyurem-black:Kyurem (Negro)
 kyurem-blackDescription:Tras la fusión con Zekrom, con el que comparte el ADN, puede absorber y controlar la energía eléctrica y la energía del hielo.
-kyurem-white:Kyurem
+kyurem-white:Kyurem (Blanco)
 kyurem-whiteDescription:Tras la fusión con Zekrom, con el que comparte el ADN, puede absorber y controlar la energía eléctrica y la energía del hielo.
-keldeo-resolute:Keldeo
+keldeo-resolute:Keldeo (Resuelto)
 keldeo-resoluteDescription:Cuando está decidido, su cuerpo rebosa brío, y es capaz de saltar más alto y correr más de lo que la vista alcanza.
 meowstic-female:Meowstic
 meowstic-femaleDescription:El fuerte instinto protector de los machos los lleva a liberar todo su poder cuando se trata de defenderse a sí mismos o a su Entrenador.
 aegislash-blade:Aegislash
 aegislash-bladeDescription:Mediante el control ejercido con su inmenso poder espectral, logró que humanos y Pokémon le forjaran un país a medida de sus necesidades.
-pumpkaboo-small:Pumpkaboo
+pumpkaboo-small:Pumpkaboo (Pequeño)
 pumpkaboo-smallDescription:Se atribuye su pequeño tamaño al hecho de haber vivido en un lugar donde no abundaban las almas errantes.
-pumpkaboo-large:Pumpkaboo
+pumpkaboo-large:Pumpkaboo (Grande)
 pumpkaboo-largeDescription:Se atribuye su pequeño tamaño al hecho de haber vivido en un lugar donde no abundaban las almas errantes.
-pumpkaboo-super:Pumpkaboo
+pumpkaboo-super:Pumpkaboo (Súper)
 pumpkaboo-superDescription:Se atribuye su pequeño tamaño al hecho de haber vivido en un lugar donde no abundaban las almas errantes.
-gourgeist-small:Gourgeist
+gourgeist-small:Gourgeist (Pequeño)
 gourgeist-smallDescription:Las noches de luna nueva llama a la puerta de las casas y se lleva al otro mundo a quien abra.
-gourgeist-large:Gourgeist
+gourgeist-large:Gourgeist (Grande)
 gourgeist-largeDescription:Las noches de luna nueva llama a la puerta de las casas y se lleva al otro mundo a quien abra.
 gourgeist-super:Gourgeist
 gourgeist-superDescription:Las noches de luna nueva llama a la puerta de las casas y se lleva al otro mundo a quien abra.
@@ -2040,33 +2040,33 @@ vivillon-fancy:Vivillon
 vivillon-fancyDescription:Las alas cambian de motivo según el clima y las características naturales del terreno que habite. Esparce escamas de lo más coloridas.
 vivillon-garden:Vivillon
 vivillon-gardenDescription:Las alas cambian de motivo según el clima y las características naturales del terreno que habite. Esparce escamas de lo más coloridas.
-vivillon-highplains:Vivillon
+vivillon-highplains:Vivillon (Praderas)
 vivillon-highplainsDescription:Las alas cambian de motivo según el clima y las características naturales del terreno que habite. Esparce escamas de lo más coloridas.
-vivillon-icysnow:Vivillon
+vivillon-icysnow:Vivillon (Nieve Helada)
 vivillon-icysnowDescription:Las alas cambian de motivo según el clima y las características naturales del terreno que habite. Esparce escamas de lo más coloridas.
-vivillon-jungle:Vivillon
+vivillon-jungle:Vivillon (Selva)
 vivillon-jungleDescription:Las alas cambian de motivo según el clima y las características naturales del terreno que habite. Esparce escamas de lo más coloridas.
-vivillon-marine:Vivillon
+vivillon-marine:Vivillon (Marina)
 vivillon-marineDescription:Las alas cambian de motivo según el clima y las características naturales del terreno que habite. Esparce escamas de lo más coloridas.
-vivillon-modern:Vivillon
+vivillon-modern:Vivillon (Moderna)
 vivillon-modernDescription:Las alas cambian de motivo según el clima y las características naturales del terreno que habite. Esparce escamas de lo más coloridas.
-vivillon-monsoon:Vivillon
+vivillon-monsoon:Vivillon (Monzón)
 vivillon-monsoonDescription:Las alas cambian de motivo según el clima y las características naturales del terreno que habite. Esparce escamas de lo más coloridas.
-vivillon-ocean:Vivillon
+vivillon-ocean:Vivillon (Océano)
 vivillon-oceanDescription:Las alas cambian de motivo según el clima y las características naturales del terreno que habite. Esparce escamas de lo más coloridas.
-vivillon-pokeball:Vivillon
+vivillon-pokeball:Vivillon (Pokeball)
 vivillon-pokeballDescription:Las alas cambian de motivo según el clima y las características naturales del terreno que habite. Esparce escamas de lo más coloridas.
-vivillon-polar:Vivillon
+vivillon-polar:Vivillon (Polar)
 vivillon-polarDescription:Las alas cambian de motivo según el clima y las características naturales del terreno que habite. Esparce escamas de lo más coloridas.
-vivillon-river:Vivillon
+vivillon-river:Vivillon (Río)
 vivillon-riverDescription:Las alas cambian de motivo según el clima y las características naturales del terreno que habite. Esparce escamas de lo más coloridas.
-vivillon-sandstorm:Vivillon
+vivillon-sandstorm:Vivillon (Tormenta de Arena)
 vivillon-sandstormDescription:Las alas cambian de motivo según el clima y las características naturales del terreno que habite. Esparce escamas de lo más coloridas.
-vivillon-savanna:Vivillon
+vivillon-savanna:Vivillon (Sabana)
 vivillon-savannaDescription:Las alas cambian de motivo según el clima y las características naturales del terreno que habite. Esparce escamas de lo más coloridas.
-vivillon-sun:Vivillon
+vivillon-sun:Vivillon (Sol)
 vivillon-sunDescription:Las alas cambian de motivo según el clima y las características naturales del terreno que habite. Esparce escamas de lo más coloridas.
-vivillon-tundra:Vivillon
+vivillon-tundra:Vivillon (Tundra)
 vivillon-tundraDescription:Las alas cambian de motivo según el clima y las características naturales del terreno que habite. Esparce escamas de lo más coloridas.
 kartana-sinister:Sin Kartana
 kartana-sinisterDescription:Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives.
@@ -2090,7 +2090,7 @@ magnemite-pcg:PCG Magnemite
 magnemite-pcgDescription:Se nutre de electricidad. Puede flotar en el aire gracias a las ondas electromagnéticas que emite a través de las unidades de sus extremidades. (Art by xByHell)
 galarian-articuno:Gal Articuno
 galarian-articunoDescription:Un Pokémon pájaro legendario. En invierno, crea nieve congelando la humedad del aire.
-alcremie-rainbow:Alcremie
+alcremie-rainbow:Alcremie (Arcoíris)
 alcremie-rainbowDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
 oricorio-pom-pom:Oricorio (Pom-Pom)
 oricorio-pom-pomDescription:This Oricorio has drunk bright yellow nectar. When it sees someone looking glum, it will try to cheer them up with a dance.
@@ -2100,239 +2100,239 @@ abomasnow-f:Abomasnow
 abomasnow-fDescription:Posee la capacidad de generar ventiscas. Si agita su enorme cuerpo, el terreno circundante queda inmediatamente cubierto de nieve.
 aipom-f:Aipom
 aipom-fDescription:Sube a las copas de los árboles para buscar presas. Si encuentra un Bounsweet, su manjar predilecto, se alboroza y se abalanza sobre él.
-alcremie-caramel-swirl-berry:Alcremie
+alcremie-caramel-swirl-berry:Alcremie (Remolino de Caramelo-Baya)
 alcremie-caramel-swirl-berryDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-caramel-swirl-clover:Alcremie
+alcremie-caramel-swirl-clover:Alcremie (Remolino de Caramelo-Trébol)
 alcremie-caramel-swirl-cloverDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-caramel-swirl-flower:Alcremie
+alcremie-caramel-swirl-flower:Alcremie (Remolino de Caramelo-Floral)
 alcremie-caramel-swirl-flowerDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-caramel-swirl-love:Alcremie
+alcremie-caramel-swirl-love:Alcremie (Remolino de Caramelo-Amor)
 alcremie-caramel-swirl-loveDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-caramel-swirl-ribbon:Alcremie
+alcremie-caramel-swirl-ribbon:Alcremie (Remolino de Caramelo-Cinta)
 alcremie-caramel-swirl-ribbonDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-caramel-swirl-star:Alcremie
+alcremie-caramel-swirl-star:Alcremie (Remolino de Caramelo-Estrella)
 alcremie-caramel-swirl-starDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-caramelswirl-berry:Alcremie
+alcremie-caramelswirl-berry:Alcremie (Remolino de Caramelo-Baya)
 alcremie-caramelswirl-berryDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-caramelswirl-clover:Alcremie
+alcremie-caramelswirl-clover:Alcremie (Remolino de Caramelo-Trebol)
 alcremie-caramelswirl-cloverDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-caramelswirl-flower:Alcremie
+alcremie-caramelswirl-flower:Alcremie (Remolino de Caramelo-Flor)
 alcremie-caramelswirl-flowerDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-caramelswirl-love:Alcremie
+alcremie-caramelswirl-love:Alcremie (Remolino de Caramelo-Amor)
 alcremie-caramelswirl-loveDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-caramelswirl-ribbon:Alcremie
+alcremie-caramelswirl-ribbon:Alcremie (Remolino de Caramelo-Cinta)
 alcremie-caramelswirl-ribbonDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-caramelswirl-star:Alcremie
+alcremie-caramelswirl-star:Alcremie (Remolino de Caramelo-Estrella)
 alcremie-caramelswirl-starDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-caramelswirl:Alcremie
+alcremie-caramelswirl:Alcremie (Remolino de Caramelo)
 alcremie-caramelswirlDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
 alcremie-gmax:Gmax Alcremie
 alcremie-gmaxDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-lemon-cream-berry:Alcremie
+alcremie-lemon-cream-berry:Alcremie (Crema de Limón-Baya)
 alcremie-lemon-cream-berryDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-lemon-cream-clover:Alcremie
+alcremie-lemon-cream-clover:Alcremie (Crema de Limón-Trebol)
 alcremie-lemon-cream-cloverDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-lemon-cream-flower:Alcremie
+alcremie-lemon-cream-flower:Alcremie (Crema de Limón-Flor)
 alcremie-lemon-cream-flowerDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-lemon-cream-love:Alcremie
+alcremie-lemon-cream-love:Alcremie (Crema de Limón-Amor)
 alcremie-lemon-cream-loveDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-lemon-cream-ribbon:Alcremie
+alcremie-lemon-cream-ribbon:Alcremie (Crema de Limón-Cinta)
 alcremie-lemon-cream-ribbonDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-lemon-cream-star:Alcremie
+alcremie-lemon-cream-star:Alcremie (Crema de Limón-Estrella)
 alcremie-lemon-cream-starDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-lemoncream-berry:Alcremie
+alcremie-lemoncream-berry:Alcremie (Crema de Limón-Baya)
 alcremie-lemoncream-berryDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-lemoncream-clover:Alcremie
+alcremie-lemoncream-clover:Alcremie (Crema de Limón-Trebol)
 alcremie-lemoncream-cloverDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-lemoncream-flower:Alcremie
+alcremie-lemoncream-flower:Alcremie (Crema de Limón-Flor)
 alcremie-lemoncream-flowerDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-lemoncream-love:Alcremie
+alcremie-lemoncream-love:Alcremie (Crema de Limón-Amor)
 alcremie-lemoncream-loveDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-lemoncream-ribbon:Alcremie
+alcremie-lemoncream-ribbon:Alcremie (Crema de Limón-Cinta)
 alcremie-lemoncream-ribbonDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-lemoncream-star:Alcremie
+alcremie-lemoncream-star:Alcremie (Crema de Limón-Estrella)
 alcremie-lemoncream-starDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-lemoncream:Alcremie
+alcremie-lemoncream:Alcremie (Crema de Limón)
 alcremie-lemoncreamDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-matcha-cream-berry:Alcremie
+alcremie-matcha-cream-berry:Alcremie (Crema de Matcha-Baya)
 alcremie-matcha-cream-berryDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-matcha-cream-clover:Alcremie
+alcremie-matcha-cream-clover:Alcremie (Crema de Matcha-Trébol)
 alcremie-matcha-cream-cloverDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-matcha-cream-flower:Alcremie
+alcremie-matcha-cream-flower:Alcremie (Crema de Matcha-Flor)
 alcremie-matcha-cream-flowerDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-matcha-cream-love:Alcremie
+alcremie-matcha-cream-love:Alcremie (Crema de Matcha-Amor)
 alcremie-matcha-cream-loveDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-matcha-cream-ribbon:Alcremie
+alcremie-matcha-cream-ribbon:Alcremie (Crema de Matcha-Cinta)
 alcremie-matcha-cream-ribbonDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-matcha-cream-star:Alcremie
+alcremie-matcha-cream-star:Alcremie (Crema de Matcha-Estrella)
 alcremie-matcha-cream-starDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-matchacream-berry:Alcremie
+alcremie-matchacream-berry:Alcremie (Crema Matcha-Baya)
 alcremie-matchacream-berryDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-matchacream-clover:Alcremie
+alcremie-matchacream-clover:Alcremie (Crema Matcha-Trébol)
 alcremie-matchacream-cloverDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-matchacream-flower:Alcremie
+alcremie-matchacream-flower:Alcremie (Crema Matcha-Flor)
 alcremie-matchacream-flowerDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-matchacream-love:Alcremie
+alcremie-matchacream-love:Alcremie (Crema Matcha-Amor)
 alcremie-matchacream-loveDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-matchacream-ribbon:Alcremie
+alcremie-matchacream-ribbon:Alcremie (Crema Matcha-Cinta)
 alcremie-matchacream-ribbonDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-matchacream-star:Alcremie
+alcremie-matchacream-star:Alcremie (Crema Matcha-Estrella)
 alcremie-matchacream-starDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-matchacream:Alcremie
+alcremie-matchacream:Alcremie (Crema Matcha)
 alcremie-matchacreamDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-mint-cream-berry:Alcremie
+alcremie-mint-cream-berry:Alcremie (Crema de Menta-Baya)
 alcremie-mint-cream-berryDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-mint-cream-clover:Alcremie
+alcremie-mint-cream-clover:Alcremie (Crema de Menta-Trébol)
 alcremie-mint-cream-cloverDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-mint-cream-flower:Alcremie
+alcremie-mint-cream-flower:Alcremie (Crema de Menta-Flor)
 alcremie-mint-cream-flowerDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-mint-cream-love:Alcremie
+alcremie-mint-cream-love:Alcremie (Crema de Menta-Amor)
 alcremie-mint-cream-loveDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-mint-cream-ribbon:Alcremie
+alcremie-mint-cream-ribbon:Alcremie (Crema de Menta-Cinta)
 alcremie-mint-cream-ribbonDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-mint-cream-star:Alcremie
+alcremie-mint-cream-star:Alcremie (Crema de Menta-Estrella)
 alcremie-mint-cream-starDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-mintcream-berry:Alcremie
+alcremie-mintcream-berry:Alcremie (Menta-Crema-Baya)
 alcremie-mintcream-berryDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-mintcream-clover:Alcremie
+alcremie-mintcream-clover:Alcremie (Menta-Crema-Trébol)
 alcremie-mintcream-cloverDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-mintcream-flower:Alcremie
+alcremie-mintcream-flower:Alcremie (Menta-Crema-Flor)
 alcremie-mintcream-flowerDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-mintcream-love:Alcremie
+alcremie-mintcream-love:Alcremie (Menta-Crema-Amor)
 alcremie-mintcream-loveDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-mintcream-ribbon:Alcremie
+alcremie-mintcream-ribbon:Alcremie (Menta-Crema-Cinta)
 alcremie-mintcream-ribbonDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-mintcream-star:Alcremie
+alcremie-mintcream-star:Alcremie (Menta-Crema-Estrella)
 alcremie-mintcream-starDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-mintcream:Alcremie
+alcremie-mintcream:Alcremie (Menta-Crema)
 alcremie-mintcreamDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-rainbow-swirl-berry:Alcremie
+alcremie-rainbow-swirl-berry:Alcremie (Remolino-Arcoíris-Baya)
 alcremie-rainbow-swirl-berryDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-rainbow-swirl-clover:Alcremie
+alcremie-rainbow-swirl-clover:Alcremie (Remolino-Arcoíris-Trébol)
 alcremie-rainbow-swirl-cloverDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-rainbow-swirl-flower:Alcremie
+alcremie-rainbow-swirl-flower:Alcremie (Remolino-Arcoíris-Flor)
 alcremie-rainbow-swirl-flowerDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-rainbow-swirl-love:Alcremie
+alcremie-rainbow-swirl-love:Alcremie (Remolino-Arcoíris-Amor)
 alcremie-rainbow-swirl-loveDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-rainbow-swirl-ribbon:Alcremie
+alcremie-rainbow-swirl-ribbon:Alcremie (Remolino-Arcoíris-Cinta)
 alcremie-rainbow-swirl-ribbonDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-rainbow-swirl-star:Alcremie
+alcremie-rainbow-swirl-star:Alcremie (Remolino-Arcoíris-Estrella)
 alcremie-rainbow-swirl-starDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-rainbowswirl-berry:Alcremie
+alcremie-rainbowswirl-berry:Alcremie (Remolinoarcoíris-Baya)
 alcremie-rainbowswirl-berryDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-rainbowswirl-clover:Alcremie
+alcremie-rainbowswirl-clover:Alcremie (Remolinoarcoíris-Trébol)
 alcremie-rainbowswirl-cloverDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-rainbowswirl-flower:Alcremie
+alcremie-rainbowswirl-flower:Alcremie (Remolinoarcoíris-Flor)
 alcremie-rainbowswirl-flowerDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-rainbowswirl-love:Alcremie
+alcremie-rainbowswirl-love:Alcremie (Remolinoarcoíris-Amor)
 alcremie-rainbowswirl-loveDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-rainbowswirl-ribbon:Alcremie
+alcremie-rainbowswirl-ribbon:Alcremie (Remolinoarcoíris-Cinta)
 alcremie-rainbowswirl-ribbonDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-rainbowswirl-star:Alcremie
+alcremie-rainbowswirl-star:Alcremie (Remolinoarcoíris-Estrella)
 alcremie-rainbowswirl-starDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-rainbowswirl:Alcremie
+alcremie-rainbowswirl:Alcremie (Remolinoarcoíris)
 alcremie-rainbowswirlDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-ruby-cream-berry:Alcremie
+alcremie-ruby-cream-berry:Alcremie (Rubí-Crema-Baya)
 alcremie-ruby-cream-berryDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-ruby-cream-clover:Alcremie
+alcremie-ruby-cream-clover:Alcremie (Rubí-Crema-Trébol)
 alcremie-ruby-cream-cloverDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-ruby-cream-flower:Alcremie
+alcremie-ruby-cream-flower:Alcremie (Rubí-Crema-Flor)
 alcremie-ruby-cream-flowerDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-ruby-cream-love:Alcremie
+alcremie-ruby-cream-love:Alcremie (Rubí-Crema-Amor)
 alcremie-ruby-cream-loveDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-ruby-cream-ribbon:Alcremie
+alcremie-ruby-cream-ribbon:Alcremie (Rubí-Crema-Cinta)
 alcremie-ruby-cream-ribbonDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-ruby-cream-star:Alcremie
+alcremie-ruby-cream-star:Alcremie (Rubí-Crema-Estrella)
 alcremie-ruby-cream-starDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-ruby-swirl-berry:Alcremie
+alcremie-ruby-swirl-berry:Alcremie (Rubí-Remolino-Baya)
 alcremie-ruby-swirl-berryDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-ruby-swirl-clover:Alcremie
+alcremie-ruby-swirl-clover:Alcremie (Rubí-Remolino-Trébol)
 alcremie-ruby-swirl-cloverDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-ruby-swirl-flower:Alcremie
+alcremie-ruby-swirl-flower:Alcremie (Rubí-Remolino-Flor)
 alcremie-ruby-swirl-flowerDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-ruby-swirl-love:Alcremie
+alcremie-ruby-swirl-love:Alcremie (Rubí-Remolino-Amor)
 alcremie-ruby-swirl-loveDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-ruby-swirl-ribbon:Alcremie
+alcremie-ruby-swirl-ribbon:Alcremie (Rubí-Remolino-Cinta)
 alcremie-ruby-swirl-ribbonDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-ruby-swirl-star:Alcremie
+alcremie-ruby-swirl-star:Alcremie (Rubí-Remolino-Estrella)
 alcremie-ruby-swirl-starDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-rubycream-berry:Alcremie
+alcremie-rubycream-berry:Alcremie (Rubicrema-Baya)
 alcremie-rubycream-berryDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-rubycream-clover:Alcremie
+alcremie-rubycream-clover:Alcremie (Rubicrema-Trébol)
 alcremie-rubycream-cloverDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-rubycream-flower:Alcremie
+alcremie-rubycream-flower:Alcremie (Rubicrema-Flor)
 alcremie-rubycream-flowerDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-rubycream-love:Alcremie
+alcremie-rubycream-love:Alcremie (Rubicrema-Amor)
 alcremie-rubycream-loveDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-rubycream-ribbon:Alcremie
+alcremie-rubycream-ribbon:Alcremie (Rubicrema-Cinta)
 alcremie-rubycream-ribbonDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-rubycream-star:Alcremie
+alcremie-rubycream-star:Alcremie (Rubicrema-Estrella)
 alcremie-rubycream-starDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-rubycream:Alcremie
+alcremie-rubycream:Alcremie (Rubicrema)
 alcremie-rubycreamDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-rubyswirl-berry:Alcremie
+alcremie-rubyswirl-berry:Alcremie (Rubiremolino-Baya)
 alcremie-rubyswirl-berryDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-rubyswirl-clover:Alcremie
+alcremie-rubyswirl-clover:Alcremie (RemolinoRubí-Trébol)
 alcremie-rubyswirl-cloverDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-rubyswirl-flower:Alcremie
+alcremie-rubyswirl-flower:Alcremie (RemolinoRubí-Flor)
 alcremie-rubyswirl-flowerDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-rubyswirl-love:Alcremie
+alcremie-rubyswirl-love:Alcremie (RemolinoRubí-Amor)
 alcremie-rubyswirl-loveDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-rubyswirl-ribbon:Alcremie
+alcremie-rubyswirl-ribbon:Alcremie (RemolinoRubí-Cinta)
 alcremie-rubyswirl-ribbonDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-rubyswirl-star:Alcremie
+alcremie-rubyswirl-star:Alcremie (RemolinoRubí-Estrella)
 alcremie-rubyswirl-starDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-rubyswirl:Alcremie
+alcremie-rubyswirl:Alcremie (RemolinoRubí)
 alcremie-rubyswirlDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-salted-cream-berry:Alcremie
+alcremie-salted-cream-berry:Alcremie (CremaSalada-Baya)
 alcremie-salted-cream-berryDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-salted-cream-clover:Alcremie
+alcremie-salted-cream-clover:Alcremie (CremaSalada-Trébol)
 alcremie-salted-cream-cloverDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-salted-cream-flower:Alcremie
+alcremie-salted-cream-flower:Alcremie (CremaSalada-Flor)
 alcremie-salted-cream-flowerDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-salted-cream-love:Alcremie
+alcremie-salted-cream-love:Alcremie (CremaSalada-Amor)
 alcremie-salted-cream-loveDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-salted-cream-ribbon:Alcremie
+alcremie-salted-cream-ribbon:Alcremie (CremaSalada-Cinta)
 alcremie-salted-cream-ribbonDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-salted-cream-star:Alcremie
+alcremie-salted-cream-star:Alcremie (CremaSalada-Estrella)
 alcremie-salted-cream-starDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-saltedcream-berry:Alcremie
+alcremie-saltedcream-berry:Alcremie (Cremasalada-Baya)
 alcremie-saltedcream-berryDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-saltedcream-clover:Alcremie
+alcremie-saltedcream-clover:Alcremie (Cremasalada-Trébol)
 alcremie-saltedcream-cloverDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-saltedcream-flower:Alcremie
+alcremie-saltedcream-flower:Alcremie (Cremasalada-Flor)
 alcremie-saltedcream-flowerDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-saltedcream-love:Alcremie
+alcremie-saltedcream-love:Alcremie (Cremasalada-Amor)
 alcremie-saltedcream-loveDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-saltedcream-ribbon:Alcremie
+alcremie-saltedcream-ribbon:Alcremie (Cremasalada-Cinta)
 alcremie-saltedcream-ribbonDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-saltedcream-star:Alcremie
+alcremie-saltedcream-star:Alcremie (Cremasalada-Estrella)
 alcremie-saltedcream-starDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-saltedcream:Alcremie
+alcremie-saltedcream:Alcremie (Cremasalada)
 alcremie-saltedcreamDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-vanilla-cream-berry:Alcremie
+alcremie-vanilla-cream-berry:Alcremie (CremaVainilla-Baya)
 alcremie-vanilla-cream-berryDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-vanilla-cream-clover:Alcremie
+alcremie-vanilla-cream-clover:Alcremie (Crema-Vainilla-Trebol)
 alcremie-vanilla-cream-cloverDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-vanilla-cream-flower:Alcremie
+alcremie-vanilla-cream-flower:Alcremie (Crema-Vainilla-Flor)
 alcremie-vanilla-cream-flowerDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-vanilla-cream-love:Alcremie
+alcremie-vanilla-cream-love:Alcremie (Crema-Vainilla-Amor)
 alcremie-vanilla-cream-loveDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-vanilla-cream-ribbon:Alcremie
+alcremie-vanilla-cream-ribbon:Alcremie (Crema-Vainilla-Cinta)
 alcremie-vanilla-cream-ribbonDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-vanilla-cream-star:Alcremie
+alcremie-vanilla-cream-star:Alcremie (Crema-Vainilla-Estrella)
 alcremie-vanilla-cream-starDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-vanillacream-berry:Alcremie
+alcremie-vanillacream-berry:Alcremie (Crema de Vainilla-Baya)
 alcremie-vanillacream-berryDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-vanillacream-clover:Alcremie
+alcremie-vanillacream-clover:Alcremie (Crema de Vainilla-Trebol)
 alcremie-vanillacream-cloverDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-vanillacream-flower:Alcremie
+alcremie-vanillacream-flower:Alcremie (Crema de Vainilla-Flor)
 alcremie-vanillacream-flowerDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-vanillacream-love:Alcremie
+alcremie-vanillacream-love:Alcremie (Crema de Vainilla-Amor)
 alcremie-vanillacream-loveDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-vanillacream-ribbon:Alcremie
+alcremie-vanillacream-ribbon:Alcremie (Crema de Vainilla-Cinta)
 alcremie-vanillacream-ribbonDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
-alcremie-vanillacream-star:Alcremie
+alcremie-vanillacream-star:Alcremie (Crema de Vainilla-Estrella)
 alcremie-vanillacream-starDescription:Los proyectiles de nata que dispara tienen un aporte energético de 100 000 kcal y provocan fuertes mareos a quienes alcanzan.
 ambipom-f:Ambipom
 ambipom-fDescription:Utiliza las dos colas para todo. Cuando abraza a alguien con ellas significa que esa persona se ha ganado por completo su confianza.
@@ -2382,17 +2382,17 @@ blaziken-f:Blaziken
 blaziken-fDescription:Blaziken tiene unas piernas tan fuertes que puede saltar por encima de un edificio de 30 pisos con facilidad. Además, da unos puñetazos fulminantes que dejan al oponente chamuscado y lleno de tizne.
 buizel-f:Buizel
 buizel-fDescription:Hincha el flotador de su cuello para flotar y saca la cabeza de la superficie del agua para explorar sus alrededores.
-burmy-sandy:Burmy
+burmy-sandy:Burmy (Arena)
 burmy-sandyDescription:Si su caparazón se rompe en combate, lo rehace rápidamente con lo que tenga a mano.
-burmy-trash:Burmy
+burmy-trash:Burmy (Basura)
 burmy-trashDescription:Si su caparazón se rompe en combate, lo rehace rápidamente con lo que tenga a mano.
 butterfree-gmax:Gmax Butterfree
 butterfree-gmaxDescription:Recoge néctar a diario y se lo adhiere al pelo de las patas para llevarlo a su nido.
 cacturne-f:Cacturne
 cacturne-fDescription:Cuando alguien se adentra en un desierto por la noche, Cacturne le sigue junto con varios de los suyos. Este Pokémon espera pacientemente a que el viajero se fatigue y no pueda continuar más, vencido por el cansancio.
-calyrex-ice:Calyrex
+calyrex-ice:Calyrex (Hielo)
 calyrex-iceDescription:not avaliable
-calyrex-shadow:Calyrex
+calyrex-shadow:Calyrex (Sombra)
 calyrex-shadowDescription:not avaliable
 camerupt-f:Camerupt
 camerupt-fDescription:Las jorobas de Camerupt se originaron por una deformación de los huesos. A veces escupen magma líquido, sobre todo cuando el Pokémon se enfada.
@@ -2404,7 +2404,7 @@ charizard-megax:Charizard MegaX
 charizard-megaxDescription:Sus potentes alas le permiten volar a una altura de 1400 m. Escupe llamaradas que llegan a alcanzar temperaturas elevadísimas.
 charizard-megay:Charizard MegaY
 charizard-megayDescription:Sus potentes alas le permiten volar a una altura de 1400 m. Escupe llamaradas que llegan a alcanzar temperaturas elevadísimas.
-cherrim-sunshine:Cherrim
+cherrim-sunshine:Cherrim (Sol)
 cherrim-sunshineDescription:Cuando abre sus pétalos, libera una sutil fragancia que atrae a los Pokémon insecto.
 coalossal-gmax:Gmax Coalossal
 coalossal-gmaxDescription:Dicen que hace tiempo salvó incontables vidas de una cruenta ola de frío usando su cuerpo a modo de estufa gigante.
@@ -2430,11 +2430,11 @@ darmanitan-galarzen:Gal Darmanitan
 darmanitan-galarzenDescription:Su fuerza aumenta cuanto más se aviva su fuego interior, que puede alcanzar temperaturas superiores a los 1400 °C.
 darumaka-galar:Gal Darumaka
 darumaka-galarDescription:Cuanto menor es su temperatura corporal, mejor se siente. Juega a lanzar las bolas de nieve que crea congelando el aliento.
-deerling-autumn:Deerling
+deerling-autumn:Deerling (Otoño)
 deerling-autumnDescription:Durante los cambios de estación, su pelaje y olor cambian. Esto anuncia el comienzo de una estación.
-deerling-summer:Deerling
+deerling-summer:Deerling (Verano)
 deerling-summerDescription:Durante los cambios de estación, su pelaje y olor cambian. Esto anuncia el comienzo de una estación.
-deerling-winter:Deerling
+deerling-winter:Deerling (Invierno)
 deerling-winterDescription:Durante los cambios de estación, su pelaje y olor cambian. Esto anuncia el comienzo de una estación.
 donphan-f:Donphan
 donphan-fDescription:Si Donphan tuviera que dar un golpe con todo el cuerpo, con lo robusto que es echaría abajo hasta una casa. Estos Pokémon usan su fuerza para ayudar a despejar pasos de montaña cuando hay piedras o lodo.
@@ -2446,63 +2446,63 @@ dustox-f:Dustox
 dustox-fDescription:Cuando Dustox bate las alas, libera un polvillo fino que en realidad es un peligroso veneno que puede resultar dañino hasta al más fuerte de los fuertes. Las antenas le sirven de radar para buscar comida.
 eevee-gmax:Gmax Eevee
 eevee-gmaxDescription:Su irregular estructura genética alberga el secreto de la capacidad que posee este Pokémon tan especial para adoptar evoluciones muy variadas.
-eevee-starter:Eevee
+eevee-starter:Eevee (Inicial)
 eevee-starterDescription:Su irregular estructura genética alberga el secreto de la capacidad que posee este Pokémon tan especial para adoptar evoluciones muy variadas.
-eiscue-noice:Eiscue
+eiscue-noice:Eiscue (Fresco)
 eiscue-noiceDescription:Se enfría constantemente la cara con hielo por su escasa resistencia al calor. Utiliza el pelo de la cabeza para pescar en el mar.
-eternatus-eternamax:Eternatus
+eternatus-eternamax:Eternatus (Eternamax)
 eternatus-eternamaxDescription:Fue hallado en el interior de un meteorito caído hace 20 000 años. Por lo visto, está relacionado con el misterio que rodea al fenómeno Dinamax.
 farfetchd-galar:Gal Farfetch’d
 farfetchd-galarDescription:Los Farfetch’d de Galar han adoptado esta forma de tanto blandir los puerros típicos de la región, que son gruesos y largos.
 finneon-f:Finneon
 finneon-fDescription:Por el día permanece cerca de la superficie y se retira a las profundidades por la noche. Atrae a las presas con sus brillantes aletas caudales.
-flabebe-blue:Flabébé
+flabebe-blue:Flabébé (Azul)
 flabebe-blueDescription:Acumula el polen de las flores para confeccionar la tiara que lleva en la cabeza, que cuenta con propiedades curativas.
-flabebe-orange:Flabébé
+flabebe-orange:Flabébé (Naranja)
 flabebe-orangeDescription:Acumula el polen de las flores para confeccionar la tiara que lleva en la cabeza, que cuenta con propiedades curativas.
-flabebe-white:Flabébé
+flabebe-white:Flabébé (Blanco)
 flabebe-whiteDescription:Acumula el polen de las flores para confeccionar la tiara que lleva en la cabeza, que cuenta con propiedades curativas.
-flabebe-yellow:Flabébé
+flabebe-yellow:Flabébé (Amarillo)
 flabebe-yellowDescription:Acumula el polen de las flores para confeccionar la tiara que lleva en la cabeza, que cuenta con propiedades curativas.
 flapple-gmax:Gmax Flapple
 flapple-gmaxDescription:Escupe una saliva sumamente ácida y vuela con sus alas compuestas por piel de manzana, cuyo aspecto es capaz de adoptar.
 floatzel-f:Floatzel
 floatzel-fDescription:Su flotador se desarrolló a raíz de perseguir presas acuáticas. También sirve como balsa.
-floette-blue:Floette
+floette-blue:Floette (Azul)
 floette-blueDescription:Confiere su poder a las flores y cuida de ellas con mucho esmero; no perdona que destruyan los campos donde estas crecen.
-floette-orange:Floette
+floette-orange:Floette (Naranja)
 floette-orangeDescription:Confiere su poder a las flores y cuida de ellas con mucho esmero; no perdona que destruyan los campos donde estas crecen.
-floette-white:Floette
+floette-white:Floette (Blanco)
 floette-whiteDescription:Confiere su poder a las flores y cuida de ellas con mucho esmero; no perdona que destruyan los campos donde estas crecen.
-floette-yellow:Floette
+floette-yellow:Floette (Amarillo)
 floette-yellowDescription:Confiere su poder a las flores y cuida de ellas con mucho esmero; no perdona que destruyan los campos donde estas crecen.
-florges-blue:Florges
+florges-blue:Florges (Azul)
 florges-blueDescription:Su esperanza de vida asciende a varios siglos y dedica toda su dilatada existencia al cuidado de los jardines.
-florges-orange:Florges
+florges-orange:Florges (Naranja)
 florges-orangeDescription:Su esperanza de vida asciende a varios siglos y dedica toda su dilatada existencia al cuidado de los jardines.
-florges-white:Florges
+florges-white:Florges (Blanco)
 florges-whiteDescription:Su esperanza de vida asciende a varios siglos y dedica toda su dilatada existencia al cuidado de los jardines.
-florges-yellow:Florges
+florges-yellow:Florges (Amarillo)
 florges-yellowDescription:Su esperanza de vida asciende a varios siglos y dedica toda su dilatada existencia al cuidado de los jardines.
 frillish-f:Frillish
 frillish-fDescription:Sus tentáculos en forma de velo albergan miles de púas tóxicas, que son ligeramente más largas en el caso de las hembras.
-furfrou-dandy:Furfrou
+furfrou-dandy:Furfrou (Chic)
 furfrou-dandyDescription:El pelo le crece sin cesar, pero solo deja que se lo corten aquellos de quienes se fía plenamente.
-furfrou-debutante:Furfrou
+furfrou-debutante:Furfrou (Debutante)
 furfrou-debutanteDescription:El pelo le crece sin cesar, pero solo deja que se lo corten aquellos de quienes se fía plenamente.
-furfrou-diamond:Furfrou
+furfrou-diamond:Furfrou (Diamante)
 furfrou-diamondDescription:El pelo le crece sin cesar, pero solo deja que se lo corten aquellos de quienes se fía plenamente.
-furfrou-heart:Furfrou
+furfrou-heart:Furfrou (Corazón)
 furfrou-heartDescription:El pelo le crece sin cesar, pero solo deja que se lo corten aquellos de quienes se fía plenamente.
-furfrou-kabuki:Furfrou
+furfrou-kabuki:Furfrou (Kabuki)
 furfrou-kabukiDescription:El pelo le crece sin cesar, pero solo deja que se lo corten aquellos de quienes se fía plenamente.
-furfrou-lareine:Furfrou
+furfrou-lareine:Furfrou (Reina)
 furfrou-lareineDescription:El pelo le crece sin cesar, pero solo deja que se lo corten aquellos de quienes se fía plenamente.
-furfrou-matron:Furfrou
+furfrou-matron:Furfrou (Matrona)
 furfrou-matronDescription:El pelo le crece sin cesar, pero solo deja que se lo corten aquellos de quienes se fía plenamente.
-furfrou-pharaoh:Furfrou
+furfrou-pharaoh:Furfrou (Faraón)
 furfrou-pharaohDescription:El pelo le crece sin cesar, pero solo deja que se lo corten aquellos de quienes se fía plenamente.
-furfrou-star:Furfrou
+furfrou-star:Furfrou (Estrella)
 furfrou-starDescription:El pelo le crece sin cesar, pero solo deja que se lo corten aquellos de quienes se fía plenamente.
 gabite-f:Gabite
 gabite-fDescription:Muda la piel a medida que crece. Las escamas que pierde se pueden pulverizar para utilizar como ingrediente en remedios medicinales.
@@ -2510,15 +2510,15 @@ garbodor-gmax:Gmax Garbodor
 garbodor-gmaxDescription:El veneno líquido que brota de su brazo derecho es tan nocivo que puede acabar con una criatura ya débil al menor contacto.
 garchomp-f:Garchomp
 garchomp-fDescription:Sus escamas, pequeñas, lisas y afiladas, no solo lo hacen más aerodinámico, sino que le sirven para herir al rival que ose atacarlo.
-gastrodon-east:Gastrodon
+gastrodon-east:Gastrodon (Este)
 gastrodon-eastDescription:Lo recubre una sustancia viscosa. Se resiente cuando se seca, de modo que no puede permanecer mucho tiempo en tierra firme.
-genesect-burn:Genesect
+genesect-burn:Genesect (Quemadura)
 genesect-burnDescription:Un Pokémon de hace 300 millones de años y alterado por el Equipo Plasma, quienes le han equipado con un cañón en el lomo.
-genesect-chill:Genesect
+genesect-chill:Genesect (Frío)
 genesect-chillDescription:Un Pokémon de hace 300 millones de años y alterado por el Equipo Plasma, quienes le han equipado con un cañón en el lomo.
-genesect-douse:Genesect
+genesect-douse:Genesect (Inundación)
 genesect-douseDescription:Un Pokémon de hace 300 millones de años y alterado por el Equipo Plasma, quienes le han equipado con un cañón en el lomo.
-genesect-shock:Genesect
+genesect-shock:Genesect (Choque)
 genesect-shockDescription:Un Pokémon de hace 300 millones de años y alterado por el Equipo Plasma, quienes le han equipado con un cañón en el lomo.
 gengar-gmax:Gmax Gengar
 gengar-gmaxDescription:Tiende trampas mortales: quienes osan acercarse a su boca escuchan la llamada de sus seres queridos.
@@ -2528,7 +2528,7 @@ girafarig-f:Girafarig
 girafarig-fDescription:La cabeza trasera de Girafarig tiene un cerebro muy pequeño para pensar, pero, como no le hace falta dormir, al menos puede hacer de centinela las 24 horas del día.
 gligar-f:Gligar
 gligar-fDescription:Gligar planea por el aire sin hacer ningún ruido, como si fuera patinando. Este Pokémon se agarra a la cara de su rival con las patas traseras, con forma de garra, y las pinzas de las delanteras y le inyecta veneno por el aguijón.
-greninja-ash:Greninja
+greninja-ash:Greninja (Ceniza)
 greninja-ashDescription:Aparece y desaparece de improvisto, cual ninja. Marea al oponente con su soberbia agilidad y lo hace trizas con sus Shuriken de Agua.
 grimmsnarl-gmax:Gmax Grimmsnarl
 grimmsnarl-gmaxDescription:Su cabello desempeña una función similar a la de fibras musculares. Al soltárselo, su movimiento tentacular le permite reducir a su objetivo.
@@ -2574,7 +2574,7 @@ luxray-f:Luxray
 luxray-fDescription:Duerme durante largos períodos para recuperar la enorme cantidad de electricidad que consume al usar su capacidad para ver a través de objetos.
 machamp-gmax:Machamp Gigamax
 machamp-gmaxDescription:Puede dar varios puñetazos de una sola vez gracias a sus cuatro brazos. Golpea más rápido de lo que piensa.
-magearna-original:Magearna
+magearna-original:Magearna (Original)
 magearna-originalDescription:Pokémon artificial creado por científicos hace unos 500 años. Su verdadera esencia es una pieza llamada Coránima.
 magikarp-f:Magikarp
 magikarp-fDescription:Este Pokémon débil y patético se limita a dejarse llevar por la corriente cuando esta tiene fuerza.
@@ -2600,7 +2600,7 @@ mewtwo-megay:Mewtwo MegaY
 mewtwo-megayDescription:Su poder psíquico ha incrementado su masa muscular. Posee una fuerza de agarre de una tonelada y puede correr 100 m en dos segundos.
 milotic-f:Milotic
 milotic-fDescription:Se dice que su hermosa figura puede apaciguar el corazón de aquellos que tengan el ánimo alterado.
-mimikyu-busted:Mimikyu
+mimikyu-busted:Mimikyu (Roto)
 mimikyu-bustedDescription:Un investigador que miró dentro del saco para estudiar a este Pokémon perdió la vida a causa de una misteriosa enfermedad.
 minior-blue:Minior
 minior-blueDescription:Lo recubre un duro caparazón que se quiebra en pedazos al impactar con la superficie de la tierra.
@@ -2618,17 +2618,17 @@ moltres-galar:Gal Moltres
 moltres-galarDescription:Un Pokémon pájaro legendario. Cuando aletea sus flamígeras alas, la oscura noche se torna roja.
 minior-violet:Minior
 minior-violetDescription:Lo recubre un duro caparazón que se quiebra en pedazos al impactar con la superficie de la tierra.
-morpeko-hangry:Morpeko
+morpeko-hangry:Morpeko (Famélico)
 morpeko-hangryDescription:Siempre tiene apetito, sin importar lo mucho que coma. Lleva con sumo cuidado las semillas que ha tostado con su propia electricidad.
 mrmime-galar:Gal Mr. Mime
 mrmime-galarDescription:Emite un aire glacial por las plantas de los pies. Baila claqué con entusiasmo sobre las superficies que ha congelado.
 murkrow-f:Murkrow
 murkrow-fDescription:Busca objetos brillantes para su patrón. No cuenta con muchas simpatías, pues la gente lo considera ave de mal agüero.
-necrozma-dawnwings:Necrozma
+necrozma-dawnwings:Necrozma (Alas del Alba)
 necrozma-dawnwingsDescription:Tras someter a Solgaleo, Necrozma absorbe por la fuerza su energía ilimitada y siembra el caos y la destrucción por doquier.
-necrozma-duskmane:Necrozma
+necrozma-duskmane:Necrozma (Crin del Ocaso)
 necrozma-duskmaneDescription:Tras someter a Solgaleo, Necrozma absorbe por la fuerza su energía ilimitada y siembra el caos y la destrucción por doquier.
-necrozma-ultra:Necrozma
+necrozma-ultra:Necrozma (Ultra)
 necrozma-ultraDescription:Tras someter a Solgaleo, Necrozma absorbe por la fuerza su energía ilimitada y siembra el caos y la destrucción por doquier.
 numel-f:Numel
 numel-fDescription:Numel acumula en su interior un magma de 1200 °C. Si se moja, el magma se enfría y se solidifica. Cuando esto ocurre, aumenta su tamaño y se vuelve pesado y lento en sus movimientos.
@@ -2646,31 +2646,31 @@ pikachu-f:Pikachu
 pikachu-fDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
 pikachu-gmax:Pikachu Gigamax
 pikachu-gmaxDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
-pikachu-hoenn:Pikachu
+pikachu-hoenn:Pikachu (Hoenn)
 pikachu-hoennDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
-pikachu-kalos:Pikachu
+pikachu-kalos:Pikachu (Kalos)
 pikachu-kalosDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
-pikachu-original:Pikachu
+pikachu-original:Pikachu (Original)
 pikachu-originalDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
-pikachu-partner:Pikachu
+pikachu-partner:Pikachu (Compañero)
 pikachu-partnerDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
-pikachu-popstar:Pikachu
+pikachu-popstar:Pikachu (Estrella del Pop)
 pikachu-popstarDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
-pikachu-rockstar:Pikachu
+pikachu-rockstar:Pikachu (Estrella del Rock)
 pikachu-rockstarDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
-pikachu-sinnoh:Pikachu
+pikachu-sinnoh:Pikachu (Sinnoh)
 pikachu-sinnohDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
 pikachu-starter-f:Pikachu
 pikachu-starter-fDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
-pikachu-starter:Pikachu
+pikachu-starter:Pikachu (Inicial)
 pikachu-starterDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
-pikachu-unova:Pikachu
+pikachu-unova:Pikachu (Teselia)
 pikachu-unovaDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
 piloswine-f:Piloswine
 piloswine-fDescription:Aunque tiene las patas cortas, sus fuertes pezuñas le permiten caminar por la nieve sin resbalar.
 politoed-f:Politoed
 politoed-fDescription:Los machos emiten gritos muy potentes. Las hembras sienten predilección por los de voz grave e imponente.
-polteageist-antique:Polteageist
+polteageist-antique:Polteageist (Antiguo)
 polteageist-antiqueDescription:Si se enfada, el té que conforma su cuerpo se lanza a la boca del rival. El desdichado que lo ingiera sufrirá violentos escalofríos.
 ponyta-galar:Gal Ponyta
 ponyta-galarDescription:Puede leerle la mente a cualquiera con tan solo mirarle a los ojos. Si detecta algún pensamiento ruin, desaparece instantáneamente.
@@ -2692,17 +2692,17 @@ roserade-f:Roserade
 roserade-fDescription:Las toxinas de la mano derecha son de efecto inmediato, y las de la izquierda, retardado. No obstante, ambas pueden ser letales.
 sandaconda-gmax:Sandaconda Gigamax
 sandaconda-gmaxDescription:La manera tan particular que tiene de enrollarse sobre sí mismo le permite expulsar con mayor eficacia la arena que almacena en la bolsa.
-sawsbuck-autumn:Sawsbuck
+sawsbuck-autumn:Sawsbuck (Otoño)
 sawsbuck-autumnDescription:Migra con el cambio de estación, por lo que hay quien considera a Sawsbuck el heraldo de la primavera.
-sawsbuck-summer:Sawsbuck
+sawsbuck-summer:Sawsbuck (Verano)
 sawsbuck-summerDescription:Migra con el cambio de estación, por lo que hay quien considera a Sawsbuck el heraldo de la primavera.
-sawsbuck-winter:Sawsbuck
+sawsbuck-winter:Sawsbuck (Invierno)
 sawsbuck-winterDescription:Migra con el cambio de estación, por lo que hay quien considera a Sawsbuck el heraldo de la primavera.
 scizor-f:Scizor
 scizor-fDescription:Su potencia de ataque, que asombra dada su delgadez, se debe a que sus músculos están hechos de metal.
 scyther-f:Scyther
 scyther-fDescription:El territorio de un Scyther se identifica fácilmente por el gran número de árboles talados de forma indiscriminada en una misma zona del bosque.
-shellos-east:Shellos
+shellos-east:Shellos (Este)
 shellos-eastDescription:Su aspecto cambia en función de su entorno. En teoría, esta es la forma que adopta cuando habita en mares de aguas heladas.
 shiftry-f:Shiftry
 shiftry-fDescription:Vive sigiloso en lo más profundo del bosque. Se dice que con sus abanicos puede generar vientos gélidos.
@@ -2742,7 +2742,7 @@ silvally-steel:Steel Silvally
 silvally-steelDescription:Una vez despertado con éxito, puede cambiar de tipo y combatir, como cierto Pokémon de las leyendas. Esta es su forma de tipo steel.
 silvally-water:Water Silvally
 silvally-waterDescription:Una vez despertado con éxito, puede cambiar de tipo y combatir, como cierto Pokémon de las leyendas. Esta es su forma de tipo water.
-sinistea-antique:Sinistea
+sinistea-antique:Sinistea (Antiguo)
 sinistea-antiqueDescription:La taza de té donde se hospeda forma parte de una antigua y valiosa vajilla, de la que circulan numerosas falsificaciones.
 slowbro-galar:Gal Slowbro
 slowbro-galarDescription:Si estruja la lengua del Shellder que lo muerde, este expulsa un líquido altamente tóxico por la punta de la caracola.
@@ -2778,7 +2778,7 @@ toxicroak-f:Toxicroak
 toxicroak-fDescription:Cuando abate una presa, emite un croar de victoria a pleno pulmón. Está emparentado con los Seismitoad.
 toxtricity-gmax:Toxtricity Gigamax
 toxtricity-gmaxDescription:Su propio veneno le afecta al cerebro y le hace perder el control. Cuando esto ocurre, transpira un sudor tóxico que contamina el terreno.
-toxtricity-lowkey:Toxtricity
+toxtricity-lowkey:Toxtricity (Discreto)
 toxtricity-lowkeyDescription:Su propio veneno le afecta al cerebro y le hace perder el control. Cuando esto ocurre, transpira un sudor tóxico que contamina el terreno.
 unfezant-f:Unfezant
 unfezant-fDescription:Es un Pokémon muy inteligente y orgulloso. Se tiene en alta estima a aquellos que se convierten en sus Entrenadores.
@@ -2838,13 +2838,13 @@ unown-z:Unown
 unown-zDescription:Estos Pokémon tienen forma de caracteres antiguos. No se sabe qué surgió primero, si la vieja escritura o los distintos Unown. Esta cuestión sigue siendo objeto de estudio, pero aún no se ha averiguado nada.
 ursaring-f:Ursaring
 ursaring-fDescription:En los bosques habitados por Ursaring, dicen que abundan los arroyos y árboles gigantes en los que guardan su alimento. Este Pokémon se dedica todos los días a pasear por el bosque para buscar comida y guardarla.
-urshifu-rapidstrike:Urshifu
+urshifu-rapidstrike:Urshifu (Golpe Fluido)
 urshifu-rapidstrikeDescription:Vive en zonas montañosas en áreas recónditas, donde entrena corriendo por escarpados riscos para fortalecer sus piernas y refinar su técnica.
 weavile-f:Weavile
 weavile-fDescription:Se comunican mediante marcas que tallan con sus garras. Se cree que tienen un repertorio de más de 500.
 weezing-galar:Gal Weezing
 weezing-galarDescription:Se desconoce el motivo, pero adoptó esta forma tiempo atrás, cuando las numerosas chimeneas de las fábricas de la región contaminaban el aire.
-wishiwashi-school:Wishiwashi
+wishiwashi-school:Wishiwashi (Banco)
 wishiwashi-schoolDescription:Los Wishiwashi se agrupan en bancos para enfrentarse a rivales fuertes. Si resultan heridos, se dispersan y vuelven a quedarse solos.
 wobbuffet-f:Wobbuffet
 wobbuffet-fDescription:Para mantener oculta su negra cola, vive en silencio en la oscuridad. Nunca ataca primero.
@@ -2852,25 +2852,25 @@ wooper-f:Wooper
 wooper-fDescription:Cuando se desplaza en tierra firme, cubre su cuerpo con una membrana mucosa y venenosa para mantener hidratada la piel.
 xatu-f:Xatu
 xatu-fDescription:Este extraño Pokémon puede ver el pasado y el futuro. Se pasa el día mirando al sol.
-xerneas-neutral:Xerneas
+xerneas-neutral:Xerneas (Neutral)
 xerneas-neutralDescription:Cuando los cuernos de su cabeza brillan en siete colores, se dice que comparte el don de la vida eterna.
 yamask-galar:Gal Yamask
 yamask-galarDescription:Surgió del alma de una persona que vivió en tiempos remotos. Merodea por las ruinas en busca de alguien que reconozca su rostro.
-zacian-crowned:Zacian
+zacian-crowned:Zacian (Corona)
 zacian-crownedDescription:Hay quien lo considera una suerte de figura fraterna a la par que rival de Zamazenta, un Pokémon sumido en un profundo letargo.
-zamazenta-crowned:Zamazenta
+zamazenta-crowned:Zamazenta (Corona)
 zamazenta-crownedDescription:En esta forma, su capacidad defensiva es tal que puede bloquear con extrema facilidad incluso los ataques de un Pokémon Dinamax.
 zapdos-galar:Gal Zapdos
 zapdos-galarDescription:Este Pokémon pájaro legendario solo aparece cuando el cielo se torna oscuro y caen rayos sin cesar.
-zarude-dada:Zarude
+zarude-dada:Zarude (Dada)
 zarude-dadaDescription:Las lianas que le brotan del cuerpo nutren y fertilizan el mantillo del bosque cuando se le desprenden.
 zigzagoon-galar:Gal Zigzagoon
 zigzagoon-galarDescription:Parece ser que esta es la forma primitiva de Zigzagoon. Arma un alboroto tremendo a su alrededor cuando se mueve en zigzag.
 zubat-f:Zubat
 zubat-fDescription:Emite ultrasonidos que utiliza como sonar para evitar obstáculos cuando vuela.
-zygarde-10:Zygarde
+zygarde-10:Zygarde (10)
 zygarde-10Description:Según los rumores, puede adoptar una forma aún más poderosa cuando se enfrenta a quienquiera que amenace el ecosistema.
-zygarde-complete:Zygarde
+zygarde-complete:Zygarde (Completo)
 zygarde-completeDescription:Según los rumores, puede adoptar una forma aún más poderosa cuando se enfrenta a quienquiera que amenace el ecosistema.
 hisiuan-braviary:His Braviary
 hisiuan-braviaryDescription:Su carácter agresivo e irascible le ha hecho perder su puesto como transportista en Galar en favor de los Corviknight.
@@ -2880,7 +2880,7 @@ hisuian-goodra:His Goodra
 hisuian-goodraDescription:Ataca extendiendo sus largas antenas. La fuerza que despliega es 100 veces superior a la del puñetazo de un boxeador de peso pesado.
 hisuian-zoroark:His Zoroark
 hisuian-zoroarkDescription:With its disheveled white fur, it looks like an embodiment of death. Heedless of its own safety, Zoroark attacks its nemeses with a bitter energy so intense, it lacerates Zoroark's own body.
-hisuian-basculegion-female:Basculegion
+hisuian-basculegion-female:Basculegion de Hisui (Hembra)
 hisuian-basculegion-femaleDescription:Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal.
 gliscor-pcg:PCG Gliscor
 gliscor-pcgDescription:Vuela sin hacer nada de ruido. Con su larga cola captura a sus presas y las muerde con sus colmillos. (Art by Studio Karli)
@@ -2896,7 +2896,7 @@ hisuian-lilligant:His Lilligant
 hisuian-lilligantDescription:El aceite esencial que se extrae de su flor emana un aroma sublime, aunque su precio resulta desorbitado.
 hisuian-sneasel:His Sneasel
 hisuian-sneaselDescription:Es un Pokémon de naturaleza astuta y fiera. Se cuela en los nidos de otros Pokémon cuando no están y roba sus huevos.
-hisuian-basculegion-male:Basculegion
+hisuian-basculegion-male:Basculegion de Hisui (Macho)
 hisuian-basculegion-maleDescription:Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal.
 ursaluna:Ursaluna
 ursalunaDescription:I believe it was Hisui's swampy terrain that gave Ursaluna its burly physique and newfound capacity to manipulate peat at will.
@@ -2910,7 +2910,7 @@ kleavor:Kleavor
 kleavorDescription:A violent creature that fells towering trees with its crude axes and shields itself with hard stone. If one should chance upon this Pokémon in the wilds, one's only recourse is to flee.
 hisuian-avalugg:His Avalugg
 hisuian-avaluggDescription:Las fisuras de su cuerpo se agrandan durante el día, pero por la noche vuelven a cerrarse.
-basculin-white-striped:Basculin
+basculin-white-striped:Basculin (Rayas Blancas)
 basculin-white-stripedDescription:Un alimento básico de la dieta de antaño. A los jóvenes se les daba Basculin de raya roja por su alto contenido en ácidos grasos.
 ninetales-pcg:PCG Ninetales
 ninetales-pcgDescription:Muy inteligente y vengativo. Agarrar una de sus colas podría traer 1000 años de mala suerte. (Art by Beliwolfi & Lenathepanda)
@@ -2958,7 +2958,7 @@ oranguru-pcg:PCG Oranguru
 oranguru-pcgDescription:Conoce hasta el último rincón del bosque y, si encuentra un Pokémon herido, va en busca de hierbas medicinales para curarlo. (Art by T_M_B_O)
 magnezone-retro:Magnezone (Retro)
 magnezone-retroDescription:Se piensa que estuvo expuesto a un campo magnético especial que alteró su estructura molecular e hizo que evolucionara.
-enamorus-incarnate:Enamorus
+enamorus-incarnate:Enamorus (Encarnado)
 enamorus-incarnateDescription:When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon's love gives rise to the budding of fresh life across Hisui.
 sprigatito:Sprigatito
 sprigatitoDescription:The sweet scent its body gives off mesmerizes those around it. The scent grows stronger when this Pokémon is in the sun.
@@ -2980,7 +2980,7 @@ quaquaval:Quaquaval
 quaquavalDescription:Dancing in ways that evoke far-away places, this Pokémon mesmerizes all that see it. Flourishes of its decorative water feathers slice into its foes.
 lechonk:Lechonk
 lechonkDescription:This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest.
-oinkologne-male:Oinkologne
+oinkologne-male:Oinkologne (Macho)
 oinkologne-maleDescription:It entrances female Pokémon with the sweet, alluring scent that wafts from all over its body.
 tarountula:Tarountula
 tarountulaDescription:The thread it secretes from its rear is as strong as wire. The secret behind the thread’s strength is the topic of ongoing research.
@@ -2998,7 +2998,7 @@ pawmot:Pawmot
 pawmotDescription:Pawmot’s fluffy fur acts as a battery. It can store the same amount of electricity as an electric car.
 tandemaus:Tandemaus
 tandemausDescription:The pair sticks together no matter what. They split any food they find exactly in half and then eat it together.
-maushold-family-of-four:Maushold
+maushold-family-of-four:Maushold (Familia de Cuatro)
 maushold-family-of-fourDescription:The larger pair protects the little ones during battles. When facing strong opponents, the whole group will join the fight.
 fidough:Fidough
 fidoughDescription:The yeast in Fidough’s breath is useful for cooking, so this Pokémon has been protected by people since long ago.
@@ -3010,7 +3010,7 @@ dolliv:Dolliv
 dollivDescription:It basks in the sun to its heart’s content until the fruits on its head ripen. After that, Dolliv departs from human settlements and goes on a journey.
 arboliva:Arboliva
 arbolivaDescription:This Pokémon drives back enemies by launching its rich, aromatic oil at them with enough force to smash a boulder.
-squawkabilly-green-plumage:Squawkabilly
+squawkabilly-green-plumage:Squawkabilly (Plumaje Verde)
 squawkabilly-green-plumageDescription:Green-feathered flocks hold the most sway. When they’re out searching for food in the mornings and evenings, it gets very noisy.
 nacli:Nacli
 nacliDescription:The ground scrapes its body as it travels, causing it to leave salt behind. Salt is constantly being created and replenished inside Nacli’s body.
@@ -3076,7 +3076,7 @@ bombirdier:Bombirdier
 bombirdierDescription:Bombirdier uses the apron on its chest to bundle up food, which it carries back to its nest. It enjoys dropping things that make loud noises.
 finizen:Finizen
 finizenDescription:Its water ring is made from seawater mixed with a sticky fluid that Finizen secretes from its blowhole.
-palafin-zero:Palafin
+palafin-zero:Palafin (Cero)
 palafin-zeroDescription:Its physical capabilities are no different than a Finizen’s, but when its allies are in danger, it transforms and powers itself up.
 varoom:Varoom
 varoomDescription:The steel section is Varoom’s actual body. This Pokémon clings to rocks and converts the minerals within into energy to fuel its activities.
@@ -3104,7 +3104,7 @@ veluza:Veluza
 veluzaDescription:Veluza has excellent regenerative capabilities. It sheds spare flesh from its body to boost its agility, then charges at its prey.
 dondozo:Dondozo
 dondozoDescription:It treats Tatsugiri like its boss and follows it loyally. Though powerful, Dondozo is apparently not very smart.
-tatsugiri-curly:Tatsugiri
+tatsugiri-curly:Tatsugiri (Rizado)
 tatsugiri-curlyDescription:Tatsugiri is an extremely cunning Pokémon. It feigns weakness to lure in prey, then orders its partner to attack.
 annihilape:Annihilape
 annihilapeDescription:It imbues its fists with the power of the rage that it kept hidden in its heart. Opponents struck by these imbued fists will be shattered to their core.
@@ -3112,7 +3112,7 @@ clodsire:Clodsire
 clodsireDescription:It lives at the bottom of ponds and swamps. It will carry Wooper on its back and ferry them across water from one shore to the other.
 farigiraf:Farigiraf
 farigirafDescription:The hardened head from the tail protects the head of the main body as Farigiraf whips its long neck around to headbutt enemies.
-dudunsparce-two-segment:Dudunsparce
+dudunsparce-two-segment:Dudunsparce (Dos Segmentos)
 dudunsparce-two-segmentDescription:It drives enemies out of its nest by sucking in enough air to fill its long, narrow lungs, then releasing the air in an intense blast.
 kingambit:Kingambit
 kingambitDescription:Though it commands a massive army in battle, it’s not skilled at devising complex strategies. It just uses brute strength to keep pushing.

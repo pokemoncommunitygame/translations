@@ -1794,11 +1794,11 @@ spectrier:Spectreval
 spectrierDescription:As it dashes through the night, Spectrier absorbs the life-force of sleeping creatures. It craves silence and solitude.
 calyrex:Sylveroy
 calyrexDescription:Calyrex is known in legend as a king that ruled over Galar in ancient times. It has the power to cause hearts to mend and plants to spring forth.
-deoxys-attack:Deoxys
+deoxys-attack:Deoxys (Attaque)
 deoxys-attackDescription:Deoxys était à l’origine un virus provenant de l’espace. Il est extrêmement intelligent et dispose de pouvoirs télékinétiques. Ce Pokémon envoie des lasers avec l’organe cristallin situé sur sa poitrine.
-deoxys-defense:Deoxys
+deoxys-defense:Deoxys (Défense)
 deoxys-defenseDescription:Deoxys était à l’origine un virus provenant de l’espace. Il est extrêmement intelligent et dispose de pouvoirs télékinétiques. Ce Pokémon envoie des lasers avec l’organe cristallin situé sur sa poitrine.
-deoxys-speed:Deoxys
+deoxys-speed:Deoxys (Vitesse)
 deoxys-speedDescription:Deoxys était à l’origine un virus provenant de l’espace. Il est extrêmement intelligent et dispose de pouvoirs télékinétiques. Ce Pokémon envoie des lasers avec l’organe cristallin situé sur sa poitrine.
 wormadam-sandy:Cheniselle (Sandy)
 wormadam-sandyDescription:Quand Cheniti a évolué, sa cape a fusionné avec son corps. Cheniselle ne s’en sépare jamais.
@@ -1806,11 +1806,11 @@ regieleki:Regieleki
 regielekiDescription:not avaliable
 wormadam-trash:Cheniselle (Trash)
 wormadam-trashDescription:Quand Cheniti a évolué, sa cape a fusionné avec son corps. Cheniselle ne s’en sépare jamais.
-giratina-origin:Giratina
+giratina-origin:Giratina (Origine)
 giratina-originDescription:Sa grande violence lui a valu d’être banni. Il observe les hommes en silence depuis le Monde Distorsion.
 rotom-heat:Motisma (Heat)
 rotom-heatDescription:Ce Pokémon est connu pour jouer des tours en s'infiltrant dans des appareils électriques. Son corps est fait de plasma.
-shaymin-sky:Shaymin
+shaymin-sky:Shaymin (Ciel)
 shaymin-skyDescription:Il prend son essor pour répandre la gratitude lorsque les Gracidées fleurissent.
 rotom-wash:Motisma (Wash)
 rotom-washDescription:Ce Pokémon est connu pour jouer des tours en s'infiltrant dans des appareils électriques. Son corps est fait de plasma.
@@ -1826,39 +1826,39 @@ castform-rainy:Morphéo (Rainy)
 castform-rainyDescription:Il n’y a pas que son apparence qui change en fonction de la météo : son tempérament aussi ! Plus il y a de vent, plus il se montre agressif.
 castform-snowy:Morphéo (Snowy)
 castform-snowyDescription:Il n’y a pas que son apparence qui change en fonction de la météo : son tempérament aussi ! Plus il y a de vent, plus il se montre agressif.
-basculin-blue-striped:Bargantua
+basculin-blue-striped:Basculin (Rayé Bleu)
 basculin-blue-stripedDescription:On l’utilisait autrefois en cuisine. La chair grasse des Bargantua à motif rouge était plutôt destinée aux jeunes.
-darmanitan-zen:Darumacho
+darmanitan-zen:Darmanitan (Zen)
 darmanitan-zenDescription:Sa puissance augmente à mesure que la flamme de son corps s’intensifie. La température de celle-ci peut parfois dépasser les 1 400 °C.
-meloetta-pirouette:Meloetta
+meloetta-pirouette:Meloetta (Pirouette)
 meloetta-pirouetteDescription:Sa voix si particulière lui permet de chanter des mélodies qui ensorcellent les gens et modifient leurs émotions.
-tornadus-therian:Boréas
+tornadus-therian:Tornadus (Therian)
 tornadus-therianDescription:L’énergie dégagée par sa queue provoque d’énormes tempêtes dont la force peut renverser des maisons.
-thundurus-therian:Fulguris
+thundurus-therian:Thundurus (Therian)
 thundurus-therianDescription:Il vole dans le ciel d’Unys et fait tomber des éclairs, provoquant des incendies qui font sa mauvaise réputation.
-landorus-therian:Démétéros
+landorus-therian:Landorus (Therian)
 landorus-therianDescription:Il utilise l’énergie qu’il tire du vent et de la foudre pour enrichir les sols en nutriments pour les cultures.
-kyurem-black:Kyurem
+kyurem-black:Kyurem (Noir)
 kyurem-blackDescription:Il se serait congelé lui-même avec son souffle glacé pour stabiliser sa structure cellulaire.
-kyurem-white:Kyurem
+kyurem-white:Kyurem (Blanc)
 kyurem-whiteDescription:Il se serait congelé lui-même avec son souffle glacé pour stabiliser sa structure cellulaire.
-keldeo-resolute:Keldeo
+keldeo-resolute:Keldeo (Résolu)
 keldeo-resoluteDescription:Lorsqu’il est résolu, de l’énergie sature son corps et le propulse à des vitesses qui dépassent la perception humaine.
 meowstic-female:Mistigrix
 meowstic-femaleDescription:Ses pouvoirs psychiques sont assez puissants pour détruire un pétrolier s’il les utilise sans retenue. Il est grognon, mais c’est ce qui fait son charme.
 aegislash-blade:Exagide
 aegislash-bladeDescription:Un roi régnait jadis, un Exagide à ses côtés. L’absorption de l’énergie vitale du souverain causa sa perte, ainsi que celle de son royaume.
-pumpkaboo-small:Pitrouille
+pumpkaboo-small:Pumpkaboo (Petit)
 pumpkaboo-smallDescription:On dit que le corps de ce Pokémon est tout petit, car il a toujours vécu entouré de très peu d’âmes errantes.
-pumpkaboo-large:Pitrouille
+pumpkaboo-large:Pumpkaboo (Grand)
 pumpkaboo-largeDescription:On dit que le corps de ce Pokémon est tout petit, car il a toujours vécu entouré de très peu d’âmes errantes.
-pumpkaboo-super:Pitrouille
+pumpkaboo-super:Pumpkaboo (Super)
 pumpkaboo-superDescription:On dit que le corps de ce Pokémon est tout petit, car il a toujours vécu entouré de très peu d’âmes errantes.
-gourgeist-small:Banshitrouye
+gourgeist-small:Gourgeist (Petit)
 gourgeist-smallDescription:Les soirs de nouvelle lune, il frappe aux portes des maisons. Si quelqu’un a le malheur de lui ouvrir, il l’emporte aussitôt dans l’au-delà.
-gourgeist-large:Banshitrouye
+gourgeist-large:Gourgeist (Grand)
 gourgeist-largeDescription:Les soirs de nouvelle lune, il frappe aux portes des maisons. Si quelqu’un a le malheur de lui ouvrir, il l’emporte aussitôt dans l’au-delà.
-gourgeist-super:Banshitrouye
+gourgeist-super:Gourgeist (Super)
 gourgeist-superDescription:Les soirs de nouvelle lune, il frappe aux portes des maisons. Si quelqu’un a le malheur de lui ouvrir, il l’emporte aussitôt dans l’au-delà.
 venusaur-mega:Méga Florizarre
 venusaur-megaDescription:Une douce senteur émane de sa plante. Cette fragrance calme tous ceux qui sont engagés dans un combat.
@@ -1946,25 +1946,25 @@ diancie-mega:Méga-Diancie
 diancie-megaDescription:Il peut créer une multitude de diamants en un instant en serrant ses mains, simplement en compressant les molécules de carbone contenues dans l’air.
 metagross-mega:Méga-Métalosse
 metagross-megaDescription:Implacable, il analyse son ennemi encore plus précisément qu’un superordinateur et le pousse dans ses derniers retranchements.
-kyogre-primal:Kyogre
+kyogre-primal:Kyogre (Primal)
 kyogre-primalDescription:Un Pokémon considéré comme l’avatar des océans. Selon les légendes, il a disputé de nombreux combats avec Groudon pour contrôler l’énergie de la nature.
-groudon-primal:Groudon
+groudon-primal:Groudon (Primal)
 groudon-primalDescription:Grâce à l’énergie de la nature, il peut accomplir sa Primo-Résurgence pour retrouver son apparence originelle. Ce pouvoir lui permet de créer du magma pour étendre les continents.
 rayquaza-mega:Méga-Rayquaza
 rayquaza-megaDescription:Un Pokémon qui vit dans la couche d’ozone et se nourrit des météorites qu’il intercepte. Leur énergie s’accumule dans son corps, ce qui lui permet de méga-évoluer.
-pikachu-rock-star:Pikachu
+pikachu-rock-star:Pikachu (Rock-Star)
 pikachu-rock-starDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
-pikachu-belle:Pikachu
+pikachu-belle:Pikachu (Belle)
 pikachu-belleDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
-pikachu-pop-star:Pikachu
+pikachu-pop-star:Pikachu (Pop-Star)
 pikachu-pop-starDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
-pikachu-phd:Pikachu
+pikachu-phd:Pikachu (Phd)
 pikachu-phdDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
-pikachu-libre:Pikachu
+pikachu-libre:Pikachu (Libre)
 pikachu-libreDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
-pikachu-cosplay:Pikachu
+pikachu-cosplay:Pikachu (Cosplay)
 pikachu-cosplayDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
-hoopa-unbound:Hoopa
+hoopa-unbound:Hoopa (Unbound)
 hoopa-unboundDescription:On raconte que grâce à ses six anneaux et ses six énormes bras, il est capable de dérober tout ce qui lui plaît. Mais son pouvoir a été scellé, et il a été réduit à l’état d’un être minuscule.
 camerupt-mega:Méga-Camerupt
 camerupt-megaDescription:Les bosses sur le dos de Camérupt sont apparues après une déformation de ses os. Elles crachent parfois du magma en fusion. Ce Pokémon entre apparemment en éruption lorsqu’il est énervé.
@@ -1980,15 +1980,15 @@ raticate-alola:Alo Rattatac
 raticate-alolaDescription:Ses pattes arrière sont palmées. Il peut donc poursuivre sa proie dans les cours d’eau et les rivières.
 raticate-totem-alola:Alo Rattatac
 raticate-totem-alolaDescription:Ses pattes arrière sont palmées. Il peut donc poursuivre sa proie dans les cours d’eau et les rivières.
-pikachu-original-cap:Pikachu
+pikachu-original-cap:Pikachu (Original-Cap)
 pikachu-original-capDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
-pikachu-hoenn-cap:Pikachu
+pikachu-hoenn-cap:Pikachu (Hoenn-Cap)
 pikachu-hoenn-capDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
-pikachu-sinnoh-cap:Pikachu
+pikachu-sinnoh-cap:Pikachu (Sinnoh-Cap)
 pikachu-sinnoh-capDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
-pikachu-unova-cap:Pikachu
+pikachu-unova-cap:Pikachu (Unova-Cap)
 pikachu-unova-capDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
-pikachu-kalos-cap:Pikachu
+pikachu-kalos-cap:Pikachu (Kalos-Cap)
 pikachu-kalos-capDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
 pikachu-alola-cap:Alo Pikachu
 pikachu-alola-capDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
@@ -2028,43 +2028,43 @@ lycanroc-midnight:Lougaroc
 lycanroc-midnightDescription:Plus son adversaire est fort, plus il est combatif. Son coup de tête meurtrier peut réduire un rocher immense en poussière.
 lycanroc-dusk:Lougaroc
 lycanroc-duskDescription:Plus son adversaire est fort, plus il est combatif. Son coup de tête meurtrier peut réduire un rocher immense en poussière.
-vivillon-archipelago:Prismillon
+vivillon-archipelago:Vivillon (Archipel)
 vivillon-archipelagoDescription:Selon le climat de sa région d’origine, les motifs de ses ailes sont différents. Il sème des écailles aux couleurs vives.
-vivillon-continental:Prismillon
+vivillon-continental:Vivillon (Continental)
 vivillon-continentalDescription:Selon le climat de sa région d’origine, les motifs de ses ailes sont différents. Il sème des écailles aux couleurs vives.
-vivillon-elegant:Prismillon
+vivillon-elegant:Vivillon (Élégant)
 vivillon-elegantDescription:Selon le climat de sa région d’origine, les motifs de ses ailes sont différents. Il sème des écailles aux couleurs vives.
-vivillon-fancy:Prismillon
+vivillon-fancy:Vivillon (Fantaisie)
 vivillon-fancyDescription:Selon le climat de sa région d’origine, les motifs de ses ailes sont différents. Il sème des écailles aux couleurs vives.
-vivillon-garden:Prismillon
+vivillon-garden:Vivillon (Jardin)
 vivillon-gardenDescription:Selon le climat de sa région d’origine, les motifs de ses ailes sont différents. Il sème des écailles aux couleurs vives.
-vivillon-highplains:Prismillon
+vivillon-highplains:Vivillon (Plaine-Élevée)
 vivillon-highplainsDescription:Selon le climat de sa région d’origine, les motifs de ses ailes sont différents. Il sème des écailles aux couleurs vives.
-vivillon-icysnow:Prismillon
+vivillon-icysnow:Vivillon (Neige-Glacée)
 vivillon-icysnowDescription:Selon le climat de sa région d’origine, les motifs de ses ailes sont différents. Il sème des écailles aux couleurs vives.
-vivillon-jungle:Prismillon
+vivillon-jungle:Vivillon (Jungle)
 vivillon-jungleDescription:Selon le climat de sa région d’origine, les motifs de ses ailes sont différents. Il sème des écailles aux couleurs vives.
-vivillon-marine:Prismillon
+vivillon-marine:Vivillon (Marine)
 vivillon-marineDescription:Selon le climat de sa région d’origine, les motifs de ses ailes sont différents. Il sème des écailles aux couleurs vives.
-vivillon-modern:Prismillon
+vivillon-modern:Vivillon (Moderne)
 vivillon-modernDescription:Selon le climat de sa région d’origine, les motifs de ses ailes sont différents. Il sème des écailles aux couleurs vives.
-vivillon-monsoon:Prismillon
+vivillon-monsoon:Vivillon (Mousson)
 vivillon-monsoonDescription:Selon le climat de sa région d’origine, les motifs de ses ailes sont différents. Il sème des écailles aux couleurs vives.
-vivillon-ocean:Prismillon
+vivillon-ocean:Vivillon (Océan)
 vivillon-oceanDescription:Selon le climat de sa région d’origine, les motifs de ses ailes sont différents. Il sème des écailles aux couleurs vives.
-vivillon-pokeball:Prismillon
+vivillon-pokeball:Vivillon (Poké Ball)
 vivillon-pokeballDescription:Selon le climat de sa région d’origine, les motifs de ses ailes sont différents. Il sème des écailles aux couleurs vives.
-vivillon-polar:Prismillon
+vivillon-polar:Vivillon (Polaire)
 vivillon-polarDescription:Selon le climat de sa région d’origine, les motifs de ses ailes sont différents. Il sème des écailles aux couleurs vives.
-vivillon-river:Prismillon
+vivillon-river:Vivillon (Rivière)
 vivillon-riverDescription:Selon le climat de sa région d’origine, les motifs de ses ailes sont différents. Il sème des écailles aux couleurs vives.
-vivillon-sandstorm:Prismillon
+vivillon-sandstorm:Vivillon (Tempête-Sable)
 vivillon-sandstormDescription:Selon le climat de sa région d’origine, les motifs de ses ailes sont différents. Il sème des écailles aux couleurs vives.
-vivillon-savanna:Prismillon
+vivillon-savanna:Vivillon (Savane)
 vivillon-savannaDescription:Selon le climat de sa région d’origine, les motifs de ses ailes sont différents. Il sème des écailles aux couleurs vives.
-vivillon-sun:Prismillon
+vivillon-sun:Vivillon (Soleil)
 vivillon-sunDescription:Selon le climat de sa région d’origine, les motifs de ses ailes sont différents. Il sème des écailles aux couleurs vives.
-vivillon-tundra:Prismillon
+vivillon-tundra:Vivillon (Toundra)
 vivillon-tundraDescription:Selon le climat de sa région d’origine, les motifs de ses ailes sont différents. Il sème des écailles aux couleurs vives.
 kartana-sinister:Sin Kartana
 kartana-sinisterDescription:Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives.
@@ -2086,7 +2086,7 @@ galarian-articuno:Gal Artikodin
 galarian-articunoDescription:Un Pokémon oiseau légendaire. L’hiver, il glace la vapeur d’eau contenue dans l’air pour faire de la neige.
 magnemite-pcg:PCG Magnéti
 magnemite-pcgDescription:Il se nourrit d’électricité et flotte dans les airs en libérant des ondes électromagnétiques avec les aimants situés de part et d’autre de son corps. (Art by xByHell)
-alcremie-rainbow:Charmilly
+alcremie-rainbow:Alcremie (Arc-en-Ciel)
 alcremie-rainbowDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
 oricorio-pom-pom:Plumeline (Pom-Pom)
 oricorio-pom-pomDescription:This Oricorio has drunk bright yellow nectar. When it sees someone looking glum, it will try to cheer them up with a dance.
@@ -2096,239 +2096,239 @@ abomasnow-f:Blizzaroi
 abomasnow-fDescription:Ce grand Pokémon déclenche des blizzards. Lorsqu’il agite son corps, tout ce qui l’entoure se retrouve couvert de neige.
 aipom-f:Capumain
 aipom-fDescription:Il guette ses proies depuis la cime des arbres. Quand il aperçoit un Croquine, son mets préféré, il se jette dessus.
-alcremie-caramel-swirl-berry:Charmilly
+alcremie-caramel-swirl-berry:Alcremie (Tourbillon Caramel-Baies)
 alcremie-caramel-swirl-berryDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-caramel-swirl-clover:Charmilly
+alcremie-caramel-swirl-clover:Alcremie (Tourbillon Caramel-Trèfle)
 alcremie-caramel-swirl-cloverDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-caramel-swirl-flower:Charmilly
+alcremie-caramel-swirl-flower:Alcremie (Tourbillon Caramel-Fleur)
 alcremie-caramel-swirl-flowerDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-caramel-swirl-love:Charmilly
+alcremie-caramel-swirl-love:Alcremie (Tourbillon Caramel-Amour)
 alcremie-caramel-swirl-loveDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-caramel-swirl-ribbon:Charmilly
+alcremie-caramel-swirl-ribbon:Alcremie (Tourbillon Caramel-Ruban)
 alcremie-caramel-swirl-ribbonDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-caramel-swirl-star:Charmilly
+alcremie-caramel-swirl-star:Alcremie (Caramel-Tourbillon-Étoile)
 alcremie-caramel-swirl-starDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-caramelswirl-berry:Charmilly
+alcremie-caramelswirl-berry:Alcremie (Carameltourbillon-Baie)
 alcremie-caramelswirl-berryDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-caramelswirl-clover:Charmilly
+alcremie-caramelswirl-clover:Alcremie (Carameltourbillon-Trèfle)
 alcremie-caramelswirl-cloverDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-caramelswirl-flower:Charmilly
+alcremie-caramelswirl-flower:Alcremie (Carameltourbillon-Fleur)
 alcremie-caramelswirl-flowerDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-caramelswirl-love:Charmilly
+alcremie-caramelswirl-love:Alcremie (Carameltourbillon-Amour)
 alcremie-caramelswirl-loveDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-caramelswirl-ribbon:Charmilly
+alcremie-caramelswirl-ribbon:Alcremie (Carameltourbillon-Ruban)
 alcremie-caramelswirl-ribbonDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-caramelswirl-star:Charmilly
+alcremie-caramelswirl-star:Alcremie (Carameltourbillon-Étoile)
 alcremie-caramelswirl-starDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-caramelswirl:Charmilly
+alcremie-caramelswirl:Alcremie (Carameltourbillon)
 alcremie-caramelswirlDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
 alcremie-gmax:Gmax Alcremie
 alcremie-gmaxDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-lemon-cream-berry:Charmilly
+alcremie-lemon-cream-berry:Alcremie (Crème-Citron-Baie)
 alcremie-lemon-cream-berryDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-lemon-cream-clover:Charmilly
+alcremie-lemon-cream-clover:Alcremie (Crème-Citron-Trèfle)
 alcremie-lemon-cream-cloverDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-lemon-cream-flower:Charmilly
+alcremie-lemon-cream-flower:Alcremie (Crème-Citron-Fleur)
 alcremie-lemon-cream-flowerDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-lemon-cream-love:Charmilly
+alcremie-lemon-cream-love:Alcremie (Crème-Citron-Amour)
 alcremie-lemon-cream-loveDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-lemon-cream-ribbon:Charmilly
+alcremie-lemon-cream-ribbon:Alcremie (Crème-Citron-Ruban)
 alcremie-lemon-cream-ribbonDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-lemon-cream-star:Charmilly
+alcremie-lemon-cream-star:Alcremie (Crème-Citron-Étoile)
 alcremie-lemon-cream-starDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-lemoncream-berry:Charmilly
+alcremie-lemoncream-berry:Alcremie (Crèmecitron-Baie)
 alcremie-lemoncream-berryDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-lemoncream-clover:Charmilly
+alcremie-lemoncream-clover:Alcremie (Crèmecitron-Trèfle)
 alcremie-lemoncream-cloverDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-lemoncream-flower:Charmilly
+alcremie-lemoncream-flower:Alcremie (Crèmecitron-Fleur)
 alcremie-lemoncream-flowerDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-lemoncream-love:Charmilly
+alcremie-lemoncream-love:Alcremie (Crèmecitron-Amour)
 alcremie-lemoncream-loveDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-lemoncream-ribbon:Charmilly
+alcremie-lemoncream-ribbon:Alcremie (Crèmecitron-Ruban)
 alcremie-lemoncream-ribbonDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-lemoncream-star:Charmilly
+alcremie-lemoncream-star:Alcremie (Crèmecitron-Étoile)
 alcremie-lemoncream-starDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-lemoncream:Charmilly
+alcremie-lemoncream:Alcremie (Crème-Citron)
 alcremie-lemoncreamDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-matcha-cream-berry:Charmilly
+alcremie-matcha-cream-berry:Alcremie (Crème-Matcha-Baies)
 alcremie-matcha-cream-berryDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-matcha-cream-clover:Charmilly
+alcremie-matcha-cream-clover:Alcremie (Crème-Matcha-Trèfle)
 alcremie-matcha-cream-cloverDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-matcha-cream-flower:Charmilly
+alcremie-matcha-cream-flower:Alcremie (Crème-Matcha-Fleur)
 alcremie-matcha-cream-flowerDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-matcha-cream-love:Charmilly
+alcremie-matcha-cream-love:Alcremie (Crème-Matcha-Cœur)
 alcremie-matcha-cream-loveDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-matcha-cream-ribbon:Charmilly
+alcremie-matcha-cream-ribbon:Alcremie (Crème-Matcha-Rubans)
 alcremie-matcha-cream-ribbonDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-matcha-cream-star:Charmilly
+alcremie-matcha-cream-star:Alcremie (Crème-Matcha-Étoile)
 alcremie-matcha-cream-starDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-matchacream-berry:Charmilly
+alcremie-matchacream-berry:Alcremie (Matchacrème-Baies)
 alcremie-matchacream-berryDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-matchacream-clover:Charmilly
+alcremie-matchacream-clover:Alcremie (Matchacrème-Trèfle)
 alcremie-matchacream-cloverDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-matchacream-flower:Charmilly
+alcremie-matchacream-flower:Alcremie (Matchacrème-Fleur)
 alcremie-matchacream-flowerDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-matchacream-love:Charmilly
+alcremie-matchacream-love:Alcremie (Matchacrème-Cœur)
 alcremie-matchacream-loveDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-matchacream-ribbon:Charmilly
+alcremie-matchacream-ribbon:Alcremie (Matchacrème-Rubans)
 alcremie-matchacream-ribbonDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-matchacream-star:Charmilly
+alcremie-matchacream-star:Alcremie (Matchacrème-Étoile)
 alcremie-matchacream-starDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-matchacream:Charmilly
+alcremie-matchacream:Alcremie (Matchacrème)
 alcremie-matchacreamDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-mint-cream-berry:Charmilly
+alcremie-mint-cream-berry:Alcremie (Crème-Menthe-Baies)
 alcremie-mint-cream-berryDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-mint-cream-clover:Charmilly
+alcremie-mint-cream-clover:Alcremie (Crème-Menthe-Trèfle)
 alcremie-mint-cream-cloverDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-mint-cream-flower:Charmilly
+alcremie-mint-cream-flower:Alcremie (Crème-Menthe-Fleur)
 alcremie-mint-cream-flowerDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-mint-cream-love:Charmilly
+alcremie-mint-cream-love:Alcremie (Crème-Menthe-Cœur)
 alcremie-mint-cream-loveDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-mint-cream-ribbon:Charmilly
+alcremie-mint-cream-ribbon:Alcremie (Crème-Menthe-Rubans)
 alcremie-mint-cream-ribbonDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-mint-cream-star:Charmilly
+alcremie-mint-cream-star:Alcremie (Crème-Menthe-Étoile)
 alcremie-mint-cream-starDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-mintcream-berry:Charmilly
+alcremie-mintcream-berry:Alcremie (Crème de Menthe-Baie)
 alcremie-mintcream-berryDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-mintcream-clover:Charmilly
+alcremie-mintcream-clover:Alcremie (Crème de Menthe-Trèfle)
 alcremie-mintcream-cloverDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-mintcream-flower:Charmilly
+alcremie-mintcream-flower:Alcremie (Crème de Menthe-Fleur)
 alcremie-mintcream-flowerDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-mintcream-love:Charmilly
+alcremie-mintcream-love:Alcremie (Crème de Menthe-Amour)
 alcremie-mintcream-loveDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-mintcream-ribbon:Charmilly
+alcremie-mintcream-ribbon:Alcremie (Crème de Menthe-Ruban)
 alcremie-mintcream-ribbonDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-mintcream-star:Charmilly
+alcremie-mintcream-star:Alcremie (Crème de Menthe-Étoile)
 alcremie-mintcream-starDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-mintcream:Charmilly
+alcremie-mintcream:Alcremie (Crème de Menthe)
 alcremie-mintcreamDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-rainbow-swirl-berry:Charmilly
+alcremie-rainbow-swirl-berry:Alcremie (Tourbillon Arc-en-ciel-Baie)
 alcremie-rainbow-swirl-berryDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-rainbow-swirl-clover:Charmilly
+alcremie-rainbow-swirl-clover:Alcremie (Tourbillon Arc-en-ciel-Trèfle)
 alcremie-rainbow-swirl-cloverDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-rainbow-swirl-flower:Charmilly
+alcremie-rainbow-swirl-flower:Alcremie (Tourbillon Arc-en-ciel-Fleur)
 alcremie-rainbow-swirl-flowerDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-rainbow-swirl-love:Charmilly
+alcremie-rainbow-swirl-love:Alcremie (Tourbillon Arc-en-ciel-Amour)
 alcremie-rainbow-swirl-loveDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-rainbow-swirl-ribbon:Charmilly
+alcremie-rainbow-swirl-ribbon:Alcremie (Tourbillon Arc-en-ciel-Ruban)
 alcremie-rainbow-swirl-ribbonDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-rainbow-swirl-star:Charmilly
+alcremie-rainbow-swirl-star:Alcremie (Tourbillon Arc-en-ciel-Étoile)
 alcremie-rainbow-swirl-starDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-rainbowswirl-berry:Charmilly
+alcremie-rainbowswirl-berry:Alcremie (Tourbillon Arc-en-ciel-Baie)
 alcremie-rainbowswirl-berryDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-rainbowswirl-clover:Charmilly
+alcremie-rainbowswirl-clover:Alcremie (Tourbillon Arc-en-ciel-Trèfle)
 alcremie-rainbowswirl-cloverDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-rainbowswirl-flower:Charmilly
+alcremie-rainbowswirl-flower:Alcremie (Tourbillon Arc-en-ciel-Fleur)
 alcremie-rainbowswirl-flowerDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-rainbowswirl-love:Charmilly
+alcremie-rainbowswirl-love:Alcremie (Tourbillon Arc-en-ciel-Amour)
 alcremie-rainbowswirl-loveDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-rainbowswirl-ribbon:Charmilly
+alcremie-rainbowswirl-ribbon:Alcremie (Tourbillon Arc-en-ciel-Ruban)
 alcremie-rainbowswirl-ribbonDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-rainbowswirl-star:Charmilly
+alcremie-rainbowswirl-star:Alcremie (Tourbillon Arc-en-ciel-Étoile)
 alcremie-rainbowswirl-starDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-rainbowswirl:Charmilly
+alcremie-rainbowswirl:Alcremie (Tourbillon Arc-en-ciel)
 alcremie-rainbowswirlDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-ruby-cream-berry:Charmilly
+alcremie-ruby-cream-berry:Alcremie (Crème-Ruby-Baie)
 alcremie-ruby-cream-berryDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-ruby-cream-clover:Charmilly
+alcremie-ruby-cream-clover:Alcremie (Crème-Ruby-Trèfle)
 alcremie-ruby-cream-cloverDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-ruby-cream-flower:Charmilly
+alcremie-ruby-cream-flower:Alcremie (Crème-Ruby-Fleur)
 alcremie-ruby-cream-flowerDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-ruby-cream-love:Charmilly
+alcremie-ruby-cream-love:Alcremie (Crème-Ruby-Amour)
 alcremie-ruby-cream-loveDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-ruby-cream-ribbon:Charmilly
+alcremie-ruby-cream-ribbon:Alcremie (Crème-Ruby-Ruban)
 alcremie-ruby-cream-ribbonDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-ruby-cream-star:Charmilly
+alcremie-ruby-cream-star:Alcremie (Crème-Ruby-Étoile)
 alcremie-ruby-cream-starDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-ruby-swirl-berry:Charmilly
+alcremie-ruby-swirl-berry:Alcremie (Tourbillon-Ruby-Baie)
 alcremie-ruby-swirl-berryDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-ruby-swirl-clover:Charmilly
+alcremie-ruby-swirl-clover:Alcremie (Tourbillon-Ruby-Trèfle)
 alcremie-ruby-swirl-cloverDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-ruby-swirl-flower:Charmilly
+alcremie-ruby-swirl-flower:Alcremie (Tourbillon-Ruby-Fleur)
 alcremie-ruby-swirl-flowerDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-ruby-swirl-love:Charmilly
+alcremie-ruby-swirl-love:Alcremie (Tourbillon-Ruby-Amour)
 alcremie-ruby-swirl-loveDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-ruby-swirl-ribbon:Charmilly
+alcremie-ruby-swirl-ribbon:Alcremie (Tourbillon-Ruby-Ruban)
 alcremie-ruby-swirl-ribbonDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-ruby-swirl-star:Charmilly
+alcremie-ruby-swirl-star:Alcremie (Tourbillon-Ruby-Étoile)
 alcremie-ruby-swirl-starDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-rubycream-berry:Charmilly
+alcremie-rubycream-berry:Alcremie (Rubycream-Baie)
 alcremie-rubycream-berryDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-rubycream-clover:Charmilly
+alcremie-rubycream-clover:Alcremie (Rubycream-Trèfle)
 alcremie-rubycream-cloverDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-rubycream-flower:Charmilly
+alcremie-rubycream-flower:Alcremie (Rubycream-Fleur)
 alcremie-rubycream-flowerDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-rubycream-love:Charmilly
+alcremie-rubycream-love:Alcremie (Rubycream-Amour)
 alcremie-rubycream-loveDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-rubycream-ribbon:Charmilly
+alcremie-rubycream-ribbon:Alcremie (Rubycream-Ruban)
 alcremie-rubycream-ribbonDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-rubycream-star:Charmilly
+alcremie-rubycream-star:Alcremie (Rubycream-Étoile)
 alcremie-rubycream-starDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-rubycream:Charmilly
+alcremie-rubycream:Alcremie (Rubycream)
 alcremie-rubycreamDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-rubyswirl-berry:Charmilly
+alcremie-rubyswirl-berry:Alcremie (Rubyswirl-Baie)
 alcremie-rubyswirl-berryDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-rubyswirl-clover:Charmilly
+alcremie-rubyswirl-clover:Alcremie (Virevolte-Rubis-Trèfle)
 alcremie-rubyswirl-cloverDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-rubyswirl-flower:Charmilly
+alcremie-rubyswirl-flower:Alcremie (Virevolte-Rubis-Fleur)
 alcremie-rubyswirl-flowerDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-rubyswirl-love:Charmilly
+alcremie-rubyswirl-love:Alcremie (Virevolte-Rubis-Amour)
 alcremie-rubyswirl-loveDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-rubyswirl-ribbon:Charmilly
+alcremie-rubyswirl-ribbon:Alcremie (Virevolte-Rubis-Ruban)
 alcremie-rubyswirl-ribbonDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-rubyswirl-star:Charmilly
+alcremie-rubyswirl-star:Alcremie (Virevolte-Rubis-Étoile)
 alcremie-rubyswirl-starDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-rubyswirl:Charmilly
+alcremie-rubyswirl:Alcremie (Virevolte-Rubis)
 alcremie-rubyswirlDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-salted-cream-berry:Charmilly
+alcremie-salted-cream-berry:Alcremie (Crème-Salée-Baies)
 alcremie-salted-cream-berryDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-salted-cream-clover:Charmilly
+alcremie-salted-cream-clover:Alcremie (Crème-Salée-Trèfle)
 alcremie-salted-cream-cloverDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-salted-cream-flower:Charmilly
+alcremie-salted-cream-flower:Alcremie (Crème-Salée-Fleur)
 alcremie-salted-cream-flowerDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-salted-cream-love:Charmilly
+alcremie-salted-cream-love:Alcremie (Crème-Salée-Amour)
 alcremie-salted-cream-loveDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-salted-cream-ribbon:Charmilly
+alcremie-salted-cream-ribbon:Alcremie (Crème-Salée-Ruban)
 alcremie-salted-cream-ribbonDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-salted-cream-star:Charmilly
+alcremie-salted-cream-star:Alcremie (Crème-Salée-Étoile)
 alcremie-salted-cream-starDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-saltedcream-berry:Charmilly
+alcremie-saltedcream-berry:Alcremie (Crèmesalée-Baies)
 alcremie-saltedcream-berryDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-saltedcream-clover:Charmilly
+alcremie-saltedcream-clover:Alcremie (Crèmesalée-Trèfle)
 alcremie-saltedcream-cloverDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-saltedcream-flower:Charmilly
+alcremie-saltedcream-flower:Alcremie (Crèmesalée-Fleur)
 alcremie-saltedcream-flowerDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-saltedcream-love:Charmilly
+alcremie-saltedcream-love:Alcremie (Crèmesalée-Amour)
 alcremie-saltedcream-loveDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-saltedcream-ribbon:Charmilly
+alcremie-saltedcream-ribbon:Alcremie (Crèmesalée-Ruban)
 alcremie-saltedcream-ribbonDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-saltedcream-star:Charmilly
+alcremie-saltedcream-star:Alcremie (Crèmesalée-Étoile)
 alcremie-saltedcream-starDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-saltedcream:Charmilly
+alcremie-saltedcream:Alcremie (Crèmesalée)
 alcremie-saltedcreamDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-vanilla-cream-berry:Charmilly
+alcremie-vanilla-cream-berry:Alcremie (Crème-Vanille-Baies)
 alcremie-vanilla-cream-berryDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-vanilla-cream-clover:Charmilly
+alcremie-vanilla-cream-clover:Alcremie (Crème Vanille-Trèfle)
 alcremie-vanilla-cream-cloverDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-vanilla-cream-flower:Charmilly
+alcremie-vanilla-cream-flower:Alcremie (Crème Vanille-Fleur)
 alcremie-vanilla-cream-flowerDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-vanilla-cream-love:Charmilly
+alcremie-vanilla-cream-love:Alcremie (Crème Vanille-Amour)
 alcremie-vanilla-cream-loveDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-vanilla-cream-ribbon:Charmilly
+alcremie-vanilla-cream-ribbon:Alcremie (Crème Vanille-Ruban)
 alcremie-vanilla-cream-ribbonDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-vanilla-cream-star:Charmilly
+alcremie-vanilla-cream-star:Alcremie (Crème Vanille-Étoile)
 alcremie-vanilla-cream-starDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-vanillacream-berry:Charmilly
+alcremie-vanillacream-berry:Alcremie (Crème Vanille-Baie)
 alcremie-vanillacream-berryDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-vanillacream-clover:Charmilly
+alcremie-vanillacream-clover:Alcremie (Crème Vanille-Trèfle)
 alcremie-vanillacream-cloverDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-vanillacream-flower:Charmilly
+alcremie-vanillacream-flower:Alcremie (Crème Vanille-Fleur)
 alcremie-vanillacream-flowerDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-vanillacream-love:Charmilly
+alcremie-vanillacream-love:Alcremie (Crème Vanille-Amour)
 alcremie-vanillacream-loveDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-vanillacream-ribbon:Charmilly
+alcremie-vanillacream-ribbon:Alcremie (Crème Vanille-Ruban)
 alcremie-vanillacream-ribbonDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
-alcremie-vanillacream-star:Charmilly
+alcremie-vanillacream-star:Alcremie (Crème Vanille-Étoile)
 alcremie-vanillacream-starDescription:Un seul tir de ses missiles à la crème ne contient pas moins de 100 000 kilocalories. Les ennemis touchés sont pris de vertige.
 ambipom-f:Capidextre
 ambipom-fDescription:Il utilise toujours ses deux queues pour faire la moindre tâche. Il s’en sert aussi pour enlacer les gens qu’il affectionne tout particulièrement.
@@ -2378,19 +2378,19 @@ blaziken-f:Braségali
 blaziken-fDescription:Braségali a des jambes incroyablement puissantes. Il peut sauter par-dessus un immeuble de trente étages. Les coups de poing enflammés de ce Pokémon peuvent carboniser ses ennemis.
 buizel-f:Mustébouée
 buizel-fDescription:Il utilise la bouée autour de son cou pour passer sa tête hors de l’eau et observer les alentours.
-burmy-sandy:Cheniti
+burmy-sandy:Burmy (Sable)
 burmy-sandyDescription:S’il perd sa cape au combat, il en tisse rapidement une nouvelle avec ce qui lui tombe sous la main.
-burmy-trash:Cheniti
+burmy-trash:Burmy (Déchet)
 burmy-trashDescription:S’il perd sa cape au combat, il en tisse rapidement une nouvelle avec ce qui lui tombe sous la main.
 butterfree-gmax:Gmax Papilusion
 butterfree-gmaxDescription:Il soulève ses ennemis en provoquant un ouragan à même d’emporter des camions de dix tonnes, puis les achève avec ses écailles toxiques.
 cacturne-f:Cacturne
 cacturne-fDescription:Lorsqu’un voyageur traverse le désert au milieu de la nuit, les Cacturne le suivent en groupe. Ces Pokémon attendent le bon moment, quand le voyageur est fatigué et qu’il n’est plus capable de bouger.
-calyrex-ice:Sylveroy
+calyrex-ice:Calyrex (Glace)
 calyrex-iceDescription:not avaliable
 camerupt-f:Camérupt
 camerupt-fDescription:Les bosses sur le dos de Camérupt sont apparues après une déformation de ses os. Elles crachent parfois du magma en fusion. Ce Pokémon entre apparemment en éruption lorsqu’il est énervé.
-calyrex-shadow:Sylveroy
+calyrex-shadow:Calyrex (Ombre)
 calyrex-shadowDescription:not avaliable
 centiskorch-gmax:Gmax Scolocendre
 centiskorch-gmaxDescription:Sous sa forme Gigamax, la chaleur émise par Scolocendre perturbe parfois les courants aériens au point de déclencher des tempêtes.
@@ -2400,7 +2400,7 @@ charizard-megax:MégaX Dracaufeu
 charizard-megaxDescription:Ses ailes lui permettent de voler à plus de 1 400 m d’altitude. Ce Pokémon crache du feu à des températures très élevées.
 charizard-megay:MégaY Dracaufeu
 charizard-megayDescription:Ses ailes lui permettent de voler à plus de 1 400 m d’altitude. Ce Pokémon crache du feu à des températures très élevées.
-cherrim-sunshine:Ceriflor
+cherrim-sunshine:Cherrim (Ensoleillé)
 cherrim-sunshineDescription:Lorsqu’il se ferme, ses pétales sont si durs qu’il ne craint plus les attaques des Pokémon oiseaux.
 coalossal-gmax:Gmax Monthracite
 coalossal-gmaxDescription:On raconte qu’il y a longtemps, il a sauvé de nombreuses vies d’une vague de froid en se transformant en brasero géant.
@@ -2426,11 +2426,11 @@ darmanitan-galarzen:Gal Darumacho
 darmanitan-galarzenDescription:Sa puissance augmente à mesure que la flamme de son corps s’intensifie. La température de celle-ci peut parfois dépasser les 1 400 °C.
 darumaka-galar:Gal Darumarond
 darumaka-galarDescription:Plus leur corps est froid, plus ils sont en forme. Ils s’amusent en faisant des batailles de boules de neige, qu’ils créent en refroidissant leur souffle.
-deerling-autumn:Vivaldaim
+deerling-autumn:Vivaldaim (Automne)
 deerling-autumnDescription:Quand la saison change, il change de pelage et d’odeur. Un Pokémon qui annonce le passage des saisons.
-deerling-summer:Vivaldaim
+deerling-summer:Vivaldaim (Été)
 deerling-summerDescription:Quand la saison change, il change de pelage et d’odeur. Un Pokémon qui annonce le passage des saisons.
-deerling-winter:Vivaldaim
+deerling-winter:Vivaldaim (Hiver)
 deerling-winterDescription:Quand la saison change, il change de pelage et d’odeur. Un Pokémon qui annonce le passage des saisons.
 donphan-f:Donphan
 donphan-fDescription:Si Donphan décidait de charger, il pourrait détruire une maison. Grâce à sa force étonnante, ce Pokémon peut aider à déplacer les rochers et les coulées de boue qui bloquent les chemins de montagne.
@@ -2442,63 +2442,63 @@ dustox-f:Papinox
 dustox-fDescription:Lorsque Papinox bat des ailes, une légère poussière se répand. Cette poussière est en fait un puissant poison capable de mettre au tapis un boxeur professionnel. Ce Pokémon cherche sa nourriture avec ses antennes, comme un radar.
 eevee-gmax:Gmax Évoli
 eevee-gmaxDescription:Son adorable innocence a pris des proportions XXL. Il cherche à jouer avec tout le monde, mais il est si grand qu’il écrase ses camarades de jeu.
-eevee-starter:Évoli
+eevee-starter:Évoli (Starter)
 eevee-starterDescription:Son adorable innocence a pris des proportions XXL. Il cherche à jouer avec tout le monde, mais il est si grand qu’il écrase ses camarades de jeu.
-eiscue-noice:Bekaglaçon
+eiscue-noice:Bekaglaçon (Tête Glaçon)
 eiscue-noiceDescription:Ne supportant pas la chaleur, il se rafraîchit toujours la tête avec de la glace. Il pêche de quoi se nourrir à l’aide de son cheveu.
-eternatus-eternamax:Éthernatos
+eternatus-eternamax:Ethernatus (Ethernamax)
 eternatus-eternamaxDescription:Il se trouvait dans une météorite qui s’est écrasée il y a 20 000 ans. Il semble y avoir un lien entre ce Pokémon et le phénomène Dynamax.
 farfetchd-galar:Gal Canarticho
 farfetchd-galarDescription:Les Canarticho ont pris cette forme à force de manier les poireaux de Galar, qui sont plus longs et plus larges que ceux des autres régions.
 finneon-f:Écayon
 finneon-fDescription:Il attire ses proies avec ses nageoires caudales lumineuses. Il passe la journée à la surface et se retire dans les abysses la nuit venue.
-flabebe-blue:Flabébé
+flabebe-blue:Flabébé (Bleu)
 flabebe-blueDescription:Il confectionne la couronne qui orne sa tête en récoltant du pollen. Elle recèle de nombreuses propriétés curatives.
-flabebe-orange:Flabébé
+flabebe-orange:Flabébé (Orange)
 flabebe-orangeDescription:Il confectionne la couronne qui orne sa tête en récoltant du pollen. Elle recèle de nombreuses propriétés curatives.
-flabebe-white:Flabébé
+flabebe-white:Flabébé (Blanc)
 flabebe-whiteDescription:Il confectionne la couronne qui orne sa tête en récoltant du pollen. Elle recèle de nombreuses propriétés curatives.
-flabebe-yellow:Flabébé
+flabebe-yellow:Flabébé (Jaune)
 flabebe-yellowDescription:Il confectionne la couronne qui orne sa tête en récoltant du pollen. Elle recèle de nombreuses propriétés curatives.
 flapple-gmax:Gmax Pomdrapi
 flapple-gmaxDescription:Lorsqu’il allonge le cou, un parfum de nectar extrêmement sucré se répand, et les Pokémon qui le hument tombent tous dans les pommes.
 floatzel-f:Mustéflott
 floatzel-fDescription:Il a développé une bouée pour poursuivre ses proies aquatiques. Elle fait office de canot gonflable.
-floette-blue:Floette
+floette-blue:Floette (Bleu)
 floette-blueDescription:Il fait profiter ses fleurs de ses pouvoirs et met tout son cœur à leur entretien. Gare à ceux qui ravagent ses plates-bandes !
-floette-orange:Floette
+floette-orange:Floette (Orange)
 floette-orangeDescription:Il fait profiter ses fleurs de ses pouvoirs et met tout son cœur à leur entretien. Gare à ceux qui ravagent ses plates-bandes !
-floette-white:Floette
+floette-white:Floette (Blanc)
 floette-whiteDescription:Il fait profiter ses fleurs de ses pouvoirs et met tout son cœur à leur entretien. Gare à ceux qui ravagent ses plates-bandes !
-floette-yellow:Floette
+floette-yellow:Floette (Jaune)
 floette-yellowDescription:Il fait profiter ses fleurs de ses pouvoirs et met tout son cœur à leur entretien. Gare à ceux qui ravagent ses plates-bandes !
-florges-blue:Florges
+florges-blue:Florges (Bleu)
 florges-blueDescription:Il peut vivre des centaines d’années, et consacre sa longue existence à l’entretien des jardins.
-florges-orange:Florges
+florges-orange:Florges (Orange)
 florges-orangeDescription:Il peut vivre des centaines d’années, et consacre sa longue existence à l’entretien des jardins.
-florges-white:Florges
+florges-white:Florges (Blanc)
 florges-whiteDescription:Il peut vivre des centaines d’années, et consacre sa longue existence à l’entretien des jardins.
-florges-yellow:Florges
+florges-yellow:Florges (Jaune)
 florges-yellowDescription:Il peut vivre des centaines d’années, et consacre sa longue existence à l’entretien des jardins.
 frillish-f:Viskuse
 frillish-fDescription:Ses membres en forme de voiles fins sont couverts de milliers de dards venimeux. Chez la femelle, ces dards sont un peu plus longs.
-furfrou-dandy:Couafarel
+furfrou-dandy:Furfrou (Dandy)
 furfrou-dandyDescription:Sa fourrure pousse indéfiniment, mais il refuse de se faire couper la toison par une personne en qui il n’a pas confiance.
-furfrou-debutante:Couafarel
+furfrou-debutante:Furfrou (Débutante)
 furfrou-debutanteDescription:Sa fourrure pousse indéfiniment, mais il refuse de se faire couper la toison par une personne en qui il n’a pas confiance.
-furfrou-diamond:Couafarel
+furfrou-diamond:Furfrou (Diamant)
 furfrou-diamondDescription:Sa fourrure pousse indéfiniment, mais il refuse de se faire couper la toison par une personne en qui il n’a pas confiance.
-furfrou-heart:Couafarel
+furfrou-heart:Furfrou (Cœur)
 furfrou-heartDescription:Sa fourrure pousse indéfiniment, mais il refuse de se faire couper la toison par une personne en qui il n’a pas confiance.
-furfrou-kabuki:Couafarel
+furfrou-kabuki:Furfrou (Kabuki)
 furfrou-kabukiDescription:Sa fourrure pousse indéfiniment, mais il refuse de se faire couper la toison par une personne en qui il n’a pas confiance.
-furfrou-lareine:Couafarel
+furfrou-lareine:Furfrou (La Reine)
 furfrou-lareineDescription:Sa fourrure pousse indéfiniment, mais il refuse de se faire couper la toison par une personne en qui il n’a pas confiance.
-furfrou-matron:Couafarel
+furfrou-matron:Furfrou (Matrone)
 furfrou-matronDescription:Sa fourrure pousse indéfiniment, mais il refuse de se faire couper la toison par une personne en qui il n’a pas confiance.
-furfrou-pharaoh:Couafarel
+furfrou-pharaoh:Furfrou (Pharaon)
 furfrou-pharaohDescription:Sa fourrure pousse indéfiniment, mais il refuse de se faire couper la toison par une personne en qui il n’a pas confiance.
-furfrou-star:Couafarel
+furfrou-star:Furfrou (Étoile)
 furfrou-starDescription:Sa fourrure pousse indéfiniment, mais il refuse de se faire couper la toison par une personne en qui il n’a pas confiance.
 gabite-f:Carmache
 gabite-fDescription:Il mue régulièrement au cours de sa croissance. Les écailles ainsi tombées peuvent être pilées pour préparer des remèdes traditionnels.
@@ -2506,15 +2506,15 @@ garbodor-gmax:Gmax Miasmax
 garbodor-gmaxDescription:Quiconque entre en contact avec le gaz toxique qui jaillit de sa bouche et de ses doigts sera empoisonné jusqu’aux os.
 garchomp-f:Carchacrok
 garchomp-fDescription:En plus de maximiser son aérodynamisme, ses écailles lisses et pointues ont l’avantage de blesser ses ennemis quand ils l’attaquent.
-gastrodon-east:Tritosor
+gastrodon-east:Gastrodon (Est)
 gastrodon-eastDescription:Son corps est caoutchouteux, mais très résistant, car la puissance des chocs qu’il subit se répand sur toute sa surface.
-genesect-burn:Genesect
+genesect-burn:Genesect (Pyro)
 genesect-burnDescription:Un Pokémon existant depuis 300 millions d’années, et modifié par la Team Plasma. Il a maintenant un canon dans le dos.
-genesect-chill:Genesect
+genesect-chill:Genesect (Cryo)
 genesect-chillDescription:Un Pokémon existant depuis 300 millions d’années, et modifié par la Team Plasma. Il a maintenant un canon dans le dos.
-genesect-douse:Genesect
+genesect-douse:Genesect (Hydro)
 genesect-douseDescription:Un Pokémon existant depuis 300 millions d’années, et modifié par la Team Plasma. Il a maintenant un canon dans le dos.
-genesect-shock:Genesect
+genesect-shock:Genesect (Électro)
 genesect-shockDescription:Un Pokémon existant depuis 300 millions d’années, et modifié par la Team Plasma. Il a maintenant un canon dans le dos.
 gengar-gmax:Gmax Ectoplasma
 gengar-gmaxDescription:On dit qu’Ectoplasma surgit parfois des ténèbres pour prendre la vie des personnes égarées en montagne.
@@ -2526,7 +2526,7 @@ gligar-f:Scorplane
 gligar-fDescription:Scorplane plane dans les airs sans un bruit, comme s’il glissait. Ce Pokémon s’accroche au visage de son ennemi grâce aux serres de ses pattes arrière et aux pinces de ses pattes avant, et pique avec son dard empoisonné.
 golbat-f:Nosferalto
 golbat-fDescription:Il s’approche furtivement et attaque sans crier gare. Ses crocs acérés lui servent à sucer le sang.
-greninja-ash:Amphinobi
+greninja-ash:Greninja (Sacha)
 greninja-ashDescription:Aussi insaisissable qu’un ninja, il se joue de ses ennemis grâce à sa célérité, et les tranche de ses Sheauriken.
 grimmsnarl-gmax:Gmax Angoliath
 grimmsnarl-gmaxDescription:Ses cheveux sont comme des muscles filandreux qu’il peut détacher pour saisir ses adversaires, tels des tentacules.
@@ -2574,7 +2574,7 @@ luxray-f:Luxray
 luxray-fDescription:Il dort beaucoup pour récupérer la quantité d’énergie électrique énorme qu’il consomme afin de voir à travers la matière.
 machamp-gmax:Gmax Mackogneur
 machamp-gmaxDescription:Sa puissance démultipliée lui a un jour permis de soulever un paquebot en détresse pour le ramener jusqu’au port.
-magearna-original:Magearna
+magearna-original:Magearna (Original)
 magearna-originalDescription:Il a été créé par un scientifique il y a environ 500 ans de cela. Sa véritable essence est un organe nommé Animacœur.
 magikarp-f:Magicarpe
 magikarp-fDescription:Ce Pokémon est si faible que, dans les eaux à forts courants, il se contente de se laisser porter lamentablement.
@@ -2600,7 +2600,7 @@ mewtwo-megay:MégaY Mewtwo
 mewtwo-megayDescription:Son corps a rétréci, mais sa puissance s’est démultipliée. Il peut réduire un gratte-ciel en miettes d’une simple pensée.
 milotic-f:Milobellus
 milotic-fDescription:On dit que la beauté de ce Pokémon est telle qu’elle apaise l’esprit de ceux qui le voient.
-mimikyu-busted:Mimiqui
+mimikyu-busted:Mimikyu (Démasqué)
 mimikyu-bustedDescription:Les malheureux chercheurs qui ont regardé sous son déguisement en lambeaux ont succombé à une mystérieuse maladie.
 minior-blue:Météno
 minior-blueDescription:Sa carapace, pourtant très solide, éclate en mille morceaux quand il s’écrase sur la terre en tombant du ciel.
@@ -2618,17 +2618,17 @@ minior-yellow:Météno
 minior-yellowDescription:Sa carapace, pourtant très solide, éclate en mille morceaux quand il s’écrase sur la terre en tombant du ciel.
 moltres-galar:Gal Sulfura
 moltres-galarDescription:Quand ce Pokémon oiseau légendaire agite ses ailes de feu, même la nuit noire s’embrase et rougeoie.
-morpeko-hangry:Morpeko
+morpeko-hangry:Morpeko (Vorace)
 morpeko-hangryDescription:Ses hormones de satiété ont modifié son comportement. Tant qu’il ne sera pas rassasié, il enchaînera les mauvais tours.
 mrmime-galar:Gal M. Mime
 mrmime-galarDescription:Son talent pour le mime est indéniable. Il émet des ondes du bout des doigts pour créer un mur qui le protège de nombreuses attaques.
 murkrow-f:Cornèbre
 murkrow-fDescription:Il cherche des objets brillants pour son chef. Sa réputation d’oiseau de mauvais augure lui vaut la haine de nombreuses personnes.
-necrozma-dawnwings:Necrozma
+necrozma-dawnwings:Necrozma (Ailes de l'Aurore)
 necrozma-dawnwingsDescription:Sa quête de lumière, sa source de vie, le rend violent. Il détruit tout sur son passage avec ses rayons laser.
-necrozma-duskmane:Necrozma
+necrozma-duskmane:Necrozma (Crinière du Couchant)
 necrozma-duskmaneDescription:Sa quête de lumière, sa source de vie, le rend violent. Il détruit tout sur son passage avec ses rayons laser.
-necrozma-ultra:Necrozma
+necrozma-ultra:Necrozma (Ultra)
 necrozma-ultraDescription:Sa quête de lumière, sa source de vie, le rend violent. Il détruit tout sur son passage avec ses rayons laser.
 numel-f:Chamallot
 numel-fDescription:Chamallot stocke du magma à 1 200 °C dans son corps. Lorsqu’il est mouillé, le magma se refroidit et durcit. Le corps du Pokémon devient alors très lourd et ses mouvements très lents.
@@ -2646,31 +2646,31 @@ pikachu-f:Pikachu
 pikachu-fDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
 pikachu-gmax:Gmax Pikachu
 pikachu-gmaxDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
-pikachu-hoenn:Pikachu
+pikachu-hoenn:Pikachu (Hoenn)
 pikachu-hoennDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
-pikachu-kalos:Pikachu
+pikachu-kalos:Pikachu (Kalos)
 pikachu-kalosDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
-pikachu-original:Pikachu
+pikachu-original:Pikachu (Original)
 pikachu-originalDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
-pikachu-partner:Pikachu
+pikachu-partner:Pikachu (Partenaire)
 pikachu-partnerDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
-pikachu-popstar:Pikachu
+pikachu-popstar:Pikachu (Popstar)
 pikachu-popstarDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
-pikachu-rockstar:Pikachu
+pikachu-rockstar:Pikachu (Rockstar)
 pikachu-rockstarDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
-pikachu-sinnoh:Pikachu
+pikachu-sinnoh:Pikachu (Sinnoh)
 pikachu-sinnohDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
 pikachu-starter-f:Pikachu
 pikachu-starter-fDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
-pikachu-starter:Pikachu
+pikachu-starter:Pikachu (Starter)
 pikachu-starterDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
-pikachu-unova:Pikachu
+pikachu-unova:Pikachu (Unova)
 pikachu-unovaDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
 piloswine-f:Cochignon
 piloswine-fDescription:Bien qu’il soit pourvu de pattes courtes, ses sabots larges et pointus l’empêchent de glisser sur la glace.
 politoed-f:Tarpaud
 politoed-fDescription:Le cri des mâles est plus puissant que celui des femelles, qui préfèrent les voix fortes et intimidantes.
-polteageist-antique:Polthégeist
+polteageist-antique:Polteageist (Antique)
 polteageist-antiqueDescription:Quand il s’énerve, il se jette corps et thé dans la bouche de son ennemi. Si ce dernier l’avale, il sera pris de terribles tremblements.
 ponyta-galar:Gal Ponyta
 ponyta-galarDescription:Il semblerait qu’une fois qu’un Dresseur a gagné la confiance de Ponyta, sa crinière enflammée ne le brûle plus au toucher.
@@ -2694,17 +2694,17 @@ roserade-f:Roserade
 roserade-fDescription:Sa main gauche administre un poison lent, et la droite, un poison foudroyant. Les deux peuvent être fatals.
 sandaconda-gmax:Gmax Dunaconda
 sandaconda-gmaxDescription:S’il s’enroule d’une manière aussi particulière, c’est pour optimiser l’expulsion de sable par ses narines.
-sawsbuck-autumn:Haydaim
+sawsbuck-autumn:Sawsbuck (Automne)
 sawsbuck-autumnDescription:Il change d’habitat selon les saisons. Certains disent même qu’il est celui qui apporte le printemps.
-sawsbuck-summer:Haydaim
+sawsbuck-summer:Sawsbuck (Été)
 sawsbuck-summerDescription:Il change d’habitat selon les saisons. Certains disent même qu’il est celui qui apporte le printemps.
-sawsbuck-winter:Haydaim
+sawsbuck-winter:Sawsbuck (Hiver)
 sawsbuck-winterDescription:Il change d’habitat selon les saisons. Certains disent même qu’il est celui qui apporte le printemps.
 scizor-f:Cizayox
 scizor-fDescription:Malgré son corps fin, sa puissance de frappe est prodigieuse, car même ses muscles sont composés de métal.
 scyther-f:Insécateur
 scyther-fDescription:Si l’on voit un grand nombre d’arbres abattus au même endroit dans une forêt, cela signifie que l’on se trouve sur le territoire d’un Insécateur.
-shellos-east:Sancoki
+shellos-east:Shellos (Est)
 shellos-eastDescription:Son apparence diffère en fonction de son environnement. Selon une théorie, il prendrait cette forme dans les mers froides.
 shiftry-f:Tengalice
 shiftry-fDescription:Il vit caché au fond des forêts. On raconte qu’il fait souffler la bise lorsqu’il agite ses grands éventails.
@@ -2744,7 +2744,7 @@ silvally-steel:Steel Silvallié
 silvally-steelDescription:Après avoir été réveillé avec succès, il peut changer de type et se battre, tout comme un certain Pokémon décrit dans les légendes. Il s'agit de sa forme de type steel.
 silvally-water:Water Silvallié
 silvally-waterDescription:Après avoir été réveillé avec succès, il peut changer de type et se battre, tout comme un certain Pokémon décrit dans les légendes. Il s'agit de sa forme de type water.
-sinistea-antique:Théffroi
+sinistea-antique:Sinistea (Antique)
 sinistea-antiqueDescription:Il élit domicile dans des tasses de thé anciennes de grand renom. Parmi celles-ci se trouvent de nombreuses contrefaçons.
 slowbro-galar:Gal Flagadoss
 slowbro-galarDescription:S’il serre la langue du Kokiyas qui l’a mordu, ce dernier projette un liquide très toxique depuis l’extrémité de sa coquille.
@@ -2780,7 +2780,7 @@ toxicroak-f:Coatox
 toxicroak-fDescription:Il lance un coassement viril de victoire quand il parvient à terrasser sa proie. Il s’apparente aux Crapustule.
 toxtricity-gmax:Gmax Salarsen
 toxtricity-gmaxDescription:Son poison lui monte au cerveau et il perd tout contrôle. À chaque excès de violence, il répand des gouttes de sueur toxiques qui polluent le sol.
-toxtricity-lowkey:Salarsen
+toxtricity-lowkey:Toxtricity (Discret)
 toxtricity-lowkeyDescription:Son poison lui monte au cerveau et il perd tout contrôle. À chaque excès de violence, il répand des gouttes de sueur toxiques qui polluent le sol.
 unfezant-f:Déflaisan
 unfezant-fDescription:Ce Pokémon est aussi intelligent qu’il est arrogant. Les Dresseurs de Déflaisan sont tenus en haute estime.
@@ -2840,13 +2840,13 @@ unown-z:Zarbi
 unown-zDescription:Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé.
 ursaring-f:Ursaring
 ursaring-fDescription:On dit que les Ursaring trouvent leur nourriture dans les cours d’eau et les grands arbres des forêts où ils habitent. Ce Pokémon erre dans la forêt toute la journée pour chercher de la nourriture.
-urshifu-rapidstrike:Shifours
+urshifu-rapidstrike:Urshifu (Multi-Coup)
 urshifu-rapidstrikeDescription:On dit qu’il lui suffit de lancer un regard empli d’une colère sourde aux êtres maléfiques pour leur ôter la vie.
 weavile-f:Dimoret
 weavile-fDescription:Il communique avec ses semblables en gravant des motifs avec ses griffes. Il existerait près de 500 signes différents.
 weezing-galar:Gal Smogogo
 weezing-galarDescription:À l’époque où il y avait des usines partout et où l’air était très pollué, il a pris cette forme. Personne ne sait pourquoi.
-wishiwashi-school:Froussardine
+wishiwashi-school:Wimessir (Banc)
 wishiwashi-schoolDescription:Ses yeux se mouillent quand il sent le danger approcher. Le scintillement de ses larmes sert de signal pour que ses congénères se rassemblent.
 wobbuffet-f:Qulbutoké
 wobbuffet-fDescription:Il vit discrètement dans l’obscurité pour cacher sa queue noire. Il n’attaque jamais en premier.
@@ -2854,25 +2854,25 @@ wooper-f:Axoloto
 wooper-fDescription:Lorsqu’il est sur la terre ferme, il couvre son corps d’un voile toxique qui le protège de la déshydratation.
 xatu-f:Xatu
 xatu-fDescription:Capable de voir le passé et l’avenir, ce Pokémon mystérieux consacre toutes ses journées à observer la course du soleil.
-xerneas-neutral:Xerneas
+xerneas-neutral:Xerneas (Neutre)
 xerneas-neutralDescription:D’après la légende, quand ses bois brillent de sept couleurs, cela signifie qu’il prodigue la vie éternelle.
 yamask-galar:Gal Tutafeh
 yamask-galarDescription:On pense que ce Pokémon est né d’une âme vengeresse aspirée par une ancienne tablette d’argile.
-zacian-crowned:Zacian
+zacian-crowned:Zacian (Épée Suprême)
 zacian-crownedDescription:On dit qu’il s’agit de la figure fraternelle et du rival de Zamazenta, un Pokémon plongé dans un long sommeil.
-zamazenta-crowned:Zamazent
+zamazenta-crowned:Zamazenta (Bouclier Suprême)
 zamazenta-crownedDescription:Il est équipé d’une protection parfaite pouvant aisément contrer toutes les attaques, même si son ennemi bénéficie de la force du Dynamax.
 zapdos-galar:Gal Électhor
 zapdos-galarDescription:Ce Pokémon oiseau légendaire apparaît quand le ciel s’assombrit et que la foudre ne cesse de tomber.
-zarude-dada:Zarude
+zarude-dada:Zarude (Dada)
 zarude-dadaDescription:L’affection qu’il porte au petit être humain qu’il a recueilli et élevé depuis son plus jeune âge lui confère une force particulière.
 zigzagoon-galar:Gal Zigzaton
 zigzagoon-galarDescription:Le Zigzaton de Galar a adopté cette forme dans les autres régions. Il est très doué pour dénicher des choses.
 zubat-f:Nosferapti
 zubat-fDescription:Il émet des ultrasons pour se diriger et éviter les obstacles sur son trajet.
-zygarde-10:Zygarde
+zygarde-10:Zygarde (10%)
 zygarde-10Description:Ce Pokémon serait capable de prendre une forme encore plus puissante quand il se bat contre un ennemi qui menace l’écosystème.
-zygarde-complete:Zygarde
+zygarde-complete:Zygarde (Forme Parfaite)
 zygarde-completeDescription:Ce Pokémon serait capable de prendre une forme encore plus puissante quand il se bat contre un ennemi qui menace l’écosystème.
 hisiuan-braviary:His Gueriaigle
 hisiuan-braviaryDescription:Son caractère agressif et violent lui a valu de perdre son rôle de transporteur à Galar au profit de Corvaillus.
@@ -2882,7 +2882,7 @@ hisuian-goodra:His Muplodocus
 hisuian-goodraDescription:Il attaque à l’aide de ses longues cornes. Ses coups sont cent fois plus puissants que ceux d’un champion poids lourds de boxe.
 hisuian-zoroark:His Zoroark
 hisuian-zoroarkDescription:With its disheveled white fur, it looks like an embodiment of death. Heedless of its own safety, Zoroark attacks its nemeses with a bitter energy so intense, it lacerates Zoroark's own body.
-hisuian-basculegion-female:Paragruel
+hisuian-basculegion-female:Basculegion de Hisui (Femelle)
 hisuian-basculegion-femaleDescription:Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal.
 gliscor-pcg:PCG Scorvol
 gliscor-pcgDescription:Il vole sans un bruit, et capture ses proies avec sa queue pour leur infliger une morsure critique. (Art by Studio Karli)
@@ -2898,7 +2898,7 @@ hisuian-lilligant:His Fragilady
 hisuian-lilligantDescription:L’huile essentielle extraite de sa fleur dégage un parfum exceptionnel, mais elle coûte extrêmement cher.
 hisuian-sneasel:His Farfuret
 hisuian-sneaselDescription:Un Pokémon aussi cruel que fourbe. Il se glisse dans le nid des autres Pokémon en leur absence pour dérober leurs Œufs.
-hisuian-basculegion-male:Paragruel
+hisuian-basculegion-male:Basculegion de Hisui (Mâle)  
 hisuian-basculegion-maleDescription:Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal.
 ursaluna:Ursaking
 ursalunaDescription:I believe it was Hisui's swampy terrain that gave Ursaluna its burly physique and newfound capacity to manipulate peat at will.
@@ -2912,7 +2912,7 @@ kleavor:Hachécateur
 kleavorDescription:A violent creature that fells towering trees with its crude axes and shields itself with hard stone. If one should chance upon this Pokémon in the wilds, one's only recourse is to flee.
 hisuian-avalugg:His Séracrawl
 hisuian-avaluggDescription:Les crevasses sur son dos s’approfondissent au cours de la journée, mais se comblent de nouveau pendant la nuit.
-basculin-white-striped:Bargantua
+basculin-white-striped:Basculin (Rayures Blanches)
 basculin-white-stripedDescription:On l’utilisait autrefois en cuisine. La chair grasse des Bargantua à motif rouge était plutôt destinée aux jeunes.
 ninetales-pcg:PCG Feunard
 ninetales-pcgDescription:Il guide les humains perdus dans les pics neigeux vers le pied de la montagne, mais se montre sans pitié envers ceux qui dégradent l’environnement. (Art by Beliwolfi & Lenathepanda)
@@ -2960,7 +2960,7 @@ oranguru-pcg:PCG Gouroutan
 oranguru-pcgDescription:Il connaît la forêt sur le bout des doigts. Lorsqu’il trouve un Pokémon blessé, il cherche des plantes médicinales pour le soigner. (Art by T_M_B_O)
 magnezone-retro:Magnézone (Retro)
 magnezone-retroDescription:On pense qu’il a évolué après avoir été exposé à un champ magnétique particulier qui a modifié la structure moléculaire de son corps.
-enamorus-incarnate:Amovénus
+enamorus-incarnate:Enamorus (Avatar)
 enamorus-incarnateDescription:When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon's love gives rise to the budding of fresh life across Hisui.
 sprigatito:Poussacha
 sprigatitoDescription:The sweet scent its body gives off mesmerizes those around it. The scent grows stronger when this Pokémon is in the sun.
@@ -2982,7 +2982,7 @@ quaquaval:Palmaval
 quaquavalDescription:Dancing in ways that evoke far-away places, this Pokémon mesmerizes all that see it. Flourishes of its decorative water feathers slice into its foes.
 lechonk:Gourmelet
 lechonkDescription:This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest.
-oinkologne-male:Fragroin
+oinkologne-male:Oinkologne (Mâle)
 oinkologne-maleDescription:It entrances female Pokémon with the sweet, alluring scent that wafts from all over its body.
 tarountula:Tissenboule
 tarountulaDescription:The thread it secretes from its rear is as strong as wire. The secret behind the thread’s strength is the topic of ongoing research.
@@ -3000,7 +3000,7 @@ pawmot:Pohmarmotte
 pawmotDescription:Pawmot’s fluffy fur acts as a battery. It can store the same amount of electricity as an electric car.
 tandemaus:Compagnol
 tandemausDescription:The pair sticks together no matter what. They split any food they find exactly in half and then eat it together.
-maushold-family-of-four:Famignol
+maushold-family-of-four:Maushold (Famille de Quatre)
 maushold-family-of-fourDescription:The larger pair protects the little ones during battles. When facing strong opponents, the whole group will join the fight.
 fidough:Pâtachiot
 fidoughDescription:The yeast in Fidough’s breath is useful for cooking, so this Pokémon has been protected by people since long ago.
@@ -3012,7 +3012,7 @@ dolliv:Olivado
 dollivDescription:It basks in the sun to its heart’s content until the fruits on its head ripen. After that, Dolliv departs from human settlements and goes on a journey.
 arboliva:Arboliva
 arbolivaDescription:This Pokémon drives back enemies by launching its rich, aromatic oil at them with enough force to smash a boulder.
-squawkabilly-green-plumage:Tapatoès
+squawkabilly-green-plumage:Squawkabilly (Plumage Vert)
 squawkabilly-green-plumageDescription:Green-feathered flocks hold the most sway. When they’re out searching for food in the mornings and evenings, it gets very noisy.
 nacli:Selutin
 nacliDescription:The ground scrapes its body as it travels, causing it to leave salt behind. Salt is constantly being created and replenished inside Nacli’s body.
@@ -3076,7 +3076,7 @@ bombirdier:Lestombaile
 bombirdierDescription:Bombirdier uses the apron on its chest to bundle up food, which it carries back to its nest. It enjoys dropping things that make loud noises.
 finizen:Dofin
 finizenDescription:Its water ring is made from seawater mixed with a sticky fluid that Finizen secretes from its blowhole.
-palafin-zero:Superdofin
+palafin-zero:Palafin (Zéro)
 palafin-zeroDescription:Its physical capabilities are no different than a Finizen’s, but when its allies are in danger, it transforms and powers itself up.
 varoom:Vrombi
 varoomDescription:The steel section is Varoom’s actual body. This Pokémon clings to rocks and converts the minerals within into energy to fuel its activities.
@@ -3104,7 +3104,7 @@ veluza:Délestin
 veluzaDescription:Veluza has excellent regenerative capabilities. It sheds spare flesh from its body to boost its agility, then charges at its prey.
 dondozo:Oyacata
 dondozoDescription:It treats Tatsugiri like its boss and follows it loyally. Though powerful, Dondozo is apparently not very smart.
-tatsugiri-curly:Nigirigon
+tatsugiri-curly:Tatsugiri (Bouclé)
 tatsugiri-curlyDescription:Tatsugiri is an extremely cunning Pokémon. It feigns weakness to lure in prey, then orders its partner to attack.
 annihilape:Courrousinge
 annihilapeDescription:It imbues its fists with the power of the rage that it kept hidden in its heart. Opponents struck by these imbued fists will be shattered to their core.
@@ -3112,7 +3112,7 @@ clodsire:Terraiste
 clodsireDescription:It lives at the bottom of ponds and swamps. It will carry Wooper on its back and ferry them across water from one shore to the other.
 farigiraf:Farigiraf
 farigirafDescription:The hardened head from the tail protects the head of the main body as Farigiraf whips its long neck around to headbutt enemies.
-dudunsparce-two-segment:Deusolourdo
+dudunsparce-two-segment:Dudunsparce (Deux Segments)
 dudunsparce-two-segmentDescription:It drives enemies out of its nest by sucking in enough air to fill its long, narrow lungs, then releasing the air in an intense blast.
 kingambit:Scalpereur
 kingambitDescription:Though it commands a massive army in battle, it’s not skilled at devising complex strategies. It just uses brute strength to keep pushing.
@@ -3150,13 +3150,13 @@ gimmighoul:Mordudor
 gimmighoulDescription:It lives inside an old treasure chest. Sometimes it gets left in shop corners since no one realizes it’s actually a Pokémon.
 gholdengo:Gromago
 gholdengoDescription:It has a sturdy body made up of stacked coins. Gholdengo overwhelms its enemies by firing coin after coin at them in quick succession.
-wo-chien:Chongjian
+wo-chien:Wo-Chien
 wo-chienDescription:It drains the life-force from vegetation, causing nearby forests to instantly wither and fields to turn barren.
-chien-pao:Baojian
+chien-pao:Chien-Pao
 chien-paoDescription:The hatred of those who perished by the sword long ago has clad itself in snow and become a Pokémon.
-ting-lu:Dinglu
+ting-lu:Ting-Lu
 ting-luDescription:It slowly brings its exceedingly heavy head down upon the ground, splitting the earth open with huge fissures that run over 160 feet deep.
-chi-yu:Yuyu
+chi-yu:Chi-Yu
 chi-yuDescription:The envy accumulated within curved beads that sparked multiple conflicts has clad itself in fire and become a Pokémon.
 roaring-moon:Rugit-Lune
 roaring-moonDescription:According to an article in a dubious magazine, this Pokémon has some connection to a phenomenon that occurs in a certain region.

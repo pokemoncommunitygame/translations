@@ -1810,19 +1810,19 @@ rockruff-sinister:Sin Wuffels
 rockruff-sinisterDescription:Mit seinem steinernen Fellkragen schlägt Wuffels auf den Boden, um Gegner einzuschüchtern. Schrecken diese zurück, greift es sie sofort an.
 kartana-sinister:Sin Katagami
 kartana-sinisterDescription:In dieser Welt wirkt sein Aussehen gefährlich und fremdartig, doch in seiner ursprünglichen Welt ist es ein ganz gewöhnliches Lebewesen.
-deoxys-attack:Deoxys
+deoxys-attack:Deoxys (Angriff)
 deoxys-attackDescription:Deoxys ging aus einem Virus aus dem Weltraum hervor. Es ist sehr intelligent und nutzt psychokinetische Energie. Dieses Pokémon verschießt Laserstrahlen aus einem kristallartigen Organ auf seinem Brustkorb.
-deoxys-defense:Deoxys
+deoxys-defense:Deoxys (Verteidigung)
 deoxys-defenseDescription:Deoxys ging aus einem Virus aus dem Weltraum hervor. Es ist sehr intelligent und nutzt psychokinetische Energie. Dieses Pokémon verschießt Laserstrahlen aus einem kristallartigen Organ auf seinem Brustkorb.
-deoxys-speed:Deoxys
+deoxys-speed:Deoxys (Tempo)
 deoxys-speedDescription:Deoxys ging aus einem Virus aus dem Weltraum hervor. Es ist sehr intelligent und nutzt psychokinetische Energie. Dieses Pokémon verschießt Laserstrahlen aus einem kristallartigen Organ auf seinem Brustkorb.
 wormadam-sandy:Burmadame (Sandy)
 wormadam-sandyDescription:Als sich Burmy entwickelte, wurde sein Umhang Teil des Körpers. Es legt den Umhang niemals ab.
 wormadam-trash:Burmadame (Trash)
 wormadam-trashDescription:Als sich Burmy entwickelte, wurde sein Umhang Teil des Körpers. Es legt den Umhang niemals ab.
-shaymin-sky:Shaymin
+shaymin-sky:Shaymin (Himmelsform)
 shaymin-skyDescription:Es heißt, wenn die Gracidea blühen, drückt es seine Dankbarkeit aus, indem es hoch in die Lüfte fliegt.
-giratina-origin:Giratina
+giratina-origin:Giratina (Urform)
 giratina-originDescription:Es wurde aufgrund seines Verhaltens verbannt. Aus der Zerrwelt schaut es auf die alte Welt.
 rotom-heat:Rotom (Heat)
 rotom-heatDescription:Mit seinem aus Plasma bestehenden Körper kann es in verschiedene Geräte schlüpfen. Es liebt es, andere zu erschrecken.
@@ -1840,39 +1840,39 @@ castform-rainy:Formeo (Regen)
 castform-rainyDescription:Seine Gestalt ändert sich abhängig vom Wetter. Je ungestümer dieses ist, desto gröber wird auch sein Charakter.
 castform-snowy:Formeo (Schnee)
 castform-snowyDescription:Seine Gestalt ändert sich abhängig vom Wetter. Je ungestümer dieses ist, desto gröber wird auch sein Charakter.
-basculin-blue-striped:Barschuft
+basculin-blue-striped:Basculin (Blaustreifenform)
 basculin-blue-stripedDescription:Sie sind für ihre brutale Natur bekannt. Besonders häufig kriegen sie sich mit ganzen Schwärmen von rot gestreiften Exemplaren in die Haare.
-darmanitan-zen:Flampivian
+darmanitan-zen:Darmanitan (Trance-Modus)
 darmanitan-zenDescription:Nimmt es im Kampf Schaden, wird es hart wie Stein und fällt in eine Trance, um seinen Verstand zu schärfen.
-meloetta-pirouette:Meloetta
+meloetta-pirouette:Meloetta (Pirouettenform)
 meloetta-pirouetteDescription:Wer die Melodie hört, die es in einer speziellen Stimmlage von sich gibt, steht voll in seinem Bann.
-tornadus-therian:Boreos
+tornadus-therian:Tornadus (Tiergeistform)
 tornadus-therianDescription:Mit der Energie aus seiner Rute erzeugt es wilde Stürme, die stark genug sind, um ganze Wohnhäuser davonzuwehen.
-thundurus-therian:Voltolos
+thundurus-therian:Thundurus (Tiergeistform)
 thundurus-therianDescription:Es ist bei den Leuten verhasst, weil es auf seinen Rundflügen immer wieder Blitze erzeugt, die Waldbrände verursachen.
-landorus-therian:Demeteros
+landorus-therian:Landorus (Tiergeistform)
 landorus-therianDescription:Seine aus Wind und Donner gewonnene Energie sorgt für reiche Ernten, da sie den Boden mit Nährstoffen anreichert.
-kyurem-black:Kyurem
+kyurem-black:Kyurem (Schwarz)
 kyurem-blackDescription:Nachdem es Zekrom, das über identische Gene verfügt, absorbiert hat, kann es nun sowohl Elektro- als auch Eis-Energie einsetzen.
-kyurem-white:Kyurem
+kyurem-white:Kyurem (Weiß)
 kyurem-whiteDescription:Nachdem es Zekrom, das über identische Gene verfügt, absorbiert hat, kann es nun sowohl Elektro- als auch Eis-Energie einsetzen.
-keldeo-resolute:Keldeo
+keldeo-resolute:Keldeo (Resolutform)
 keldeo-resoluteDescription:Ist es sich seiner Sache sicher, strotzt es vor Kraft und seine Sprünge werden zu schnell für die menschliche Wahrnehmung.
 meowstic-female:Psiaugon
 meowstic-femaleDescription:Setzen sie ihre Psycho-Kräfte ungezügelt frei, können sie damit ganze Öltanker versenken. Ihre mürrische Natur macht ihren Charme aus.
 aegislash-blade:Durengard (Schwert)
 aegislash-bladeDescription:Mithilfe seiner mysteriösen Kräfte kontrollierte es Menschen und Pokémon und ließ sie ein Land nach seinen Vorstellungen erschaffen.
-pumpkaboo-small:Irrbis
+pumpkaboo-small:Pumpkaboo (Klein)
 pumpkaboo-smallDescription:Blicken Menschen und Pokémon in das Licht, das aus den Löchern seines Kürbisses dringt, werden sie hypnotisiert und von Irrbis kontrolliert.
-pumpkaboo-large:Irrbis
+pumpkaboo-large:Pumpkaboo (Groß)
 pumpkaboo-largeDescription:Blicken Menschen und Pokémon in das Licht, das aus den Löchern seines Kürbisses dringt, werden sie hypnotisiert und von Irrbis kontrolliert.
-pumpkaboo-super:Irrbis
+pumpkaboo-super:Pumpkaboo (Riesig)
 pumpkaboo-superDescription:Blicken Menschen und Pokémon in das Licht, das aus den Löchern seines Kürbisses dringt, werden sie hypnotisiert und von Irrbis kontrolliert.
-gourgeist-small:Pumpdjinn
+gourgeist-small:Gourgeist (Klein)
 gourgeist-smallDescription:In Neumondnächten klopft Pumpdjinn an die Eingangstüren der Häuser. Wer sie ihm öffnet, wird von ihm ins Jenseits entführt.
-gourgeist-large:Pumpdjinn
+gourgeist-large:Gourgeist (Groß)
 gourgeist-largeDescription:In Neumondnächten klopft Pumpdjinn an die Eingangstüren der Häuser. Wer sie ihm öffnet, wird von ihm ins Jenseits entführt.
-gourgeist-super:Pumpdjinn
+gourgeist-super:Gourgeist (Super)
 gourgeist-superDescription:In Neumondnächten klopft Pumpdjinn an die Eingangstüren der Häuser. Wer sie ihm öffnet, wird von ihm ins Jenseits entführt.
 venusaur-mega:Mega-Bisaflor
 venusaur-megaDescription:Es verstreut Unmengen an Pollen mit der Kraft eines Vulkanausbruchs. Atmet man zu viele davon ein, kann man das Bewusstsein verlieren.
@@ -1962,25 +1962,25 @@ diancie-mega:Mega-Diancie
 diancie-megaDescription:Es kann im Nu viele Diamanten erzeugen, indem es luftgebundene Kohlenstoffpartikel mit seinen Händen komprimiert.
 metagross-mega:Mega-Metagross
 metagross-megaDescription:Es kann seine Gegner besser analysieren als ein Supercomputer und treibt sie mit kühlem Kopf in die Enge.
-kyogre-primal:Kyogre
+kyogre-primal:Kyogre (Primal)
 kyogre-primalDescription:Es heißt, Kyogre sei die Personifizierung des Meeres. Legenden zufolge hat es in seinem Bestreben, sich die Naturenergie anzueignen, viele Male gegen Groudon gekämpft.
-groudon-primal:Groudon
+groudon-primal:Groudon (Primal)
 groudon-primalDescription:Mithilfe von Naturenergie kann es eine Protomorphose durchführen und so seine ursprüngliche Form zurückerlangen. Dadurch kann es Magma hervorbringen und die Landmasse vergrößern.
 rayquaza-mega:Mega-Rayquaza
 rayquaza-megaDescription:Es fliegt durch die Ozonschicht und ernährt sich von Meteoren. Mithilfe der Energie, die durch diese Meteore in seinen Körper gelangt, kann es eine Mega-Entwicklung durchführen.
-pikachu-rock-star:Pikachu
+pikachu-rock-star:Pikachu (Rock-Star)
 pikachu-rock-starDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
-pikachu-belle:Pikachu
+pikachu-belle:Pikachu (Belle)
 pikachu-belleDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
-pikachu-pop-star:Pikachu
+pikachu-pop-star:Pikachu (Pop-Star)
 pikachu-pop-starDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
-pikachu-phd:Pikachu
+pikachu-phd:Pikachu (Phd)
 pikachu-phdDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
-pikachu-libre:Pikachu
+pikachu-libre:Pikachu (Libre)
 pikachu-libreDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
-pikachu-cosplay:Pikachu
+pikachu-cosplay:Pikachu (Cosplay)
 pikachu-cosplayDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
-hoopa-unbound:Hoopa
+hoopa-unbound:Hoopa (Unbound)
 hoopa-unboundDescription:Mit seinen sechs Ringen und seinen sechs riesigen Armen kann es alles an sich reißen, was es möchte. Wenn seine Kraft versiegelt wird, nimmt es jedoch eine kleinere Gestalt an.
 camerupt-mega:Mega-Camerupt
 camerupt-megaDescription:Die Höcker auf Camerupts Rücken sind durch eine Transformation seiner Knochen entstanden. Hin und wieder stoßen sie Magma aus. Dieses Pokémon bricht häufig aus, wenn es wütend ist.
@@ -1996,15 +1996,15 @@ raticate-alola:Alo Rattikarl
 raticate-alolaDescription:Es lässt sich sein Futter von untergebenen Rattfratz zusammentragen und nimmt nur die nährstoffreichsten, leckersten Dinge zu sich.
 raticate-totem-alola:Alo Rattikarl
 raticate-totem-alolaDescription:Es lässt sich sein Futter von untergebenen Rattfratz zusammentragen und nimmt nur die nährstoffreichsten, leckersten Dinge zu sich.
-pikachu-original-cap:Pikachu
+pikachu-original-cap:Pikachu (Original-Kappe)
 pikachu-original-capDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
-pikachu-hoenn-cap:Pikachu
+pikachu-hoenn-cap:Pikachu (Hoenn-Kappe)
 pikachu-hoenn-capDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
-pikachu-sinnoh-cap:Pikachu
+pikachu-sinnoh-cap:Pikachu (Sinnoh-Kappe)
 pikachu-sinnoh-capDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
-pikachu-unova-cap:Pikachu
+pikachu-unova-cap:Pikachu (Einall-Kappe)
 pikachu-unova-capDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
-pikachu-kalos-cap:Pikachu
+pikachu-kalos-cap:Pikachu (Kalos-Kappe)
 pikachu-kalos-capDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
 pikachu-alola-cap:Alo Pikachu
 pikachu-alola-capDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
@@ -2042,43 +2042,43 @@ lycanroc-midnight:Wolwerock
 lycanroc-midnightDescription:Je stärker sein Gegner, desto mehr kommt es in Fahrt. Sein vernichtender Kopfstoß kann selbst riesige Felsen pulverisieren.
 lycanroc-dusk:Wolwerock
 lycanroc-duskDescription:Je stärker sein Gegner, desto mehr kommt es in Fahrt. Sein vernichtender Kopfstoß kann selbst riesige Felsen pulverisieren.
-vivillon-archipelago:Vivillon
+vivillon-archipelago:Vivillon (Archipel)
 vivillon-archipelagoDescription:Je nach Klima und geographischer Beschaffenheit seines Habitats ändert sich die Musterung seiner Flügel. Es verstreut bunten Flügelstaub.
-vivillon-continental:Vivillon
+vivillon-continental:Vivillon (Kontinental)
 vivillon-continentalDescription:Je nach Klima und geographischer Beschaffenheit seines Habitats ändert sich die Musterung seiner Flügel. Es verstreut bunten Flügelstaub.
-vivillon-elegant:Vivillon
+vivillon-elegant:Vivillon (Elegant)
 vivillon-elegantDescription:Je nach Klima und geographischer Beschaffenheit seines Habitats ändert sich die Musterung seiner Flügel. Es verstreut bunten Flügelstaub.
-vivillon-fancy:Vivillon
+vivillon-fancy:Vivillon (Schick)
 vivillon-fancyDescription:Je nach Klima und geographischer Beschaffenheit seines Habitats ändert sich die Musterung seiner Flügel. Es verstreut bunten Flügelstaub.
-vivillon-garden:Vivillon
+vivillon-garden:Vivillon (Garten)
 vivillon-gardenDescription:Je nach Klima und geographischer Beschaffenheit seines Habitats ändert sich die Musterung seiner Flügel. Es verstreut bunten Flügelstaub.
-vivillon-highplains:Vivillon
+vivillon-highplains:Vivillon (Hochland)
 vivillon-highplainsDescription:Je nach Klima und geographischer Beschaffenheit seines Habitats ändert sich die Musterung seiner Flügel. Es verstreut bunten Flügelstaub.
-vivillon-icysnow:Vivillon
+vivillon-icysnow:Vivillon (Eisschnee)
 vivillon-icysnowDescription:Je nach Klima und geographischer Beschaffenheit seines Habitats ändert sich die Musterung seiner Flügel. Es verstreut bunten Flügelstaub.
-vivillon-jungle:Vivillon
+vivillon-jungle:Vivillon (Dschungel)
 vivillon-jungleDescription:Je nach Klima und geographischer Beschaffenheit seines Habitats ändert sich die Musterung seiner Flügel. Es verstreut bunten Flügelstaub.
-vivillon-marine:Vivillon
+vivillon-marine:Vivillon (Marine)
 vivillon-marineDescription:Je nach Klima und geographischer Beschaffenheit seines Habitats ändert sich die Musterung seiner Flügel. Es verstreut bunten Flügelstaub.
-vivillon-modern:Vivillon
+vivillon-modern:Vivillon (Modern)
 vivillon-modernDescription:Je nach Klima und geographischer Beschaffenheit seines Habitats ändert sich die Musterung seiner Flügel. Es verstreut bunten Flügelstaub.
-vivillon-monsoon:Vivillon
+vivillon-monsoon:Vivillon (Monsun)
 vivillon-monsoonDescription:Je nach Klima und geographischer Beschaffenheit seines Habitats ändert sich die Musterung seiner Flügel. Es verstreut bunten Flügelstaub.
-vivillon-ocean:Vivillon
+vivillon-ocean:Vivillon (Ozean)
 vivillon-oceanDescription:Je nach Klima und geographischer Beschaffenheit seines Habitats ändert sich die Musterung seiner Flügel. Es verstreut bunten Flügelstaub.
-vivillon-pokeball:Vivillon
+vivillon-pokeball:Vivillon (Pokéball)
 vivillon-pokeballDescription:Je nach Klima und geographischer Beschaffenheit seines Habitats ändert sich die Musterung seiner Flügel. Es verstreut bunten Flügelstaub.
-vivillon-polar:Vivillon
+vivillon-polar:Vivillon (Polar)
 vivillon-polarDescription:Je nach Klima und geographischer Beschaffenheit seines Habitats ändert sich die Musterung seiner Flügel. Es verstreut bunten Flügelstaub.
-vivillon-river:Vivillon
+vivillon-river:Vivillon (Fluss)
 vivillon-riverDescription:Je nach Klima und geographischer Beschaffenheit seines Habitats ändert sich die Musterung seiner Flügel. Es verstreut bunten Flügelstaub.
-vivillon-sandstorm:Vivillon
+vivillon-sandstorm:Vivillon (Sandsturm)
 vivillon-sandstormDescription:Je nach Klima und geographischer Beschaffenheit seines Habitats ändert sich die Musterung seiner Flügel. Es verstreut bunten Flügelstaub.
-vivillon-savanna:Vivillon
+vivillon-savanna:Vivillon (Savanne)
 vivillon-savannaDescription:Je nach Klima und geographischer Beschaffenheit seines Habitats ändert sich die Musterung seiner Flügel. Es verstreut bunten Flügelstaub.
-vivillon-sun:Vivillon
+vivillon-sun:Vivillon (Sonne)
 vivillon-sunDescription:Je nach Klima und geographischer Beschaffenheit seines Habitats ändert sich die Musterung seiner Flügel. Es verstreut bunten Flügelstaub.
-vivillon-tundra:Vivillon
+vivillon-tundra:Vivillon (Tundra)
 vivillon-tundraDescription:Je nach Klima und geographischer Beschaffenheit seines Habitats ändert sich die Musterung seiner Flügel. Es verstreut bunten Flügelstaub.
 oricorio-sensu:Choreogel (Sensu)
 oricorio-sensuDescription:Ein Choreogel, das purpurnen Nektar geschlürft hat. Viele Tänzer lassen sich von seinen grazilen Bewegungen inspirieren
@@ -2088,7 +2088,7 @@ galarian-articuno:Gal Arktos
 galarian-articunoDescription:Ein Legendäres Vogel-Pokémon, das im Winter die Wasserpartikel in der Luft gefrieren lässt, um Schnee zu erzeugen.
 magnemite-pcg:PCG Magnetilo
 magnemite-pcgDescription:Es ernährt sich von Strom und segelt durch die Luft, indem es mit den Magneten an seinem Körper elektromagnetische Wellen aussendet. (Art by xByHell)
-alcremie-rainbow:Pokusan
+alcremie-rainbow:Pokusan (Regenbogen)
 alcremie-rainbowDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
 oricorio-pom-pom:Choreogel (Pom-Pom)
 oricorio-pom-pomDescription:Ein Choreogel, das gelben Nektar geschlürft hat. Wenn jemand bedrückt wirkt, versucht es diesen mit seinem fröhlichen Tanz aufzumuntern.
@@ -2098,177 +2098,177 @@ abomasnow-f:Rexblisar
 abomasnow-fDescription:Dieses Pokémon löst Blizzards aus. Wenn es seinen großen Körper schüttelt, wird in seiner Umgebung alles sofort schneeweiß.
 aipom-f:Griffel
 aipom-fDescription:Es sitzt in Baumwipfeln und hält Ausschau nach Beute. Sieht es ein Frubberl, sein Leibgericht, stürzt es begeistert auf es herab.
-alcremie-caramel-swirl-berry:Pokusan
+alcremie-caramel-swirl-berry:Pokusan (Karamell-Wirbel-Beere)
 alcremie-caramel-swirl-berryDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-caramel-swirl-clover:Pokusan
+alcremie-caramel-swirl-clover:Pokusan (Karamell-Wirbel-Klee)
 alcremie-caramel-swirl-cloverDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-caramel-swirl-flower:Pokusan
+alcremie-caramel-swirl-flower:Pokusan (Karamell-Wirbel-Blume)
 alcremie-caramel-swirl-flowerDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-caramel-swirl-love:Pokusan
+alcremie-caramel-swirl-love:Pokusan (Karamell-Wirbel-Liebe)
 alcremie-caramel-swirl-loveDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-caramel-swirl-ribbon:Pokusan
+alcremie-caramel-swirl-ribbon:Pokusan (Karamell-Wirbel-Band)
 alcremie-caramel-swirl-ribbonDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-caramel-swirl-star:Pokusan
+alcremie-caramel-swirl-star:Alcremie (Karamell-Wirbel-Stern)
 alcremie-caramel-swirl-starDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-caramelswirl-berry:Pokusan
+alcremie-caramelswirl-berry:Alcremie (Karamellwirbel-Beere)
 alcremie-caramelswirl-berryDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-caramelswirl-clover:Pokusan
+alcremie-caramelswirl-clover:Alcremie (Karamellwirbel-Klee)
 alcremie-caramelswirl-cloverDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-caramelswirl-flower:Pokusan
+alcremie-caramelswirl-flower:Alcremie (Karamellwirbel-Blume)
 alcremie-caramelswirl-flowerDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-caramelswirl-love:Pokusan
+alcremie-caramelswirl-love:Alcremie (Karamellwirbel-Liebe)
 alcremie-caramelswirl-loveDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-caramelswirl-ribbon:Pokusan
+alcremie-caramelswirl-ribbon:Alcremie (Karamellwirbel-Band)
 alcremie-caramelswirl-ribbonDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-caramelswirl-star:Pokusan
+alcremie-caramelswirl-star:Alcremie (Karamellwirbel-Stern)
 alcremie-caramelswirl-starDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-caramelswirl:Pokusan
+alcremie-caramelswirl:Alcremie (Karamellwirbel)
 alcremie-caramelswirlDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
 alcremie-gmax:Gmax Alcremie
 alcremie-gmaxDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-lemon-cream-berry:Pokusan
+alcremie-lemon-cream-berry:Alcremie (Zitronencreme-Beere)
 alcremie-lemon-cream-berryDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-lemon-cream-clover:Pokusan
+alcremie-lemon-cream-clover:Alcremie (Zitronencreme-Klee)
 alcremie-lemon-cream-cloverDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-lemon-cream-flower:Pokusan
+alcremie-lemon-cream-flower:Alcremie (Zitronencreme-Blume)
 alcremie-lemon-cream-flowerDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-lemon-cream-love:Pokusan
+alcremie-lemon-cream-love:Alcremie (Zitronencreme-Liebe)
 alcremie-lemon-cream-loveDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-lemon-cream-ribbon:Pokusan
+alcremie-lemon-cream-ribbon:Alcremie (Zitronencreme-Band)
 alcremie-lemon-cream-ribbonDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-lemon-cream-star:Pokusan
+alcremie-lemon-cream-star:Alcremie (Zitronencreme-Stern)
 alcremie-lemon-cream-starDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-lemoncream-berry:Pokusan
+alcremie-lemoncream-berry:Alcremie (Zitronencreme-Beere)
 alcremie-lemoncream-berryDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-lemoncream-clover:Pokusan
+alcremie-lemoncream-clover:Alcremie (Zitronencreme-Klee)
 alcremie-lemoncream-cloverDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-lemoncream-flower:Pokusan
+alcremie-lemoncream-flower:Alcremie (Zitronencreme-Blume)
 alcremie-lemoncream-flowerDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-lemoncream-love:Pokusan
+alcremie-lemoncream-love:Alcremie (Zitronencreme-Liebe)
 alcremie-lemoncream-loveDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-lemoncream-ribbon:Pokusan
+alcremie-lemoncream-ribbon:Alcremie (Zitronencreme-Band)
 alcremie-lemoncream-ribbonDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-lemoncream-star:Pokusan
+alcremie-lemoncream-star:Alcremie (Zitronencreme-Stern)
 alcremie-lemoncream-starDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
 alcremie-lemoncream:Pokusan
 alcremie-lemoncreamDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-matcha-cream-berry:Pokusan
+alcremie-matcha-cream-berry:Alcremie (Matcha-Creme-Beere)
 alcremie-matcha-cream-berryDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-matcha-cream-clover:Pokusan
+alcremie-matcha-cream-clover:Alcremie (Matcha-Creme-Klee)
 alcremie-matcha-cream-cloverDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-matcha-cream-flower:Pokusan
+alcremie-matcha-cream-flower:Alcremie (Matcha-Creme-Blume)
 alcremie-matcha-cream-flowerDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-matcha-cream-love:Pokusan
+alcremie-matcha-cream-love:Alcremie (Matcha-Creme-Liebe)
 alcremie-matcha-cream-loveDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-matcha-cream-ribbon:Pokusan
+alcremie-matcha-cream-ribbon:Alcremie (Matcha-Creme-Band)
 alcremie-matcha-cream-ribbonDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-matcha-cream-star:Pokusan
+alcremie-matcha-cream-star:Alcremie (Matcha-Creme-Stern)
 alcremie-matcha-cream-starDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-matchacream-berry:Pokusan
+alcremie-matchacream-berry:Alcremie (Matchacreme-Beere)
 alcremie-matchacream-berryDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-matchacream-clover:Pokusan
+alcremie-matchacream-clover:Alcremie (Matchacreme-Klee)
 alcremie-matchacream-cloverDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-matchacream-flower:Pokusan
+alcremie-matchacream-flower:Alcremie (Matchacreme-Blume)
 alcremie-matchacream-flowerDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-matchacream-love:Pokusan
+alcremie-matchacream-love:Alcremie (Matchacreme-Liebe)
 alcremie-matchacream-loveDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-matchacream-ribbon:Pokusan
+alcremie-matchacream-ribbon:Alcremie (Matchacreme-Band)
 alcremie-matchacream-ribbonDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-matchacream-star:Pokusan
+alcremie-matchacream-star:Alcremie (Matchacreme-Stern)
 alcremie-matchacream-starDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-matchacream:Pokusan
+alcremie-matchacream:Alcremie (Matchacreme)
 alcremie-matchacreamDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-mint-cream-berry:Pokusan
+alcremie-mint-cream-berry:Alcremie (Minz-Creme-Beere)
 alcremie-mint-cream-berryDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-mint-cream-clover:Pokusan
+alcremie-mint-cream-clover:Alcremie (Minz-Creme-Klee)
 alcremie-mint-cream-cloverDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-mint-cream-flower:Pokusan
+alcremie-mint-cream-flower:Alcremie (Minz-Creme-Blume)
 alcremie-mint-cream-flowerDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-mint-cream-love:Pokusan
+alcremie-mint-cream-love:Alcremie (Minz-Creme-Liebe)
 alcremie-mint-cream-loveDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-mint-cream-ribbon:Pokusan
+alcremie-mint-cream-ribbon:Alcremie (Minz-Creme-Band)
 alcremie-mint-cream-ribbonDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-mint-cream-star:Pokusan
+alcremie-mint-cream-star:Alcremie (Minz-Creme-Stern)```
 alcremie-mint-cream-starDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-mintcream-berry:Pokusan
+alcremie-mintcream-berry:Alcremie (Minzcreme-Beere)
 alcremie-mintcream-berryDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-mintcream-clover:Pokusan
+alcremie-mintcream-clover:Alcremie (Minzcreme-Kleeblatt)
 alcremie-mintcream-cloverDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-mintcream-flower:Pokusan
+alcremie-mintcream-flower:Alcremie (Minzcreme-Blume)
 alcremie-mintcream-flowerDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-mintcream-love:Pokusan
+alcremie-mintcream-love:Alcremie (Minzcreme-Liebe)
 alcremie-mintcream-loveDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-mintcream-ribbon:Pokusan
+alcremie-mintcream-ribbon:Alcremie (Minzcreme-Band)
 alcremie-mintcream-ribbonDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-mintcream-star:Pokusan
+alcremie-mintcream-star:Alcremie (Minzcreme-Stern)
 alcremie-mintcream-starDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-mintcream:Pokusan
+alcremie-mintcream:Alcremie (Minzcreme)
 alcremie-mintcreamDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-rainbow-swirl-berry:Pokusan
+alcremie-rainbow-swirl-berry:Alcremie (Regenbogenwirbel-Beere)
 alcremie-rainbow-swirl-berryDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-rainbow-swirl-clover:Pokusan
+alcremie-rainbow-swirl-clover:Alcremie (Regenbogenwirbel-Kleeblatt)
 alcremie-rainbow-swirl-cloverDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-rainbow-swirl-flower:Pokusan
+alcremie-rainbow-swirl-flower:Alcremie (Regenbogenwirbel-Blume)
 alcremie-rainbow-swirl-flowerDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-rainbow-swirl-love:Pokusan
+alcremie-rainbow-swirl-love:Alcremie (Regenbogenwirbel-Liebe)
 alcremie-rainbow-swirl-loveDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-rainbow-swirl-ribbon:Pokusan
+alcremie-rainbow-swirl-ribbon:Alcremie (Regenbogenwirbel-Band)
 alcremie-rainbow-swirl-ribbonDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-rainbow-swirl-star:Pokusan
+alcremie-rainbow-swirl-star:Alcremie (Regenbogenwirbel-Stern)
 alcremie-rainbow-swirl-starDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-rainbowswirl-berry:Pokusan
+alcremie-rainbowswirl-berry:Alcremie (Regenbogenwirbel-Beere)
 alcremie-rainbowswirl-berryDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-rainbowswirl-clover:Pokusan
+alcremie-rainbowswirl-clover:Alcremie (Regenbogenwirbel-Kleeblatt)
 alcremie-rainbowswirl-cloverDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-rainbowswirl-flower:Pokusan
+alcremie-rainbowswirl-flower:Alcremie (Regenbogenwirbel-Blume)
 alcremie-rainbowswirl-flowerDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-rainbowswirl-love:Pokusan
+alcremie-rainbowswirl-love:Alcremie (Regenbogenwirbel-Liebe)
 alcremie-rainbowswirl-loveDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-rainbowswirl-ribbon:Pokusan
+alcremie-rainbowswirl-ribbon:Alcremie (Regenbogenwirbel-Band)
 alcremie-rainbowswirl-ribbonDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-rainbowswirl-star:Pokusan
+alcremie-rainbowswirl-star:Alcremie (Regenbogenwirbel-Stern)
 alcremie-rainbowswirl-starDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-rainbowswirl:Pokusan
+alcremie-rainbowswirl:Alcremie (Regenbogenwirbel)
 alcremie-rainbowswirlDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-ruby-cream-berry:Pokusan
+alcremie-ruby-cream-berry:Alcremie (Rubin-Creme-Beere)
 alcremie-ruby-cream-berryDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-ruby-cream-clover:Pokusan
+alcremie-ruby-cream-clover:Alcremie (Rubin-Creme-Klee)
 alcremie-ruby-cream-cloverDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-ruby-cream-flower:Pokusan
+alcremie-ruby-cream-flower:Alcremie (Rubin-Creme-Blume)
 alcremie-ruby-cream-flowerDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-ruby-cream-love:Pokusan
+alcremie-ruby-cream-love:Alcremie (Rubin-Creme-Liebe)
 alcremie-ruby-cream-loveDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-ruby-cream-ribbon:Pokusan
+alcremie-ruby-cream-ribbon:Alcremie (Rubin-Creme-Band)
 alcremie-ruby-cream-ribbonDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-ruby-cream-star:Pokusan
+alcremie-ruby-cream-star:Alcremie (Rubin-Creme-Stern)
 alcremie-ruby-cream-starDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-ruby-swirl-berry:Pokusan
+alcremie-ruby-swirl-berry:Alcremie (Rubin-Wirbel-Beere)
 alcremie-ruby-swirl-berryDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-ruby-swirl-clover:Pokusan
+alcremie-ruby-swirl-clover:Alcremie (Rubin-Wirbel-Klee)
 alcremie-ruby-swirl-cloverDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-ruby-swirl-flower:Pokusan
+alcremie-ruby-swirl-flower:Alcremie (Rubin-Wirbel-Blume)
 alcremie-ruby-swirl-flowerDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-ruby-swirl-love:Pokusan
+alcremie-ruby-swirl-love:Alcremie (Rubin-Wirbel-Liebe)
 alcremie-ruby-swirl-loveDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-ruby-swirl-ribbon:Pokusan
+alcremie-ruby-swirl-ribbon:Alcremie (Rubin-Wirbel-Band)
 alcremie-ruby-swirl-ribbonDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-ruby-swirl-star:Pokusan
+alcremie-ruby-swirl-star:Alcremie (Rubin-Wirbel-Stern)
 alcremie-ruby-swirl-starDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-rubycream-berry:Pokusan
+alcremie-rubycream-berry:Alcremie (Rubincreme-Beere)
 alcremie-rubycream-berryDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-rubycream-clover:Pokusan
+alcremie-rubycream-clover:Alcremie (Rubincreme-Klee)
 alcremie-rubycream-cloverDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-rubycream-flower:Pokusan
+alcremie-rubycream-flower:Alcremie (Rubincreme-Blume)
 alcremie-rubycream-flowerDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-rubycream-love:Pokusan
+alcremie-rubycream-love:Alcremie (Rubincreme-Liebe)
 alcremie-rubycream-loveDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-rubycream-ribbon:Pokusan
+alcremie-rubycream-ribbon:Alcremie (Rubincreme-Band)
 alcremie-rubycream-ribbonDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-rubycream-star:Pokusan
+alcremie-rubycream-star:Alcremie (Rubincreme-Stern)
 alcremie-rubycream-starDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-rubycream:Pokusan
+alcremie-rubycream:Alcremie (Rubincreme)
 alcremie-rubycreamDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-rubyswirl-berry:Pokusan
+alcremie-rubyswirl-berry:Alcremie (Rubinwirbel-Beere)
 alcremie-rubyswirl-berryDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
 alcremie-rubyswirl-clover:Pokusan
 alcremie-rubyswirl-cloverDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
@@ -2310,27 +2310,27 @@ alcremie-saltedcream:Pokusan
 alcremie-saltedcreamDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
 alcremie-vanilla-cream-berry:Pokusan
 alcremie-vanilla-cream-berryDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-vanilla-cream-clover:Pokusan
+alcremie-vanilla-cream-clover:Alcremie (Vanille-Sahne-Klee)
 alcremie-vanilla-cream-cloverDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-vanilla-cream-flower:Pokusan
+alcremie-vanilla-cream-flower:Alcremie (Vanille-Sahne-Blume)
 alcremie-vanilla-cream-flowerDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-vanilla-cream-love:Pokusan
+alcremie-vanilla-cream-love:Alcremie (Vanille-Sahne-Liebe)
 alcremie-vanilla-cream-loveDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-vanilla-cream-ribbon:Pokusan
+alcremie-vanilla-cream-ribbon:Alcremie (Vanille-Sahne-Band)
 alcremie-vanilla-cream-ribbonDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-vanilla-cream-star:Pokusan
+alcremie-vanilla-cream-star:Alcremie (Vanille-Sahne-Stern)
 alcremie-vanilla-cream-starDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-vanillacream-berry:Pokusan
+alcremie-vanillacream-berry:Alcremie (Vanillecreme-Beere)
 alcremie-vanillacream-berryDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-vanillacream-clover:Pokusan
+alcremie-vanillacream-clover:Alcremie (Vanillecreme-Klee)
 alcremie-vanillacream-cloverDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-vanillacream-flower:Pokusan
+alcremie-vanillacream-flower:Alcremie (Vanillecreme-Blume)
 alcremie-vanillacream-flowerDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-vanillacream-love:Pokusan
+alcremie-vanillacream-love:Alcremie (Vanillecreme-Liebe)
 alcremie-vanillacream-loveDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-vanillacream-ribbon:Pokusan
+alcremie-vanillacream-ribbon:Alcremie (Vanillecreme-Band)
 alcremie-vanillacream-ribbonDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
-alcremie-vanillacream-star:Pokusan
+alcremie-vanillacream-star:Alcremie (Vanillecreme-Stern)
 alcremie-vanillacream-starDescription:Es feuert Raketen aus Sahne ab, die jeweils 100 000 kcal enthalten. Wer diese Sahnedusche abbekommt, dem schwirrt der Kopf.
 ambipom-f:Ambidiffel
 ambipom-fDescription:Es benutzt seine zwei Schweife für alles, was es tut. Wenn es jemanden mit ihnen umarmt, ist das ein Beweis seiner Zuneigung.
@@ -2380,17 +2380,17 @@ blaziken-f:Lohgock
 blaziken-fDescription:Lohgock besitzt unglaublich starke Beine, mit denen es ein 30 Stockwerke hohes Gebäude mit einem Sprung überwinden kann. Die flammenden Schläge dieses Pokémon lassen verkohlte Gegner zurück.
 buizel-f:Bamelin
 buizel-fDescription:Es füllt den Schwimmreifen um seinen Hals mit Luft, um den Kopf über dem Wasser zu halten und die Umgebung zu überblicken.
-burmy-sandy:Burmy
+burmy-sandy:Burmy (Sandform)
 burmy-sandyDescription:Wird sein Umhang im Kampf zerstört, macht es sich schnell aus dem, was es findet, einen neuen.
-burmy-trash:Burmy
+burmy-trash:Burmy (Müllform)
 burmy-trashDescription:Wird sein Umhang im Kampf zerstört, macht es sich schnell aus dem, was es findet, einen neuen.
 butterfree-gmax:Gmax Smettbo
 butterfree-gmaxDescription:Es zieht Gegner in eine Windhose, die selbst 10 t schwere Laster wegpusten könnte, und gibt ihnen dann mit hochgiftigem Flügelstaub den Rest.
 cacturne-f:Noktuska
 cacturne-fDescription:Wenn ein Reisender mitten in der Nacht durch eine Wüste wandert, folgt Noktuska ihm und spielt ihm Streiche. Dann wartet dieses Pokémon darauf, dass der Reisende müde wird und sich nicht mehr bewegen kann.
-calyrex-ice:Coronospa
+calyrex-ice:Calyrex (Eisreiter)
 calyrex-iceDescription:Ein warmherziges Pokémon, das über heilende und segnende Kräfte verfügt. In längst vergangenen Zeiten herrschte es über Galar.
-calyrex-shadow:Coronospa
+calyrex-shadow:Calyrex (Schattenreiter)
 calyrex-shadowDescription:Ein warmherziges Pokémon, das über heilende und segnende Kräfte verfügt. In längst vergangenen Zeiten herrschte es über Galar.
 camerupt-f:Camerupt
 camerupt-fDescription:Die Höcker auf Camerupts Rücken sind durch eine Transformation seiner Knochen entstanden. Hin und wieder stoßen sie Magma aus. Dieses Pokémon bricht häufig aus, wenn es wütend ist.
@@ -2402,7 +2402,7 @@ charizard-megax:MegaX-Glurak
 charizard-megaxDescription:In seinem Inneren wirbeln 2 000 ºC heiße Flammen umher. Wenn es brüllt, steigt die Feuerkraft noch weiter an.
 charizard-megay:MegaY-Glurak
 charizard-megayDescription:In seinem Inneren wirbeln 2 000 ºC heiße Flammen umher. Wenn es brüllt, steigt die Feuerkraft noch weiter an.
-cherrim-sunshine:Kinoso
+cherrim-sunshine:Cherrim (Sonnenschein)
 cherrim-sunshineDescription:Wenn es in voller Blüte steht, strömt es einen zarten Duft aus, der Käfer-Pokémon anlockt.
 coalossal-gmax:Gmax Montecarbo
 coalossal-gmaxDescription:Man erzählt sich, dass es einst unzählige Leben vor einer Kältewelle gerettet haben soll, indem es als Ofen von gigantischem Ausmaß fungierte.
@@ -2428,11 +2428,11 @@ darmanitan-galarzen:Gal Flampivian
 darmanitan-galarzenDescription:Nimmt es im Kampf Schaden, wird es hart wie Stein und fällt in eine Trance, um seinen Verstand zu schärfen.
 darumaka-galar:Gal Flampion
 darumaka-galarDescription:Während es schläft, lässt es sich nicht mal mit Gewalt umstoßen. Aus diesem Grund ist es ein beliebtes Motiv für Glücksbringer.
-deerling-autumn:Sesokitz
+deerling-autumn:Vegimak (Herbstform)
 deerling-autumnDescription:Sein Fell und sein Geruch ändern sich mit dem Wechsel der Jahreszeiten. Es ist der Bote des Saisonwechsels.
-deerling-summer:Sesokitz
+deerling-summer:Vegimak (Sommerform)
 deerling-summerDescription:Sein Fell und sein Geruch ändern sich mit dem Wechsel der Jahreszeiten. Es ist der Bote des Saisonwechsels.
-deerling-winter:Sesokitz
+deerling-winter:Vegimak (Winterform)
 deerling-winterDescription:Sein Fell und sein Geruch ändern sich mit dem Wechsel der Jahreszeiten. Es ist der Bote des Saisonwechsels.
 donphan-f:Donphan
 donphan-fDescription:Donphan kann mit seinem harten Körper sogar ein Haus zerstören. Mit seiner imposanten Kraft hilft dieses Pokémon dabei, Erdrutsche aus dem Weg zu räumen, die Bergpfade versperren.
@@ -2444,63 +2444,63 @@ dustox-f:Pudox
 dustox-fDescription:Wenn Pudox mit den Flügeln schlägt, verteilt es einen feinen Puder. Es handelt sich um ein starkes Gift, das sogar einen Profiboxer umhauen würde. Bei der Futtersuche benutzt dieses Pokémon seine Antennen als Radar.
 eevee-gmax:Gmax Evoli
 eevee-gmaxDescription:Es ist noch treuherziger als sonst und will mit jedem spielen. Doch aufgrund seiner enormen Größe erdrückt es seine Spielkameraden dabei.
-eevee-starter:Evoli
+eevee-starter:Evoli (Starter)
 eevee-starterDescription:Es ist noch treuherziger als sonst und will mit jedem spielen. Doch aufgrund seiner enormen Größe erdrückt es seine Spielkameraden dabei.
-eiscue-noice:Kubuin
+eiscue-noice:Kubuin (Noice)
 eiscue-noiceDescription:Es kühlt sein Gesicht ständig mit Eis, da dieses Hitze nicht gut verträgt. Das Haar auf dem Kopf hängt es ins Meer und angelt sich damit Beute.
-eternatus-eternamax:Endynalos
+eternatus-eternamax:Eternatus (Eternamax)
 eternatus-eternamaxDescription:Es steckte in einem Meteorit, der vor 20 000 Jahren herabstürzte. Es scheint in Verbindung mit dem Dynamax-Phänomen zu stehen.
 farfetchd-galar:Gal Porenta
 farfetchd-galarDescription:Im Kampf verwendet es eine Lauchstange als Waffe. Es gibt verschiedene Meinungen dazu, wie diese korrekt zu schwingen sei.
 finneon-f:Finneon
 finneon-fDescription:Seine leuchtenden Flossen locken Beute an. Bei Tag bleibt es nahe an der Wasseroberfläche, während es abends in den Tiefen verschwindet.
-flabebe-blue:Flabébé
+flabebe-blue:Flabébé (Blau)
 flabebe-blueDescription:Die Krone auf seinem Kopf hat es sich aus Pollen von Blumen gebastelt. Sie besitzt eine heilende Wirkung.
-flabebe-orange:Flabébé
+flabebe-orange:Flabébé (Orange)
 flabebe-orangeDescription:Die Krone auf seinem Kopf hat es sich aus Pollen von Blumen gebastelt. Sie besitzt eine heilende Wirkung.
-flabebe-white:Flabébé
+flabebe-white:Flabébé (Weiß)
 flabebe-whiteDescription:Die Krone auf seinem Kopf hat es sich aus Pollen von Blumen gebastelt. Sie besitzt eine heilende Wirkung.
-flabebe-yellow:Flabébé
+flabebe-yellow:Flabébé (Gelb)
 flabebe-yellowDescription:Die Krone auf seinem Kopf hat es sich aus Pollen von Blumen gebastelt. Sie besitzt eine heilende Wirkung.
 flapple-gmax:Gmax Drapfel
 flapple-gmaxDescription:Streckt es seinen Hals, strömt der überwältigend süße Duft seines Nektars aus. Pokémon, die ihn erschnuppern, verlieren das Bewusstsein.
 floatzel-f:Bojelin
 floatzel-fDescription:Da es seit jeher Beute im Wasser jagt, entwickelte es einen Rettungsring.
-floette-blue:Floette
+floette-blue:Floette (Blau)
 floette-blueDescription:Es überträgt seine Kraft auf Blumen und pflegt diese mit ganzem Herzen. Es verzeiht keinem, der sein Blumenbeet verwüstet.
-floette-orange:Floette
+floette-orange:Floette (Orange)
 floette-orangeDescription:Es überträgt seine Kraft auf Blumen und pflegt diese mit ganzem Herzen. Es verzeiht keinem, der sein Blumenbeet verwüstet.
-floette-white:Floette
+floette-white:Floette (Weiß)
 floette-whiteDescription:Es überträgt seine Kraft auf Blumen und pflegt diese mit ganzem Herzen. Es verzeiht keinem, der sein Blumenbeet verwüstet.
-floette-yellow:Floette
+floette-yellow:Floette (Gelb)
 floette-yellowDescription:Es überträgt seine Kraft auf Blumen und pflegt diese mit ganzem Herzen. Es verzeiht keinem, der sein Blumenbeet verwüstet.
-florges-blue:Florges
+florges-blue:Florges (Blau)
 florges-blueDescription:Es hat eine Lebenserwartung von mehreren Hundert Jahren. Man sagt, es widme sein ganzes Dasein beharrlich der Pflege von Blumengärten.
-florges-orange:Florges
+florges-orange:Florges (Orange)
 florges-orangeDescription:Es hat eine Lebenserwartung von mehreren Hundert Jahren. Man sagt, es widme sein ganzes Dasein beharrlich der Pflege von Blumengärten.
-florges-white:Florges
+florges-white:Florges (Weiß)
 florges-whiteDescription:Es hat eine Lebenserwartung von mehreren Hundert Jahren. Man sagt, es widme sein ganzes Dasein beharrlich der Pflege von Blumengärten.
-florges-yellow:Florges
+florges-yellow:Florges (Gelb)
 florges-yellowDescription:Es hat eine Lebenserwartung von mehreren Hundert Jahren. Man sagt, es widme sein ganzes Dasein beharrlich der Pflege von Blumengärten.
 frillish-f:Quabbel
 frillish-fDescription:Einer Sage nach sind Quabbel in Wirklichkeit Bewohner einer uralten, im Meer versunkenen Stadt, die zu Pokémon wurden.
-furfrou-dandy:Coiffwaff
+furfrou-dandy:Furfrou (Dandy)
 furfrou-dandyDescription:Trimmt man sein Fell nicht regelmäßig, wächst es ohne Unterlass. Allerdings lässt es sich nur von jemandem frisieren, dem es traut.
-furfrou-debutante:Coiffwaff
+furfrou-debutante:Furfrou (Debütantin)
 furfrou-debutanteDescription:Trimmt man sein Fell nicht regelmäßig, wächst es ohne Unterlass. Allerdings lässt es sich nur von jemandem frisieren, dem es traut.
-furfrou-diamond:Coiffwaff
+furfrou-diamond:Furfrou (Diamant)
 furfrou-diamondDescription:Trimmt man sein Fell nicht regelmäßig, wächst es ohne Unterlass. Allerdings lässt es sich nur von jemandem frisieren, dem es traut.
-furfrou-heart:Coiffwaff
+furfrou-heart:Furfrou (Herz)
 furfrou-heartDescription:Trimmt man sein Fell nicht regelmäßig, wächst es ohne Unterlass. Allerdings lässt es sich nur von jemandem frisieren, dem es traut.
-furfrou-kabuki:Coiffwaff
+furfrou-kabuki:Furfrou (Kabuki)
 furfrou-kabukiDescription:Trimmt man sein Fell nicht regelmäßig, wächst es ohne Unterlass. Allerdings lässt es sich nur von jemandem frisieren, dem es traut.
-furfrou-lareine:Coiffwaff
+furfrou-lareine:Furfrou (Lareine)
 furfrou-lareineDescription:Trimmt man sein Fell nicht regelmäßig, wächst es ohne Unterlass. Allerdings lässt es sich nur von jemandem frisieren, dem es traut.
-furfrou-matron:Coiffwaff
+furfrou-matron:Furfrou (Matron)
 furfrou-matronDescription:Trimmt man sein Fell nicht regelmäßig, wächst es ohne Unterlass. Allerdings lässt es sich nur von jemandem frisieren, dem es traut.
-furfrou-pharaoh:Coiffwaff
+furfrou-pharaoh:Furfrou (Pharao)
 furfrou-pharaohDescription:Trimmt man sein Fell nicht regelmäßig, wächst es ohne Unterlass. Allerdings lässt es sich nur von jemandem frisieren, dem es traut.
-furfrou-star:Coiffwaff
+furfrou-star:Furfrou (Stern)
 furfrou-starDescription:Trimmt man sein Fell nicht regelmäßig, wächst es ohne Unterlass. Allerdings lässt es sich nur von jemandem frisieren, dem es traut.
 gabite-f:Knarksel
 gabite-fDescription:Wenn es wächst, streift es seine Schuppen ab. Diese lassen sich zu einem Pulver zerkleinern, das als Basis für natürliche Heilmittel dient.
@@ -2508,15 +2508,15 @@ garbodor-gmax:Gmax Deponitox
 garbodor-gmaxDescription:Wer mit dem giftigen Gas, das es über das Maul und die Fingerspitzen versprüht, in Kontakt tritt, erleidet schwere Vergiftungen.
 garchomp-f:Knakrack
 garchomp-fDescription:Mit seinen feinporigen Schuppen kann es nicht nur den Luftwiderstand verringern, sondern auch nahende Angreifer verletzen.
-gastrodon-east:Gastrodon
+gastrodon-east:Gastrodon (Ost)
 gastrodon-eastDescription:Sein Körper wird von einem schleimigen Film umhüllt. Da dieser leicht austrocknet, kann es sich nur für sehr kurze Zeit an Land aufhalten.
-genesect-burn:Genesect
+genesect-burn:Genesect (Verbrennung)
 genesect-burnDescription:Es lebte vor 300 Millionen Jahren. Team Plasma modifizierte es und pflanzte ihm am Rücken eine Kanone ein.
-genesect-chill:Genesect
+genesect-chill:Genesect (Kühlen)
 genesect-chillDescription:Es lebte vor 300 Millionen Jahren. Team Plasma modifizierte es und pflanzte ihm am Rücken eine Kanone ein.
-genesect-douse:Genesect
+genesect-douse:Genesect (Löschen)
 genesect-douseDescription:Es lebte vor 300 Millionen Jahren. Team Plasma modifizierte es und pflanzte ihm am Rücken eine Kanone ein.
-genesect-shock:Genesect
+genesect-shock:Genesect (Schock)
 genesect-shockDescription:Es lebte vor 300 Millionen Jahren. Team Plasma modifizierte es und pflanzte ihm am Rücken eine Kanone ein.
 gengar-gmax:Gmax Gengar
 gengar-gmaxDescription:Man sagt, es sei aus Dunkelheit entstanden, um denjenigen, die sich in den Bergen verirrt haben, das Leben zu rauben.
@@ -2528,7 +2528,7 @@ gligar-f:Skorgla
 gligar-fDescription:Skorgla segelt lautlos durch die Lüfte. Es verankert sich mithilfe der Krallen an seinen Hinterbeinen und der riesigen Scheren an seinen Vorderbeinen am Gesicht eines Feindes und vergiftet ihn mit seinem Giftstachel.
 golbat-f:Golbat
 golbat-fDescription:Golbat nähert sich schnell und lautlos an. Mit seinen spitzen Zähnen beißt es zu und saugt seinen Opfern Blut ab.
-greninja-ash:Quajutsu
+greninja-ash:Greninja (Asche)
 greninja-ashDescription:Kaum hat man es erspäht, verschwindet es auch schon wieder. Mit der Agilität eines Ninjas verwirrt es seine Gegner, um sie dann mit Wasser-Shuriken anzugreifen.
 grimmsnarl-gmax:Gmax Olangaar
 grimmsnarl-gmaxDescription:Seine Haare funktionieren wie Muskelfasern. Es kann diese vom Körper lösen und wie Tentakel verwenden, um Gegner einzufangen.
@@ -2576,7 +2576,7 @@ luxray-f:Luxtra
 luxray-fDescription:Der Einsatz seines Röntgenblicks verbraucht sehr viel Elektrizität. Luxtra gewinnt diese zurück, indem es lange schläft.
 machamp-gmax:Giga-Dynamax Machomei
 machamp-gmaxDescription:Seine vier Arme reagieren schneller, als es denken kann. Daher ist es in der Lage, unzählige Schläge reflexartig auszuführen.
-magearna-original:Magearna
+magearna-original:Magearna (Original)
 magearna-originalDescription:Es wurde vor ungefähr 500 Jahren von einem Wissenschaftler erschaffen. Sein eigentlicher Körper ist der als „Seelenherz“ bezeichnete Teil.
 magikarp-f:Karpador
 magikarp-fDescription:Dieses Pokémon ist so schwach und erbärmlich, dass es sich in Gewässern mit starker Strömung einfach vom Wasser treiben lässt.
@@ -2602,7 +2602,7 @@ mewtwo-megay:MegaY-Mewtu
 mewtwo-megayDescription:Seine Psycho-Kräfte haben seine Muskeln stärker werden lassen. Es hat die Greifkraft von einer Tonne und legt in zwei Sekunden 100 m zurück.
 milotic-f:Milotic
 milotic-fDescription:Es heißt, der Anblick seiner wunderschönen Gestalt könne selbst das verrohteste Herz erweichen.
-mimikyu-busted:Mimigma
+mimikyu-busted:Mimikyu (Zerfetzt)
 mimikyu-bustedDescription:Unglücklicherweise knickte sein Hals um, als es mit seinem Lumpen eine Attacke abfing, wodurch seine wahre Identität enthüllt wurde.
 minior-blue:Meteno
 minior-blueDescription:Seine äußere Schale ist zwar sehr robust, durch den Aufprall auf der Oberfläche des Planeten zersplittert sie allerdings.
@@ -2620,17 +2620,17 @@ minior-yellow:Meteno
 minior-yellowDescription:Seine äußere Schale ist zwar sehr robust, durch den Aufprall auf der Oberfläche des Planeten zersplittert sie allerdings.
 moltres-galar:Gal Lavados
 moltres-galarDescription:Wenn dieses Legendäre Vogel-Pokémon mit seinen lodernden Flügeln schlägt, erstrahlt sogar der Nachthimmel in gleißendem Rot.
-morpeko-hangry:Morpeko
+morpeko-hangry:Morpeko (Hangry)
 morpeko-hangryDescription:Egal, wie viel es auch frisst, es wird sofort wieder hungrig. Es röstet Samen mit seiner Elektrizität und trägt diese dann vorsichtig mit sich herum.
 mrmime-galar:Gal Pantimos
 mrmime-galarDescription:Es ist für die Pantomime geboren. Zur Abwehr unterschiedlichster Angriffe erzeugt es mit einem Kraftfeld aus seinen Fingerspitzen Schutzwände.
 murkrow-f:Kramurx
 murkrow-fDescription:Für seinen Chef geht es auf die Jagd nach glitzernden Objekten. Von vielen Menschen wird es als Überbringer des Unheils verabscheut.
-necrozma-dawnwings:Necrozma
+necrozma-dawnwings:Necrozma (Morgenschwingen)
 necrozma-dawnwingsDescription:Necrozma kontrolliert in dieser Form Lunala. In seiner Wut sieht es alle als Feinde und feuert seinen einäschernden Laser wahllos auf sie ab.
-necrozma-duskmane:Necrozma
+necrozma-duskmane:Necrozma (Abendmähne)
 necrozma-duskmaneDescription:Necrozma kontrolliert in dieser Form Lunala. In seiner Wut sieht es alle als Feinde und feuert seinen einäschernden Laser wahllos auf sie ab.
-necrozma-ultra:Necrozma
+necrozma-ultra:Necrozma (Ultra)
 necrozma-ultraDescription:Necrozma kontrolliert in dieser Form Lunala. In seiner Wut sieht es alle als Feinde und feuert seinen einäschernden Laser wahllos auf sie ab.
 numel-f:Camaub
 numel-fDescription:Camaub speichert fast 1 200 °C heißes Magma in seinem Körper. Wenn es nass wird, kühlt das Magma ab und wird hart. Dadurch wird der Körper dieses Pokémon schwer und seine Bewegungen träge.
@@ -2648,31 +2648,31 @@ pikachu-f:Pikachu
 pikachu-fDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
 pikachu-gmax:Giga-Dynamax Pikachu
 pikachu-gmaxDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
-pikachu-hoenn:Pikachu
+pikachu-hoenn:Pikachu (Hoenn)
 pikachu-hoennDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
-pikachu-kalos:Pikachu
+pikachu-kalos:Pikachu (Kalos)
 pikachu-kalosDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
-pikachu-original:Pikachu
+pikachu-original:Pikachu (Original)
 pikachu-originalDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
-pikachu-partner:Pikachu
+pikachu-partner:Pikachu (Partner)
 pikachu-partnerDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
-pikachu-popstar:Pikachu
+pikachu-popstar:Pikachu (Popstar)
 pikachu-popstarDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
-pikachu-rockstar:Pikachu
+pikachu-rockstar:Pikachu (Rockstar)
 pikachu-rockstarDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
-pikachu-sinnoh:Pikachu
+pikachu-sinnoh:Pikachu (Sinnoh)
 pikachu-sinnohDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
 pikachu-starter-f:Pikachu
 pikachu-starter-fDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
-pikachu-starter:Pikachu
+pikachu-starter:Pikachu (Starter)
 pikachu-starterDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
-pikachu-unova:Pikachu
+pikachu-unova:Pikachu (Unova)
 pikachu-unovaDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
 piloswine-f:Keifel
 piloswine-fDescription:Obwohl es sehr kurze Beine hat, rutscht es auf eisigen Flächen nicht aus, da seine gespaltenen Hufe ihm genügend Halt bieten.
 politoed-f:Quaxo
 politoed-fDescription:Die Rufe der Männchen sind besonders laut. Quaxo mit einer tiefen, bedrohlichen Stimme sind bei den Weibchen sehr beliebt.
-polteageist-antique:Mortipot
+polteageist-antique:Mortipot (Antik)
 polteageist-antiqueDescription:Ist es wütend, schießt es seinen Körper aus Tee in den Mund des Gegners. Verschluckt ihn dieser, wird er von schlimmem Schüttelfrost heimgesucht.
 ponyta-galar:Gal Ponita
 ponyta-galarDescription:Hat man erst einmal das Vertrauen eines Ponitas gewonnen, kann man seltsamerweise sogar seine feurige Mähne anfassen, ohne sich zu verbrennen.
@@ -2696,17 +2696,17 @@ roserade-f:Roserade
 roserade-fDescription:Das Gift aus seiner rechten Hand wirkt sofort, das aus seiner linken langsam. Beide Gifte können tödlich sein.
 sandaconda-gmax:Giga-Dynamax Sanaconda
 sandaconda-gmaxDescription:Es rollt sich auf diese eigentümliche Weise zusammen, damit es den Sand aus seinem Sandbeutel effizienter verschießen kann.
-sawsbuck-autumn:Kronjuwild
+sawsbuck-autumn:Kronjuwild (Herbst)
 sawsbuck-autumnDescription:Mancherorts sagt man, sie brächten den Frühling, da sie je nach Jahreszeit ihr Revier wechseln.
-sawsbuck-summer:Kronjuwild
+sawsbuck-summer:Kronjuwild (Sommer)
 sawsbuck-summerDescription:Mancherorts sagt man, sie brächten den Frühling, da sie je nach Jahreszeit ihr Revier wechseln.
-sawsbuck-winter:Kronjuwild
+sawsbuck-winter:Kronjuwild (Winter)
 sawsbuck-winterDescription:Mancherorts sagt man, sie brächten den Frühling, da sie je nach Jahreszeit ihr Revier wechseln.
 scizor-f:Scherox
 scizor-fDescription:Trotz seines dünnen Körpers verfügt Scherox über eine gewaltige Angriffsstärke. Selbst seine Muskeln bestehen aus Metall.
 scyther-f:Sichlor
 scyther-fDescription:Entdeckt man im Wald ein Gebiet, in dem besonders viele Bäume gefällt wurden, befindet man sich im Revier eines Sichlors.
-shellos-east:Schalellos
+shellos-east:Schalellos (Ost)
 shellos-eastDescription:Wenn man es fest drückt, sondert es eine seltsame lilafarbene Flüssigkeit ab. Diese ist zwar nicht schädlich, aber sehr schleimig.
 shiftry-f:Tengulist
 shiftry-fDescription:Es lebt in den einsamen Tiefen der Wälder. Man sagt, wenn es seine großen Fächer schwingt, jagen eisige Windböen über das Land.
@@ -2746,7 +2746,7 @@ silvally-steel:Steel Amigento
 silvally-steelDescription:Wenn es erfolgreich erweckt wurde, kann es seinen Typ wechseln und kämpfen - genau wie ein bestimmtes Pokémon aus den Legenden. Dies ist sein steel Typ Form.
 silvally-water:Water Amigento
 silvally-waterDescription:Wenn es erfolgreich erweckt wurde, kann es seinen Typ wechseln und kämpfen - genau wie ein bestimmtes Pokémon aus den Legenden. Dies ist sein water Typ Form.
-sinistea-antique:Fatalitee
+sinistea-antique:Fatalitee (Antik)
 sinistea-antiqueDescription:Es saugt jenen, die es trinken, die Lebensenergie aus. Es hofft, getrunken zu werden, aber da es widerlich schmeckt, wird es sofort ausgespuckt.
 slowbro-galar:Gal Lahmus
 slowbro-galarDescription:Packt es die Zunge des festgebissenen Muschas, feuert dieses eine hochgiftige Flüssigkeit aus der Spitze seiner Spiralmuschel ab.
@@ -2782,7 +2782,7 @@ toxicroak-f:Toxiquak
 toxicroak-fDescription:Wenn es seine Beute erlegt, quakt es seinen Triumph in die Welt hinaus. Es ist artverwandt mit Branawarz.
 toxtricity-gmax:Giga-Dynamax Riffex
 toxtricity-gmaxDescription:Wenn es mit speziellen Organen in seiner Brust Elektrizität erzeugt, erklingen dabei Geräusche, die an eine Bassgitarre erinnern.
-toxtricity-lowkey:Riffex
+toxtricity-lowkey:Riffex (Konzentrisch)
 toxtricity-lowkeyDescription:Wenn es mit speziellen Organen in seiner Brust Elektrizität erzeugt, erklingen dabei Geräusche, die an eine Bassgitarre erinnern.
 unfezant-f:Fasasnob
 unfezant-fDescription:Es ist schlau, aber auch sehr stolz. Seine Trainer genießen daher generell großen Respekt.
@@ -2842,39 +2842,39 @@ unown-z:Icognito
 unown-zDescription:Icognito hat die Form antiker Schriftzeichen. Bis heute ist unklar, was zuerst da war – die antiken Schriftzeichen oder die vielen unterschiedlichen Icognito. Trotz umfangreicher Forschung bleiben Fragen offen.
 ursaring-f:Ursaring
 ursaring-fDescription:In den von Ursaring bewohnten Wäldern gibt es viele Flüsse und hohe Bäume, in denen es Nahrung findet. Dieses Pokémon läuft täglich durch den Wald, um nach Essbarem zu suchen.
-urshifu-rapidstrike:Wulaosu
+urshifu-rapidstrike:Wulaosu (Fokussiert)
 urshifu-rapidstrikeDescription:Wulaosu lebt in den Bergen einer fernen Region. Um die Beine zu stählen und seine Kampftechnik zu verbessern, rennt es steile Klippen entlang.
 weavile-f:Snibunna
 weavile-fDescription:Sie kommunizieren miteinander, indem sie Zeichen mit ihren Krallen hinterlassen. Es soll über 500 davon geben.
 weezing-galar:Gal Smogmog
 weezing-galarDescription:Es kann zwar nicht so viel Luft einsaugen wie die Smogmog aus Galar, dafür sind aber die Toxine, die es produziert, umso stärker.
-wishiwashi-school:Lusardin
+wishiwashi-school:Lusardin (Schwarm)
 wishiwashi-schoolDescription:Wenn es Gefahr verspürt, tränen seine Augen. Das Leuchten der Tränen fungiert als Signal, mit dem es etliche Artgenossen zu sich ruft.
 wobbuffet-f:Woingenau
 wobbuffet-fDescription:Es lebt in der Dunkelheit, um seinen schwarzen Schweif zu verstecken. Es greift nie zuerst an.
 xatu-f:Xatu
 xatu-fDescription:Dieses kuriose Pokémon kann die Vergangenheit und die Zukunft sehen. Es beobachtet täglich den Lauf der Sonne.
-xerneas-neutral:Xerneas
+xerneas-neutral:Xerneas (Neutral)
 xerneas-neutralDescription:Es heißt, dieses Pokémon spende ewiges Leben, sobald das Geweih auf seinem Haupt in sieben verschiedenen Farben leuchtet.
 wooper-f:Felino
 wooper-fDescription:An Land bedeckt es seine Haut mit einer giftigen Schicht, die es vor dem Austrocknen bewahrt.
 yamask-galar:Gal Makabaja
 yamask-galarDescription:Makabaja sind Seelen von Menschen aus uralten Zeiten, die zu Pokémon wurden. Sie suchen in Ruinen nach Leuten, die ihr Gesicht kennen.
-zacian-crowned:Zacian
+zacian-crowned:Zacian (Krönung)
 zacian-crownedDescription:Weil es alles und jeden vernichten konnte, trug es einst den Namen „Feenkönigsschwert“ und wurde gleichermaßen gefürchtet und verehrt.
-zamazenta-crowned:Zamazenta
+zamazenta-crowned:Zamazenta (Krönung)
 zamazenta-crownedDescription:In dieser schwer gepanzerten Form kann es sogar die Angriffe von Dynamax-Pokémon mit spielerischer Leichtigkeit abwehren.
 zapdos-galar:Gal Zapdos
 zapdos-galarDescription:Dieses Legendäre Vogel-Pokémon erscheint, wenn sich der Himmel verdunkelt und Blitze unablässig herunterdonnern.
-zarude-dada:Zarude
+zarude-dada:Zarude (Papa)
 zarude-dadaDescription:Reißen die an seinem Körper wachsenden Ranken ab, werden sie zu Nährstoffen für den Boden, was den Pflanzen im Wald zum Wachstum verhilft.
 zigzagoon-galar:Gal Zigzachs
 zigzagoon-galarDescription:Es hinterlässt überall ein riesiges Chaos, indem es sich im Zickzack bewegt. Hierbei handelt es sich offenbar um die älteste Form von Zigzachs.
 zubat-f:Zubat
 zubat-fDescription:Zubat stößt während des Fluges Ultraschalllaute aus, um Hindernisse zu orten.
-zygarde-10:Zygarde
+zygarde-10:Zygarde (10)
 zygarde-10Description:Im Kampf gegen all jene, die das Ökosystem in Gefahr bringen, nimmt es angeblich eine noch mächtigere Form an.
-zygarde-complete:Zygarde
+zygarde-complete:Zygarde (Vollkommen)
 zygarde-completeDescription:Im Kampf gegen all jene, die das Ökosystem in Gefahr bringen, nimmt es angeblich eine noch mächtigere Form an.
 hisiuan-braviary:His Washakwil
 hisiuan-braviaryDescription:Da es hitzköpfig und aggressiv ist, hat es den Posten als Kurier in Galar an Krarmor verloren.
@@ -2884,7 +2884,7 @@ hisuian-goodra:His Viscogon
 hisuian-goodraDescription:Es greift mit seinen ausfahrbaren Fühlern an, deren Durchschlagskraft hundertmal so stark wie der Faustschlag eines Schwergewichtsboxers ist.
 hisuian-zoroark:His Zoroark
 hisuian-zoroarkDescription:Durch die zerzauste weiße Mähne gleicht es Gevatter Tod. Getrieben von bitterem Groll, von dem es selbst zerfressen wird, streckt es Feinde ohne Rücksicht auf das eigene Leben nieder.
-hisuian-basculegion-female:Salmagnis
+hisuian-basculegion-female:Hisuian-Salmagnis (Weiblich)
 hisuian-basculegion-femaleDescription:Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal.
 gliscor-pcg:PCG Skorgro
 gliscor-pcgDescription:Es fliegt völlig lautlos. Erst fängt es seine Beute mit seinem langen Schweif, dann saugt es sie aus. (Art by Studio Karli)
@@ -2900,7 +2900,7 @@ hisuian-lilligant:His Dressella
 hisuian-lilligantDescription:Das aus seiner Blume gewonnene ätherische Öl verströmt den allerfeinsten Duft, doch es kostet ein Vermögen.
 hisuian-sneasel:His Sniebel
 hisuian-sneaselDescription:Dieses durchtriebene und gewissenlose Pokémon beobachtet Nester, bis die Eltern ausgeflogen sind, und stiehlt dann deren Eier.
-hisuian-basculegion-male:Salmagnis
+hisuian-basculegion-male:Hisuian-Salmagnis (Männlich)
 hisuian-basculegion-maleDescription:Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal.
 ursaluna:Ursaluna
 ursalunaDescription:I believe it was Hisui's swampy terrain that gave Ursaluna its burly physique and newfound capacity to manipulate peat at will.
@@ -2914,7 +2914,7 @@ kleavor:Axantor
 kleavorDescription:A violent creature that fells towering trees with its crude axes and shields itself with hard stone. If one should chance upon this Pokémon in the wilds, one's only recourse is to flee.
 hisuian-avalugg:His Arktilas
 hisuian-avaluggDescription:Die Risse auf seinem Körper werden im Zuge seiner täglichen Aktivitäten tiefer. Ihm genügt jedoch eine Nacht, um sie wieder zu schließen.
-basculin-white-striped:Barschuft
+basculin-white-striped:Basculin (Weißgestreift)
 basculin-white-stripedDescription:Sie sind für ihre brutale Natur bekannt. Besonders häufig kriegen sie sich mit ganzen Schwärmen von rot gestreiften Exemplaren in die Haare.
 ninetales-pcg:PCG Vulnona
 ninetales-pcgDescription:Leuten, die auf verschneiten Bergen in Not sind, weist es den Weg ins Tal. Doch mit Halunken, die das Gebirge verwüsten, kennt es keine Gnade. (Art by Beliwolfi & Lenathepanda)
@@ -2960,7 +2960,7 @@ oranguru-pcg:PCG Kommandutan
 oranguru-pcgDescription:Es kennt jeden Winkel des Waldes. Trifft es ein verletztes Pokémon, findet es in Windeseile das passende Heilkraut und schreitet zur Behandlung. (Art by T_M_B_O)
 magnezone-retro:Magnezone (Retro)
 magnezone-retroDescription:Man vermutet, es habe sich entwickelt, nachdem es einem besonderen Magnetfeld ausgesetzt war, das seine Molekularstruktur veränderte.
-enamorus-incarnate:Cupidos
+enamorus-incarnate:Cupidos (Inkarnationsform)
 enamorus-incarnateDescription:When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon's love gives rise to the budding of fresh life across Hisui.
 sprigatito:Felori
 sprigatitoDescription:The sweet scent its body gives off mesmerizes those around it. The scent grows stronger when this Pokémon is in the sun.
@@ -2982,7 +2982,7 @@ quaquaval:Bailonda
 quaquavalDescription:Dancing in ways that evoke far-away places, this Pokémon mesmerizes all that see it. Flourishes of its decorative water feathers slice into its foes.
 lechonk:Ferkuli
 lechonkDescription:This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest.
-oinkologne-male:Fragrunz
+oinkologne-male:Schweikologne (Männlich)
 oinkologne-maleDescription:It entrances female Pokémon with the sweet, alluring scent that wafts from all over its body.
 tarountula:Tarundel
 tarountulaDescription:The thread it secretes from its rear is as strong as wire. The secret behind the thread’s strength is the topic of ongoing research.
@@ -3000,7 +3000,7 @@ pawmot:Pamomamo
 pawmotDescription:Pawmot’s fluffy fur acts as a battery. It can store the same amount of electricity as an electric car.
 tandemaus:Zwieps
 tandemausDescription:The pair sticks together no matter what. They split any food they find exactly in half and then eat it together.
-maushold-family-of-four:Famieps
+maushold-family-of-four:Mausband (Familie-zu-Viert)
 maushold-family-of-fourDescription:The larger pair protects the little ones during battles. When facing strong opponents, the whole group will join the fight.
 fidough:Hefel
 fidoughDescription:The yeast in Fidough’s breath is useful for cooking, so this Pokémon has been protected by people since long ago.
@@ -3012,7 +3012,7 @@ dolliv:Olivinio
 dollivDescription:It basks in the sun to its heart’s content until the fruits on its head ripen. After that, Dolliv departs from human settlements and goes on a journey.
 arboliva:Olithena
 arbolivaDescription:This Pokémon drives back enemies by launching its rich, aromatic oil at them with enough force to smash a boulder.
-squawkabilly-green-plumage:Krawalloro
+squawkabilly-green-plumage:Krakeelo (Grünes Gefieder)
 squawkabilly-green-plumageDescription:Green-feathered flocks hold the most sway. When they’re out searching for food in the mornings and evenings, it gets very noisy.
 nacli:Geosali
 nacliDescription:The ground scrapes its body as it travels, causing it to leave salt behind. Salt is constantly being created and replenished inside Nacli’s body.
@@ -3076,7 +3076,7 @@ bombirdier:Adebom
 bombirdierDescription:Bombirdier uses the apron on its chest to bundle up food, which it carries back to its nest. It enjoys dropping things that make loud noises.
 finizen:Normifin
 finizenDescription:Its water ring is made from seawater mixed with a sticky fluid that Finizen secretes from its blowhole.
-palafin-zero:Delfinator
+palafin-zero:Flamigo (Nullform)
 palafin-zeroDescription:Its physical capabilities are no different than a Finizen’s, but when its allies are in danger, it transforms and powers itself up.
 varoom:Knattox
 varoomDescription:The steel section is Varoom’s actual body. This Pokémon clings to rocks and converts the minerals within into energy to fuel its activities.
@@ -3104,7 +3104,7 @@ veluza:Agiluza
 veluzaDescription:Veluza has excellent regenerative capabilities. It sheds spare flesh from its body to boost its agility, then charges at its prey.
 dondozo:Heerashai
 dondozoDescription:It treats Tatsugiri like its boss and follows it loyally. Though powerful, Dondozo is apparently not very smart.
-tatsugiri-curly:Nigiragi
+tatsugiri-curly:Tatsugiri (Lockig)
 tatsugiri-curlyDescription:Tatsugiri is an extremely cunning Pokémon. It feigns weakness to lure in prey, then orders its partner to attack.
 annihilape:Epitaff
 annihilapeDescription:It imbues its fists with the power of the rage that it kept hidden in its heart. Opponents struck by these imbued fists will be shattered to their core.
@@ -3112,7 +3112,7 @@ clodsire:Suelord
 clodsireDescription:It lives at the bottom of ponds and swamps. It will carry Wooper on its back and ferry them across water from one shore to the other.
 farigiraf:Farigiraf
 farigirafDescription:The hardened head from the tail protects the head of the main body as Farigiraf whips its long neck around to headbutt enemies.
-dudunsparce-two-segment:Dummimisel
+dudunsparce-two-segment:Dummimisel (Zwei-Segment)
 dudunsparce-two-segmentDescription:It drives enemies out of its nest by sucking in enough air to fill its long, narrow lungs, then releasing the air in an intense blast.
 kingambit:Gladimperio
 kingambitDescription:Though it commands a massive army in battle, it’s not skilled at devising complex strategies. It just uses brute strength to keep pushing.
@@ -3150,13 +3150,13 @@ gimmighoul:Gierspenst
 gimmighoulDescription:It lives inside an old treasure chest. Sometimes it gets left in shop corners since no one realizes it’s actually a Pokémon.
 gholdengo:Monetigo
 gholdengoDescription:It has a sturdy body made up of stacked coins. Gholdengo overwhelms its enemies by firing coin after coin at them in quick succession.
-wo-chien:Chongjian
+wo-chien:Wo-Chien
 wo-chienDescription:It drains the life-force from vegetation, causing nearby forests to instantly wither and fields to turn barren.
-chien-pao:Baojian
+chien-pao:Chien-Pao
 chien-paoDescription:The hatred of those who perished by the sword long ago has clad itself in snow and become a Pokémon.
-ting-lu:Dinglu
+ting-lu:Ting-Lu
 ting-luDescription:It slowly brings its exceedingly heavy head down upon the ground, splitting the earth open with huge fissures that run over 160 feet deep.
-chi-yu:Yuyu
+chi-yu:Chi-Yu
 chi-yuDescription:The envy accumulated within curved beads that sparked multiple conflicts has clad itself in fire and become a Pokémon.
 roaring-moon:Donnersichel
 roaring-moonDescription:According to an article in a dubious magazine, this Pokémon has some connection to a phenomenon that occurs in a certain region.
