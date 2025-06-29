@@ -1494,7 +1494,7 @@ ribombee:Bandelby
 ribombeeDescription:Bandelby hassen es, vom Regen nass zu werden. Da die Galar-Region zu bewölktem Wetter neigt, lassen sie sich nur selten blicken.
 rockruff:Wuffels
 rockruffDescription:Mit seinem steinernen Fellkragen schlägt Wuffels auf den Boden, um Gegner einzuschüchtern. Schrecken diese zurück, greift es sie sofort an.
-lycanroc:Wolwerock
+lycanroc:Wolwerock-Tagform
 lycanrocDescription:Je stärker sein Gegner, desto mehr kommt es in Fahrt. Sein vernichtender Kopfstoß kann selbst riesige Felsen pulverisieren.
 wishiwashi:Lusardin
 wishiwashiDescription:Wenn es Gefahr verspürt, tränen seine Augen. Das Leuchten der Tränen fungiert als Signal, mit dem es etliche Artgenossen zu sich ruft.
@@ -2038,9 +2038,9 @@ muk-alola:Alo Sleimok
 muk-alolaDescription:Sein fürchterlicher Gestank kann zur Ohnmacht führen. Da seine Nase so verkümmert ist, kann es selbst nichts mehr riechen.
 exeggutor-alola:Alo Kokowei
 exeggutor-alolaDescription:Seine drei Köpfe setzen mächtige Psycho-Kräfte frei, wenn sie als Einheit agieren. Zieht sich der Himmel zu, bewegt es sich nur noch schwerfällig.
-lycanroc-midnight:Wolwerock
+lycanroc-midnight:Wolwerock-Nachtform
 lycanroc-midnightDescription:Je stärker sein Gegner, desto mehr kommt es in Fahrt. Sein vernichtender Kopfstoß kann selbst riesige Felsen pulverisieren.
-lycanroc-dusk:Wolwerock
+lycanroc-dusk:Wolwerock-Zwielichtform
 lycanroc-duskDescription:Je stärker sein Gegner, desto mehr kommt es in Fahrt. Sein vernichtender Kopfstoß kann selbst riesige Felsen pulverisieren.
 vivillon-archipelago:Vivillon (Archipel)
 vivillon-archipelagoDescription:Je nach Klima und geographischer Beschaffenheit seines Habitats ändert sich die Musterung seiner Flügel. Es verstreut bunten Flügelstaub.
