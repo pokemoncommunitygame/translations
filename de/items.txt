@@ -168,3 +168,5 @@ geo_ball:Geo-Ball
 geo_ballDescription:Ein robuster Ball, am effektivsten bei Fels- und Boden-Wesen.
 common_present:Geschenk
 common_presentDescription:Tritt einem Chat bei und tippe !pokegift ein, um anderen Spielern eine Freude zu machen! 🎅
+ball_bundle:Ball-Bündel
+ball_bundleDescription:Ein spezielles Bündelangebot enthält: 1x Cherish Ball, 1x Great Cherish Ball, 1x Ultra Cherish Ball, 1x Heavy Ball, 1x Feather Ball, 1x Repeat Ball, 1x Net Ball, 1x Timer Ball, 1x Quick Ball, 1x Cipher Ball, 1x Friend Ball, 1x Clone Ball, 1x Phantom Ball, 1x Night Ball, 1x Frozen Ball, 1x Beast Ball, 1x Stone Ball, 1x Magnet Ball, 1x Nest Ball, 1x Fast Ball, 1x Level Ball, 1x Heal Ball, 1x Luxury Ball, 1x Sun Ball, 1x Fantasy Ball, 1x Geo Ball, 1x Mach Ball, 1x Basic Ball

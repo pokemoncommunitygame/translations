@@ -168,3 +168,5 @@ geo_ball:Bola Geo
 geo_ballDescription:Una bola resistente, más efectiva cuando se usa en criaturas de tipo Roca y Tierra.
 common_present:Presente
 common_presentDescription:¡Entra en un chat y escribe !pokegift para hacer felices a otros jugadores! 🎅
+ball_bundle:Paquete de Bola
+ball_bundleDescription:Una oferta especial que contiene: 1x Bola Preciosa, 1x Súper Bola Preciosa, 1x Ultra Bola Preciosa, 1x Bola Pesada, 1x Bola Pluma, 1x Bola Acopio, 1x Bola Red, 1x Bola Tiempo, 1x Bola Veloz, 1x Bola Cifra, 1x Bola Amigo, 1x Bola Clone, 1x Bola Fantasma, 1x Bola Noche, 1x Bola Helada, 1x Bola Ultraente, 1x Bola Piedra, 1x Bola Imán, 1x Bola Nido, 1x Bola Rápida, 1x Bola Nivel, 1x Bola Cura, 1x Bola Lujo, 1x Bola Sol, 1x Bola Fantasía, 1x Bola Geo, 1x Bola Mach, 1x Bola Básica

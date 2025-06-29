@@ -168,3 +168,5 @@ geo_ball:Sfera Geologica
 geo_ballDescription:Una sfera robusta, più efficace se usata su creature di tipo Roccia e Terra.
 common_present:Presente
 common_presentDescription:Entra in chat e digita !pokegift per rendere felici gli altri giocatori! 🎅
+ball_bundle:Pacchetto Sfere
+ball_bundleDescription:Un'offerta speciale che contiene: 1x Sfera Pregio, 1x Super Sfera Pregio, 1x Ultra Sfera Pregio, 1x Peso Ball, 1x Leggerezza Ball, 1x Bis Ball, 1x Rete Ball, 1x Timer Ball, 1x Veloce Ball, 1x Cifratura Ball, 1x Amico Ball, 1x Clone Ball, 1x Phantom Ball, 1x Notte Ball, 1x Congelo Ball, 1x Creatura Ball, 1x Pietra Ball, 1x Magnete Ball, 1x Nido Ball, 1x Rapid Ball, 1x Livello Ball, 1x Cura Ball, 1x Lusso Ball, 1x Sole Ball, 1x Fantasia Ball, 1x Geo Ball, 1x Mach Ball, 1x Base Ball
