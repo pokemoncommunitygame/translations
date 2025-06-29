@@ -2880,7 +2880,7 @@ hisuian-goodra:His Goodra
 hisuian-goodraDescription:Able to freely control the hardness of its metallic shell. It loathes solitude and is extremely clingy—it will fume and run riot if those dearest to it ever leave its side.
 hisuian-zoroark:His Zoroark
 hisuian-zoroarkDescription:With its disheveled white fur, it looks like an embodiment of death. Heedless of its own safety, Zoroark attacks its nemeses with a bitter energy so intense, it lacerates Zoroark's own body.
-hisuian-basculegion-female:His Basculegion (F)
+hisuian-basculegion-female:Basculegion (F)
 hisuian-basculegion-femaleDescription:Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal.
 gliscor-pcg:PCG Gliscor
 gliscor-pcgDescription:Its flight is soundless. It uses its lengthy tail to carry off its prey... Then its elongated fangs do the rest. (Art by Studio Karli)
@@ -2896,7 +2896,7 @@ hisuian-lilligant:His Lilligant
 hisuian-lilligantDescription:I suspect that its well-developed legs are the result of a life spent on mountains covered in deep snow. The scent it exudes from its flower crown heartens those in proximity.
 hisuian-sneasel:His Sneasel
 hisuian-sneaselDescription:It has a cunning yet savage disposition. It waits for parents to leave their nests, and then it sneaks in to steal their eggs.
-hisuian-basculegion-male:His Basculegion (M)
+hisuian-basculegion-male:Basculegion (M)
 hisuian-basculegion-maleDescription:Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal.
 ursaluna:Ursaluna
 ursalunaDescription:I believe it was Hisui's swampy terrain that gave Ursaluna its burly physique and newfound capacity to manipulate peat at will.

@@ -2884,7 +2884,7 @@ hisuian-goodra:His Viscogon
 hisuian-goodraDescription:Es greift mit seinen ausfahrbaren Fühlern an, deren Durchschlagskraft hundertmal so stark wie der Faustschlag eines Schwergewichtsboxers ist.
 hisuian-zoroark:His Zoroark
 hisuian-zoroarkDescription:Durch die zerzauste weiße Mähne gleicht es Gevatter Tod. Getrieben von bitterem Groll, von dem es selbst zerfressen wird, streckt es Feinde ohne Rücksicht auf das eigene Leben nieder.
-hisuian-basculegion-female:Hisui Basculegion (W)
+hisuian-basculegion-female:Basculegion (W)
 hisuian-basculegion-femaleDescription:Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal.
 gliscor-pcg:PCG Skorgro
 gliscor-pcgDescription:Es fliegt völlig lautlos. Erst fängt es seine Beute mit seinem langen Schweif, dann saugt es sie aus. (Art by Studio Karli)
@@ -2900,7 +2900,7 @@ hisuian-lilligant:His Dressella
 hisuian-lilligantDescription:Das aus seiner Blume gewonnene ätherische Öl verströmt den allerfeinsten Duft, doch es kostet ein Vermögen.
 hisuian-sneasel:His Sniebel
 hisuian-sneaselDescription:Dieses durchtriebene und gewissenlose Pokémon beobachtet Nester, bis die Eltern ausgeflogen sind, und stiehlt dann deren Eier.
-hisuian-basculegion-male:Hisui Basculegion (M)
+hisuian-basculegion-male:Basculegion (M)
 hisuian-basculegion-maleDescription:Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal.
 ursaluna:Ursaluna
 ursalunaDescription:I believe it was Hisui's swampy terrain that gave Ursaluna its burly physique and newfound capacity to manipulate peat at will.
