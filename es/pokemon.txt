@@ -3218,3 +3218,5 @@ shiny-legendary-dragon-egg:Shiny Legendary Egg
 shiny-legendary-dragon-eggDescription:A Shiny Legendary Egg from the Easter Event 2025.
 dragapult-retro:Dragapult (Retro)
 dragapult-retroDescription:Al parecer, los Dreepy que residen en sus cuernos esperan con ilusión el momento de ser propulsados a velocidad supersónica.
+togepi-pcg:Togepi
+togepi-pcgDescription:Se considera un símbolo de buena suerte. Dicen que su concha está llena de pura alegría. (Arte de Strawberrykitten)
