@@ -85,3 +85,4 @@ POKEPRESENT_REWARD_RARE_PRESENT:@{0} recibió RegaloNavideño CurseLit {1} Regal
 POKEPRESENT_REWARD_PRESENT:@{0} recibió HolidayPresent {1} HolidayPresent como un regalo de parte de @{2}!
 GOLDEN_TICKET_MSG:¡Canjeaste el 🎫 Golden Ticket 🎫 y obtuviste {0}!
 POKECATCH_TOO_EARLY:@{0} ¡Paciencia, entrenador! El legendario aún es solo un rumor por ahora.
+POKEPRESENT_CLUSTER_REBOOTED:@{0} El clúster de chat se ha reiniciado. Por favor, espera hasta 3 minutos y vuelve a intentarlo.

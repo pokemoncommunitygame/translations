@@ -85,3 +85,4 @@ POKEPRESENT_REWARD_RARE_PRESENT:@{0} recebeu um Presente de Férias CurseLit {1}
 POKEPRESENT_REWARD_PRESENT:@{0} recebeu HolidayPresent {1} HolidayPresent como presente de @{2}!
 GOLDEN_TICKET_MSG:Você resgatou o 🎫 Bilhete Dourado 🎫 e ganhou {0}!
 POKECATCH_TOO_EARLY:@{0} Paciência, treinador! O lendário ainda é apenas um boato por enquanto.
+POKEPRESENT_CLUSTER_REBOOTED:@{0} O cluster de chat acabou de reiniciar. Por favor, aguarde até 3 minutos e tente novamente.

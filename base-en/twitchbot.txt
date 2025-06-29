@@ -88,6 +88,7 @@ POKEPRESENT_REWARD_RARE_PRESENT:@{0} received CurseLit HolidayPresent {1} Holida
 POKEPRESENT_REWARD_PRESENT:@{0} received HolidayPresent {1} HolidayPresent as a present from @{2}!
 POKEPRESENT_ERROR_1:@{0} At least 5 active players are needed who haven’t received a gift in the last 20 minutes!
 POKEPRESENT_ERROR_2:@{0} You don’t have a present!
+POKEPRESENT_CLUSTER_REBOOTED:@{0} The chat cluster has just restarted. Please wait up to 3 minutes and try again.
 
 GOLDEN_TICKET_MSG:You redeemed the 🎫 Golden Ticket 🎫 and gained {0}!
 

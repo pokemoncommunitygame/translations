@@ -85,3 +85,4 @@ POKEPRESENT_REWARD_RARE_PRESENT:@{0} received CurseLit HolidayPresent {1} Holida
 POKEPRESENT_REWARD_PRESENT:@{0} received HolidayPresent {1} HolidayPresent as a present from @{2}!
 GOLDEN_TICKET_MSG:You redeemed the 🎫 Golden Ticket 🎫 and gained {0}!
 POKECATCH_TOO_EARLY:@{0} Patience, trainer! The legendary is still just a rumor for now.
+POKEPRESENT_CLUSTER_REBOOTED:@{0} The chat cluster has just restarted. Please wait up to 3 minutes and try again.
