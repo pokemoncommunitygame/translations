@@ -2446,10 +2446,10 @@ eevee-gmax:Gmax Evoli
 eevee-gmaxDescription:Es ist noch treuherziger als sonst und will mit jedem spielen. Doch aufgrund seiner enormen Größe erdrückt es seine Spielkameraden dabei.
 eevee-starter:Evoli (Starter)
 eevee-starterDescription:Es ist noch treuherziger als sonst und will mit jedem spielen. Doch aufgrund seiner enormen Größe erdrückt es seine Spielkameraden dabei.
-eiscue-noice:Kubuin (Noice)
+eiscue-noice:Kubuin (Wohlfühlkopf)
 eiscue-noiceDescription:Es kühlt sein Gesicht ständig mit Eis, da dieses Hitze nicht gut verträgt. Das Haar auf dem Kopf hängt es ins Meer und angelt sich damit Beute.
 eternatus-eternamax:Endynalos (Eternamax)
-eternatus-eternamaxDescription:Es steckte in einem Meteorit, der vor 20 000 Jahren herabstürzte. Es scheint in Verbindung mit dem Dynamax-Phänomen zu stehen.
+eternatus-eternamaxDescription:Es steckte in einem Meteorit, der vor 20000 Jahren herabstürzte. Es scheint in Verbindung mit dem Dynamax-Phänomen zu stehen.
 farfetchd-galar:Gal Porenta
 farfetchd-galarDescription:Im Kampf verwendet es eine Lauchstange als Waffe. Es gibt verschiedene Meinungen dazu, wie diese korrekt zu schwingen sei.
 finneon-f:Finneon (W)
@@ -2782,7 +2782,7 @@ toxicroak-f:Toxiquak (W)
 toxicroak-fDescription:Wenn es seine Beute erlegt, quakt es seinen Triumph in die Welt hinaus. Es ist artverwandt mit Branawarz.
 toxtricity-gmax:Giga-Dynamax Riffex
 toxtricity-gmaxDescription:Wenn es mit speziellen Organen in seiner Brust Elektrizität erzeugt, erklingen dabei Geräusche, die an eine Bassgitarre erinnern.
-toxtricity-lowkey:Riffex (Konzentrisch)
+toxtricity-lowkey:Riffex (Tief-Form)
 toxtricity-lowkeyDescription:Wenn es mit speziellen Organen in seiner Brust Elektrizität erzeugt, erklingen dabei Geräusche, die an eine Bassgitarre erinnern.
 unfezant-f:Fasanobliv (W)
 unfezant-fDescription:Es ist schlau, aber auch sehr stolz. Seine Trainer genießen daher generell großen Respekt.
