@@ -81,7 +81,7 @@ BattleXP:Tout le monde dans ton équipe a gagné {points} XP ! Tu as reçu ${dol
 battleHealed:a récupéré ses PV.
 MOVE_FAILED:Ça a échoué...
 CRITICAL_HIT:Un coup critique !
-ATTACK_MISSED:L'attaque de {1} a échoué.
+ATTACK_MISSED:L'attaque de s. a échoué.
 RAIN_END:Il a cessé de pleuvoir.
 RAIN_STARTED:Il commence à pleuvoir.
 HAIL_STARTED:Il commence à grêler.

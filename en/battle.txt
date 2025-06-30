@@ -81,7 +81,6 @@ battlePoisonDamage:took poison damage
 battleBurnDamage:took burn damage
 MOVE_FAILED:It failed...
 CRITICAL_HIT:A critical hit!
-ATTACK_MISSED:'s attack missed.
 RAIN_END:It stopped raining
 RAIN_STARTED:It started raining
 HAIL_STARTED:It started hailing
@@ -129,3 +128,4 @@ PERISH_SONG_START:heard the Perish Song
 PERISH_SONG_END:fainted!
 FLINCHED:flinched and couldn't attack
 PERISH_SONG_COOLDOWN:'s perish count fell to
+ATTACK_MISSED:'s attack missed.

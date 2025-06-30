@@ -81,7 +81,7 @@ searchTourneyBattle:Torneo vs
 BattleXP:¡Todos en tu equipo ganaron {points} XP! ¡Recibiste ${dollar}!
 MOVE_FAILED:Falló...
 CRITICAL_HIT:¡Un golpe crítico!
-ATTACK_MISSED:El ataque de {attacker} falló.
+ATTACK_MISSED:El ataque de 's falló.
 RAIN_END:Dejó de llover.
 RAIN_STARTED:Comenzó a llover.
 HAIL_STARTED:Comenzó a granizar.

@@ -81,7 +81,7 @@ battleBurnDamage:получил урон от ожога.
 battleHealed:восстановлены ОЗ
 MOVE_FAILED:Это не удалось...
 CRITICAL_HIT:Критический удар!
-ATTACK_MISSED:Атака {username} промахнулась.
+ATTACK_MISSED:Атака промахнулась.
 RAIN_END:Дождь прекратился
 RAIN_STARTED:Дождь начался
 HAIL_STARTED:Начался град

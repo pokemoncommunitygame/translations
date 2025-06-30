@@ -108,7 +108,7 @@ battlePokemonChanged:foi trocada por
 battleMoveUsed:usa
 MOVE_FAILED:Falhou...
 CRITICAL_HIT:Um golpe crítico!
-ATTACK_MISSED:O ataque de {} errou.
+ATTACK_MISSED:O ataque de 's errou.
 RAIN_END:Parou de chover
 RAIN_STARTED:Começou a chover
 HAIL_STARTED:Começou a nevar granizo

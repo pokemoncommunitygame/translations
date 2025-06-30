@@ -81,7 +81,7 @@ searchTourneyBattle:Tourney vs
 BattleXP:Jeder in deinem Team hat {points} EP erhalten! Du hast ${dollar} erhalten!
 MOVE_FAILED:Es schlug fehl...
 CRITICAL_HIT:Ein Volltreffer!
-ATTACK_MISSED:Der Angriff von {0} verfehlte.
+ATTACK_MISSED:'s Angriff verfehlt.
 RAIN_END:Es hat aufgehört zu regnen.
 RAIN_STARTED:Es hat angefangen zu regnen.
 HAIL_STARTED:Es begann zu hageln.
