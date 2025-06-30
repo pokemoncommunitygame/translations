@@ -3219,4 +3219,4 @@ shiny-legendary-dragon-eggDescription:A Shiny Legendary Egg from the Easter Even
 dragapult-retro:Lanssorien (Retro)
 dragapult-retroDescription:Il paraît que les Fantyrm installés dans ses cornes attendent impatiemment le moment où ils seront propulsés à la vitesse du son.
 togepi-pcg:Togepi
-togepi-pcgDescription:On dit qu'il apporte bonheur. Sa coquille serait pleine de pure joie. (Art par Strawberrykitten)
+togepi-pcgDescription:C'est considéré comme un symbole de chance. On dit que sa coquille est remplie de bonheur. (Art par Strawberrykitten)

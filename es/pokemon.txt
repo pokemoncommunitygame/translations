@@ -3219,4 +3219,4 @@ shiny-legendary-dragon-eggDescription:A Shiny Legendary Egg from the Easter Even
 dragapult-retro:Dragapult (Retro)
 dragapult-retroDescription:Al parecer, los Dreepy que residen en sus cuernos esperan con ilusión el momento de ser propulsados a velocidad supersónica.
 togepi-pcg:Togepi
-togepi-pcgDescription:Se considera un símbolo de buena suerte. Dicen que su concha está llena de pura alegría. (Arte de Strawberrykitten)
+togepi-pcgDescription:Se considera un símbolo de buena suerte. Se dice que su caparazón está lleno de felicidad. (Arte por Strawberrykitten)

@@ -3219,4 +3219,4 @@ shiny-legendary-dragon-eggDescription:A Shiny Legendary Egg from the Easter Even
 dragapult-retro:Dragapult (Retro)
 dragapult-retroDescription:Apparently the Dreepy inside Dragapult’s horns eagerly look forward to being launched out at Mach speeds.
 togepi-pcg:Togepi
-togepi-pcgDescription:É considerado um amuleto da sorte. Dizem que sua casca está cheia de pura alegria. (Arte de Strawberrykitten)
+togepi-pcgDescription:É considerado um símbolo de boa sorte. Diz-se que sua casca está cheia de felicidade. (Arte por Strawberrykitten)
