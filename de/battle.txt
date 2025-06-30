@@ -105,12 +105,12 @@ HAZE_USED:Statusveränderungen wurden zurückgesetzt.
 battleMultipleHits:{amount} Treffer!
 battleDisallowSwitching:kann nicht mehr ausgetauscht werden.
 battleAllowSwitching:kann wieder ausgetauscht werden.
-battleStatUp1:s {statName} stieg.
-battleStatUp2:s {statName} stieg stark!
-battleStatUp3:s {statName} stieg drastisch!
-battleStatDown1:s {statName} fiel.
-battleStatDown2:s {statName} fiel stark!
-battleStatDown3:s {statName} fiel drastisch!
+battleStatUp1:'s {statName} stieg.
+battleStatUp2:'s {statName} stieg stark!
+battleStatUp3:'s {statName} stieg drastisch!
+battleStatDown1:'s {statName} fiel.
+battleStatDown2:'s {statName} fiel stark!
+battleStatDown3:'s {statName} fiel drastisch!
 IS_PARALYZED:ist paralysiert und konnte sich nicht bewegen
 CONFUSION_APPLIED:ist verwirrt
 END_CONFUSION:ist nicht mehr verwirrt
