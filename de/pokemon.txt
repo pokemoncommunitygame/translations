@@ -3218,5 +3218,5 @@ shiny-legendary-dragon-egg:Shiny Legendary Egg
 shiny-legendary-dragon-eggDescription:A Shiny Legendary Egg from the Easter Event 2025.
 dragapult-retro:Katapuldra (Retro)
 dragapult-retroDescription:Die Grolldra, die in seinen Hörnern sitzen, warten angeblich voller Spannung darauf, mit Mach-Geschwindigkeit abgefeuert zu werden.
-togepi-pcg:Togepi
+togepi-pcg:PCG Togepi
 togepi-pcgDescription:Es wird als Glücksbringer angesehen. Man sagt, seine Schale sei voller purer Freude. (Illustration von Strawberrykitten)

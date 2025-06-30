@@ -3218,5 +3218,5 @@ machamp-gmax:Г-макс Мачамп
 magearna-original:Магеарна (Оригинал)
 magikarp-f:Маджикарп (Ж)
 mamoswine-f:Мамосвайн (Ж)
-togepi-pcg:Тогепи
+togepi-pcg:PCG Тогепи
 togepi-pcgDescription:Считается символом удачи. Говорят, его панцирь наполнен счастьем. (Автор рисунка: Strawberrykitten)

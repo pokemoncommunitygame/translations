@@ -3218,5 +3218,5 @@ shiny-legendary-dragon-egg:Shiny Legendary Egg
 shiny-legendary-dragon-eggDescription:A Shiny Legendary Egg from the Easter Event 2025.
 dragapult-retro:Lanssorien (Retro)
 dragapult-retroDescription:Il paraît que les Fantyrm installés dans ses cornes attendent impatiemment le moment où ils seront propulsés à la vitesse du son.
-togepi-pcg:Togepi
+togepi-pcg:Togepi JCC
 togepi-pcgDescription:C'est considéré comme un symbole de chance. On dit que sa coquille est remplie de bonheur. (Art par Strawberrykitten)
