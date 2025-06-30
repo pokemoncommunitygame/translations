@@ -197,3 +197,13 @@ special:Особый
 catch_rate:Уровень поимки
 battleCategory:Бой
 tm_metronome_description:Обучает любое Покемона движению Метроном.
+en:Английский
+de:Немецкий
+es:Испанский
+fr:Французский
+ru:Русский
+pt:Португальский
+it:Итальянский
+language:Язык
+deviceLanguage:Автоопределение
+version:Версия

@@ -197,3 +197,13 @@ special:Speciale
 catch_rate:Tasso di Cattura
 battleCategory:Battaglia
 tm_metronome_description:Insegna a qualsiasi Pokémon la mossa Metronomo.
+language:Lingua
+en:Inglese
+de:Tedesco
+es:Spagnolo
+fr:Francese
+ru:Russo
+pt:Portoghese
+it:Italiano
+deviceLanguage:Rilevamento automatico
+version:Versione

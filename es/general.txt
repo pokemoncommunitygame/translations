@@ -197,3 +197,13 @@ special:Especial
 catch_rate:Tasa de Captura
 battleCategory:Batalla
 tm_metronome_description:Enseña a cualquier Pokémon el movimiento Metronome.
+language:Idioma
+en:Inglés
+de:Alemán
+es:Español
+fr:Francés
+ru:Ruso
+pt:Portugués
+it:Italiano
+deviceLanguage:Detección automática del idioma
+version:Versión

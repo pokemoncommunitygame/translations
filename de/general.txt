@@ -197,3 +197,13 @@ special:Spezial
 catch_rate:Fangrate
 battleCategory:Kampf
 tm_metronome_description:Lehrt einem beliebigen Pokémon die Attacke Metronom.
+language:Sprache
+en:Englisch
+de:Deutsch
+es:Spanisch
+fr:Französisch
+ru:Russisch
+pt:Portugiesisch
+it:Italienisch
+deviceLanguage:Automatisch erkennen
+version:Version

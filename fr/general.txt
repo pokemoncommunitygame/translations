@@ -197,3 +197,13 @@ special:Spécial
 catch_rate:Taux de Capture
 battleCategory:Bataille
 tm_metronome_description:Apprend la capacité Métronome à n'importe quel Pokémon.
+language:Langue
+en:Anglais
+de:Allemand
+es:Espagnol
+fr:Français
+ru:Russe
+pt:Portugais
+it:Italien
+deviceLanguage:Détection automatique
+version:Version

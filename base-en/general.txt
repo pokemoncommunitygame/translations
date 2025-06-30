@@ -255,3 +255,15 @@ showComplete:Show Complete
 
 
 search:Search
+
+// settings
+version:Version
+language:Language
+deviceLanguage:Auto-Detect
+en:English
+de:German
+es:Spanish
+fr:French
+ru:Russian
+pt:Portuguese
+it:Italian

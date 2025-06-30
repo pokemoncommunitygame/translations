@@ -197,3 +197,13 @@ special:Special
 catch_rate:Catch Rate
 battleCategory:Battle
 tm_metronome_description:Teaches any Pokémon the move Metronome.
+language:Language
+en:English
+de:German
+es:Spanish
+fr:French
+ru:Russian
+pt:Portuguese
+it:Italian
+deviceLanguage:Auto-Detect
+version:Version
