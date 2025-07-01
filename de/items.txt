@@ -34,8 +34,8 @@ shiny_charm:Shiny Charm
 shiny_charmDescription:Belohnung für das Abschließen des Spawn-Pokédex. Verdoppelt die Chance, ein schillerndes Pokémon zu fangen (Ausnahme: Jubelbälle).
 pokedaily_reset:Pokedaily-Reset
 pokedaily_resetDescription:Dieser Gegenstand setzt den Cooldown deines Pokedaily zurück!
-total_reset:Totaler Reset
-total_resetDescription:Totaler Reset, der deinem Pokémon einen völlig neuen Moveset beibringt, das Wesen deines Pokémon vollständig verändert und die individuellen Werte eines Pokémon ändert. Verwende ihn mit Vorsicht.
+total_reset:Reset Spray
+total_resetDescription:Reset Spray, der deinem Pokémon einen völlig neuen Moveset beibringt, das Wesen deines Pokémon vollständig verändert und die individuellen Werte eines Pokémon ändert. Verwende ihn mit Vorsicht.
 safari_ball:Safari-Ball
 safari_ballDescription:🪶 Hat eine 2x Chance, ein schillerndes Safari-Event-Pokémon zu fangen. Du erkennst sie an einer anderen Spawnmeldung! 🪶
 park_ball:Parkball
@@ -153,7 +153,7 @@ stone_ballDescription:Ein seltener Ball mit erhöhter Chance, einen Entwicklungs
 event_bundle:Event-Paket
 event_bundleDescription:Ein exklusives Event-Paket, das 1x Zufälliges Vergangenes Event-Legendäres, 2x Goldenes Ticket und 2x Seltenes Geschenk enthält.
 battle_bundle:Kampf-Paket
-battle_bundleDescription:Ein spezielles Paketangebot mit: 2x Totaler Reset, 2x Stimmungsminzen, 2x IV-Resets, 3x Leere Discs.
+battle_bundleDescription:Ein spezielles Paketangebot mit: 2x Reset Spray, 2x Stimmungsminzen, 2x IV-Resets, 3x Leere Discs.
 team_gold_badge:Regenbogenflügel
 team_gold_badgeDescription:Mitgliedsabzeichen von Team Gold während des Gold vs Silber Events 2024.
 team_silver_badge:Silberflügel
