@@ -2960,7 +2960,7 @@ oranguru-pcg:PCG Kommandutan
 oranguru-pcgDescription:Es kennt jeden Winkel des Waldes. Trifft es ein verletztes Pokémon, findet es in Windeseile das passende Heilkraut und schreitet zur Behandlung. (Art by T_M_B_O)
 magnezone-retro:Magnezone (Retro)
 magnezone-retroDescription:Man vermutet, es habe sich entwickelt, nachdem es einem besonderen Magnetfeld ausgesetzt war, das seine Molekularstruktur veränderte.
-enamorus-incarnate:Cupidos (Inkarnationsform)
+enamorus-incarnate:Cupidos
 enamorus-incarnateDescription:When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon's love gives rise to the budding of fresh life across Hisui.
 sprigatito:Felori
 sprigatitoDescription:The sweet scent its body gives off mesmerizes those around it. The scent grows stronger when this Pokémon is in the sun.

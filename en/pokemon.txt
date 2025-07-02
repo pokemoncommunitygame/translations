@@ -2958,7 +2958,7 @@ oranguru-pcg:PCG Oranguru
 oranguru-pcgDescription:It knows the forest inside and out. If it comes across a wounded Pokémon, Oranguru will gather medicinal herbs to treat it. (Art by T_M_B_O)
 magnezone-retro:Magnezone (Retro)
 magnezone-retroDescription:It’s thought that a special magnetic field changed the molecular structure of this Pokémon’s body, and that’s what caused the Pokémon’s evolution.
-enamorus-incarnate:Enamorus (Incarnate)
+enamorus-incarnate:Enamorus
 enamorus-incarnateDescription:When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon's love gives rise to the budding of fresh life across Hisui.
 sprigatito:Sprigatito
 sprigatitoDescription:The sweet scent its body gives off mesmerizes those around it. The scent grows stronger when this Pokémon is in the sun.
