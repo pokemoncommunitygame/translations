@@ -1808,17 +1808,17 @@ wormadam-trash:Cheniselle (Trash)
 wormadam-trashDescription:Quand Cheniti a évolué, sa cape a fusionné avec son corps. Cheniselle ne s’en sépare jamais.
 giratina-origin:Giratina (Origine)
 giratina-originDescription:Sa grande violence lui a valu d’être banni. Il observe les hommes en silence depuis le Monde Distorsion.
-rotom-heat:Motisma (Heat)
+rotom-heat:Motisma (Chaleur)
 rotom-heatDescription:Ce Pokémon est connu pour jouer des tours en s'infiltrant dans des appareils électriques. Son corps est fait de plasma.
 shaymin-sky:Shaymin (Ciel)
 shaymin-skyDescription:Il prend son essor pour répandre la gratitude lorsque les Gracidées fleurissent.
-rotom-wash:Motisma (Wash)
+rotom-wash:Motisma (Lavage)
 rotom-washDescription:Ce Pokémon est connu pour jouer des tours en s'infiltrant dans des appareils électriques. Son corps est fait de plasma.
-rotom-frost:Motisma (Frost)
+rotom-frost:Motisma (Froid)
 rotom-frostDescription:Ce Pokémon est connu pour jouer des tours en s'infiltrant dans des appareils électriques. Son corps est fait de plasma.
-rotom-fan:Motisma (Fan)
+rotom-fan:Motisma (Hélice)
 rotom-fanDescription:Ce Pokémon est connu pour jouer des tours en s'infiltrant dans des appareils électriques. Son corps est fait de plasma.
-rotom-mow:Motisma (Mow)
+rotom-mow:Motisma (Tonte)
 rotom-mowDescription:Ce Pokémon est connu pour jouer des tours en s'infiltrant dans des appareils électriques. Son corps est fait de plasma.
 castform-sunny:Morphéo (Sunny)
 castform-sunnyDescription:Il n’y a pas que son apparence qui change en fonction de la météo : son tempérament aussi ! Plus il y a de vent, plus il se montre agressif.
