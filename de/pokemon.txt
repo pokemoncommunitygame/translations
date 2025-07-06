@@ -2962,6 +2962,8 @@ magnezone-retro:Magnezone (Retro)
 magnezone-retroDescription:Man vermutet, es habe sich entwickelt, nachdem es einem besonderen Magnetfeld ausgesetzt war, das seine Molekularstruktur veränderte.
 enamorus-incarnate:Cupidos
 enamorus-incarnateDescription:When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon's love gives rise to the budding of fresh life across Hisui.
+enamorus:Cupidos
+enamorusDescription:When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon's love gives rise to the budding of fresh life across Hisui.
 sprigatito:Felori
 sprigatitoDescription:The sweet scent its body gives off mesmerizes those around it. The scent grows stronger when this Pokémon is in the sun.
 floragato:Feliospa
