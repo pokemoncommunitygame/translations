@@ -65,7 +65,7 @@ TOURNEY_LEAVE_ERROR_1:@{0} Ce tournoi n'existe pas!
 TOURNEY_LEAVE_ERROR_2:@{0} Le tournoi a déjà commencé!
 TOURNEY_LEAVE_ERROR_3:@{0} Tu n'es pas inscrit à ce tournoi.
 POKEUPDATE:@{0} J'ai obtenu ton nom Twitch ! ✔
-POKERAFFLE_WINNER:@{0} Le gagnant est @{1} ! Félicitations !
+POKERAFFLE_WINNER:@{0} Le gagnant est @{1} 🎉 Félicitations !
 POKERAFFLE_NO_TOURNEY:@{0} Aucun tournoi en cours. Impossible de lancer un tirage au sort !
 POKEPRESENT_ERROR_1:@{0} Au moins 5 joueurs actifs sont nécessaires, qui n'ont pas reçu de cadeau ces 20 dernières minutes !
 POKEPRESENT_ERROR_2:@{0} Tu n'as pas de cadeau !

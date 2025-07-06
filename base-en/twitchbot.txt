@@ -81,7 +81,7 @@ TOURNEY_LEAVE_ERROR_3:@{0} You are not in this tournament.
 
 POKEUPDATE:@{0} Got your Twitch name! ✔
 
-POKERAFFLE_WINNER:@{0} The winner is @{1}! Congrats!
+POKERAFFLE_WINNER:@{0} The winner is @{1} 🎉 Congrats!
 POKERAFFLE_NO_TOURNEY:@{0} No tournament is active. Can’t start a raffle!
 
 POKEPRESENT_REWARD_RARE_PRESENT:@{0} received CurseLit HolidayPresent {1} HolidayPresent CurseLit as a RARE present from @{2}!
