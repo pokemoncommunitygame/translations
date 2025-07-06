@@ -207,3 +207,10 @@ pt:Portugais
 it:Italien
 deviceLanguage:Détection automatique
 version:Version
+hidden:Caché
+normal-dragon-eggSpecialDescription:Tu as attrapé {count} / 10 Pokémon pour faire éclore cet Œuf. (Pour faire éclore cet Œuf, tu dois le définir comme ton copain)
+sparkling-dragon-eggSpecialDescription:Tu as attrapé {count} / 3 Pokémon avec des Honor, Luxe ou Mémoire Balls pour faire éclore cet Œuf. (Pour faire éclore cet Œuf, tu dois le définir comme ton copain)
+battle-dragon-eggSpecialDescription:Tu as gagné {count} / 5 combats classés pour faire éclore cet Œuf. (Pour faire éclore cet Œuf, tu dois le définir comme ton copain)
+baby-dragon-eggSpecialDescription:Tu as attrapé {count} / 3 Pokémon avec un BST inférieur à 400 pour faire éclore cet Œuf. (Pour faire éclore cet Œuf, tu dois le définir comme ton copain)
+starter-dragon-eggSpecialDescription:Tu as échangé {count} / 5 Pokémon de type Feu, Plante ou Eau pour faire éclore cet Œuf. (Pour faire éclore cet Œuf, tu dois le définir comme ton copain)
+shiny-legendary-dragon-eggSpecialDescription:Tu as gagné {count} / 5 combats de stade pour faire éclore cet Œuf. (Pour faire éclore cet Œuf, tu dois le définir comme ton copain et l'avoir dans ton équipe de combat)

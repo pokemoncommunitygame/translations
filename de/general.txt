@@ -207,3 +207,10 @@ pt:Portugiesisch
 it:Italienisch
 deviceLanguage:Automatisch erkennen
 version:Version
+hidden:Versteckt
+normal-dragon-eggSpecialDescription:Du hast {count} / 10 Pokémon gefangen, um dieses Ei auszubrüten. (Um dieses Ei auszubrüten, musst du es als deinen Kumpel festlegen)
+sparkling-dragon-eggSpecialDescription:Du hast {count} / 3 Pokémon mit Premier-, Luxus- oder Jubelball gefangen, um dieses Ei auszubrüten. (Um dieses Ei auszubrüten, musst du es als deinen Kumpel festlegen)
+battle-dragon-eggSpecialDescription:Du hast {count} / 5 Rangkämpfe gewonnen, um dieses Ei auszubrüten. (Um dieses Ei auszubrüten, musst du es als deinen Kumpel festlegen)
+baby-dragon-eggSpecialDescription:Du hast {count} / 3 Pokémon mit einem BST unter 400 gefangen, um dieses Ei auszubrüten. (Um dieses Ei auszubrüten, musst du es als deinen Kumpel festlegen)
+starter-dragon-eggSpecialDescription:Du hast {count} / 5 Feuer-, Pflanzen- oder Wasser-Pokémon getauscht, um dieses Ei auszubrüten. (Um dieses Ei auszubrüten, musst du es als deinen Kumpel festlegen)
+shiny-legendary-dragon-eggSpecialDescription:Du hast {count} / 5 Stadionkämpfe gewonnen, um dieses Ei auszubrüten. (Um dieses Ei auszubrüten, musst du es als deinen Kumpel festlegen und in deinem Kampfteam haben)

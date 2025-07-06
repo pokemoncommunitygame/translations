@@ -1,6 +1,7 @@
 
 hidden_item:Hidden Item
 hidden_itemDescription:???
+hidden:Hidden
 
 tm_name:TM {moveName}
 tm_description:Teaches a {pkmt} type Pokémon the move {moveName}.
@@ -267,3 +268,13 @@ fr:French
 ru:Russian
 pt:Portuguese
 it:Italian
+
+// eggs
+
+normal-dragon-eggSpecialDescription:You caught {count} / 10 Pokémon to hatch this Egg. (To hatch this Egg, you need to set it as your buddy)
+sparkling-dragon-eggSpecialDescription:You caught {count} / 3 Pokémon with Premier, Luxury, or Cherish Balls to hatch this Egg. (To hatch this Egg, you need to set it as your buddy)
+battle-dragon-eggSpecialDescription:You won {count} / 5 ranked battles to hatch this Egg. (To hatch this Egg, you need to set it as your buddy)
+baby-dragon-eggSpecialDescription:You caught {count} / 3 Pokémon with a BST under 400 to hatch this Egg. (To hatch this Egg, you need to set it as your buddy)
+starter-dragon-eggSpecialDescription:You caught {count} / 3 Pokémon with a BST under 400 to hatch this Egg. (To hatch this Egg, you need to set it as your buddy)
+starter-dragon-eggSpecialDescription:You traded {count} / 5 Fire-, Grass-, or Water-type Pokémon to hatch this Egg. (To hatch this Egg, you need to set it as your buddy)
+shiny-legendary-dragon-eggSpecialDescription:You won {count} / 5 stadium battles to hatch this Egg. (To hatch this Egg, you need to set it as your buddy and have it in your battle team)

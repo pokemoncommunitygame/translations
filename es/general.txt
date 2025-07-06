@@ -207,3 +207,10 @@ pt:Portugués
 it:Italiano
 deviceLanguage:Detección automática del idioma
 version:Versión
+hidden:Oculto
+normal-dragon-eggSpecialDescription:Has atrapado {count} / 10 Pokémon para abrir este Huevo. (Para abrir este Huevo, necesitas ponerlo como tu compañero)
+sparkling-dragon-eggSpecialDescription:Has atrapado {count} / 3 Pokémon con Premier, Lujo o Honor Balls para abrir este Huevo. (Para abrir este Huevo, necesitas ponerlo como tu compañero)
+battle-dragon-eggSpecialDescription:Has ganado {count} / 5 combates clasificados para abrir este Huevo. (Para abrir este Huevo, necesitas ponerlo como tu compañero)
+baby-dragon-eggSpecialDescription:Has atrapado {count} / 3 Pokémon con un BST menor de 400 para abrir este Huevo. (Para abrir este Huevo, necesitas ponerlo como tu compañero)
+starter-dragon-eggSpecialDescription:Has intercambiado {count} / 5 Pokémon de tipo Fuego, Planta o Agua para abrir este Huevo. (Para abrir este Huevo, necesitas ponerlo como tu compañero)
+shiny-legendary-dragon-eggSpecialDescription:Has ganado {count} / 5 combates de estadio para abrir este Huevo. (Para abrir este Huevo, necesitas ponerlo como tu compañero y tenerlo en tu equipo de combate)
