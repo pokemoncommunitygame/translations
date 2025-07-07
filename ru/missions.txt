@@ -65,3 +65,4 @@ exactly:точно
 pcg_event_catch_week4:Ловите эвент Покемонов – Неделя 4
 mission__battle:Сразитесь, используя покемона типа <type>
 mission__wondertrade:Обменяться покемоном через Чудообмен
+mission__battle_deal_damage:Наносите урон в битвах.

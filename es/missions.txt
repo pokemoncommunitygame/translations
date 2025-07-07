@@ -65,3 +65,4 @@ exactly:exactamente
 pcg_event_catch_week4:Captura evento Pokémon – Semana 4
 mission__battle:Combate usando Pokémon de tipo <type>
 mission__wondertrade:Intercambia Pokémon maravilla
+mission__battle_deal_damage:Inflige daño en combates.

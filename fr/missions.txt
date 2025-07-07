@@ -65,3 +65,4 @@ exactly:exactement
 pcg_event_catch_week4:Attrape événement Pokémon – Semaine 4
 mission__battle:Combats en utilisant des Pokémon de type <type>
 mission__wondertrade:Échanger des Pokémon à la loterie
+mission__battle_deal_damage:Inflige des dégâts lors des combats.

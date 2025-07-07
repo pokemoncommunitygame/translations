@@ -65,3 +65,4 @@ exactly:genau
 pcg_event_catch_week4:Fange Event-Pokémon – Woche 4
 mission__battle:Kämpfe mit einem <type>-Typ-Pokémon
 mission__wondertrade:Tausche Pokémon in der Wundertausch
+mission__battle_deal_damage:Füge in Kämpfen Schaden zu.

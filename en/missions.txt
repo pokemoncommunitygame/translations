@@ -65,3 +65,4 @@ exactly:exactly
 pcg_event_catch_week4:Catch event Pokémon – Week 4
 mission__battle:Battle using <type>-type Pokémon
 mission__wondertrade:Wondertrade Pokémon
+mission__battle_deal_damage:Deal damage in battles.

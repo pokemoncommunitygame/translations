@@ -65,3 +65,4 @@ exactly:exatamente
 pcg_event_catch_week4:Catch event Pokémon – Semana 4
 mission__battle:Batalhar usando Pokémon do tipo <type>
 mission__wondertrade:Troque Pokémon no Wondertrade
+mission__battle_deal_damage:Causar dano em batalhas.
