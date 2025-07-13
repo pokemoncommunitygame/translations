@@ -62,7 +62,7 @@ noReplayCodes:Can't find replay codes!
 joinChallenge:Join challenge!
 spectateChannel:Spectate channel
 leaderboardStats:Leaderboard (Wins: {victories} Losses: {number} )
-seasonStats:Season {season} (Wins: {victories} Losses: {number} )
+seasonStats:Season {cycle} (Wins: {victories} Losses: {number} )
 BattleXP:Everyone in your team gained {points} XP! You received ${dollar}!
 battleEnemySleeping:fell asleep
 battleEnemyParalysis:was paralysed

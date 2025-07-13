@@ -61,7 +61,7 @@ noReplayCodes:Não foi possível encontrar códigos de replay!
 joinChallenge:Entrar no desafio!
 spectateChannel:Assistir canal
 leaderboardStats:Líderes (Vitórias: {victories} Derrotas: {number} )
-seasonStats:Temporada {season} (Vitórias: {victories} Derrotas: {number} )
+seasonStats:Temporada {cycle} (Vitórias: {victories} Derrotas: {number} )
 battleEnemySleeping:dormiu
 battleEnemyParalysis:foi paralisado
 battleEnemyPoison:foi envenenado

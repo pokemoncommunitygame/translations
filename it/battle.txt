@@ -61,7 +61,7 @@ noReplayCodes:Impossibile trovare i codici replay!
 joinChallenge:Unisciti alla sfida!
 spectateChannel:Guarda il canale
 leaderboardStats:Classifica (Vittorie: {wins} Sconfitte: {loses})
-seasonStats:Stagione {season} (Vittorie: {seasonWins} Sconfitte: {seasonLoses})
+seasonStats:Stagione {cycle} (Vittorie: {victories} Sconfitte: {number} )
 battleEnemySleeping:si addormenta
 battleEnemyParalysis:è stato paralizzato
 battleEnemyPoison:è stato avvelenato

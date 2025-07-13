@@ -61,7 +61,7 @@ noReplayCodes:Keine Replay-Codes gefunden!
 joinChallenge:Herausforderung starten!
 spectateChannel:Kanal zuschauen
 leaderboardStats:Leaderboard (Siege: {victories} Niederlagen: {number} )
-seasonStats:Saison {season} (Siege: {victories} Niederlagen: {number} )
+seasonStats:Saison {cycle} (Siege: {victories} Niederlagen: {number} )
 battleEnemySleeping:ist eingeschlafen
 battleEnemyParalysis:wurde paralysiert
 battleEnemyPoison:wurde vergiftet

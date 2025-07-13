@@ -61,7 +61,7 @@ noReplayCodes:Impossible de trouver les codes de replay !
 joinChallenge:Rejoindre le défi !
 spectateChannel:Spectateur de chaîne
 leaderboardStats:Tableau des leaders (Victoires : {victories} Défaites : {number} )
-seasonStats:Saison {season} (Victoires : {victories} Défaites : {number} )
+seasonStats:Saison {cycle} (Victoires : {victories} Défaites : {number} )
 battleEnemySleeping:s'est endormi
 battleEnemyParalysis:est paralysé
 battleEnemyPoison:est empoisonné
