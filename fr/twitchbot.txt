@@ -81,7 +81,7 @@ POKEDAILY_REMINDER:@{0} Je te rappelerai dans {1} quand ton quotidien sera prêt
 POKEDAILY_REMINDER_READY:@{0} Ton Pokédaily est prêt ! deemon8Hype
 WONDERTRADE_REMINDER:@{0} Je te rappellerai dans {1} quand ta Wondertrade sera prête !
 WONDERTRADE_REMINDER_READY:@{0} Ta Wondertrade est prête ! deemon8Hype
-POKEPRESENT_REWARD_RARE_PRESENT:@{0} a reçu HolidayPresent de CurseLit {1} HolidayPresent de CurseLit comme un cadeau RARE de @{2} !
+POKEPRESENT_REWARD_RARE_PRESENT:@{0} a reçu CurseLit HolidayPresent {1} HolidayPresent CurseLit comme un cadeau RARE de @{2} !
 POKEPRESENT_REWARD_PRESENT:@{0} a reçu HolidayPresent {1} HolidayPresent comme cadeau de la part de @{2} !
 GOLDEN_TICKET_MSG:Tu as échangé le 🎫 Billet Doré 🎫 et gagné {0} !
 POKECATCH_TOO_EARLY:@{0} Patience, dresseur ! Le légendaire n'est encore qu'une rumeur pour l'instant.
