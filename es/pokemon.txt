@@ -2426,7 +2426,7 @@ croagunk-f:Croagunk (F)
 croagunk-fDescription:Su veneno posee propiedades medicinales si se diluye. Se ha vuelto muy popular desde que una empresa farmacéutica lo adoptó como mascota.
 darmanitan-galar:Gal Darmanitan
 darmanitan-galarDescription:Su fuerza aumenta cuanto más se aviva su fuego interior, que puede alcanzar temperaturas superiores a los 1400 °C.
-darmanitan-galarzen:Gal Darmanitan
+darmanitan-galarzen:Gal Darmanitan (Zen)
 darmanitan-galarzenDescription:Su fuerza aumenta cuanto más se aviva su fuego interior, que puede alcanzar temperaturas superiores a los 1400 °C.
 darumaka-galar:Gal Darumaka
 darumaka-galarDescription:Cuanto menor es su temperatura corporal, mejor se siente. Juega a lanzar las bolas de nieve que crea congelando el aliento.

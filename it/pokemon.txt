@@ -2422,7 +2422,7 @@ croagunk-f:Croagunk
 croagunk-fDescription:Se diluito, il suo veleno ha proprietà medicinali. È diventato popolare da quando una casa farmaceutica ne ha fatto la sua mascotte.
 darmanitan-galar:Gal Darmanitan
 darmanitan-galarDescription:Se subisce danni, diventa immobile come un sasso e medita per temprare lo spirito.
-darmanitan-galarzen:Gal Darmanitan
+darmanitan-galarzen:Gal Darmanitan (Zen)
 darmanitan-galarzenDescription:Se subisce danni, diventa immobile come un sasso e medita per temprare lo spirito.
 darumaka-galar:Gal Darumaka
 darumaka-galarDescription:Quando dorme è impossibile buttarlo giù, per quanto lo si spinga. I portafortuna che lo rappresentano sono molto popolari.

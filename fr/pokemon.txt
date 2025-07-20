@@ -2422,7 +2422,7 @@ croagunk-f:Cradopaud (F)
 croagunk-fDescription:Dilué, son poison sert de remède. Cela lui a valu de devenir la mascotte populaire d’une entreprise de produits pharmaceutiques.
 darmanitan-galar:Gal Darumacho
 darmanitan-galarDescription:Sa puissance augmente à mesure que la flamme de son corps s’intensifie. La température de celle-ci peut parfois dépasser les 1 400 °C.
-darmanitan-galarzen:Gal Darumacho
+darmanitan-galarzen:Gal Darumacho (Zen)
 darmanitan-galarzenDescription:Sa puissance augmente à mesure que la flamme de son corps s’intensifie. La température de celle-ci peut parfois dépasser les 1 400 °C.
 darumaka-galar:Gal Darumarond
 darumaka-galarDescription:Plus leur corps est froid, plus ils sont en forme. Ils s’amusent en faisant des batailles de boules de neige, qu’ils créent en refroidissant leur souffle.

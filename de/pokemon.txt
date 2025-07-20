@@ -2424,7 +2424,7 @@ croagunk-f:Glibunkel (W)
 croagunk-fDescription:Verdünnt man sein Gift, wird es zu Medizin. Seit es zum Maskottchen eines Pharmakonzerns wurde, hat es viele neue Fans gewonnen.
 darmanitan-galar:Gal Flampivian
 darmanitan-galarDescription:Nimmt es im Kampf Schaden, wird es hart wie Stein und fällt in eine Trance, um seinen Verstand zu schärfen.
-darmanitan-galarzen:Gal Flampivian
+darmanitan-galarzen:Gal Flampivian (Zen)
 darmanitan-galarzenDescription:Nimmt es im Kampf Schaden, wird es hart wie Stein und fällt in eine Trance, um seinen Verstand zu schärfen.
 darumaka-galar:Gal Flampion
 darumaka-galarDescription:Während es schläft, lässt es sich nicht mal mit Gewalt umstoßen. Aus diesem Grund ist es ein beliebtes Motiv für Glücksbringer.

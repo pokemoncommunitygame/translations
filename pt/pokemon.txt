@@ -2422,7 +2422,7 @@ croagunk-f:Croagunk (F)
 croagunk-fDescription:Once diluted, its poison becomes medicinal. This Pokémon came into popularity after a pharmaceutical company chose it as a mascot.
 darmanitan-galar:Gal Darmanitan
 darmanitan-galarDescription:When wounded, it stops moving. It goes as still as stone to meditate, sharpening its mind and spirit.
-darmanitan-galarzen:Gal Darmanitan
+darmanitan-galarzen:Gal Darmanitan (Zen)
 darmanitan-galarzenDescription:When wounded, it stops moving. It goes as still as stone to meditate, sharpening its mind and spirit.
 darumaka-galar:Gal Darumaka
 darumaka-galarDescription:This popular symbol of good fortune will never fall over in its sleep, no matter how it’s pushed or pulled.
