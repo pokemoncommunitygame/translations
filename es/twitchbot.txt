@@ -19,7 +19,7 @@ POKECHECK:@{0} {1} registrado en la Pokédex: {2}
 POKECHECK_ERROR:@{0} Por favor, ingresa un nombre de Pokémon o ID de Pokédex válido.
 POKEMONINFO:@{0} Pokémon: {1} - Nivel: {11} - Tipo: {8} - Gen: {13} - Peso: {12}kg - Base: {10} - Velocidad: {2} - PS: {7} - Ataque: {3} - Defensa: {4} - Atq. Esp.: {5} - Def. Esp.: {6} - Eficacia de tipo: {9}
 POKEMONINFO_ERROR:@{0} Por favor, introduce un nombre válido de Pokémon o un ID de Pokédex.
-MOVE_INFO:@{0} Movimiento: {1} - Tipo: {7} - {6} - Poder: {3} - PP: {4} - Precisión: {5} {8} - Descripción: {2}
+MOVE_INFO:@{0} Movimiento: {1} - Tipo: {7} - {6} - Potencia: {3} - PP: {4} - Precisión: {5} - Prioridad: {8} {9} - Descripción: {2}
 MOVE_ERROR:@{0} Por favor, introduce un movimiento válido.
 POKECATCH_ESCAPED:@{0} ¡Oops! ¡El Pokémon ya escapó!
 POKECATCH_NOT_LIVE:@{0} ¡Solo puedes atrapar Pokémon en canales en vivo! Puede tardar hasta 15 minutos en detectarte en vivo.

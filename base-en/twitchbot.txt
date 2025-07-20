@@ -24,7 +24,7 @@ POKECHECK_ERROR:@{0} Please enter a valid Pokémon name or Pokédex ID.
 
 POKEMONINFO:@{0} Pokémon: {1} - Tier: {11} - Type: {8} - Gen: {13} - Weight: {12}kg - Base: {10} - Speed: {2} - HP: {7} - Attack: {3} - Defense: {4} - Sp. Atk: {5} - Sp. Def: {6} - Type effectiveness: {9}
 POKEMONINFO_ERROR:@{0} Please enter a valid Pokémon name or Pokédex ID.
-MOVE_INFO:@{0} Move: {1} - Type: {7} - {6} - Power: {3} - PP: {4} - Accuracy: {5} {8} - Description: {2}
+MOVE_INFO:@{0} Move: {1} - Type: {7} - {6} - Power: {3} - PP: {4} - Accuracy: {5} - Priority: {8} {9} - Description: {2}
 MOVE_ERROR:@{0} Please enter a valid move.
 
 POKECATCH_ESCAPED:@{0} Oops! The Pokémon already escaped!

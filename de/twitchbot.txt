@@ -19,7 +19,7 @@ POKECHECK:@{0} {1} im Pokédex registriert: {2}
 POKECHECK_ERROR:@{0} Bitte gib einen gültigen Pokémon-Namen oder Pokédex-ID ein.
 POKEMONINFO:@{0} Pokémon: {1} - Stufe: {11} - Typ: {8} - Gen: {13} - Gewicht: {12}kg - Basis: {10} - Initiative: {2} - KP: {7} - Angriff: {3} - Verteidigung: {4} - Spezial-Angriff: {5} - Spezial-Verteidigung: {6} - Typ-Effektivität: {9}
 POKEMONINFO_ERROR:@{0} Bitte gib einen gültigen Pokémon-Namen oder Pokédex-ID ein.
-MOVE_INFO:@{0} Attacke: {1} - Typ: {7} - {6} - Stärke: {3} - AP: {4} - Genauigkeit: {5} {8} - Beschreibung: {2}
+MOVE_INFO:@{0} Attacke: {1} - Typ: {7} - {6} - Stärke: {3} - AP: {4} - Genauigkeit: {5} - Priorität: {8} {9} - Beschreibung: {2}
 MOVE_ERROR:@{0} Bitte gib eine gültige Attacke ein.
 POKECATCH_ESCAPED:@{0} Ups! Das Pokémon ist bereits entkommen!
 POKECATCH_NOT_LIVE:@{0} Du kannst Pokémon nur in Live-Kanälen fangen! Es kann bis zu 15 Minuten dauern, bis du als live erkannt wirst.

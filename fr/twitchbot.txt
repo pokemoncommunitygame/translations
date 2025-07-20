@@ -19,7 +19,7 @@ POKECHECK:@{0} {1} enregistré dans le Pokédex : {2}
 POKECHECK_ERROR:@{0} Veuillez entrer un nom de Pokémon valide ou un ID de Pokédex.
 POKEMONINFO:Pokémon {0}: {1} - Niveau : {11} - Type : {8} - Génération : {13} - Poids : {12}kg - Base : {10} - Vitesse : {2} - PV : {7} - Attaque : {3} - Défense : {4} - Attaque Spé. : {5} - Défense Spé. : {6} - Efficacité du type : {9}
 POKEMONINFO_ERROR:@{0} Veuillez entrer un nom de Pokémon ou un ID Pokédex valide.
-MOVE_INFO:@{0} Capacité : {1} - Type : {7} - {6} - Puissance : {3} - PP : {4} - Précision : {5} {8} - Description : {2}
+MOVE_INFO:@{0} Attaque: {1} - Type: {7} - {6} - Puissance: {3} - PP: {4} - Précision: {5} - Priorité: {8} {9} - Description: {2}
 MOVE_ERROR:@{0} Veuillez entrer une capacité valide.
 POKECATCH_ESCAPED:@{0} Oups ! Le Pokémon s'est déjà échappé !
 POKECATCH_NOT_LIVE:@{0} Tu peux attraper des Pokémon seulement dans des chaînes en direct ! Cela peut prendre jusqu’à 15 minutes pour te détecter en direct.
