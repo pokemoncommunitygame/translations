@@ -33,7 +33,7 @@ trade_with_hp:Wondertrade Pokémon avec PV <compare> <value>
 trade_with_bst:Wondertrade Pokémon avec Total des Stats de Base <compare> <value>
 effective:Utiliser une attaque super efficace
 field_effect:Utiliser des effets de terrain en combat
-battle_stat_change:Utiliser une attaque qui change les stats
+battle_stat_change:Utilise une capacité qui modifie les stats avec succès
 battle_fail_attacks_immunity:Échouer à toucher à cause de l'immunité
 battle_defeat_cat_with_dog:Vaincre des Pokémon chat avec des Pokémon chien
 defeat_stadium_hard_with_6_dog:Gagne le combat de stade difficile en utilisant 6 Pokémon chien

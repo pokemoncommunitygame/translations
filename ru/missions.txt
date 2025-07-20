@@ -33,7 +33,7 @@ trade_with_hp:Чудо-обмен покемона с ОЗ <compare> <value>
 trade_with_bst:Чудо-обмен покемона с Общим Статом <compare> <value>
 effective:Использовать суперэффективный прием
 field_effect:Сражаться под воздействием поля
-battle_stat_change:Использовать движение, изменяющее статистику
+battle_stat_change:Используй приём, который успешно изменяет характеристики
 battle_fail_attacks_immunity:Не попасть из-за иммунитета
 battle_defeat_cat_with_dog:Победить покемона-кота покемоном-собакой
 defeat_stadium_hard_with_6_dog:Выиграй сложный бой на стадионе, используя 6 Покемон-собак

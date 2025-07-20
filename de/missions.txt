@@ -33,7 +33,7 @@ trade_with_hp:Wondertrade Pokémon mit KP <compare> <value>
 trade_with_bst:Wondertrade Pokémon mit Basiswertsumme <compare> <value>
 effective:Setze eine sehr effektive Attacke ein
 field_effect:Setze Feldeffekte im Kampf ein
-battle_stat_change:Setze eine Attacke ein, die Statuswerte verändert
+battle_stat_change:Verwende eine Attacke, die erfolgreich Statuswerte ändert.
 battle_fail_attacks_immunity:Ein Angriff schlägt fehl aufgrund von Immunität
 battle_defeat_cat_with_dog:Besiege Katzen-Pokémon mit Hunde-Pokémon
 defeat_stadium_hard_with_6_dog:Gewinne ein schwieriges Stadion-Match mit 6 Hunde-Pokémon

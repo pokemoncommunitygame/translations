@@ -46,7 +46,7 @@ mission__battle:Battle using <type>-type Pokémon
 mission__battle_deal_damage:Deal damage in battles.
 effective:Use super-effective move
 field_effect:Use field effects in battle
-battle_stat_change:Use move that changes stats
+battle_stat_change:Use a move that successfully changes stats
 battle_fail_attacks_immunity:Fail to hit due to immunity
 
 battle_defeat_cat_with_dog:Defeat cat Pokémon with dog Pokémon

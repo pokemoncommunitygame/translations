@@ -33,7 +33,7 @@ trade_with_hp:Intercambio Maravilloso Pokémon con PS <compare> <value>
 trade_with_bst:Intercambio Maravilloso Pokémon con Suma de Estadísticas Base <compare> <value>
 effective:Usa un movimiento súper efectivo
 field_effect:Usa efectos de campo en batalla
-battle_stat_change:Usa un movimiento que cambia estadísticas
+battle_stat_change:Usa un movimiento que cambie las estadísticas con éxito
 battle_fail_attacks_immunity:Falla al atacar debido a la inmunidad
 battle_defeat_cat_with_dog:Derrota a Pokémon gato con Pokémon perro
 defeat_stadium_hard_with_6_dog:Gana batalla de estadio difícil usando 6 Pokémon perro
