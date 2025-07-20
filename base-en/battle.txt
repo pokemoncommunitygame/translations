@@ -160,3 +160,5 @@ battleMoveUsed:uses
 PERISH_SONG_START:heard the Perish Song
 PERISH_SONG_END:fainted!
 PERISH_SONG_COOLDOWN:'s perish count fell to
+HEAL_BLOCK_STARTED:The opposing Pokémon's healing was blocked!
+HEAL_BLOCK_END:The opposing Pokémon can heal again!

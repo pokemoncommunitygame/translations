@@ -129,3 +129,5 @@ PERISH_SONG_END:fainted!
 FLINCHED:flinched and couldn't attack
 PERISH_SONG_COOLDOWN:'s perish count fell to
 ATTACK_MISSED:'s attack missed.
+HEAL_BLOCK_STARTED:The opposing Pokémon's healing was blocked!
+HEAL_BLOCK_END:The opposing Pokémon can heal again!

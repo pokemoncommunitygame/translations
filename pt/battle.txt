@@ -129,3 +129,5 @@ PERISH_SONG_START:ouviu o Canto Mortal
 PERISH_SONG_END:desmaiou!
 FLINCHED:vacilou e não conseguiu atacar
 PERISH_SONG_COOLDOWN:O contador de canto caiu para
+HEAL_BLOCK_STARTED:A cura do Pokémon adversário foi bloqueada!
+HEAL_BLOCK_END:O Pokémon adversário pode se curar novamente!

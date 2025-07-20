@@ -129,3 +129,5 @@ PERISH_SONG_START:hörte das Todesgesang
 PERISH_SONG_END:ist besiegt!
 FLINCHED:erschrak und konnte nicht angreifen
 PERISH_SONG_COOLDOWN:'s Verhängniszähler fiel auf
+HEAL_BLOCK_STARTED:Die Heilung des gegnerischen Pokémon wurde blockiert!
+HEAL_BLOCK_END:Das gegnerische Pokémon kann wieder heilen!

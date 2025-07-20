@@ -129,3 +129,5 @@ PERISH_SONG_START:escuchó la Canción Final
 PERISH_SONG_END:¡se debilitó!
 FLINCHED:se estremeció y no pudo atacar
 PERISH_SONG_COOLDOWN:el conteo de perecer de cayó a
+HEAL_BLOCK_STARTED:¡La curación del Pokémon rival fue bloqueada!
+HEAL_BLOCK_END:¡El Pokémon rival puede curarse de nuevo!
