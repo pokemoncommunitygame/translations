@@ -3222,3 +3222,37 @@ dragapult-retro:Dragapult (Retro)
 dragapult-retroDescription:Apparently the Dreepy inside Dragapult’s horns eagerly look forward to being launched out at Mach speeds.
 togepi-pcg:PCG Togepi
 togepi-pcgDescription:It is considered to be a symbol of good luck. Its shell is said to be filled with happiness. (Art by Strawberrykitten)
+alakazam-f:Alakazam (F)
+alakazam-fDescription:Alakazam wields potent psychic powers. It’s said that this Pokémon used these powers to create the spoons it holds.
+butterfree-f:Butterfree (F)
+butterfree-fDescription:Once it has opponents trapped in a tornado that could blow away a 10-ton truck, it finishes them off with its poisonous scales.
+dodrio-f:Dodrio (F)
+dodrio-fDescription:One of Doduo’s two heads splits to form a unique species. It runs close to 40 mph in prairies.
+doduo-f:Doduo (F)
+doduo-fDescription:Its short wings make flying difficult. Instead, this Pokémon runs at high speed on developed legs.
+eevee-f:Eevee (F)
+eevee-fDescription:Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.
+gloom-f:Gloom (F)
+gloom-fDescription:What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.
+goldeen-f:Goldeen (F)
+goldeen-fDescription:Its dorsal and pectoral fins are strongly developed like muscles. It can swim at a speed of five knots.
+gyarados-f:Gyarados (F)
+gyarados-fDescription:Once it begins to rampage, a Gyarados will burn everything down, even in a harsh storm.
+hisuian-sneasel-f:His Sneasel (F)
+hisuian-sneasel-fDescription:It has a cunning yet savage disposition. It waits for parents to leave their nests, and then it sneaks in to steal their eggs.
+hypno-f:Hypno (F)
+hypno-fDescription:Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum.
+kadabra-f:Kadabra (F)
+kadabra-fDescription:This Pokémon’s telekinesis is immensely powerful. To prepare for evolution, Kadabra stores up psychic energy in the star on its forehead.
+oinkologne-f:Oinkologne (F)
+oinkologne-fDescription:It entrances female Pokémon with the sweet, alluring scent that wafts from all over its body.
+raichu-f:Raichu (F)
+raichu-fDescription:This Pokémon rides on its tail while it uses its psychic powers to levitate. It attacks with star-shaped thunderbolts.
+rhyhorn-f:Rhyhorn (F)
+rhyhorn-fDescription:It can remember only one thing at a time. Once it starts rushing, it forgets why it started.
+seaking-f:Seaking (F)
+seaking-fDescription:Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.
+venusaur-f:Venusaur (F)
+venusaur-fDescription:Huge amounts of pollen burst from it with the force of a volcanic eruption. Breathing in too much of the pollen can cause fainting.
+vileplume-f:Vileplume (F)
+vileplume-fDescription:The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.

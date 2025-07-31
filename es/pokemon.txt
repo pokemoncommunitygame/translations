@@ -3222,3 +3222,37 @@ dragapult-retro:Dragapult (Retro)
 dragapult-retroDescription:Al parecer, los Dreepy que residen en sus cuernos esperan con ilusión el momento de ser propulsados a velocidad supersónica.
 togepi-pcg:PCG Togepi
 togepi-pcgDescription:Se considera un símbolo de buena suerte. Se dice que su caparazón está lleno de felicidad. (Arte por Strawberrykitten)
+alakazam-f:Alakazam (F)
+alakazam-fDescription:Posee unos poderes psíquicos extraordinarios con los que, según se dice, creó las cucharas que lleva en las manos.
+butterfree-f:Butterfree (F)
+butterfree-fDescription:Recoge néctar a diario y se lo adhiere al pelo de las patas para llevarlo a su nido.
+dodrio-f:Dodrio (F)
+dodrio-fDescription:Este Pokémon surge al dividirse una de las cabezas de Doduo. Es capaz de correr por las praderas a 60 km/h.
+doduo-f:Doduo (F)
+doduo-fDescription:Las diminutas alas apenas le permiten volar, pero puede correr a gran velocidad gracias a sus patas hiperdesarrolladas.
+eevee-f:Eevee (F)
+eevee-fDescription:Su irregular estructura genética alberga el secreto de la capacidad que posee este Pokémon tan especial para adoptar evoluciones muy variadas.
+gloom-f:Gloom (F)
+gloom-fDescription:Lo que parece baba es realmente un néctar muy pegajoso que se adhiere sin remisión al tocarlo.
+goldeen-f:Goldeen (F)
+goldeen-fDescription:La aleta dorsal y las aletas pectorales están tan desarrolladas que actúan como músculos. Puede nadar a una velocidad de cinco nudos.
+gyarados-f:Gyarados (F)
+gyarados-fDescription:Cuando monta en cólera, puede quemarlo todo, incluso en medio de la más violenta tormenta.
+hisuian-sneasel-f:His Sneasel (F)
+hisuian-sneasel-fDescription:Es un Pokémon de naturaleza astuta y fiera. Se cuela en los nidos de otros Pokémon cuando no están y roba sus huevos.
+hypno-f:Hypno (F)
+hypno-fDescription:Conviene evitar el contacto visual en caso de encontrarse con este Pokémon, ya que puede hipnotizar con su péndulo.
+kadabra-f:Kadabra (F)
+kadabra-fDescription:La potencia de su telequinesis es inmensa. Acumula poder psíquico en la estrella de la frente como preparativo de cara a su evolución.
+oinkologne-f:Oinkologne (F)
+oinkologne-fDescription:It entrances female Pokémon with the sweet, alluring scent that wafts from all over its body.
+raichu-f:Raichu (F)
+raichu-fDescription:Se sube a su cola y usa sus poderes psíquicos para desplazarse flotando mientras ataca con poderosos rayos en forma de estrella.
+rhyhorn-f:Rhyhorn (F)
+rhyhorn-fDescription:La cabeza no le da para retener más de una cosa. Si se pone a correr, se le olvida al instante por qué empezó a hacerlo.
+seaking-f:Seaking (F)
+seaking-fDescription:Perfora las piedras del lecho del río con su cuerno para hacer un nido y que la corriente no arrastre sus huevos.
+venusaur-f:Venusaur (F)
+venusaur-fDescription:La flor que tiene en el lomo libera un delicado aroma, que tiene un efecto relajante en combate.
+vileplume-f:Vileplume (F)
+vileplume-fDescription:Cuanto mayores son sus pétalos, más tóxico es su polen. Le pesa la cabeza y le cuesta mantenerla erguida.

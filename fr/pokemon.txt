@@ -3222,3 +3222,37 @@ dragapult-retro:Lanssorien (Retro)
 dragapult-retroDescription:Il paraît que les Fantyrm installés dans ses cornes attendent impatiemment le moment où ils seront propulsés à la vitesse du son.
 togepi-pcg:PCG Togepi
 togepi-pcgDescription:C'est considéré comme un symbole de chance. On dit que sa coquille est remplie de bonheur. (Art par Strawberrykitten)
+alakazam-f:Alakazam (F)
+alakazam-fDescription:Il dispose d’immenses pouvoirs psychiques. On raconte qu’il s’en est servi afin de créer les cuillères qu’il tient dans chaque main.
+butterfree-f:Papilusion (F)
+butterfree-fDescription:Il soulève ses ennemis en provoquant un ouragan à même d’emporter des camions de dix tonnes, puis les achève avec ses écailles toxiques.
+dodrio-f:Dodrio (F)
+dodrio-fDescription:Quand une des têtes de Doduo se divise, il devient un Dodrio capable de courir à 60 km/h.
+doduo-f:Doduo (F)
+doduo-fDescription:Ses petites ailes ne lui permettent pas de voler, mais grâce à ses puissantes pattes, il peut courir très rapidement.
+eevee-f:Évoli (F)
+eevee-fDescription:Son adorable innocence a pris des proportions XXL. Il cherche à jouer avec tout le monde, mais il est si grand qu’il écrase ses camarades de jeu.
+gloom-f:Ortide (F)
+gloom-fDescription:Ce qui semble être sa bave est en fait du nectar très collant. Si on le touche, il est très difficile de s’en dépêtrer.
+goldeen-f:Poissirène (F)
+goldeen-fDescription:Ses nageoires dorsales et pectorales sont très développées. Elles lui permettent de nager à une vitesse de cinq nœuds.
+gyarados-f:Léviator (F)
+gyarados-fDescription:Quand il se laisse emporter par la rage, même la plus violente des tempêtes ne peut l’empêcher de détruire tout ce qui l’entoure.
+hisuian-sneasel-f:His Farfuret (F)
+hisuian-sneasel-fDescription:Un Pokémon aussi cruel que fourbe. Il se glisse dans le nid des autres Pokémon en leur absence pour dérober leurs Œufs.
+hypno-f:Hypnomade (F)
+hypno-fDescription:Évitez son regard quand vous en croisez un, ou il pourrait essayer de vous hypnotiser avec son pendule.
+kadabra-f:Kadabra (F)
+kadabra-fDescription:Incroyablement doué en télékinésie, il concentre son énergie psychique dans l’étoile sur son front en prévision de son évolution.
+oinkologne-f:Fragroin (F)
+oinkologne-fDescription:It entrances female Pokémon with the sweet, alluring scent that wafts from all over its body.
+raichu-f:Raichu (F)
+raichu-fDescription:Si ses joues sont à court d’énergie, il lève la queue et capte l’électricité contenue dans l’atmosphère.
+rhyhorn-f:Rhinocorne (F)
+rhyhorn-fDescription:Il ne peut se souvenir que d’une chose à la fois. S’il se met à courir, il en oublie tout de suite la raison.
+seaking-f:Poissoroy (F)
+seaking-fDescription:S’il fait des trous dans les rochers avec sa corne pour bâtir son nid, c’est pour éviter que ses Œufs ne soient emportés par les flots.
+venusaur-f:Florizarre (F)
+venusaur-fDescription:Une douce senteur émane de sa plante. Cette fragrance calme tous ceux qui sont engagés dans un combat.
+vileplume-f:Rafflesia (F)
+vileplume-fDescription:Plus ses pétales sont grands, plus il produit de pollen toxique. Toutefois, le poids de sa tête le fatigue.

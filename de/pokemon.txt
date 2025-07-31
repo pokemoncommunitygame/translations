@@ -3222,3 +3222,37 @@ dragapult-retro:Katapuldra (Retro)
 dragapult-retroDescription:Die Grolldra, die in seinen Hörnern sitzen, warten angeblich voller Spannung darauf, mit Mach-Geschwindigkeit abgefeuert zu werden.
 togepi-pcg:PCG Togepi
 togepi-pcgDescription:Es wird als Glücksbringer angesehen. Man sagt, seine Schale sei voller purer Freude. (Illustration von Strawberrykitten)
+alakazam-f:Simsala (W)
+alakazam-fDescription:Simsala verfügt über extrem starke Psycho-Kräfte. Mit ihnen soll es die Löffel erschaffen haben, die es in seinen Händen hält.
+butterfree-f:Smettbo (W)
+butterfree-fDescription:Es zieht Gegner in eine Windhose, die selbst 10 t schwere Laster wegpusten könnte, und gibt ihnen dann mit hochgiftigem Flügelstaub den Rest.
+dodrio-f:Dodri (W)
+dodrio-fDescription:Bei der Entwicklung zu Dodri hat sich einer von Dodus Köpfen in zwei geteilt. Es flitzt mit einer Geschwindigkeit von 60 km/h über Wiesen.
+doduo-f:Dodu (W)
+doduo-fDescription:Es kann nicht gut fliegen, weil seine Flügel zu klein sind. Dafür kann es mit seinen starken Beinen sehr schnell laufen.
+eevee-f:Evoli (W)
+eevee-fDescription:Es ist noch treuherziger als sonst und will mit jedem spielen. Doch aufgrund seiner enormen Größe erdrückt es seine Spielkameraden dabei.
+gloom-f:Duflor (W)
+gloom-fDescription:Was wie Speichel aussieht, ist eigentlich Honig. Er ist sehr klebrig und wenn man ihn berührt, bekommt man ihn nicht mehr ab.
+goldeen-f:Goldini (W)
+goldeen-fDescription:Seine Rücken- und Brustflossen sind muskelähnlich entwickelt. Es erreicht beim Schwimmen eine Geschwindigkeit von bis zu fünf Knoten.
+gyarados-f:Garados (W)
+gyarados-fDescription:Wütet ein Garados, wird es alles niederbrennen. Dies geschieht selbst während eines Sturms.
+hisuian-sneasel-f:His Sniebel (W)
+hisuian-sneasel-fDescription:Dieses durchtriebene und gewissenlose Pokémon beobachtet Nester, bis die Eltern ausgeflogen sind, und stiehlt dann deren Eier.
+hypno-f:Hypno (W)
+hypno-fDescription:Läuft man einem Hypno über den Weg, sollte man wegsehen, da es andere mit dem Pendel in seiner Hand hypnotisieren kann.
+kadabra-f:Kadabra (W)
+kadabra-fDescription:Kadabra verfügt über enorme psychokinetische Macht. Als Vorbereitung für seine Entwicklung speichert es im Stern auf der Stirn Psycho-Kräfte.
+oinkologne-f:Fragrunz (W)
+oinkologne-fDescription:It entrances female Pokémon with the sweet, alluring scent that wafts from all over its body.
+raichu-f:Raichu (W)
+raichu-fDescription:Wenn der in seinen Backentaschen gespeicherte Strom leer ist, stellt es seinen Schweif auf, um Elektrizität aus der Luft zu ziehen.
+rhyhorn-f:Rihorn (W)
+rhyhorn-fDescription:Es kann sich immer nur eine Sache merken. Sobald es losgestürmt ist, vergisst es augenblicklich den Auslöser dafür.
+seaking-f:Golking (W)
+seaking-fDescription:Es laicht in Löchern, die es mit seinem Horn in Felsen des Flussbettes gebohrt hat, damit seine Eier nicht vom Wasser fortgespült werden.
+venusaur-f:Bisaflor (W)
+venusaur-fDescription:Es verstreut Unmengen an Pollen mit der Kraft eines Vulkanausbruchs. Atmet man zu viele davon ein, kann man das Bewusstsein verlieren.
+vileplume-f:Giflor (W)
+vileplume-fDescription:Je größer die Blütenblätter, desto mehr giftige Pollen enthält die Blüte. Aber es ist auch umso erschöpfter, da sein Kopf so schwer wird.

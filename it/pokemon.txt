@@ -3221,4 +3221,38 @@ shiny-legendary-dragon-eggDescription:A Shiny Legendary Egg from the Easter Even
 dragapult-retro:Dragapult (Retro)
 dragapult-retroDescription:I Dreepy che vivono nelle sue corna attendono ansiosamente di essere sparati alla velocità del suono.
 togepi-pcg:PCG Togepi
-togepi-pcgDescription:Si dice che porti fortuna. La sua conchiglia è piena di pura felicità. (Arte di Strawberrykitten)  
+togepi-pcgDescription:Si dice che porti fortuna. La sua conchiglia è piena di pura felicità. (Arte di Strawberrykitten)
+alakazam-f:Alakazam
+alakazam-fDescription:Padroneggia potenti poteri psichici, con i quali si dice abbia creato i cucchiai che tiene in mano.
+butterfree-f:Butterfree
+butterfree-fDescription:Travolge il nemico con un tornado in grado di far volare via un camion di 10 tonnellate e lo finisce con le sue scaglie altamente tossiche.
+dodrio-f:Dodrio
+dodrio-fDescription:Un Doduo si evolve in Dodrio quando una delle due teste si divide. Lo si vede sfrecciare per le praterie a 60 km/h.
+doduo-f:Doduo
+doduo-fDescription:Le cortissime ali non gli permettono di volare. Può tuttavia correre velocissimo grazie alle zampe ben sviluppate.
+eevee-f:Eevee
+eevee-fDescription:È un Pokémon molto particolare. Dotato di un corredo genetico instabile, serba in sé le più varie possibilità evolutive.
+gloom-f:Gloom
+gloom-fDescription:Ciò che sembra bava è in realtà dolce nettare. È molto viscoso: si appiccica appena lo si sfiora.
+goldeen-f:Goldeen
+goldeen-fDescription:Le pinne dorsali e pettorali sono sviluppate come potenti muscoli. Può raggiungere la velocità di 5 nodi.
+gyarados-f:Gyarados
+gyarados-fDescription:Quando va su tutte le furie, incenerisce ogni cosa, anche nel mezzo di un violento temporale.
+hisuian-sneasel-f:His Sneasel
+hisuian-sneasel-fDescription:È furbo e feroce. Si intrufola nei nidi incustoditi per rubare le Uova mentre i genitori sono assenti.
+hypno-f:Hypno
+hypno-fDescription:Quando se ne incontra uno, è meglio distogliere lo sguardo, altrimenti si rischia di essere ipnotizzati dal suo pendolo.
+kadabra-f:Kadabra
+kadabra-fDescription:La potenza della sua psicocinesi è immensa. Immagazzina i suoi poteri psichici nella stella sulla fronte, preparandosi all’evoluzione.
+oinkologne-f:Oinkologne
+oinkologne-fDescription:It entrances female Pokémon with the sweet, alluring scent that wafts from all over its body.
+raichu-f:Raichu
+raichu-fDescription:Quando le sacche elettriche sono scariche, rizza la coda per raccogliere elettricità dall’atmosfera.
+rhyhorn-f:Rhyhorn
+rhyhorn-fDescription:Non è in grado di ricordare più di una cosa alla volta. Quando parte alla carica ne dimentica subito il motivo.
+seaking-f:Seaking
+seaking-fDescription:Perfora con il suo corno le rocce sul letto dei fiumi, costruendo tane che proteggono le Uova dalla corrente.
+venusaur-f:Venusaur
+venusaur-fDescription:Sparge enormi quantità di polline con la violenza di un vulcano in eruzione. Se inalato in grandi quantità, questo polline fa perdere i sensi.
+vileplume-f:Vileplume
+vileplume-fDescription:Più grandi sono i petali, maggiore è la quantità di polline tossico che contengono. La testa, però, diventa molto pesante e fa fatica a sostenerla.
