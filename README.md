@@ -5,9 +5,11 @@ See a mistake or something missing? You can fix it yourself in 2 minutes.
 ## How to Fix a Translation:
 1. Click on the file you want to fix (like `base-en` for English or other language files).
 2. Click the **pencil icon** at the top right (says "Edit this file").
-3. Make your changes.
-4. Scroll down and click **"Propose changes"**.
-5. Click **"Create pull request"**.
+3. Github might ask you to fork the repository, just press on it. 
+4. Make your changes.
+5. Press on the **"Commit changes"** button.
+6. Click **"Propose changes"**.
+7  Click **"Create pull request"**.
 Done.
 
 ## Important Rules:
