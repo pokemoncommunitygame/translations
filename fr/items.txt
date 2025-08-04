@@ -162,7 +162,7 @@ rocket_part:Roue dentée
 rocket_partDescription:Collecte des roues dentées pour construire une fusée en utilisant : !pokerocket 1/2/3 🚀 Niveau 1 : Nécessite 3 roues dentées 🚀 Niveau 2 : Nécessite 6 roues dentées 🚀 Niveau 3 : Nécessite 10 roues dentées
 sun_ball:Helio Ball
 sun_ballDescription:Une balle éclatante, la plus efficace lorsqu'elle est utilisée sur des Pokémon de type Feu et Plante.
-fantasy_ball:Balle Fantastique
+fantasy_ball:Fantaisie Ball
 fantasy_ballDescription:Une balle enchantée, la plus efficace lorsqu'elle est utilisée sur des créatures de type Fée et Dragon.
 geo_ball:Geo Ball
 geo_ballDescription:Une balle robuste, la plus efficace lorsqu'elle est utilisée sur des créatures de type Roche et Sol.

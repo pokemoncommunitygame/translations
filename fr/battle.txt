@@ -79,9 +79,9 @@ battleBurnDamage:a pris des dégats de brûlure
 searchTourneyBattle:Tournoi vs
 BattleXP:Tout le monde dans ton équipe a gagné {points} XP ! Tu as reçu ${dollar} !
 battleHealed:a récupéré ses PV.
-MOVE_FAILED:Ça a échoué...
+MOVE_FAILED:Mais cela échoue...
 CRITICAL_HIT:Un coup critique !
-ATTACK_MISSED:L'attaque de s. a échoué.
+ATTACK_MISSED:a raté son attaque.
 RAIN_END:Il a cessé de pleuvoir.
 RAIN_STARTED:Il commence à pleuvoir.
 HAIL_STARTED:Il commence à grêler.

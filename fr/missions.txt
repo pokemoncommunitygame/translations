@@ -1,19 +1,19 @@
 complete_weekly_missions:Accomplis les missions hebdomadaires
-catch:Capter des Pokémon
-catch_with_type:Capter des Pokémon de type <type>
-catch_generation_pokemon:Capter des Pokémon de la Génération <extra>
-catch_tier_pokemon:Capter des Pokémon de tiers <extra>
-catch_with_ball:Capter des Pokémon en utilisant une <ball>
-catch_with_iv:Capter des Pokémon avec un IV <compare> <value>
-catch_monotype:Capter des Pokémon monotype
-catch_with_weight:Capter des Pokémon pesant <compare> <value> kg
-catch_with_speed:Capter des Pokémon avec une Vitesse <compare> <value>
-catch_with_specialAttack:Capter des Pokémon avec une Attaque Spéciale <compare> <value>
-catch_with_specialDefense:Capter des Pokémon avec une Défense Spéciale <compare> <value>
-catch_with_attack:Capter des Pokémon avec une Attaque <compare> <value>
-catch_with_defense:Capter des Pokémon avec une Défense <compare> <value>
-catch_with_hp:Capter des Pokémon avec des PV <compare> <value>
-catch_with_stats:Capter des Pokémon avec un Total de Stat de Base <compare> <value>
+catch:Capturer des Pokémon
+catch_with_type:Capturer des Pokémon de type <type>
+catch_generation_pokemon:Capturer des Pokémon de la Génération <extra>
+catch_tier_pokemon:Capturer des Pokémon de tiers <extra>
+catch_with_ball:Capturer des Pokémon en utilisant une <ball>
+catch_with_iv:Capturer des Pokémon avec un IV <compare> <value>
+catch_monotype:Capturer des Pokémon monotype
+catch_with_weight:Capturer des Pokémon pesant <compare> <value> kg
+catch_with_speed:Capturer des Pokémon avec une Vitesse <compare> <value>
+catch_with_specialAttack:Capturer des Pokémon avec une Attaque Spéciale <compare> <value>
+catch_with_specialDefense:Capturer des Pokémon avec une Défense Spéciale <compare> <value>
+catch_with_attack:Capturer des Pokémon avec une Attaque <compare> <value>
+catch_with_defense:Capturer des Pokémon avec une Défense <compare> <value>
+catch_with_hp:Capturer des Pokémon avec des PV <compare> <value>
+catch_with_stats:Capturer des Pokémon avec un Total de Stat de Base <compare> <value>
 miss:Rater la capture
 miss_with_type:Rater un Pokémon de type <type>
 miss_with_ball:Rater la capture en utilisant une <ball>

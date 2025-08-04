@@ -3152,13 +3152,13 @@ gimmighoul:Mordudor
 gimmighoulDescription:It lives inside an old treasure chest. Sometimes it gets left in shop corners since no one realizes it’s actually a Pokémon.
 gholdengo:Gromago
 gholdengoDescription:It has a sturdy body made up of stacked coins. Gholdengo overwhelms its enemies by firing coin after coin at them in quick succession.
-wo-chien:Wo-Chien
+wo-chien:Chongjian
 wo-chienDescription:It drains the life-force from vegetation, causing nearby forests to instantly wither and fields to turn barren.
-chien-pao:Chien-Pao
+chien-pao:Baojian
 chien-paoDescription:The hatred of those who perished by the sword long ago has clad itself in snow and become a Pokémon.
-ting-lu:Ting-Lu
+ting-lu:Dinglu
 ting-luDescription:It slowly brings its exceedingly heavy head down upon the ground, splitting the earth open with huge fissures that run over 160 feet deep.
-chi-yu:Chi-Yu
+chi-yu:Yuyu
 chi-yuDescription:The envy accumulated within curved beads that sparked multiple conflicts has clad itself in fire and become a Pokémon.
 roaring-moon:Rugit-Lune
 roaring-moonDescription:According to an article in a dubious magazine, this Pokémon has some connection to a phenomenon that occurs in a certain region.
