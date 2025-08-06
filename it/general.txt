@@ -213,4 +213,11 @@ sparkling-dragon-eggSpecialDescription:Hai catturato {count} / 3 Pokémon con Pr
 battle-dragon-eggSpecialDescription:Hai vinto {count} / 5 battaglie classificate per schiudere questo Uovo. (Per schiudere questo Uovo, devi impostarlo come tuo compagno)
 baby-dragon-eggSpecialDescription:Hai catturato {count} / 3 Pokémon con un BST inferiore a 400 per schiudere questo Uovo. (Per schiudere questo Uovo, devi impostarlo come tuo compagno)
 starter-dragon-eggSpecialDescription:Hai scambiato {count} / 5 Pokémon di tipo Fuoco, Erba o Acqua per schiudere questo Uovo. (Per schiudere questo Uovo, devi impostarlo come tuo compagno)
-shiny-legendary-dragon-eggSpecialDescription:Hai vinto {count} / 5 battaglie nello stadio per schiudere questo Uovo. (Per schiudere questo Uovo, devi impostarlo come tuo compagno e averlo nella tua squadra di battaglia)
+shiny-legendary-dragon-eggSpecialDescription:Hai vinto {count} / 5 battaglie di stadio per schiudere questo Uovo. (Per schiudere questo Uovo, devi impostarlo come tuo compagno e averlo nella tua squadra di battaglia)
+rankedRewards:Ricompense Classificate
+mmrRewards:Ricompense MMR
+seasonRewards:Ricompense Stagionali
+mmr:MMR
+seasonWins:Vittorie Stagionali
+replays:Replay
+spectate:Spettatore

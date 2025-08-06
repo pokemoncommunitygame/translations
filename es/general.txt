@@ -213,4 +213,11 @@ sparkling-dragon-eggSpecialDescription:Has atrapado {count} / 3 Pokémon con Pre
 battle-dragon-eggSpecialDescription:Has ganado {count} / 5 combates clasificados para abrir este Huevo. (Para abrir este Huevo, necesitas ponerlo como tu compañero)
 baby-dragon-eggSpecialDescription:Has atrapado {count} / 3 Pokémon con un BST menor de 400 para abrir este Huevo. (Para abrir este Huevo, necesitas ponerlo como tu compañero)
 starter-dragon-eggSpecialDescription:Has intercambiado {count} / 5 Pokémon de tipo Fuego, Planta o Agua para abrir este Huevo. (Para abrir este Huevo, necesitas ponerlo como tu compañero)
-shiny-legendary-dragon-eggSpecialDescription:Has ganado {count} / 5 combates de estadio para abrir este Huevo. (Para abrir este Huevo, necesitas ponerlo como tu compañero y tenerlo en tu equipo de combate)
+shiny-legendary-dragon-eggSpecialDescription:Ganaste {count} / 5 batallas de estadio para incubar este Huevo. (Para incubar este Huevo, necesitas establecerlo como tu compañero y tenerlo en tu equipo de batalla)
+rankedRewards:Recompensas Clasificadas
+mmrRewards:Recompensas MMR
+seasonRewards:Recompensas de Temporada
+mmr:MMR
+seasonWins:Victorias de Temporada
+replays:Repeticiones
+spectate:Espectar

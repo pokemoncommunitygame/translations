@@ -213,4 +213,11 @@ sparkling-dragon-eggSpecialDescription:Tu as attrapé {count} / 3 Pokémon avec 
 battle-dragon-eggSpecialDescription:Tu as gagné {count} / 5 combats classés pour faire éclore cet Œuf. (Pour faire éclore cet Œuf, tu dois le définir comme ton copain)
 baby-dragon-eggSpecialDescription:Tu as attrapé {count} / 3 Pokémon avec un BST inférieur à 400 pour faire éclore cet Œuf. (Pour faire éclore cet Œuf, tu dois le définir comme ton copain)
 starter-dragon-eggSpecialDescription:Tu as échangé {count} / 5 Pokémon de type Feu, Plante ou Eau pour faire éclore cet Œuf. (Pour faire éclore cet Œuf, tu dois le définir comme ton copain)
-shiny-legendary-dragon-eggSpecialDescription:Tu as gagné {count} / 5 combats de stade pour faire éclore cet Œuf. (Pour faire éclore cet Œuf, tu dois le définir comme ton copain et l'avoir dans ton équipe de combat)
+shiny-legendary-dragon-eggSpecialDescription:Vous avez gagné {count} / 5 batailles de stade pour faire éclore cet Œuf. (Pour faire éclore cet Œuf, vous devez le définir comme votre compagnon et l'avoir dans votre équipe de bataille)
+rankedRewards:Récompenses Classées
+mmrRewards:Récompenses MMR
+seasonRewards:Récompenses de Saison
+mmr:MMR
+seasonWins:Victoires de Saison
+replays:Replays
+spectate:Regarder

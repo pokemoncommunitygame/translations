@@ -214,3 +214,10 @@ battle-dragon-eggSpecialDescription:You won {count} / 5 ranked battles to hatch 
 baby-dragon-eggSpecialDescription:You caught {count} / 3 Pokémon with a BST under 400 to hatch this Egg. (To hatch this Egg, you need to set it as your buddy)
 starter-dragon-eggSpecialDescription:You traded {count} / 5 Fire-, Grass-, or Water-type Pokémon to hatch this Egg. (To hatch this Egg, you need to set it as your buddy)
 shiny-legendary-dragon-eggSpecialDescription:You won {count} / 5 stadium battles to hatch this Egg. (To hatch this Egg, you need to set it as your buddy and have it in your battle team)
+rankedRewards:Ranked Rewards
+mmrRewards:MMR Rewards
+seasonRewards:Season Rewards
+mmr:MMR
+seasonWins:Season Wins
+replays:Replays
+spectate:Spectate
