@@ -215,9 +215,9 @@ baby-dragon-eggSpecialDescription:Você capturou {count} / 3 Pokémon com um BST
 starter-dragon-eggSpecialDescription:Você trocou {count} / 5 Pokémon do tipo Fogo, Grama ou Água para chocar este Ovo. (Para chocar este Ovo, você precisa defini-lo como seu companheiro)
 shiny-legendary-dragon-eggSpecialDescription:Você venceu {count} / 5 batalhas de estádio para chocar este Ovo. (Para chocar este Ovo, você precisa defini-lo como seu companheiro e tê-lo em sua equipe de batalha)
 rankedRewards:Recompensas Ranqueadas
-mmrRewards:Recompensas MMR
-seasonRewards:Recompensas da Temporada
 mmr:MMR
 seasonWins:Vitórias da Temporada
 replays:Replays
 spectate:Assistir
+rankRewards:Recompensas de Classificação
+winRewards:Recompensas de Vitória

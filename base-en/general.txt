@@ -283,8 +283,8 @@ shiny-legendary-dragon-eggSpecialDescription:You won {count} / 5 stadium battles
 replays:Replays
 spectate:Spectate
 rankedRewards:Ranked Rewards
-mmrRewards:MMR Rewards
-seasonRewards:Season Rewards
+rankRewards:Rank Rewards
+winRewards:Win Rewards
 mmr:MMR
 seasonWins:Season Wins
 close:Close

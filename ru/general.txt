@@ -215,9 +215,9 @@ baby-dragon-eggSpecialDescription:Вы поймали {count} / 3 Покемон
 starter-dragon-eggSpecialDescription:Вы обменяли {count} / 5 Покемонов типа Огонь, Трава или Вода, чтобы вылупилось это Яйцо. (Чтобы вылупилось это Яйцо, нужно установить его как вашего напарника)
 shiny-legendary-dragon-eggSpecialDescription:Вы выиграли {count} / 5 стадионных битв, чтобы вылупить это Яйцо. (Чтобы вылупить это Яйцо, вам нужно установить его как вашего напарника и иметь его в вашей боевой команде)
 rankedRewards:Ранг Награды
-mmrRewards:MMR Награды
-seasonRewards:Сезонные Награды
 mmr:MMR
 seasonWins:Победы в Сезоне
 replays:Повторы
 spectate:Наблюдать
+rankRewards:Награды за ранг
+winRewards:Награды за победу

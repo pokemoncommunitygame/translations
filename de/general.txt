@@ -215,9 +215,9 @@ baby-dragon-eggSpecialDescription:Du hast {count} / 3 Pokémon mit einem BST unt
 starter-dragon-eggSpecialDescription:Du hast {count} / 5 Feuer-, Pflanzen- oder Wasser-Pokémon getauscht, um dieses Ei auszubrüten. (Um dieses Ei auszubrüten, musst du es als deinen Kumpel festlegen)
 shiny-legendary-dragon-eggSpecialDescription:Du hast {count} / 5 Stadion-Kämpfe gewonnen, um dieses Ei zu schlüpfen. (Um dieses Ei zu schlüpfen, musst du es als deinen Buddy setzen und es in deinem Kampfteam haben)
 rankedRewards:Ranglisten-Belohnungen
-mmrRewards:MMR-Belohnungen
-seasonRewards:Saison-Belohnungen
 mmr:MMR
 seasonWins:Saison-Siege
 replays:Wiederholungen
 spectate:Zuschauen
+rankRewards:Rangbelohnungen
+winRewards:Siegesbelohnungen
