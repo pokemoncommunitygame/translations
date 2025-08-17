@@ -221,3 +221,58 @@ replays:Replays
 spectate:Assistir
 rankRewards:Recompensas de Classificação
 winRewards:Recompensas de Vitória
+botBattles:Batalhas contra IA
+playerBattles:Batalhas contra jogadores
+utilities:Ferramentas
+challenges:Desafios
+addPokemonInstruction:Por favor, adicione um Pokémon à sua equipe primeiro.
+teamExchangeWarning:Aviso: Isso trocará toda a sua equipe!
+enterSpectateKey:Insira o ID da batalha para assistir:
+id:ID
+waitForPlayer:Aguardando jogador...
+mode:Modo
+reconnecting:Reconectando...
+noReplayCodes:Sem códigos de replay disponíveis
+code:Código
+wantToBattleRanked:Você quer começar uma batalha ranqueada?
+wantToBattlePrivate:Você quer começar uma batalha privada?
+password:Senha
+searchBattleNotEnoguh:Você precisa de pelo menos 6 Pokémon na sua equipe para batalhas ranqueadas
+joinChallenge:Participar do Desafio
+youAreNotMeetingTheRequirements:Você não está atendendo aos requisitos
+stadium:Estádio
+battleInPVEBatles:Batalhar em batalhas PvE
+start:Iniciar
+selectTeam:Selecionar Equipe
+teamBuildChallenge:Desafio de Construção de Equipe
+tourney:Torneio
+opponent:Oponente
+roundReadySince:Rodada Pronta Desde
+rules:Regras
+duplicatesAllowed:Duplicatas Permitidas
+minBST:BST Mín
+maxBST:BST Máx
+searchTourneyBattle:Procurar Batalha de Torneio
+searchTourneyBattleNotReady:Aguardando oponente...
+ranked:Ranqueado
+private:Privado
+nextRewards:Próximas Recompensas
+allRewardsEarned:Todas as recompensas obtidas!
+seasonEnded:A temporada terminou
+seasonEndsIn:A temporada termina em:
+days:d
+hours:h
+minutes:m
+seconds:s
+wins:Vitórias
+losses:Derrotas
+season:Temporada
+leaderboard:Classificação
+battlePrivatelyAgainstPlayers:Batalhe privadamente contra outros jogadores
+battleAgainstAIOpponents:Batalhe contra oponentes de IA
+watchBattlesLiveOrReplays:Assista batalhas ao vivo ou reprises
+spectateChannel:Canal de Espectador
+rankedButton:🏆 Ranqueado
+privateButton:⚔️ Privado
+botButton:🤖 Bot
+spectateButton:👁️ Espectar

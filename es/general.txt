@@ -221,3 +221,58 @@ replays:Repeticiones
 spectate:Espectar
 rankRewards:Recompensas de Rango
 winRewards:Recompensas por Victoria
+botBattles:Batallas contra IA
+playerBattles:Batallas contra jugadores
+utilities:Herramientas
+challenges:Desafíos
+addPokemonInstruction:Por favor, añade un Pokémon a tu equipo primero.
+teamExchangeWarning:Advertencia: ¡Esto intercambiará todo tu equipo!
+enterSpectateKey:Ingresa el ID de batalla para espectar:
+id:ID
+waitForPlayer:Esperando al jugador...
+mode:Modo
+reconnecting:Reconectando...
+noReplayCodes:No hay códigos de repetición disponibles
+code:Código
+wantToBattleRanked:¿Quieres comenzar una batalla clasificada?
+wantToBattlePrivate:¿Quieres comenzar una batalla privada?
+password:Contraseña
+searchBattleNotEnoguh:Necesitas al menos 6 Pokémon en tu equipo para batallas clasificadas
+joinChallenge:Unirse al Desafío
+youAreNotMeetingTheRequirements:No cumples con los requisitos
+stadium:Estadio
+battleInPVEBatles:Batalla en combates PvE
+start:Comenzar
+selectTeam:Seleccionar Equipo
+teamBuildChallenge:Desafío de Construcción de Equipo
+tourney:Torneo
+opponent:Oponente
+roundReadySince:Ronda lista desde
+rules:Reglas
+duplicatesAllowed:Duplicados permitidos
+minBST:BST mín
+maxBST:BST máx
+searchTourneyBattle:Buscar batalla de torneo
+searchTourneyBattleNotReady:Esperando al oponente...
+ranked:Clasificado
+private:Privado
+nextRewards:Próximas recompensas
+allRewardsEarned:¡Todas las recompensas obtenidas!
+seasonEnded:La temporada ha terminado
+seasonEndsIn:La temporada termina en:
+days:d
+hours:h
+minutes:m
+seconds:s
+wins:Victorias
+losses:Derrotas
+season:Temporada
+leaderboard:Tabla de Clasificación
+battlePrivatelyAgainstPlayers:Batalla privada contra otros jugadores
+battleAgainstAIOpponents:Batalla contra oponentes de IA
+watchBattlesLiveOrReplays:Ver batallas en vivo o repeticiones
+spectateChannel:Canal de Espectadores
+rankedButton:🏆 Clasificatoria
+privateButton:⚔️ Privada
+botButton:🤖 Bot
+spectateButton:👁️ Espectar

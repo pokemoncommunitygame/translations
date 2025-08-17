@@ -221,3 +221,58 @@ replays:Wiederholungen
 spectate:Zuschauen
 rankRewards:Rangbelohnungen
 winRewards:Siegesbelohnungen
+botBattles:Bot-Kämpfe
+playerBattles:Spieler-Kämpfe
+utilities:Werkzeuge
+challenges:Herausforderungen
+addPokemonInstruction:Füge bitte zuerst ein Pokémon zu deinem Team hinzu.
+teamExchangeWarning:Warnung: Dies wird dein gesamtes Team austauschen!
+enterSpectateKey:Gib die Kampf-ID ein, um zuzuschauen:
+id:ID
+waitForPlayer:Warte auf Spieler...
+mode:Modus
+reconnecting:Wiederverbinden...
+noReplayCodes:Keine Wiederholungscodes verfügbar
+code:Code
+wantToBattleRanked:Möchtest du einen Ranglisten-Kampf starten?
+wantToBattlePrivate:Möchtest du einen privaten Kampf starten?
+password:Passwort
+searchBattleNotEnoguh:Du benötigst mindestens 6 Pokémon in deinem Team für Ranglisten-Kämpfe
+joinChallenge:Herausforderung beitreten
+youAreNotMeetingTheRequirements:Du erfüllst die Anforderungen nicht
+stadium:Stadion
+battleInPVEBatles:Kämpfe in PvE-Kämpfen
+start:Start
+selectTeam:Team auswählen
+teamBuildChallenge:Team-Build-Challenge
+tourney:Turnier
+opponent:Gegner
+roundReadySince:Runde bereit seit
+rules:Regeln
+duplicatesAllowed:Doppelungen erlaubt
+minBST:Min BST
+maxBST:Max BST
+searchTourneyBattle:Turnierkampf suchen
+searchTourneyBattleNotReady:Warten auf Gegner...
+ranked:Rangliste
+private:Privat
+nextRewards:Nächste Belohnungen
+allRewardsEarned:Alle Belohnungen verdient!
+seasonEnded:Saison ist beendet
+seasonEndsIn:Saison endet in:
+days:T
+hours:Std
+minutes:Min
+seconds:Sek
+wins:Siege
+losses:Niederlagen
+season:Saison
+leaderboard:Bestenliste
+battlePrivatelyAgainstPlayers:Kämpfe privat gegen andere Spieler
+battleAgainstAIOpponents:Kämpfe gegen KI-Gegner
+watchBattlesLiveOrReplays:Schau dir Kämpfe live oder als Wiederholung an
+spectateChannel:Zuschau-Kanal
+rankedButton:🏆 Rangliste
+privateButton:⚔️ Privat
+botButton:🤖 Bot
+spectateButton:👁️ Zuschauen

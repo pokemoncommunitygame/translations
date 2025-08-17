@@ -285,6 +285,68 @@ spectate:Spectate
 rankedRewards:Ranked Rewards
 rankRewards:Rank Rewards
 winRewards:Win Rewards
+botBattles:Bot Battles
+playerBattles:Player Battles
+utilities:Utilities
+challenges:Challenges
 mmr:MMR
 seasonWins:Season Wins
 close:Close
+
+// Battle panel specific translations
+addPokemonInstruction:Please add a Pokémon to your team first.
+teamExchangeWarning:Warning: This will exchange your entire team!
+enterSpectateKey:Enter battle ID to spectate:
+id:ID
+live:Live
+waitForPlayer:Waiting for player...
+mode:Mode
+reconnecting:Reconnecting...
+noReplayCodes:No replay codes available
+battleCategory:Battle
+won:Won
+code:Code
+wantToBattleRanked:Do you want to start a ranked battle?
+wantToBattlePrivate:Do you want to start a private battle?
+password:Password
+searchBattleNotEnoguh:You need at least 6 Pokémon in your team for ranked battles
+joinChallenge:Join Challenge
+youAreNotMeetingTheRequirements:You are not meeting the requirements
+stadium:Stadium
+battleInPVEBatles:Battle in PvE battles
+start:Start
+selectTeam:Select Team
+empty:Empty
+teamBuildChallenge:Team Build Challenge
+tourney:Tournament
+opponent:Opponent
+roundReadySince:Round Ready Since
+rules:Rules
+duplicatesAllowed:Duplicates Allowed
+minBST:Min BST
+maxBST:Max BST
+searchTourneyBattle:Search Tournament Battle
+searchTourneyBattleNotReady:Waiting for opponent...
+ranked:Ranked
+private:Private
+nextRewards:Next Rewards
+allRewardsEarned:All rewards earned!
+seasonEnded:Season has ended
+seasonEndsIn:Season ends in:
+days:d
+hours:h
+minutes:m
+seconds:s
+wins:Wins
+total:Total
+losses:Losses
+season:Season
+leaderboard:Leaderboard
+battlePrivatelyAgainstPlayers:Battle privately against other players
+battleAgainstAIOpponents:Battle against AI opponents
+watchBattlesLiveOrReplays:Watch battles live or replays
+spectateChannel:Spectate Channel
+rankedButton:🏆 Ranked
+privateButton:⚔️ Private
+botButton:🤖 Bot
+spectateButton:👁️ Spectate
