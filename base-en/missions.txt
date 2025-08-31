@@ -65,6 +65,8 @@ win_challenge:Win challenge battle
 play_ranked_battle:Play ranked battle
 win_ranked_battle:Win ranked battle
 
+mission__win_ranked_or_challenge__battle:[EVENT] Win ranked or challenge battles
+
 # Other
 claim_pokedaily:Claim your Pokédaily
 

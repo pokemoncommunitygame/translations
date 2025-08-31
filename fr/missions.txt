@@ -66,3 +66,4 @@ pcg_event_catch_week4:Attrape des Pokémon d'événement – Semaine 4
 mission__battle:Combat en utilisant des Pokémon de type <type>
 mission__wondertrade:Échange miracle des Pokémon
 mission__battle_deal_damage:Inflige des dégâts lors de combats.
+mission__win_ranked_or_challenge__battle:[ÉVÉNEMENT] Remporte des combats classés ou de défi

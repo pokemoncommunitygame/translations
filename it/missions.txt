@@ -66,3 +66,4 @@ pcg_event_catch_week4:Evento di cattura Pokémon – Settimana 4
 mission__battle:Lotta usando un Pokémon di tipo <type>
 mission__wondertrade:Scambia un Pokémon in Scambio Prodigioso
 mission__battle_deal_damage:Infliggi <value> danni in battaglia.
+mission__win_ranked_or_challenge__battle:Vinci una battaglia classificata o di sfida.
