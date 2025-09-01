@@ -48,21 +48,17 @@ win_challenge:Gewinne Herausforderungs-Kampf
 play_ranked_battle:Spiele Ranglistenkampf
 win_ranked_battle:Gewinne Ranglistenkampf
 claim_pokedaily:Fordere deinen Pokédaily an
-pcg_event_catch_week1:Fange Event-Pokémon – Woche 1
-pcg_event_catch_week2:Fange Event-Pokémon – Woche 2
-pcg_event_catch_week3:Fange Event-Pokémon – Woche 3
-throw_snowball:Schneeball werfen
-team_of_the_week_6:Team der Woche – Woche 6
-team_of_the_week_7:Team der Woche – Woche 7
-wondertrade_chain:Wundertausch Pokémon (Kette)
-pcg_event_catch_gen_9:Fange Pokémon der 9. Generation (Event)
-wondertrade_event_water:Tausche Wasser-Typ Pokémon durch Wundertausch (Event)
-wondertrade_event_fire:Tausche Feuer-Typ Pokémon durch Wundertausch (Event)
-wondertrade_event_grass:Tausche Pflanzen-Typ Pokémon durch Wundertausch (Event)
+pcg_event_catch_week1:[Event] Fange Event-Pokémon – Woche 1
+pcg_event_catch_week2:[Event] Fange Event-Pokémon – Woche 2
+pcg_event_catch_week3:[Event] Fange Event-Pokémon – Woche 3
+throw_snowball:[Event] Wirf einen Schneeball
+wondertrade_event_water:[Event] Wundertausch Wasser-Pokémon
+wondertrade_event_fire:[Event] Wundertausch Feuer-Pokémon
+wondertrade_event_grass:[Event] Wundertausch Pflanzen-Pokémon
 above:über
 below:unter
 exactly:genau
-pcg_event_catch_week4:Fange Event-Pokémon – Woche 4
+pcg_event_catch_week4:[Event] Fange Event-Pokémon – Woche 4
 mission__battle:Kämpfe mit einem <type>-Typ-Pokémon
 mission__wondertrade:Tausche Pokémon in der Wundertausch
 mission__battle_deal_damage:Füge in Kämpfen Schaden zu.

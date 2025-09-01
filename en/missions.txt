@@ -48,21 +48,17 @@ win_challenge:Win challenge battle
 play_ranked_battle:Play ranked battle
 win_ranked_battle:Win ranked battle
 claim_pokedaily:Claim your Pokédaily
-pcg_event_catch_week1:Catch event Pokémon – Week 1
-pcg_event_catch_week2:Catch event Pokémon – Week 2
-pcg_event_catch_week3:Catch event Pokémon – Week 3
-throw_snowball:Throw snowball
-team_of_the_week_6:Team of the Week – Week 6
-team_of_the_week_7:Team of the Week – Week 7
-wondertrade_chain:Wonder Trade Pokémon (Chain)
-pcg_event_catch_gen_9:Catch Generation 9 Pokémon (Event)
-wondertrade_event_water:Wonder Trade Water-type Pokémon (Event)
-wondertrade_event_fire:Wonder Trade Fire-type Pokémon (Event)
-wondertrade_event_grass:Wonder Trade Grass-type Pokémon (Event)
+pcg_event_catch_week1:[Event] Catch event Pokémon – Week 1
+pcg_event_catch_week2:[Event] Catch event Pokémon – Week 2
+pcg_event_catch_week3:[Event] Catch event Pokémon – Week 3
+throw_snowball:[Event] Throw a snowball
+wondertrade_event_water:[Event] Wonder Trade Water-type Pokémon
+wondertrade_event_fire:[Event] Wonder Trade Fire-type Pokémon
+wondertrade_event_grass:[Event] Wonder Trade Grass-type Pokémon
 above:above
 below:below
 exactly:exactly
-pcg_event_catch_week4:Catch event Pokémon – Week 4
+pcg_event_catch_week4:[Event] Catch event Pokémon – Week 4
 mission__battle:Battle using <type>-type Pokémon
 mission__wondertrade:Wondertrade Pokémon
 mission__battle_deal_damage:Deal damage in battles.

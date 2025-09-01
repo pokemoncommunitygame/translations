@@ -48,21 +48,17 @@ win_challenge:Gana la batalla de desafío
 play_ranked_battle:Juega batalla clasificada
 win_ranked_battle:Gana la batalla clasificada
 claim_pokedaily:Reclama tu Pokédaily
-pcg_event_catch_week1:Captura evento Pokémon – Semana 1
-pcg_event_catch_week2:Captura evento Pokémon – Semana 2
-pcg_event_catch_week3:Captura evento Pokémon – Semana 3
-throw_snowball:Lanza bola de nieve
-team_of_the_week_6:Equipo de la Semana – Semana 6
-team_of_the_week_7:Equipo de la Semana – Semana 7
-wondertrade_chain:Intercambio Maravilloso de Pokémon (Cadena)
-pcg_event_catch_gen_9:Atrapa Pokémon de la Generación 9 (Evento)
-wondertrade_event_water:Intercambio prodigioso de Pokémon tipo Agua (Evento)
-wondertrade_event_fire:Intercambio prodigioso de Pokémon tipo Fuego (Evento)
-wondertrade_event_grass:Intercambio prodigioso de Pokémon tipo Planta (Evento)
+pcg_event_catch_week1:[Evento] Captura Pokémon del evento – Semana 1
+pcg_event_catch_week2:[Evento] Captura Pokémon del evento – Semana 2
+pcg_event_catch_week3:[Evento] Captura Pokémon del evento – Semana 3
+throw_snowball:[Evento] Lanza una bola de nieve
+wondertrade_event_water:[Evento] Intercambio prodigioso de Pokémon de tipo Agua
+wondertrade_event_fire:[Evento] Intercambio prodigioso de Pokémon de tipo Fuego
+wondertrade_event_grass:[Evento] Intercambio prodigioso de Pokémon de tipo Planta
 above:arriba
 below:abajo
 exactly:exactamente
-pcg_event_catch_week4:Captura evento Pokémon – Semana 4
+pcg_event_catch_week4:[Evento] Captura Pokémon del evento – Semana 4
 mission__battle:Combate usando Pokémon de tipo <type>
 mission__wondertrade:Intercambia Pokémon maravilla
 mission__battle_deal_damage:Inflige daño en combates.

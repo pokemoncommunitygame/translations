@@ -48,21 +48,17 @@ win_challenge:Vencer batalha de desafio
 play_ranked_battle:Participar de batalha ranqueada
 win_ranked_battle:Vencer batalha ranqueada
 claim_pokedaily:Reivindique seu Pokédaily
-pcg_event_catch_week1:Catch event Pokémon – Semana 1
-pcg_event_catch_week2:Catch event Pokémon – Semana 2
-pcg_event_catch_week3:Catch event Pokémon – Semana 3
-throw_snowball:Arremessar bola de neve
-team_of_the_week_6:Time da Semana – Semana 6
-team_of_the_week_7:Time da Semana – Semana 7
-wondertrade_chain:Wonder Trade Pokémon (Cadeia)
-pcg_event_catch_gen_9:Capturar Pokémon da Geração 9 (Evento)
-wondertrade_event_water:Troca Mágica de Pokémon do tipo Água (Evento)
-wondertrade_event_fire:Troca Mágica de Pokémon do tipo Fogo (Evento)
-wondertrade_event_grass:Troca Mágica de Pokémon do tipo Grama (Evento)
+pcg_event_catch_week1:[Evento] Capture evento Pokémon – Semana 1
+pcg_event_catch_week2:[Evento] Capture evento Pokémon – Semana 2
+pcg_event_catch_week3:[Evento] Capture evento Pokémon – Semana 3
+throw_snowball:[Evento] Jogue uma bola de neve
+wondertrade_event_water:[Evento] Troca Surpresa Pokémon do tipo Água
+wondertrade_event_fire:[Evento] Troca Surpresa Pokémon do tipo Fogo
+wondertrade_event_grass:[Evento] Troca Surpresa Pokémon do tipo Grama
 above:acima
 below:abaixo
 exactly:exatamente
-pcg_event_catch_week4:Catch event Pokémon – Semana 4
+pcg_event_catch_week4:[Evento] Capture evento Pokémon – Semana 4
 mission__battle:Batalhar usando Pokémon do tipo <type>
 mission__wondertrade:Troque Pokémon no Wondertrade
 mission__battle_deal_damage:Causar dano em batalhas.

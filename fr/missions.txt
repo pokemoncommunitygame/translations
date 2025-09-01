@@ -48,21 +48,17 @@ win_challenge:Gagne des combats défi
 play_ranked_battle:Participe à des combats classés
 win_ranked_battle:Gagne des combats classés
 claim_pokedaily:Récupère ton Pokédaily
-pcg_event_catch_week1:Attrape des Pokémon d'événement – Semaine 1
-pcg_event_catch_week2:Attrape des Pokémon d'événement – Semaine 2
-pcg_event_catch_week3:Attrape des Pokémon d'événement – Semaine 3
-throw_snowball:Lance une boule de neige
-team_of_the_week_6:Vainc l'équipe de la Semaine – Semaine 6
-team_of_the_week_7:Vainc l'équipe de la Semaine – Semaine 7
-wondertrade_chain:Échange Miracle des Pokémon (Chaîne)
-pcg_event_catch_gen_9:Attrape des Pokémon de la génération 9 (Événement)
-wondertrade_event_water:Échange Miracle des Pokémon de type Eau (Événement)
-wondertrade_event_fire:Échange Miracle des Pokémon de type Feu (Événement)
-wondertrade_event_grass:Échange Miracle des Pokémon de type Plante (Événement)
+pcg_event_catch_week1:[Événement] Attrapez des Pokémon de l'événement – Semaine 1
+pcg_event_catch_week2:[Événement] Attrapez des Pokémon de l'événement – Semaine 2
+pcg_event_catch_week3:[Événement] Attrapez des Pokémon de l'événement – Semaine 3
+throw_snowball:[Événement] Lance une boule de neige
+wondertrade_event_water:[Événement] Échange Miracle de Pokémon de type Eau
+wondertrade_event_fire:[Événement] Échange Miracle de Pokémon de type Feu
+wondertrade_event_grass:[Événement] Échange Miracle de Pokémon de type Plante
 above:supérieur à
 below:inférieur à 
 exactly:exactement
-pcg_event_catch_week4:Attrape des Pokémon d'événement – Semaine 4
+pcg_event_catch_week4:[Événement] Attrapez des Pokémon de l'événement – Semaine 4
 mission__battle:Combat en utilisant des Pokémon de type <type>
 mission__wondertrade:Échange miracle des Pokémon
 mission__battle_deal_damage:Inflige des dégâts lors de combats.

@@ -48,21 +48,17 @@ win_challenge:Победить в испытательной битве
 play_ranked_battle:Участвовать в рейтинговой битве
 win_ranked_battle:Победить в рейтинговой битве
 claim_pokedaily:Получите ваш Покежедневный
-pcg_event_catch_week1:Ловите эвент Покемонов – Неделя 1
-pcg_event_catch_week2:Ловите эвент Покемонов – Неделя 2
-pcg_event_catch_week3:Ловите эвент Покемонов – Неделя 3
-throw_snowball:Бросить снежок
-team_of_the_week_6:Команда недели – Неделя 6
-team_of_the_week_7:Команда недели – Неделя 7
-wondertrade_chain:Чудо-обмен Покемонами (Цепочка)
-pcg_event_catch_gen_9:Поймать покемона поколения 9 (Событие)
-wondertrade_event_water:Обменять покемона водного типа через Чудо-обмен (Событие)
-wondertrade_event_fire:Обменять покемона огненного типа через Чудо-обмен (Событие)
-wondertrade_event_grass:Обменять покемона травяного типа через Чудо-обмен (Событие)
+pcg_event_catch_week1:[Событие] Ловля покемонов – Неделя 1
+pcg_event_catch_week2:[Событие] Ловля покемонов – Неделя 2
+pcg_event_catch_week3:[Событие] Ловля покемонов – Неделя 3
+throw_snowball:[Событие] Бросить снежок
+wondertrade_event_water:[Событие] Чудо-обмен водных покемонов
+wondertrade_event_fire:[Событие] Чудо-обмен огненных покемонов
+wondertrade_event_grass:[Событие] Чудо-обмен травяных покемонов
 above:выше
 below:ниже
 exactly:точно
-pcg_event_catch_week4:Ловите эвент Покемонов – Неделя 4
+pcg_event_catch_week4:[Событие] Ловля покемонов – Неделя 4
 mission__battle:Сразитесь, используя покемона типа <type>
 mission__wondertrade:Обменяться покемоном через Чудообмен
 mission__battle_deal_damage:Наносите урон в битвах.

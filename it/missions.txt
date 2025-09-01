@@ -52,10 +52,6 @@ pcg_event_catch_week1:Cattura Pokémon – Evento Settimana 1
 pcg_event_catch_week2:Cattura Pokémon – Evento Settimana 2
 pcg_event_catch_week3:Cattura Pokémon – Evento Settimana 3
 throw_snowball:Lancia una palla di neve
-team_of_the_week_6:Squadra della Settimana – Settimana 6
-team_of_the_week_7:Squadra della Settimana – Settimana 7
-wondertrade_chain:Scambio prodigioso Pokémon (Catena)
-pcg_event_catch_gen_9:Cattura un Pokémon di Generazione 9 (Evento)
 wondertrade_event_water:Scambia meraviglia un Pokémon di tipo Acqua (Evento)
 wondertrade_event_fire:Scambia meraviglia un Pokémon di tipo Fuoco (Evento)
 wondertrade_event_grass:Scambia meraviglia un Pokémon di tipo Erba (Evento)
