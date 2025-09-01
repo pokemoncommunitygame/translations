@@ -3222,6 +3222,8 @@ dragapult-retro:Dragapult (Retro)
 dragapult-retroDescription:Apparently the Dreepy inside Dragapult’s horns eagerly look forward to being launched out at Mach speeds.
 togepi-pcg:PCG Togepi
 togepi-pcgDescription:It is considered to be a symbol of good luck. Its shell is said to be filled with happiness. (Art by Strawberrykitten)
+steelix-retro:Steelix (Retro)
+steelix-retroDescription:It is thought its body transformed as a result of iron accumulating internally from swallowing soil.
 
 alakazam-f:Alakazam (F)
 alakazam-fDescription:Alakazam wields potent psychic powers. It’s said that this Pokémon used these powers to create the spoons it holds.

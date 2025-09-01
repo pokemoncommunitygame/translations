@@ -3256,3 +3256,5 @@ venusaur-f:Bisaflor (W)
 venusaur-fDescription:Es verstreut Unmengen an Pollen mit der Kraft eines Vulkanausbruchs. Atmet man zu viele davon ein, kann man das Bewusstsein verlieren.
 vileplume-f:Giflor (W)
 vileplume-fDescription:Je größer die Blütenblätter, desto mehr giftige Pollen enthält die Blüte. Aber es ist auch umso erschöpfter, da sein Kopf so schwer wird.
+steelix-retro:Steelix (Retro)
+steelix-retroDescription:Man nimmt an, dass sich sein Körper durch die Ansammlung von Eisen, das beim Verschlucken von Erde aufgenommen wurde, verwandelt hat.

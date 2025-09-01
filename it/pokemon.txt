@@ -3256,3 +3256,5 @@ venusaur-f:Venusaur
 venusaur-fDescription:Sparge enormi quantità di polline con la violenza di un vulcano in eruzione. Se inalato in grandi quantità, questo polline fa perdere i sensi.
 vileplume-f:Vileplume
 vileplume-fDescription:Più grandi sono i petali, maggiore è la quantità di polline tossico che contengono. La testa, però, diventa molto pesante e fa fatica a sostenerla.
+steelix-retro:Steelix (Retro)
+steelix-retroDescription:Si pensa che il suo corpo si sia trasformato a causa dell'accumulo di ferro internamente per aver inghiottito terra.

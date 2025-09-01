@@ -3256,3 +3256,5 @@ venusaur-f:Venusaur (F)
 venusaur-fDescription:La flor que tiene en el lomo libera un delicado aroma, que tiene un efecto relajante en combate.
 vileplume-f:Vileplume (F)
 vileplume-fDescription:Cuanto mayores son sus pétalos, más tóxico es su polen. Le pesa la cabeza y le cuesta mantenerla erguida.
+steelix-retro:Steelix (Retro)
+steelix-retroDescription:Se cree que su cuerpo se transformó como resultado de la acumulación de hierro internamente al tragar tierra.

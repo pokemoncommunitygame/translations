@@ -3256,3 +3256,5 @@ venusaur-f:Florizarre (F)
 venusaur-fDescription:Une douce senteur émane de sa plante. Cette fragrance calme tous ceux qui sont engagés dans un combat.
 vileplume-f:Rafflesia (F)
 vileplume-fDescription:Plus ses pétales sont grands, plus il produit de pollen toxique. Toutefois, le poids de sa tête le fatigue.
+steelix-retro:Steelix (Rétro)
+steelix-retroDescription:On pense que son corps s'est transformé à cause de l'accumulation de fer interne due à l'ingestion de terre.

@@ -3256,3 +3256,5 @@ venusaur-f:Venusaur (F)
 venusaur-fDescription:Huge amounts of pollen burst from it with the force of a volcanic eruption. Breathing in too much of the pollen can cause fainting.
 vileplume-f:Vileplume (F)
 vileplume-fDescription:The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.
+steelix-retro:Steelix (Retro)
+steelix-retroDescription:It is thought its body transformed as a result of iron accumulating internally from swallowing soil.
