@@ -145,21 +145,21 @@ PokemonAlreadyInTeam:Dieses Pokémon ist bereits in deinem Team
 PokemonNotOwnedAnymore:Du besitzt dieses Pokémon nicht mehr
 PokemonNicknameTooLong:Der Spitzname ist zu lang
 PokemonTeamNameTooLong:Der Teamname ist zu lang
-spawnable:Spawnbare
+spawnable:Spawnbar
 starters:Starter
 legendaries:Legendär
 showMissing:Fehlend
-obtained:Erhalten
-claimCharm:Schillerpin beanspruchen
+obtained:Registriert
+claimCharm:Erhalte Schillerpin
 shinyCharm:Schillernde Chance
 resetDex:Dex zurücksetzen
 congratulations:Glückwunsch
 thisActionWillResetDexWarning:Diese Aktion setzt deinen fangbaren Dex-Fortschritt zurück und kann nicht rückgängig gemacht werden!
 congratsOnSpawnableDex:Glückwunsch zum Abschluss des fangbaren Dex!
-youCanClaimCharmNow:Du kannst jetzt deinen Schillerpin beanspruchen!
+youCanClaimCharmNow:Du kannst jetzt deinen Schillerpin erhalten!
 youReceivedShinyCharm:Du hast einen Schillerpin erhalten!
 youUnlockedNewUpgrade:Du hast ein neues Upgrade für deinen Pokédex freigeschaltet!
-afterClaimingCharmText:Nach dem Beanspruchen deines Schillerpins hast du die Möglichkeit, deinen fangbaren Dex-Fortschritt zurückzusetzen und von vorne zu beginnen, um zusätzliche schillernde Charme zu verdienen.
+afterClaimingCharmText:Nach dem Erhalten deines Schillerpins hast du die Möglichkeit, deinen fangbaren Dex-Fortschritt zurückzusetzen und von vorne zu beginnen, um zusätzliche schillernde Charme zu verdienen.
 missions:Missionen
 showComplete:Vollständig anzeigen
 itemSellConfirmationMessage:Bist du sicher, dass du {amount}x {name} für insgesamt ${total_price} verkaufen möchtest?
