@@ -62,4 +62,4 @@ pcg_event_catch_week4:[Event] Fange Event-Pokémon – Woche 4
 mission__battle:Kämpfe mit einem <type>-Typ-Pokémon
 mission__wondertrade:Tausche Pokémon in der Wundertausch
 mission__battle_deal_damage:Füge in Kämpfen Schaden zu.
-mission__win_ranked_or_challenge__battle:[EREIGNIS] Gewinne Rang- oder Herausforderungs-Kämpfe
+mission__win_ranked_or_challenge__battle:[Event] Gewinne Rang- oder Herausforderungs-Kämpfe
