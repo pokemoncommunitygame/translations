@@ -126,7 +126,7 @@ feather_ball:Feather Ball
 feather_ballDescription:Uma Poké Ball que é melhor do que o normal para capturar Pokémon muito leves.
 repeat_ball:Repeat Ball
 repeat_ballDescription:Uma Poké Ball um tanto diferente que funciona especialmente bem em uma espécie de Pokémon que já foi capturada antes.
-net_ball:Net Ball
+net_ball:Bola Tela
 net_ballDescription:Uma Poké Ball um tanto diferente que é mais eficaz ao tentar capturar Pokémon do tipo Água ou Inseto.
 timer_ball:Timer Ball
 timer_ballDescription:Uma Poké Ball um tanto diferente que se torna progressivamente mais eficaz em capturar Pokémon quanto mais próximo o Pokémon estiver de escapar.
