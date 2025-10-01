@@ -2,6 +2,11 @@ battleCantSwitch:Malheureusement, une capacité vous empêche de changer.
 leaderboard:Classement
 private:Privé
 stadium:Stade
+battleGauntlet:Défi de Combat
+gauntletWins:Victoires
+gauntletDescription:La difficulté augmente avec chaque combat. Les Pokémon utilisés dans les combats précédents ne peuvent plus être utilisés dans les combats suivants. Si vous perdez, vous serez remis au début et retrouverez l'accès à tous vos Pokémon.
+gauntletStart:Commencer le Défi
+gauntletCurrentWins:Victoires Actuelles
 tourney:Tournoi
 challenge:Défi
 noChallenge:Pas de Défi
@@ -52,7 +57,6 @@ BattleLose:Tu as perdu le combat !
 BattleNoXP:Ton équipe n'a pas remporté d'EXP !
 struggle:Lutte
 battleDoesntExist:La combat n'existe pas!
-enterSpectateKey:Clé de spectateur:
 tooManyConcurrentBattles:Il y a trop de combats en cours ! Veuillez réessayer dans 5 minutes!
 ranked:Classé
 addPokemonInstruction:Pour ajouter un Pokémon à votre équipe, cliquez sur le panneau de l'ordinateur en haut à gauche, sélectionnez votre Pokémon, puis appuyez sur l'icône d'épée.
@@ -131,3 +135,4 @@ FLINCHED:a sursauté et n'a pas pu attaquer
 PERISH_SONG_COOLDOWN:le décompte de péril de est tombé à
 HEAL_BLOCK_STARTED:La guérison du Pokémon adverse a été bloquée !
 HEAL_BLOCK_END:Le Pokémon adverse peut à nouveau se soigner !
+battleShowSpectateKey:Clé de spectateur

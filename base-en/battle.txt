@@ -6,6 +6,11 @@ leaderboard:Leaderboard
 private:Private
 ranked:Ranked
 stadium:Stadium
+battleGauntlet:Battle Gauntlet
+gauntletWins:Wins
+gauntletDescription:The difficulty increases with each battle. Pokémon used in earlier battles can't be used again in later ones. If you lose, you'll be reset to the start and regain access to all your Pokémon.
+gauntletStart:Start Gauntlet
+gauntletCurrentWins:Current Wins
 tourney:Tourney
 challenge:Challenge
 noChallenge:No Challenge
@@ -97,7 +102,7 @@ BattleNoXP:Your team didn't receive XP!
 struggle:Struggle
 
 battleDoesntExist:The battle doesn't exist!
-enterSpectateKey:Spectate key:
+battleShowSpectateKey:Spectate key
 
 tooManyConcurrentBattles:There are to many ongoing battles! Please try again in 5 minutes!
 addPokemonInstruction:To add a Pokémon to your team, click on the computer panel in the top left, select your Pokémon, and then press the sword icon.

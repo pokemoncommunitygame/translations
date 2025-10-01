@@ -2,6 +2,11 @@ battleCantSwitch:Purtroppo, una mossa ti impedisce di cambiare.
 leaderboard:Classifica
 private:Privato
 stadium:Stadio
+battleGauntlet:Sfida di Battaglia
+gauntletWins:Vittorie
+gauntletDescription:La difficoltà aumenta con ogni battaglia. I Pokémon usati nelle battaglie precedenti non possono essere usati di nuovo nelle battaglie successive. Se perdi, sarai riportato all'inizio e riavrai accesso a tutti i tuoi Pokémon.
+gauntletStart:Inizia Sfida
+gauntletCurrentWins:Vittorie Attuali
 tourney:Torneo
 challenge:Sfida
 noChallenge:Nessuna Sfida
@@ -52,7 +57,6 @@ BattleLose:Hai perso la battaglia!
 BattleNoXP:La tua squadra non ha guadagnato EXP!
 struggle:Sforzo
 battleDoesntExist:La battaglia non esiste!
-enterSpectateKey:Chiave per assistere:
 tooManyConcurrentBattles:Ci sono troppe battaglie in corso! Per favore riprova tra 5 minuti!
 ranked:Ranked
 addPokemonInstruction:Per aggiungere un Pokémon alla tua squadra, clicca sul pannello del computer in alto a sinistra, seleziona il tuo Pokémon e poi premi l'icona della spada.
@@ -131,3 +135,4 @@ FLINCHED:ha tentennato e non può attaccare
 PERISH_SONG_COOLDOWN:Il conto alla rovescia di è sceso a
 HEAL_BLOCK_STARTED:La guarigione del Pokémon avversario è stata bloccata!
 HEAL_BLOCK_END:Il Pokémon avversario può guarire di nuovo!
+battleShowSpectateKey:Tasto per assistere:

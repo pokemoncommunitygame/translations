@@ -2,6 +2,11 @@ leaderboard:Bestenliste
 private:Privat
 ranked:Ranked
 stadium:Stadion
+battleGauntlet:Kampf-Herausforderung
+gauntletWins:Siege
+gauntletDescription:Die Schwierigkeit steigt mit jedem Kampf. Pokémon, die in früheren Kämpfen verwendet wurden, können in späteren Kämpfen nicht mehr verwendet werden. Wenn du verlierst, wirst du zum Anfang zurückgesetzt und erhältst Zugang zu all deinen Pokémon zurück.
+gauntletStart:Herausforderung starten
+gauntletCurrentWins:Aktuelle Siege
 tourney:Turnier
 challenge:Herausforderung
 noChallenge:Keine Herausforderung
@@ -53,7 +58,6 @@ BattleLose:Du hast den Kampf leider verloren!
 BattleNoXP:Dein Team hat keine EP erhalten!
 struggle:Verzweifler
 battleDoesntExist:Das Battle existiert nicht!
-enterSpectateKey:Zuschauerschlüssel:
 tooManyConcurrentBattles:Zur Zeit laufen zu viele Battles gleichzeitig! Bitte versuche es in 5 Minuten erneut!
 addPokemonInstruction:Um ein Pokémon zu deinem Team hinzuzufügen, klicke auf das Computerpanel oben links, wähle dein Pokémon aus und drücke dann auf das Schwert-Icon.
 teamExchangeWarning:DU BIST DABEI DEIN TEAM AUSZUTAUSCHEN. DIESES TEAM WIRD FÜR IMMER VERSCHWINDEN.
@@ -131,3 +135,4 @@ FLINCHED:erschrak und konnte nicht angreifen
 PERISH_SONG_COOLDOWN:'s Verhängniszähler fiel auf
 HEAL_BLOCK_STARTED:Die Heilung des gegnerischen Pokémon wurde blockiert!
 HEAL_BLOCK_END:Das gegnerische Pokémon kann wieder heilen!
+battleShowSpectateKey:Zuschauerschlüssel
