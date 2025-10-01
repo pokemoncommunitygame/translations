@@ -63,3 +63,13 @@ mission__battle:Lotta usando un Pokémon di tipo <type>
 mission__wondertrade:Scambia un Pokémon in Scambio Prodigioso
 mission__battle_deal_damage:Infliggi <value> danni in battaglia.
 mission__win_ranked_or_challenge__battle:Vinci una battaglia classificata o di sfida.
+claim_pokedaily_desc:Unisciti al nostro Discord (puoi digitare !pokediscord nella chat per ottenere il link) per reclamare ricompense giornaliere.
+loyalty_goal_earn_5_percent:Guadagna un ulteriore 5% $ in questo stream
+loyalty_goal_golden_ticket:Possibilità di ottenere un biglietto d'oro in questo stream
+loyalty_goal_catch_level_25:Cattura Pokémon fino al livello 25 in questo stream
+loyalty_goal_stone_drop_5_percent:Aumento del 5% della probabilità di ottenere pietre in questo stream
+loyalty_goal_rare_candy:Puoi trovare Caramelle Rare quando tenti di catturare Pokémon in questo stream
+loyalty_goal_catch_chance_3_percent:+3% di probabilità di cattura in questo stream
+loyalty_goal_shiny_chance_5_percent:5% di probabilità aumentata di trovare shiny in questo stream
+loyalty_goal_shiny_chance_3_percent:3% di probabilità aumentata di trovare shiny in questo stream
+loyalty_description:Guadagna Fedeltà catturando Pokémon. La tua Fedeltà è tracciata separatamente in ogni canale.

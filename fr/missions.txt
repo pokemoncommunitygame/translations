@@ -63,3 +63,13 @@ mission__battle:Combat en utilisant des Pokémon de type <type>
 mission__wondertrade:Échange miracle des Pokémon
 mission__battle_deal_damage:Inflige des dégâts lors de combats.
 mission__win_ranked_or_challenge__battle:[ÉVÉNEMENT] Remporte des combats classés ou de défi
+claim_pokedaily_desc:A) Sur Desktop (PC/Ordinateur portable) Connecte-toi à Twitch. Ouvre un canal qui a activé PCG. Ouvrir l'overlay (si le streamer utilise la version vidéo-overlay) : Déplace la souris sur la vidéo. Clique sur l'icône de puzzle / icône PCG au bord de la vidéo (ou sur le petit bouton PCG dans l'image). Ouvrir le panneau (si le streamer utilise la version panneau) : Fais défiler sous la vidéo jusqu'aux panneaux de canal. Clique sur le panneau PCG. Changer vers l'inventaire : Dans l'extension, sélectionne l'onglet « Inventaire » / « Sac / Sac à dos / Objets » (selon la langue/l'icône souvent un symbole de sac à dos). Filtrer & Rechercher (optionnel) : Utilise les catégories/filtres (Pokémon, Objets, Balles, etc.) ou la recherche pour trouver des entrées plus rapidement.
+loyalty_goal_earn_5_percent:Gagnez 5% $ supplémentaires dans ce stream
+loyalty_goal_golden_ticket:Chance d'obtenir un ticket doré dans ce stream
+loyalty_goal_catch_level_25:Attrapez des Pokémon jusqu'au niveau 25 dans ce stream
+loyalty_goal_stone_drop_5_percent:Chance de drop de pierre augmentée de 5% dans ce stream
+loyalty_goal_rare_candy:Vous pouvez trouver des Bonbons rares en tentant d'attraper des Pokémon dans ce stream
+loyalty_goal_catch_chance_3_percent:+3% de chance d'attraper dans ce stream
+loyalty_goal_shiny_chance_5_percent:Chance de shiny augmentée de 5% dans ce stream
+loyalty_goal_shiny_chance_3_percent:Chance de shiny augmentée de 3% dans ce stream
+loyalty_description:Gagne de la Loyauté en attrapant des Pokémon. Ta Loyauté est suivie séparément dans chaque canal.

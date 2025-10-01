@@ -63,3 +63,13 @@ mission__battle:Battle using <type>-type Pokémon
 mission__wondertrade:Wondertrade Pokémon
 mission__battle_deal_damage:Deal damage in battles.
 mission__win_ranked_or_challenge__battle:[EVENT] Win ranked or challenge battles
+claim_pokedaily_desc:A) Am Desktop (PC/Laptop) Logge dich bei Twitch ein. Öffne einen Kanal, der PCG aktiviert hat. Overlay öffnen (falls der Streamer die Video-Overlay-Version nutzt): Bewege die Maus über das Video. Klicke auf das Puzzle-Symbol / PCG-Icon am Rand des Videos (oder auf den kleinen PCG-Button im Bild). Panel öffnen (falls der Streamer die Panel-Version nutzt): Scrolle unter das Video zu den Kanal-Panels. Klicke auf das PCG-Panel. Zum Inventar wechseln: In der Extension den Reiter „Inventar" / „Bag / Backpack / Items" auswählen (je nach Sprache/Icon oft ein Rucksack-Symbol). Filtern & Suchen (optional): Verwende die Kategorien/Filter (Pokémon, Items, Bälle, etc.) oder die Suche, um Einträge schneller zu finden.
+loyalty_goal_earn_5_percent:Earn additional 5% $ in this stream
+loyalty_goal_golden_ticket:Chance to obtain a golden ticket in this stream
+loyalty_goal_catch_level_25:Catch Pokemon up to level 25 in this stream
+loyalty_goal_stone_drop_5_percent:Increased stone drop chance by 5% in this stream
+loyalty_goal_rare_candy:You can find rare Candy when attempting to catch Pokemon in this stream
+loyalty_goal_catch_chance_3_percent:+3% Higher catch chance in this stream
+loyalty_goal_shiny_chance_5_percent:5% increased shiny chance in this stream
+loyalty_goal_shiny_chance_3_percent:3% increased shiny chance in this stream
+loyalty_description:Earn Loyalty by catching Pokémon. Your Loyalty is tracked separately in each channel.
