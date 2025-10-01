@@ -9,6 +9,19 @@ tm_metronome_description:Teaches any Pokémon the move Metronome.
 
 supportUs:Support us by following on Twitch and receive up to 10% extra Pokemoney
 
+// loyalty
+loyalty:Loyalty
+currentLevel:Current Level
+loyaltyPoints:Loyalty Points
+nextGoal:Next Goal
+maxLevelReached:Max Level Reached!
+maxLevelDescription:You have reached the maximum loyalty level!
+points:Points
+rewards:Loyalty Rewards
+unlocked:Unlocked
+loading:Loading...
+retry:Retry
+
 // types
 fairy:Fairy
 dark:Dark
@@ -252,6 +265,7 @@ youUnlockedNewUpgrade:You unlocked a new upgrade for your Pokedex!
 afterClaimingCharmText:After claiming your shiny charm you have the option to reset your catchable dex progress and start over to earn additional shiny charms.
 
 missions:Missions
+tutorialMissions:Tutorial Missions
 showComplete:Show Complete
 
 
@@ -350,3 +364,11 @@ rankedButton:🏆 Ranked
 privateButton:⚔️ Private
 botButton:🤖 Bot
 spectateButton:👁️ Spectate
+
+// New Dex Entry Modal
+newDexEntry:New Dex Entry!
+newDexEntryCongratulations:Congratulations! You've discovered a new Pokémon!
+newDexEntryDescription:This Pokémon has been added to your Pokédex. You can now view its information anytime.
+continue:Continue
+shiny:Shiny
+level:Level

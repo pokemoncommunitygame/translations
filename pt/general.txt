@@ -276,3 +276,19 @@ rankedButton:🏆 Ranqueado
 privateButton:⚔️ Privado
 botButton:🤖 Bot
 spectateButton:👁️ Espectar
+tutorialMissions:Missões do Tutorial
+newDexEntry:Novo Registro na Pokédex!
+newDexEntryCongratulations:Parabéns! Você descobriu um novo Pokémon!
+newDexEntryDescription:Este Pokémon foi adicionado à sua Pokédex. Agora você pode ver suas informações a qualquer momento.
+shiny:Brilhante
+level:Nível
+loyalty:Fidelidade
+currentLevel:Nível Atual
+loyaltyPoints:Pontos de Fidelidade
+nextGoal:Próximo Objetivo
+maxLevelReached:Nível Máximo Alcançado!
+maxLevelDescription:Você alcançou o nível máximo de fidelidade!
+points:Pontos
+rewards:Recompensas de Fidelidade
+unlocked:Desbloqueado
+retry:Tentar Novamente

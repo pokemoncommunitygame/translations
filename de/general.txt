@@ -21,6 +21,17 @@ flying:Flug
 fighting:Kampf
 normal:Normal
 supportUs:Unterstütze uns, indem du uns auf Twitch folgst und erhalte bis zu 10 % extra Pokemoney.
+loyalty:Loyalität
+currentLevel:Aktuelles Level
+loyaltyPoints:Loyalitätspunkte
+nextGoal:Nächstes Ziel
+maxLevelReached:Max Level erreicht!
+maxLevelDescription:Du hast das maximale Loyalitätslevel erreicht!
+points:Punkte
+rewards:Loyalitätsbelohnungen
+unlocked:Freigeschaltet
+loading:Lädt...
+retry:Wiederholen
 attack:Angriff
 specialAttack:Spezial-Ang.
 defense:Verteidigung
@@ -44,7 +55,7 @@ notEnoughEventCoinsToBuy:Du hast nicht genug Eventmünze(n)!
 itemNotPurchasable:Dieser Artikel kann im Shop nicht gekauft werden!
 purchaseSuccessfully:Der Kauf war erfolgreich!
 back:Zurück
-continue:Fortfahren
+continue:Weiter
 cancel:Abbrechen
 close:Schließen
 success:Erfolg
@@ -62,7 +73,6 @@ notWhitelisted:Dieser Kanal ist nicht auf der Whitelist.
 chooseChatBotLanguage:Wähle bitte die Sprache des Chatbots:
 notWhitelistedDiscord:Dieser Kanal ist nicht auf der Whitelist! Wenn du mehr Hilfe brauchst, kontaktiere uns auf Discord https://discord.gg/cT3ThCj
 contactOnDiscord:Tritt unserem Discord bei, um unser automatisiertes Whitelist-System zu nutzen, bei dem du die Sprache deiner Wahl auswählen kannst:
-loading:Lädt...
 loadingFailed:Laden fehlgeschlagen. Bitte versuch es erneut.
 unknownError:Ein unbekannter Fehler ist aufgetreten! Bitte versuch, die Webseite neu zu laden! Wenn das Problem weiterhin besteht, melde es uns auf unserem Discord https://discord.gg/cT3ThCj
 tokenExpired:Das Twitch-Authentifizierungs-Token ist abgelaufen. Bitte lade die Webseite neu oder starte deine App neu.
@@ -276,3 +286,9 @@ rankedButton:🏆 Rangliste
 privateButton:⚔️ Privat
 botButton:🤖 Bot
 spectateButton:👁️ Zuschauen
+tutorialMissions:Tutorial-Missionen
+newDexEntry:Neuer Pokédex-Eintrag!
+newDexEntryCongratulations:Glückwunsch! Du hast ein neues Pokémon entdeckt!
+newDexEntryDescription:Dieses Pokémon wurde deinem Pokédex hinzugefügt. Du kannst seine Informationen jetzt jederzeit ansehen.
+shiny:Schillernd
+level:Level

@@ -276,3 +276,19 @@ rankedButton:🏆 Classificata
 privateButton:⚔️ Privata
 botButton:🤖 Bot
 spectateButton:👁️ Spettatore
+tutorialMissions:Missioni Tutorial
+newDexEntry:Nuova Voce Dex!
+newDexEntryCongratulations:Congratulazioni! Hai scoperto un nuovo Pokémon!
+newDexEntryDescription:Questo Pokémon è stato aggiunto al tuo Pokédex. Ora puoi visualizzare le sue informazioni in qualsiasi momento.
+shiny:Shiny
+level:Livello
+loyalty:Fedeltà
+currentLevel:Livello Attuale
+loyaltyPoints:Punti Fedeltà
+nextGoal:Prossimo Obiettivo
+maxLevelReached:Livello Massimo Raggiunto!
+maxLevelDescription:Hai raggiunto il livello massimo di fedeltà!
+points:Punti
+rewards:Ricompense Fedeltà
+unlocked:Sbloccato
+retry:Riprova

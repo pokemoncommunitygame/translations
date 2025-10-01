@@ -21,6 +21,17 @@ flying:Flying
 fighting:Fighting
 normal:Normal
 supportUs:Support us by following on Twitch and receive up to 10% extra Pokemoney
+loyalty:Loyalty
+currentLevel:Current Level
+loyaltyPoints:Loyalty Points
+nextGoal:Next Goal
+maxLevelReached:Max Level Reached!
+maxLevelDescription:You have reached the maximum loyalty level!
+points:Points
+rewards:Loyalty Rewards
+unlocked:Unlocked
+loading:Loading...
+retry:Retry
 attack:Attack
 specialAttack:Special Att.
 defense:Defense
@@ -62,7 +73,6 @@ notWhitelisted:This channel is not whitelisted.
 chooseChatBotLanguage:Please choose the language of the chatbot:
 notWhitelistedDiscord:This channel is not whitelisted! If you need more help contact us on discord https://discord.gg/cT3ThCj
 contactOnDiscord:Join our discord to use our automated whitelist system where you can select the language of your choice:
-loading:Loading...
 loadingFailed:Loading failed. Please try again.
 unknownError:An unknown error occurred! Please try to refresh the webpage! If the problem still persists report it to us on our discord https://discord.gg/cT3ThCj
 tokenExpired:The Twitch authentication token expired. Please reload the website or restart your app
@@ -276,3 +286,9 @@ rankedButton:🏆 Ranked
 privateButton:⚔️ Private
 botButton:🤖 Bot
 spectateButton:👁️ Spectate
+tutorialMissions:Tutorial Missions
+newDexEntry:New Dex Entry!
+newDexEntryCongratulations:Congratulations! You've discovered a new Pokémon!
+newDexEntryDescription:This Pokémon has been added to your Pokédex. You can now view its information anytime.
+shiny:Shiny
+level:Level

@@ -276,3 +276,19 @@ rankedButton:🏆 Clasificatoria
 privateButton:⚔️ Privada
 botButton:🤖 Bot
 spectateButton:👁️ Espectar
+tutorialMissions:Misiones del Tutorial
+newDexEntry:Nueva Entrada en la Pokédex
+newDexEntryCongratulations:¡Felicidades! ¡Has descubierto un nuevo Pokémon!
+newDexEntryDescription:Este Pokémon ha sido añadido a tu Pokédex. Ahora puedes ver su información en cualquier momento.
+shiny:Variocolor
+level:Nivel
+loyalty:Lealtad
+currentLevel:Nivel Actual
+loyaltyPoints:Puntos de Lealtad
+nextGoal:Próxima Meta
+maxLevelReached:¡Nivel Máximo Alcanzado!
+maxLevelDescription:¡Has alcanzado el nivel máximo de lealtad!
+points:Puntos
+rewards:Recompensas de Lealtad
+unlocked:Desbloqueado
+retry:Reintentar
