@@ -11,6 +11,8 @@ gauntletWins:Wins
 gauntletDescription:The difficulty increases with each battle. Pokémon used in earlier battles can't be used again in later ones. If you lose, you'll be reset to the start and regain access to all your Pokémon.
 gauntletStart:Start Gauntlet
 gauntletCurrentWins:Current Wins
+gauntletHighscore:Your Highscore
+gauntletLeaderboard:Gauntlet Leaderboard
 tourney:Tourney
 challenge:Challenge
 noChallenge:No Challenge

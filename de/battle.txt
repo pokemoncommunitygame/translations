@@ -7,6 +7,7 @@ gauntletWins:Siege
 gauntletDescription:Die Schwierigkeit steigt mit jedem Kampf. Pokémon, die in früheren Kämpfen verwendet wurden, können in späteren Kämpfen nicht mehr verwendet werden. Wenn du verlierst, wirst du zum Anfang zurückgesetzt und erhältst Zugang zu all deinen Pokémon zurück.
 gauntletStart:Herausforderung starten
 gauntletCurrentWins:Aktuelle Siege
+gauntletHighscore:Dein Highscore
 tourney:Turnier
 challenge:Herausforderung
 noChallenge:Keine Herausforderung

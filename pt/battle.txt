@@ -7,6 +7,7 @@ gauntletWins:Vitórias
 gauntletDescription:A dificuldade aumenta com cada batalha. Pokémon usados em batalhas anteriores não podem ser usados novamente em batalhas posteriores. Se você perder, será reiniciado ao início e recuperará o acesso a todos os seus Pokémon.
 gauntletStart:Iniciar Desafio
 gauntletCurrentWins:Vitórias Atuais
+gauntletHighscore:Seu Melhor Resultado
 tourney:Torneio
 challenge:Desafio
 noChallenge:Sem Desafio
