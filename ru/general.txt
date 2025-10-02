@@ -1,5 +1,6 @@
 hidden_item:Скрытый предмет
 hidden_itemDescription:???
+type_effectiveness:Эффективность типов
 tm_name:ТМ {moveName}
 tm_description:Учит Покемона типа {pkmt} приёму {moveName}.
 fairy:Фея
@@ -207,6 +208,7 @@ it:Итальянский
 language:Язык
 deviceLanguage:Автоопределение
 version:Версия
+serverTimezone:Часовой пояс сервера: Европа/Берлин
 hidden:Скрытый
 normal-dragon-eggSpecialDescription:Вы поймали {count} / 10 Покемонов, чтобы вылупилось это Яйцо. (Чтобы вылупилось это Яйцо, нужно установить его как вашего напарника)
 sparkling-dragon-eggSpecialDescription:Вы поймали {count} / 3 Покемонов с помощью Премьер, Роскошных или Драгоценных Мячей, чтобы вылупилось это Яйцо. (Чтобы вылупилось это Яйцо, нужно установить его как вашего напарника)

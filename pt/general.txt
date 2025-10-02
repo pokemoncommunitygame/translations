@@ -1,5 +1,6 @@
 hidden_item:Item Oculto
 hidden_itemDescription:???
+type_effectiveness:Eficácia dos Tipos
 tm_name:TM {moveName}
 tm_description:Ensina a um Pokémon do tipo {pkmt} o golpe {moveName}.
 fairy:Fada
@@ -207,6 +208,7 @@ pt:Português
 it:Italiano
 deviceLanguage:Detecção Automática
 version:Versão
+serverTimezone:Fuso horário do servidor: Europa/Berlim
 hidden:Oculto
 normal-dragon-eggSpecialDescription:Você capturou {count} / 10 Pokémon para chocar este Ovo. (Para chocar este Ovo, você precisa defini-lo como seu companheiro)
 sparkling-dragon-eggSpecialDescription:Você capturou {count} / 3 Pokémon com Premier, Luxury ou Cherish Balls para chocar este Ovo. (Para chocar este Ovo, você precisa defini-lo como seu companheiro)

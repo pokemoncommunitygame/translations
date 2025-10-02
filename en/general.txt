@@ -1,5 +1,6 @@
 hidden_item:Hidden Item
 hidden_itemDescription:???
+type_effectiveness:Type Effectiveness
 tm_name:TM {moveName}
 tm_description:Teaches a {pkmt} type Pokémon the move {moveName}.
 fairy:Fairy
@@ -221,6 +222,7 @@ pt:Portuguese
 it:Italian
 deviceLanguage:Auto-Detect
 version:Version
+serverTimezone:Server timezone: Europe/Berlin
 hidden:Hidden
 normal-dragon-eggSpecialDescription:You caught {count} / 10 Pokémon to hatch this Egg. (To hatch this Egg, you need to set it as your buddy)
 sparkling-dragon-eggSpecialDescription:You caught {count} / 3 Pokémon with Premier, Luxury, or Cherish Balls to hatch this Egg. (To hatch this Egg, you need to set it as your buddy)

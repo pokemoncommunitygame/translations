@@ -3,6 +3,8 @@ hidden_item:Hidden Item
 hidden_itemDescription:???
 hidden:Hidden
 
+type_effectiveness:Type Effectiveness
+
 tm_name:TM {moveName}
 tm_description:Teaches a {pkmt} type Pokémon the move {moveName}.
 tm_metronome_description:Teaches any Pokémon the move Metronome.
@@ -282,6 +284,7 @@ fr:French
 ru:Russian
 pt:Portuguese
 it:Italian
+serverTimezone:Server timezone: Europe/Berlin
 
 // eggs
 

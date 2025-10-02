@@ -1,5 +1,6 @@
 hidden_item:Objet Caché
 hidden_itemDescription:???
+type_effectiveness:Efficacité des Types
 tm_name:CT {moveName}
 tm_description:Apprend à un Pokémon de type {pkmt} la capacité {moveName}.
 fairy:Fée
@@ -207,6 +208,7 @@ pt:Portugais
 it:Italien
 deviceLanguage:Détection automatique
 version:Version
+serverTimezone:Fuseau horaire du serveur: Europe/Berlin
 hidden:Caché
 normal-dragon-eggSpecialDescription:Tu as attrapé {count} / 10 Pokémon pour faire éclore cet Œuf. (Pour faire éclore cet Œuf, tu dois le définir comme ton copain)
 sparkling-dragon-eggSpecialDescription:Tu as attrapé {count} / 3 Pokémon avec des Honor, Luxe ou Mémoire Balls pour faire éclore cet Œuf. (Pour faire éclore cet Œuf, tu dois le définir comme ton copain)

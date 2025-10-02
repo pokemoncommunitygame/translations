@@ -1,5 +1,6 @@
 hidden_item:Verstecktes Item
 hidden_itemDescription:???
+type_effectiveness:Typ-Effektivität
 tm_name:TM {moveName}
 tm_description:Lehrt einem Pokémon des Typs {pkmt} die Attacke {moveName}.
 fairy:Fee
@@ -217,6 +218,7 @@ pt:Portugiesisch
 it:Italienisch
 deviceLanguage:Automatisch erkennen
 version:Version
+serverTimezone:Serverzeitzzone: Europa/Berlin
 hidden:Versteckt
 normal-dragon-eggSpecialDescription:Du hast {count} / 10 Pokémon gefangen, um dieses Ei auszubrüten. (Um dieses Ei auszubrüten, musst du es als deinen Kumpel festlegen)
 sparkling-dragon-eggSpecialDescription:Du hast {count} / 3 Pokémon mit Premier-, Luxus- oder Jubelball gefangen, um dieses Ei auszubrüten. (Um dieses Ei auszubrüten, musst du es als deinen Kumpel festlegen)

@@ -1,5 +1,6 @@
 hidden_item:Objeto Oculto
 hidden_itemDescription:???
+type_effectiveness:Efectividad de Tipos
 tm_name:MT {moveName}
 tm_description:Enseña a un Pokémon de tipo {pkmt} el movimiento {moveName}.
 fairy:Hada
@@ -207,6 +208,7 @@ pt:Portugués
 it:Italiano
 deviceLanguage:Detección automática del idioma
 version:Versión
+serverTimezone:Zona horaria del servidor: Europa/Berlín
 hidden:Oculto
 normal-dragon-eggSpecialDescription:Has atrapado {count} / 10 Pokémon para abrir este Huevo. (Para abrir este Huevo, necesitas ponerlo como tu compañero)
 sparkling-dragon-eggSpecialDescription:Has atrapado {count} / 3 Pokémon con Premier, Lujo o Honor Balls para abrir este Huevo. (Para abrir este Huevo, necesitas ponerlo como tu compañero)
