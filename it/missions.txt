@@ -1,4 +1,6 @@
 complete_weekly_missions:Completa tutte le missioni settimanali
+viewOldMissions:Visualizza Missioni Precedenti
+viewCurrentMission:Visualizza Attuale
 catch:Cattura un Pokémon
 catch_with_type:Cattura un Pokémon di tipo <type>
 catch_generation_pokemon:Cattura un Pokémon della Generazione <extra>
@@ -45,6 +47,7 @@ win_stadium_hard:Vinci una battaglia difficile allo stadio
 win_stadium_type:Vinci una battaglia allo stadio usando solo Pokémon di tipo {type}
 play_challenge:Gioca una battaglia di sfida
 win_challenge:Vinci una battaglia di sfida
+build_a_ranked_team:Costruisci una squadra classificata
 play_ranked_battle:Gioca una battaglia classificata
 win_ranked_battle:Vinci una battaglia classificata
 claim_pokedaily:Riscatta il tuo Pokédaily
@@ -73,3 +76,37 @@ loyalty_goal_catch_chance_3_percent:+3% di probabilità di cattura in questo str
 loyalty_goal_shiny_chance_5_percent:5% di probabilità aumentata di trovare shiny in questo stream
 loyalty_goal_shiny_chance_3_percent:3% di probabilità aumentata di trovare shiny in questo stream
 loyalty_description:Guadagna Fedeltà catturando Pokémon. La tua Fedeltà è tracciata separatamente in ogni canale.
+buy_balls_from_shop:Compra sfere dal negozio (Suggerimento: Compra 10x in una volta per una Premier Ball gratuita)
+use_special_ball:Usa una sfera speciale
+view_golden_coin_shop:Visualizza il negozio delle monete d'oro
+set_buddy:Imposta un compagno
+trade_generation_3_pokemon:Scambia un Pokémon di Generazione 3
+lock_pokemon:Blocca un Pokémon
+view_evolution_requirements:Visualizza i requisiti di evoluzione di un Pokémon
+add_pokemon_to_team:Aggiungi Pokémon alla tua squadra
+check_pokemon_stats:Controlla le statistiche di un Pokémon
+check_move_information:Controlla le informazioni sulle mosse
+reroll_pokemon_moves:Rerolla le mosse di un Pokémon
+reroll_pokemon_nature:Rerolla la natura di un Pokémon
+reroll_pokemon_ivs:Rerolla gli IVs di un Pokémon
+buy_balls_from_shop_desc:todo
+use_special_ball_desc:todo
+view_golden_coin_shop_desc:todo
+set_buddy_desc:todo
+trade_generation_3_pokemon_desc:todo
+lock_pokemon_desc:todo
+add_pokemon_to_team_desc:todo
+check_pokemon_stats_desc:todo
+check_move_information_desc:todo
+reroll_pokemon_moves_desc:todo
+reroll_pokemon_nature_desc:todo
+reroll_pokemon_ivs_desc:todo
+play_ranked_battle_desc:Partecipa a battaglie classificate per dimostrare la tua abilità e scalare le classifiche!
+level_up_pokemon:Far salire di livello un Pokémon
+evolve_pokemon:Far evolvere un Pokémon
+level_up_pokemon_desc:Usa oggetti come Caramelle Rare o combatti per far salire di livello qualsiasi Pokémon
+evolve_pokemon_desc:Usa oggetti evolutivi o soddisfa i requisiti per far evolvere un Pokémon
+win_stadium_easy_desc:Usiamo ciò che abbiamo imparato per portare i nostri Pokémon nella prima battaglia!\n\nAggiungi 6 Pokémon alla tua squadra e poi seleziona la scheda battaglia (icona della spada). Poi naviga fino al pulsante bot e clicca su 'Stadio'.\n\nMetti alla prova la tua forza contro un avversario bot facile e fai aggiustamenti se non funziona subito per avere un'idea della tua squadra!\n\nConsiglio: Usa uno dei Pokémon in prestito che hai ricevuto nel tutorial—vengono con un set di mosse predefinito buono! Tieni presente, però, che possono essere usati solo un certo numero di volte prima di scomparire.
+build_a_ranked_team_desc:Congratulazioni per la tua prima vittoria! Troverai spesso missioni che richiedono di sconfiggere il bot dello stadio o sfide di eventi a tempo limitato.\n\nAffrontare altri giocatori può essere intenso, quindi dovremo assemblare una squadra forte per competere.\n\nCostruisci una squadra con un BST medio di 450 o più che sia consentito secondo le regole classificate attuali. Tieni presente che non possiamo usare duplicati!\n\nConsiglio: Dai un'occhiata alla lista dei premi che puoi sbloccare vincendo battaglie classificate nella scheda battaglia.
+use_wonderpass_desc:Non ci sono scambi diretti in PCG. Puoi usare il Wonder Trade ogni 3 ore.\n\nOgni Pokémon ha un livello assegnato, che va da C (molto comune) a S (leggendario).\n\nQuando scambi, di solito riceverai un Pokémon dello stesso livello, tuttavia c'è una piccola possibilità di un miglioramento o peggioramento.\n\nUsa il 'Wonder Pass' per azzerare immediatamente il tempo di attesa per lo scambio!\n\nConsiglio: Scambiare un Pokémon cromatico non aumenta le tue possibilità di riceverne uno cromatico in cambio.
+use_wonderpass:Usa un Wonderpass

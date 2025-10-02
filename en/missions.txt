@@ -1,4 +1,6 @@
 complete_weekly_missions:Complete weekly missions
+viewOldMissions:View Old Missions
+viewCurrentMission:View Current
 catch:Catch Pokémon
 catch_with_type:Catch <type>-type Pokémon
 catch_generation_pokemon:Catch Pokémon from Generation <extra>
@@ -45,6 +47,7 @@ win_stadium_hard:Win hard stadium battles
 win_stadium_type:Win stadium battles using only <type>-type Pokémon
 play_challenge:Play challenge battle
 win_challenge:Win challenge battle
+build_a_ranked_team:Build a ranked team
 play_ranked_battle:Play ranked battle
 win_ranked_battle:Win ranked battle
 claim_pokedaily:Claim your Pokédaily
@@ -63,7 +66,7 @@ mission__battle:Battle using <type>-type Pokémon
 mission__wondertrade:Wondertrade Pokémon
 mission__battle_deal_damage:Deal damage in battles.
 mission__win_ranked_or_challenge__battle:[EVENT] Win ranked or challenge battles
-claim_pokedaily_desc:A) Am Desktop (PC/Laptop) Logge dich bei Twitch ein. Öffne einen Kanal, der PCG aktiviert hat. Overlay öffnen (falls der Streamer die Video-Overlay-Version nutzt): Bewege die Maus über das Video. Klicke auf das Puzzle-Symbol / PCG-Icon am Rand des Videos (oder auf den kleinen PCG-Button im Bild). Panel öffnen (falls der Streamer die Panel-Version nutzt): Scrolle unter das Video zu den Kanal-Panels. Klicke auf das PCG-Panel. Zum Inventar wechseln: In der Extension den Reiter „Inventar" / „Bag / Backpack / Items" auswählen (je nach Sprache/Icon oft ein Rucksack-Symbol). Filtern & Suchen (optional): Verwende die Kategorien/Filter (Pokémon, Items, Bälle, etc.) oder die Suche, um Einträge schneller zu finden.
+claim_pokedaily_desc:Thank you for finishing the tutorial and learning about PCG!\n\nThere is much more to it, but you have the basics covered.\n\nJoin our Discord server to meet the community, learn about new events, and claim the daily reward.\n\nTip: Type !pokedaily in a Twitch chat to get the invite link!
 loyalty_goal_earn_5_percent:Earn additional 5% $ in this stream
 loyalty_goal_golden_ticket:Chance to obtain a golden ticket in this stream
 loyalty_goal_catch_level_25:Catch Pokemon up to level 25 in this stream
@@ -73,3 +76,37 @@ loyalty_goal_catch_chance_3_percent:+3% Higher catch chance in this stream
 loyalty_goal_shiny_chance_5_percent:5% increased shiny chance in this stream
 loyalty_goal_shiny_chance_3_percent:3% increased shiny chance in this stream
 loyalty_description:Earn Loyalty by catching Pokémon. Your Loyalty is tracked separately in each channel.
+buy_balls_from_shop:Buy balls from the shop
+use_special_ball:Use a special ball
+view_golden_coin_shop:View the golden coin shop
+set_buddy:Set a buddy
+trade_generation_3_pokemon:Trade a Generation 3 Pokemon
+lock_pokemon:Lock a Pokemon
+view_evolution_requirements:View evolution requirements of a Pokemon
+add_pokemon_to_team:Add Pokemon to your team
+check_pokemon_stats:Check a Pokemon's stats
+check_move_information:Check move information
+reroll_pokemon_moves:Reroll a Pokemon's moves
+reroll_pokemon_nature:Reroll a Pokemon's nature
+reroll_pokemon_ivs:Reroll a Pokemon's IVs
+buy_balls_from_shop_desc:Welcome to the PCG extension! Here you can manage your Pokémon, buy items, and battle other players!\n\nThis step-by-step tutorial will guide you through the basic functionality of the game.\n\nPCG is all about catching Pokémon, and in order to do that you need balls!\n\nClick the Bag Icon in the navigation bar to view your inventory and the shop.\n\nLet's start off by making your first purchase!\n\nTip: You can earn more Pokédollars by typing in any channel that is running PCG!
+use_special_ball_desc:Good job on finishing the first tutorial mission!\n\nYou can throw a regular Poké Ball by simply typing !pokecatch. If you want to use a different ball type you need to specify it.\n\nUse !pokecatch [ball name] to throw a special ball!\n\nTip: If you buy 10 balls at once from the shop you will receive a free Premier Ball as a bonus.
+view_golden_coin_shop_desc:You might have already noticed that there is an additional shop in the inventory section: the Golden Coin Shop.\n\nA golden coin is available every week through the missions. They give you access to special, limited rewards.\n\nNavigate to the Golden Coin Shop now and take a look!\n\nTip: You can receive additional golden coins by participating in selected tournaments. Watch out for them in our Discord server. Type !pokedaily to join.
+set_buddy_desc:Now let's check out what we can do with our Pokémon.\n\nNavigate to the computer icon in the extension and click your favorite Pokémon. Once you are in the detailed view, click the little heart icon next to your Pokémon to set it as your buddy.\n\nYour buddy Pokémon gains EXP whenever you catch a new Pokémon, and it affects the catch bonus of the Friend Ball.\n\nTip: You can show off your buddy Pokémon in chat by using !pokeflex.
+trade_generation_3_pokemon_desc:There is no limit on how many Pokémon you can collect in PCG. Large Pokémon lists can get messy quickly, but luckily we have options to filter them so you can find exactly what you are looking for!\n\nYou can apply filters on the top right of the Pokémon list or by entering them in the search bar.\n\nTry to search for all your Generation 3 Pokémon by using !g 3\n\nTip: You can filter by names, IDs, base stats, types, and tiers.
+lock_pokemon_desc:A really important feature in PCG is the ability to lock a Pokémon so it cannot be accidentally traded away or sold.\n\nTry it out now by clicking the lock sign on a Pokémon you don't want to lose. Don't worry, you can unlock it at any time!\n\nTip: Locked Pokémon also cannot be modified by battle items—more about that later!
+add_pokemon_to_team_desc:We will start creating our first battle team now.\n\nAssign a Pokémon to a team slot by clicking the crossed-swords icon.\n\nYou can remove it from the team by clicking it in the battle tab and selecting "remove from team".\n\nTip: A Pokémon can be in multiple teams simultaneously.
+check_pokemon_stats_desc:When it comes to Pokémon battles there are many factors to consider. One of the most important are the base stats, which define the strength of a Pokémon. Other than the Individual Values, the base stats are the same across all Pokémon of a species.\n\nThe base stats of a Pokémon help you identify its strengths and weaknesses.\n\nCheck your Pokémon's stats by clicking the info button in the extension.\n\nTip: The base stat total (BST) of a Pokémon is often relevant for missions and restrictions for battles.
+check_move_information_desc:Highly important as well are the moves your Pokémon has—they will decide how well it can perform in battles.\n\nTo learn what a move does, click it in the Pokémon menu. There you can view its power, effect, and damage class.\n\nA Pokémon will likely perform best when its moves’ damage classes align with its strongest base stats!\n\nTip: Using a move of the same type as your Pokémon will give it a 50% damage boost.
+reroll_pokemon_moves_desc:In PCG, Pokémon do not learn new moves by leveling up—you can give it an entirely new move set by using an 'Empty Disc' on it.\n\nClick the items button in your Pokémon view to give it a battle item. Make sure your Pokémon is unlocked first!\n\nTip: You will hardly get a Pokémon with perfect move sets. Try to make the best use of the sets you're given and think outside the box!
+reroll_pokemon_nature_desc:We learned about the most important factors: base stats and moves. However, there is more to know!\n\nEach Pokémon comes with a nature that increases and decreases one of its stats by 10%. You can see which stats are affected in the Pokémon view—the increased stat is highlighted in red, the decreased one in blue.\n\nChange your Pokémon's nature by using a 'Mood Mint'!\n\nTip: A Pokémon can also have a neutral nature, leaving it without a stat boost or decrease.
+reroll_pokemon_ivs_desc:Each Pokémon comes with a set of individual values that can positively affect its total stats. They are indicated by a rating ranging from Horrible to Perfect. If you are interested in the exact values you can hover over this tag.\n\nIVs and natures of a Pokémon are a great bonus when the Pokémon already has great BST and moves. However, they will rarely be the deciding factor in whether it is useful or not.\n\nChange your Pokémon's IVs now by using an 'IV Reset'.\n\nTip: In PCG battles all Pokémon are set to level 50, so a higher level will not grant you any bonuses within the fight.
+play_ranked_battle_desc:Time for a real challenge!\n\nPlay a ranked battle against another player to climb the ladder!\n\nTip: When building a team don’t only focus on stats—make sure you have a well-rounded team that has all weaknesses and roles covered.
+level_up_pokemon:Level up a Pokemon
+evolve_pokemon:Evolve a Pokemon
+level_up_pokemon_desc:To level up a Pokémon in PCG we have 3 options:\n- Defeat Pokémon in battles while having it in your team.\n- Use Rare Candies.\n- Catch Pokémon to increase your buddy Pokémon's level.\n\nThe Pokémon's level is relevant for evolving it.\n\nTip: A higher level will also increase a Pokémon's sell price.
+evolve_pokemon_desc:Once you reach the evolution threshold the job isn't quite done yet—you will also need the necessary evolution stones!\n\nYou can get those by catching Pokémon or through missions.\n\nWe gave you a Pichu waiting to be evolved and the necessary stones. Try it out!\n\nTip: Pokémon such as starters require rare Shimmering Stones to evolve. They are only obtainable during events!
+win_stadium_easy_desc:Let's use what we have learned to take our Pokémon into the first battle!\n\nAdd 6 Pokémon to your team and then select the battle tab (sword icon). Then navigate to the bot button and click 'Stadium'.\n\nTest your strength against an easy bot opponent and make adjustments if it doesn't work out immediately to get a feeling for your team!\n\nTip: Use one of the loan Pokémon you received in the tutorial—they come with a prebuilt good move set! Keep in mind, however, they can only be used a certain number of times before disappearing.
+build_a_ranked_team_desc:Congratulations on your first victory! You will frequently find missions that require you to defeat the stadium bot or limited-time event challenges.\n\nFacing other players can be intense, so we will need to assemble a strong team to compete.\n\nBuild a team with an average BST of 450 or more that is allowed under the current ranked rules. Keep in mind, we can't use duplicates!\n\nTip: Check out the reward list you can unlock by winning ranked battles in the battle tab.
+use_wonderpass_desc:There is no direct trading in PCG. You can use the Wonder Trade every 3 hours.\n\nEvery Pokémon has a tier assigned to it, ranging from C (very common) to S (legendary).\n\nWhen trading, you will usually receive a Pokémon of the same tier back, however there is a small chance of an upgrade or downgrade.\n\nUse the 'Wonder Pass' to reset your trade cooldown immediately!\n\nTip: Trading a shiny Pokémon does not increase your chances of getting a shiny back.
+use_wonderpass:Use a Wonderpass

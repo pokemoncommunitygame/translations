@@ -1,4 +1,6 @@
 complete_weekly_missions: Accomplie des missions hebdomadaires
+viewOldMissions:Voir les anciennes missions
+viewCurrentMission:Voir l'actuelle
 catch:Capture des Pokémon
 catch_with_type:Capture des Pokémon de type <type>
 catch_generation_pokemon:Capture des Pokémon de la Génération <extra>
@@ -63,7 +65,6 @@ mission__battle:Combat en utilisant des Pokémon de type <type>
 mission__wondertrade:Échange miracle des Pokémon
 mission__battle_deal_damage:Inflige des dégâts lors de combats.
 mission__win_ranked_or_challenge__battle:[ÉVÉNEMENT] Remporte des combats classés ou de défi
-claim_pokedaily_desc:A) Sur Desktop (PC/Ordinateur portable) Connecte-toi à Twitch. Ouvre un canal qui a activé PCG. Ouvrir l'overlay (si le streamer utilise la version vidéo-overlay) : Déplace la souris sur la vidéo. Clique sur l'icône de puzzle / icône PCG au bord de la vidéo (ou sur le petit bouton PCG dans l'image). Ouvrir le panneau (si le streamer utilise la version panneau) : Fais défiler sous la vidéo jusqu'aux panneaux de canal. Clique sur le panneau PCG. Changer vers l'inventaire : Dans l'extension, sélectionne l'onglet « Inventaire » / « Sac / Sac à dos / Objets » (selon la langue/l'icône souvent un symbole de sac à dos). Filtrer & Rechercher (optionnel) : Utilise les catégories/filtres (Pokémon, Objets, Balles, etc.) ou la recherche pour trouver des entrées plus rapidement.
 loyalty_goal_earn_5_percent:Gagnez 5% $ supplémentaires dans ce stream
 loyalty_goal_golden_ticket:Chance d'obtenir un ticket doré dans ce stream
 loyalty_goal_catch_level_25:Attrapez des Pokémon jusqu'au niveau 25 dans ce stream
@@ -73,3 +74,39 @@ loyalty_goal_catch_chance_3_percent:+3% de chance d'attraper dans ce stream
 loyalty_goal_shiny_chance_5_percent:Chance de shiny augmentée de 5% dans ce stream
 loyalty_goal_shiny_chance_3_percent:Chance de shiny augmentée de 3% dans ce stream
 loyalty_description:Gagne de la Loyauté en attrapant des Pokémon. Ta Loyauté est suivie séparément dans chaque canal.
+build_a_ranked_team:Construis une équipe classée
+buy_balls_from_shop:Acheter des balls dans la boutique
+use_special_ball:Utiliser une ball spéciale
+view_golden_coin_shop:Voir la boutique des pièces d'or
+set_buddy:Définir un copain
+trade_generation_3_pokemon:Échanger un Pokémon de la Génération 3
+lock_pokemon:Verrouiller un Pokémon
+view_evolution_requirements:Voir les exigences d'évolution d'un Pokémon
+add_pokemon_to_team:Ajouter un Pokémon à ton équipe
+check_pokemon_stats:Vérifier les stats d'un Pokémon
+check_move_information:Vérifier les infos des attaques
+reroll_pokemon_moves:Relancer les attaques d'un Pokémon
+reroll_pokemon_nature:Relancer la nature d'un Pokémon
+reroll_pokemon_ivs:Relancer les IVs d'un Pokémon
+level_up_pokemon:Monter un Pokémon de niveau
+evolve_pokemon:Faire évoluer un Pokémon
+buy_balls_from_shop_desc:Bienvenue dans l'extension PCG ! Ici, tu peux gérer tes Pokémon, acheter des objets et combattre d'autres joueurs !\n\nCe tutoriel pas à pas te guidera à travers les fonctionnalités de base du jeu.\n\nPCG consiste à attraper des Pokémon, et pour cela, tu as besoin de balls !\n\nClique sur l'icône du sac dans la barre de navigation pour voir ton inventaire et la boutique.\n\nCommençons par faire ton premier achat !\n\nAstuce : Tu peux gagner plus de Pokédollars en tapant dans n'importe quel canal qui utilise PCG !
+use_special_ball_desc:Bravo pour avoir terminé la première mission du tutoriel !\n\nTu peux lancer une Poké Ball régulière en tapant simplement !pokecatch. Si tu veux utiliser un autre type de ball, tu dois le spécifier.\n\nUtilise !pokecatch [nom de la ball] pour lancer une ball spéciale !\n\nAstuce : Si tu achètes 10 balls d'un coup dans la boutique, tu recevras une Ball Premier gratuite en bonus.
+view_golden_coin_shop_desc:Tu as peut-être déjà remarqué qu'il y a une boutique supplémentaire dans la section inventaire : la Boutique des Pièces d'Or.\n\nUne pièce d'or est disponible chaque semaine grâce aux missions. Elles te donnent accès à des récompenses spéciales et limitées.\n\nVa maintenant à la Boutique des Pièces d'Or et jette un œil !\n\nAstuce : Tu peux recevoir des pièces d'or supplémentaires en participant à certains tournois. Surveille-les sur notre serveur Discord. Tape !pokedaily pour rejoindre.
+set_buddy_desc:Voyons maintenant ce que nous pouvons faire avec nos Pokémon.\n\nVa à l'icône de l'ordinateur dans l'extension et clique sur ton Pokémon préféré. Une fois dans la vue détaillée, clique sur la petite icône en forme de cœur à côté de ton Pokémon pour le définir comme copain.\n\nTon Pokémon copain gagne de l'EXP chaque fois que tu attrapes un nouveau Pokémon, et il affecte le bonus de capture de la Ball Copain.\n\nAstuce : Tu peux montrer ton Pokémon copain dans le chat en utilisant !pokeflex.
+trade_generation_3_pokemon_desc:Il n'y a pas de limite au nombre de Pokémon que tu peux collectionner dans PCG. Les longues listes de Pokémon peuvent vite devenir désordonnées, mais heureusement, nous avons des options pour les filtrer afin que tu puisses trouver exactement ce que tu cherches !
+use_wonderpass_desc:Il n'y a pas d'échange direct dans PCG. Tu peux utiliser l'Échange Miracle toutes les 3 heures.
+lock_pokemon_desc:Une fonctionnalité vraiment importante dans PCG est la possibilité de verrouiller un Pokémon pour qu'il ne puisse pas être échangé ou vendu accidentellement.
+add_pokemon_to_team_desc:Nous allons maintenant commencer à créer notre première équipe de combat.
+check_pokemon_stats_desc:Quand il s'agit de combats Pokémon, il y a de nombreux facteurs à considérer. L'un des plus importants est les stats de base, qui définissent la force d'un Pokémon. En dehors des Valeurs Individuelles, les stats de base sont les mêmes pour tous les Pokémon d'une espèce.
+check_move_information_desc:Les attaques de ton Pokémon sont également très importantes—elles décideront de sa performance en combat.
+reroll_pokemon_moves_desc:Dans PCG, les Pokémon n'apprennent pas de nouvelles attaques en montant de niveau—tu peux leur donner un tout nouveau set d'attaques en utilisant un 'Disque Vide' sur eux.
+reroll_pokemon_nature_desc:Nous avons appris les facteurs les plus importants : les stats de base et les attaques. Cependant, il y a plus à savoir !
+reroll_pokemon_ivs_desc:Chaque Pokémon a un ensemble de valeurs individuelles qui peuvent affecter positivement ses stats totales. Elles sont indiquées par une évaluation allant de Horrible à Parfait. Si tu es intéressé par les valeurs exactes, tu peux survoler cette étiquette.
+level_up_pokemon_desc:Pour faire monter de niveau un Pokémon dans PCG, nous avons 3 options :
+evolve_pokemon_desc:Une fois que tu atteins le seuil d'évolution, le travail n'est pas encore terminé—tu auras aussi besoin des pierres d'évolution nécessaires !
+win_stadium_easy_desc:Utilisons ce que nous avons appris pour emmener nos Pokémon dans le premier combat !
+build_a_ranked_team_desc:Félicitations pour ta première victoire ! Tu trouveras souvent des missions qui nécessitent de vaincre le bot du stadium ou des défis d'événements à durée limitée.
+play_ranked_battle_desc:Il est temps pour un vrai défi !
+claim_pokedaily_desc:Merci d'avoir terminé le tutoriel et d'avoir appris sur PCG !
+use_wonderpass:Utilise un Wonderpass
