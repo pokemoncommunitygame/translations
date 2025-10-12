@@ -130,6 +130,9 @@ sellNotYourPokemon:Questo non è più il tuo Pokémon
 sellPriceChanged:Il prezzo di vendita del tuo Pokémon è cambiato. Per favore aggiorna l'estensione
 tradeCooldown:Tempo di recupero: {time}
 tradeCooldownIsActive:Hai già effettuato uno scambio prodigioso nelle ultime 3 ore
+useWonderPassCheckbox:Usa 1 Passo Meraviglia
+wonderPassConsentMessage:Questo consumerà 1 Passo Meraviglia per bypassare il tempo di recupero
+upcomingReward:Ricompensa Imminente
 changeSort:Cambia ordinamento
 sortByID:ID
 sortByName:Nome

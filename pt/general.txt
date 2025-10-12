@@ -130,6 +130,9 @@ sellNotYourPokemon:Este não é mais seu Pokémon
 sellPriceChanged:O preço de venda do seu Pokémon mudou. Por favor, atualize a extensão
 tradeCooldown:Cooldown: {time}
 tradeCooldownIsActive:Você já trocou um wondertraded nas últimas 3 horas
+useWonderPassCheckbox:Usar 1 Passe Maravilha
+wonderPassConsentMessage:Isso consumirá 1 Passe Maravilha para contornar o cooldown
+upcomingReward:Recompensa Próxima
 changeSort:Alterar a ordenação
 sortByID:ID
 sortByName:Nome

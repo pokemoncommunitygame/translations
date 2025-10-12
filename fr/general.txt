@@ -130,6 +130,9 @@ sellNotYourPokemon:Ce n'est plus ton Pokémon
 sellPriceChanged:Le prix de vente de ton Pokémon a changé. Veuillez rafraîchir l'extension
 tradeCooldown:Prochain échange: {time}
 tradeCooldownIsActive:Tu as déjà échangé par miracle ces 3 dernières heures
+useWonderPassCheckbox:Utiliser 1 Passe Miracle
+wonderPassConsentMessage:Cela consommera 1 Passe Miracle pour contourner le délai d'attente
+upcomingReward:Récompense à venir
 changeSort:Changer le tri
 sortByID:ID
 sortByName:Nom

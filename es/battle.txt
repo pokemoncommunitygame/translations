@@ -8,6 +8,10 @@ gauntletDescription:La dificultad aumenta con cada batalla. Los Pokémon usados 
 gauntletStart:Iniciar Desafío
 gauntletCurrentWins:Victorias Actuales
 gauntletHighscore:Tu Mejor Puntuación
+gauntletLeaderboard:Tabla de Clasificación del Gauntlet
+gauntletForbiddenPokemon:Pokémon Prohibidos
+gauntletForbiddenExplanation:Estos Pokémon han sido usados en batallas anteriores del Gauntlet y no pueden ser usados nuevamente hasta que pierdas y te reinicies.
+gauntletForbiddenInTeam:¡Tienes Pokémon prohibidos en tu equipo! Remuévelos para comenzar el Gauntlet.
 tourney:Torneo
 challenge:Desafío
 noChallenge:Sin Desafío

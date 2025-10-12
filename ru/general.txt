@@ -130,6 +130,9 @@ sellNotYourPokemon:Это больше не ваш Покемон
 sellPriceChanged:Цена продажи вашего Покемона изменилась. Пожалуйста, обновите расширение
 tradeCooldown:Перезарядка: {time}
 tradeCooldownIsActive:Вы уже совершали чудо-обмен за последние 3 часа
+useWonderPassCheckbox:Использовать 1 Чудо-пропуск
+wonderPassConsentMessage:Это потратит 1 Чудо-пропуск, чтобы обойти время восстановления
+upcomingReward:Предстоящая награда
 changeSort:Изменить сортировку
 sortByID:ИД
 sortByName:Имя

@@ -8,6 +8,10 @@ gauntletDescription:La difficulté augmente avec chaque combat. Les Pokémon uti
 gauntletStart:Commencer le Défi
 gauntletCurrentWins:Victoires Actuelles
 gauntletHighscore:Votre Meilleur Score
+gauntletLeaderboard:Classement du Gauntlet
+gauntletForbiddenPokemon:Pokémon Interdits
+gauntletForbiddenExplanation:Ces Pokémon ont été utilisés dans des combats précédents du Gauntlet et ne peuvent plus être utilisés jusqu'à ce que vous perdiez et vous réinitialisiez.
+gauntletForbiddenInTeam:Vous avez des Pokémon interdits dans votre équipe ! Retirez-les pour commencer le Gauntlet.
 tourney:Tournoi
 challenge:Défi
 noChallenge:Pas de Défi

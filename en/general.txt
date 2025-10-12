@@ -144,6 +144,9 @@ sellNotYourPokemon:This isn't your Pokémon anymore
 sellPriceChanged:The sale price of your Pokémon changed. Please refresh the extension
 tradeCooldown:Cooldown: {time}
 tradeCooldownIsActive:You already wondertraded in the past 3 hours
+useWonderPassCheckbox:Use 1 Wonder Pass
+wonderPassConsentMessage:This will consume 1 Wonder Pass to bypass the cooldown
+upcomingReward:Upcoming Reward
 changeSort:Change sorting
 sortByID:ID
 sortByName:Name

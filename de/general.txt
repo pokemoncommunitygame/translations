@@ -140,6 +140,9 @@ sellNotYourPokemon:Das ist nicht mehr dein Pokémon
 sellPriceChanged:Der Verkaufspreis deines Pokémon hat sich geändert. Bitte aktualisiere die Erweiterung
 tradeCooldown:Abklingzeit: {time}
 tradeCooldownIsActive:Du hast in den letzten 3 Stunden schon eine Wundertausch durchgeführt
+useWonderPassCheckbox:1 Wunderpass verwenden
+wonderPassConsentMessage:Dies verbraucht 1 Wunderpass, um die Abklingzeit zu umgehen
+upcomingReward:Kommende Belohnung
 changeSort:Sortierung ändern
 sortByID:ID
 sortByName:Name
