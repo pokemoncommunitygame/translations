@@ -256,3 +256,41 @@ force_disc:Disque de Force
 force_discDescription:Un disque utilisé pour enseigner à ton Pokémon un nouvel ensemble de mouvements avec une plus grande chance pour les attaques physiques.
 mystic_disc:Disque Mystique
 mystic_discDescription:Un disque utilisé pour enseigner à ton Pokémon un nouvel ensemble de mouvements avec une plus grande chance pour les attaques spéciales.
+fighting-disc:Disque Combat
+fighting-discDescription:Un disque utilisé pour enseigner à ton Pokémon un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Combat plus puissants.
+bug-disc:Disque Insecte
+bug-discDescription:Un disque utilisé pour enseigner à ton Pokémon un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Insecte plus puissants.
+fire-disc:Disque Feu
+fire-discDescription:Un disque utilisé pour enseigner à ton Pokémon un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Feu plus puissants.
+grass-disc:Disque Plante
+grass-discDescription:Un disque utilisé pour enseigner à ton Pokémon un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Plante plus puissants.
+electric-disc:Disque Électrique
+electric-discDescription:Un disque utilisé pour enseigner à ton Pokémon un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Électrique plus puissants.
+poison-disc:Disque Poison
+poison-discDescription:Un disque utilisé pour enseigner à ton Pokémon un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Poison plus puissants.
+ground-disc:Disque Sol
+ground-discDescription:Un disque utilisé pour enseigner à ton Pokémon un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Sol plus puissants.
+water-disc:Disque Eau
+water-discDescription:Un disque utilisé pour enseigner à ton Pokémon un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Eau plus puissants.
+steel-disc:Disque Acier
+steel-discDescription:Un disque utilisé pour enseigner à ton Pokémon un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Acier plus puissants.
+dragon-disc:Disque Dragon
+dragon-discDescription:Un disque utilisé pour enseigner à ton Pokémon un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Dragon plus puissants.
+rock-disc:Disque Roche
+rock-discDescription:Un disque utilisé pour enseigner à ton Pokémon un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Roche plus puissants.
+dark-disc:Disque Ténèbres
+dark-discDescription:Un disque utilisé pour enseigner à ton Pokémon un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Ténèbres plus puissants.
+psychic-disc:Disque Psy
+psychic-discDescription:Un disque utilisé pour enseigner à ton Pokémon un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Psy plus puissants.
+flying-disc:Disque Vol
+flying-discDescription:Un disque utilisé pour enseigner à ton Pokémon un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Vol plus puissants.
+ghost-disc:Disque Spectre
+ghost-discDescription:Un disque utilisé pour enseigner à ton Pokémon un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Spectre plus puissants.
+normal-disc:Disque Normal
+normal-discDescription:Un disque utilisé pour enseigner à ton Pokémon un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Normal plus puissants.
+fairy-disc:Disque Fée
+fairy-discDescription:Un disque utilisé pour enseigner à ton Pokémon un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Fée plus puissants.
+ice-disc:Disque Glace
+ice-discDescription:Un disque utilisé pour enseigner à ton Pokémon un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Glace plus puissants.
+zygarde_cell:Cellule de Zygarde
+zygarde_cellDescription:Un petit fragment vert, semi-translucide et gélatineux qui forme le corps de Zygarde. Seules, les Cellules n'ont ni volonté ni force, mais lorsqu'elles sont dirigées par un Noyau de Zygarde, elles s'assemblent en diverses formes de Zygarde.

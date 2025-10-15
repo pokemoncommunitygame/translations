@@ -256,3 +256,41 @@ force_disc:Kraftscheibe
 force_discDescription:Eine Scheibe, die deinem Pokémon ein neues Moveset beibringt, mit einer höheren Chance für physische Attacken.
 mystic_disc:Mystische Scheibe
 mystic_discDescription:Eine Scheibe, die deinem Pokémon ein neues Moveset beibringt, mit einer höheren Chance für Spezial-Attacken.
+fighting-disc:Kampf-Scheibe
+fighting-discDescription:Eine Scheibe, die deinem Pokémon ein vollständiges neues Moveset beibringt. Erhöhte Wahrscheinlichkeit, mächtigere Kampf-Attacken zu erhalten.
+bug-disc:Käfer-Scheibe
+bug-discDescription:Eine Scheibe, die deinem Pokémon ein vollständiges neues Moveset beibringt. Erhöhte Wahrscheinlichkeit, mächtigere Käfer-Attacken zu erhalten.
+fire-disc:Feuer-Scheibe
+fire-discDescription:Eine Scheibe, die deinem Pokémon ein vollständiges neues Moveset beibringt. Erhöhte Wahrscheinlichkeit, mächtigere Feuer-Attacken zu erhalten.
+grass-disc:Pflanzen-Scheibe
+grass-discDescription:Eine Scheibe, die deinem Pokémon ein vollständiges neues Moveset beibringt. Erhöhte Wahrscheinlichkeit, mächtigere Pflanzen-Attacken zu erhalten.
+electric-disc:Elektro-Scheibe
+electric-discDescription:Eine Scheibe, die deinem Pokémon ein vollständiges neues Moveset beibringt. Erhöhte Wahrscheinlichkeit, mächtigere Elektro-Attacken zu erhalten.
+poison-disc:Gift-Scheibe
+poison-discDescription:Eine Scheibe, die deinem Pokémon ein vollständiges neues Moveset beibringt. Erhöhte Wahrscheinlichkeit, mächtigere Gift-Attacken zu erhalten.
+ground-disc:Boden-Scheibe
+ground-discDescription:Eine Scheibe, die deinem Pokémon ein vollständiges neues Moveset beibringt. Erhöhte Wahrscheinlichkeit, mächtigere Boden-Attacken zu erhalten.
+water-disc:Wasser-Scheibe
+water-discDescription:Eine Scheibe, die deinem Pokémon ein vollständiges neues Moveset beibringt. Erhöhte Wahrscheinlichkeit, mächtigere Wasser-Attacken zu erhalten.
+steel-disc:Stahl-Scheibe
+steel-discDescription:Eine Scheibe, die deinem Pokémon ein vollständiges neues Moveset beibringt. Erhöhte Wahrscheinlichkeit, mächtigere Stahl-Attacken zu erhalten.
+dragon-disc:Drachen-Scheibe
+dragon-discDescription:Eine Scheibe, die deinem Pokémon ein vollständiges neues Moveset beibringt. Erhöhte Wahrscheinlichkeit, mächtigere Drachen-Attacken zu erhalten.
+rock-disc:Gesteins-Scheibe
+rock-discDescription:Eine Scheibe, die deinem Pokémon ein vollständiges neues Moveset beibringt. Erhöhte Wahrscheinlichkeit, mächtigere Gesteins-Attacken zu erhalten.
+dark-disc:Unlicht-Scheibe
+dark-discDescription:Eine Scheibe, die deinem Pokémon ein vollständiges neues Moveset beibringt. Erhöhte Wahrscheinlichkeit, mächtigere Unlicht-Attacken zu erhalten.
+psychic-disc:Psycho-Scheibe
+psychic-discDescription:Eine Scheibe, die deinem Pokémon ein vollständiges neues Moveset beibringt. Erhöhte Wahrscheinlichkeit, mächtigere Psycho-Attacken zu erhalten.
+flying-disc:Flug-Scheibe
+flying-discDescription:Eine Scheibe, die deinem Pokémon ein vollständiges neues Moveset beibringt. Erhöhte Wahrscheinlichkeit, mächtigere Flug-Attacken zu erhalten.
+ghost-disc:Geister-Scheibe
+ghost-discDescription:Eine Scheibe, die deinem Pokémon ein vollständiges neues Moveset beibringt. Erhöhte Wahrscheinlichkeit, mächtigere Geister-Attacken zu erhalten.
+normal-disc:Normal-Scheibe
+normal-discDescription:Eine Scheibe, die deinem Pokémon ein vollständiges neues Moveset beibringt. Erhöhte Wahrscheinlichkeit, mächtigere Normal-Attacken zu erhalten.
+fairy-disc:Feen-Scheibe
+fairy-discDescription:Eine Scheibe, die deinem Pokémon ein vollständiges neues Moveset beibringt. Erhöhte Wahrscheinlichkeit, mächtigere Feen-Attacken zu erhalten.
+ice-disc:Eis-Scheibe
+ice-discDescription:Eine Scheibe, die deinem Pokémon ein vollständiges neues Moveset beibringt. Erhöhte Wahrscheinlichkeit, mächtigere Eis-Attacken zu erhalten.
+zygarde_cell:Zygarde-Zelle
+zygarde_cellDescription:Ein kleines, grünes, halbtransparentes, blobartiges Fragment, das den Körper von Zygarde bildet. Allein haben Zellen keinen Willen oder keine Stärke, aber wenn sie von einem Zygarde-Kern geleitet werden, formen sie sich zu Zygardes verschiedenen Formen.

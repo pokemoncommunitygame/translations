@@ -256,3 +256,41 @@ force_disc:Disco Forza (Mosse Fisiche)
 force_discDescription:Un disco usato per insegnare al tuo Pokémon un nuovo set di mosse con una maggiore probabilità di mosse fisiche.
 mystic_disc:Disco Mistico (Mosse Speciali)
 mystic_discDescription:Un disco usato per insegnare al tuo Pokémon un nuovo set di mosse con una maggiore probabilità di mosse speciali.
+fighting-disc:Disco Lotta
+fighting-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Lotta più potenti.
+bug-disc:Disco Coleottero
+bug-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Coleottero più potenti.
+fire-disc:Disco Fuoco
+fire-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Fuoco più potenti.
+grass-disc:Disco Erba
+grass-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Erba più potenti.
+electric-disc:Disco Elettro
+electric-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Elettro più potenti.
+poison-disc:Disco Veleno
+poison-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Veleno più potenti.
+ground-disc:Disco Terra
+ground-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Terra più potenti.
+water-disc:Disco Acqua
+water-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Acqua più potenti.
+steel-disc:Disco Acciaio
+steel-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Acciaio più potenti.
+dragon-disc:Disco Drago
+dragon-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Drago più potenti.
+rock-disc:Disco Roccia
+rock-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Roccia più potenti.
+dark-disc:Disco Buio
+dark-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Buio più potenti.
+psychic-disc:Disco Psico
+psychic-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Psico più potenti.
+flying-disc:Disco Volante
+flying-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Volante più potenti.
+ghost-disc:Disco Spettro
+ghost-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Spettro più potenti.
+normal-disc:Disco Normale
+normal-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Normale più potenti.
+fairy-disc:Disco Folletto
+fairy-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Folletto più potenti.
+ice-disc:Disco Ghiaccio
+ice-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Ghiaccio più potenti.
+zygarde_cell:Cellula di Zygarde
+zygarde_cellDescription:Un piccolo frammento verde, semi-traslucido e simile a una goccia che forma il corpo di Zygarde. Da sole, le Cellule non hanno volontà o forza, ma quando sono dirette da un Nucleo di Zygarde, si assemblano nelle varie forme di Zygarde.
