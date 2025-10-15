@@ -98,6 +98,15 @@ PokemonDead:Il Pokémon deve essere rianimato
 PokemonStillAlive:Il Pokémon non ha bisogno di essere rianimato
 PokemonNoStatusCondition:Pokémon non è affetto da stati alterati
 PokemonFullPP:Tutte le mosse hanno PP al massimo
+PokemonHpIvMaxed:L'IV di PS è già a 24 o superiore
+PokemonAttackIvMaxed:L'IV di Attacco è già a 24 o superiore
+PokemonDefenseIvMaxed:L'IV di Difesa è già a 24 o superiore
+PokemonSpecialAttackIvMaxed:L'IV di Attacco Speciale è già a 24 o superiore
+PokemonSpecialDefenseIvMaxed:L'IV di Difesa Speciale è già a 24 o superiore
+PokemonSpeedIvMaxed:L'IV di Velocità è già a 24 o superiore
+PokemonAlreadyHasNature:Il Pokémon ha già questa natura o il suo equivalente
+PokemonNotModified:Il Pokémon non è stato modificato con un Tappo d'Argento
+PokemonNoPerfectStats:Il Pokémon non ha statistiche perfette da rigenerare
 sellConfirmMessage:Il tuo {name} LIV. {lvl} sarà perso per sempre. Vuoi procedere?
 useConfirmMessage:Sei sicuro di voler usare l'oggetto {item} su {pkm}?
 sellSuccess:Hai venduto con successo il tuo Pokémon

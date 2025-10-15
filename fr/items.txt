@@ -166,7 +166,93 @@ fantasy_ball:Fantaisie Ball
 fantasy_ballDescription:Une balle enchantée, la plus efficace lorsqu'elle est utilisée sur des créatures de type Fée et Dragon.
 geo_ball:Geo Ball
 geo_ballDescription:Une balle robuste, la plus efficace lorsqu'elle est utilisée sur des créatures de type Roche et Sol.
+hp_up:PV Plus
+hp_upDescription:Ajoute 1 IV de PV au Pokémon cible par utilisation, jusqu'à ce qu'il ait 24.
+protein:Protéine
+proteinDescription:Ajoute 1 IV d'Attaque au Pokémon cible par utilisation, jusqu'à ce qu'il ait 24.
+iron:Fer
+ironDescription:Ajoute 1 IV de Défense au Pokémon cible par utilisation, jusqu'à ce qu'il ait 24.
+calcium:Calcium
+calciumDescription:Ajoute 1 IV d'Attaque Spéciale au Pokémon cible par utilisation, jusqu'à ce qu'il ait 24.
+zinc:Zinc
+zincDescription:Ajoute 1 IV de Défense Spéciale au Pokémon cible par utilisation, jusqu'à ce qu'il ait 24.
+carbos:Carbone
+carbosDescription:Ajoute 1 IV de Vitesse au Pokémon cible par utilisation, jusqu'à ce qu'il ait 24.
+hardy-mint:Menthe Hardi
+hardy-mintDescription:Une menthe qui change la nature d'un Pokémon en Hardi.
+lonely-mint:Menthe Solo
+lonely-mintDescription:Une menthe qui change la nature d'un Pokémon en Solo (augmente Attaque, diminue Défense).
+brave-mint:Menthe Brave
+brave-mintDescription:Une menthe qui change la nature d'un Pokémon en Brave (augmente Attaque, diminue Vitesse).
+adamant-mint:Menthe Rigide
+adamant-mintDescription:Une menthe qui change la nature d'un Pokémon en Rigide (augmente Attaque, diminue Attaque Spéciale).
+naughty-mint:Menthe Mauvais
+naughty-mintDescription:Une menthe qui change la nature d'un Pokémon en Mauvais (augmente Attaque, diminue Défense Spéciale).
+bold-mint:Menthe Assuré
+bold-mintDescription:Une menthe qui change la nature d'un Pokémon en Assuré (augmente Défense, diminue Attaque).
+docile-mint:Menthe Docile
+docile-mintDescription:Une menthe qui change la nature d'un Pokémon en Docile.
+relaxed-mint:Menthe Relax
+relaxed-mintDescription:Une menthe qui change la nature d'un Pokémon en Relax (augmente Défense, diminue Vitesse).
+impish-mint:Menthe Malin
+impish-mintDescription:Une menthe qui change la nature d'un Pokémon en Malin (augmente Défense, diminue Attaque Spéciale).
+lax-mint:Menthe Lâche
+lax-mintDescription:Une menthe qui change la nature d'un Pokémon en Lâche (augmente Défense, diminue Défense Spéciale).
+timid-mint:Menthe Timide
+timid-mintDescription:Une menthe qui change la nature d'un Pokémon en Timide (augmente Vitesse, diminue Attaque).
+hasty-mint:Menthe Pressé
+hasty-mintDescription:Une menthe qui change la nature d'un Pokémon en Pressé (augmente Vitesse, diminue Défense).
+serious-mint:Menthe Sérieux
+serious-mintDescription:Une menthe qui change la nature d'un Pokémon en Sérieux.
+jolly-mint:Menthe Jovial
+jolly-mintDescription:Une menthe qui change la nature d'un Pokémon en Jovial (augmente Vitesse, diminue Attaque Spéciale).
+naive-mint:Menthe Naïf
+naive-mintDescription:Une menthe qui change la nature d'un Pokémon en Naïf (augmente Vitesse, diminue Défense Spéciale).
+modest-mint:Menthe Modeste
+modest-mintDescription:Une menthe qui change la nature d'un Pokémon en Modeste (augmente Attaque Spéciale, diminue Attaque).
+mild-mint:Menthe Doux
+mild-mintDescription:Une menthe qui change la nature d'un Pokémon en Doux (augmente Attaque Spéciale, diminue Défense).
+quiet-mint:Menthe Discret
+quiet-mintDescription:Une menthe qui change la nature d'un Pokémon en Discret (augmente Attaque Spéciale, diminue Vitesse).
+bashful-mint:Menthe Pudique
+bashful-mintDescription:Une menthe qui change la nature d'un Pokémon en Pudique.
+rash-mint:Menthe Foufou
+rash-mintDescription:Une menthe qui change la nature d'un Pokémon en Foufou (augmente Attaque Spéciale, diminue Défense Spéciale).
+calm-mint:Menthe Calme
+calm-mintDescription:Une menthe qui change la nature d'un Pokémon en Calme (augmente Défense Spéciale, diminue Attaque).
+gentle-mint:Menthe Gentil
+gentle-mintDescription:Une menthe qui change la nature d'un Pokémon en Gentil (augmente Défense Spéciale, diminue Défense).
+sassy-mint:Menthe Malpoli
+sassy-mintDescription:Une menthe qui change la nature d'un Pokémon en Malpoli (augmente Défense Spéciale, diminue Vitesse).
+careful-mint:Menthe Prudent
+careful-mintDescription:Une menthe qui change la nature d'un Pokémon en Prudent (augmente Défense Spéciale, diminue Attaque Spéciale).
+quirky-mint:Menthe Bizarre
+quirky-mintDescription:Une menthe qui change la nature d'un Pokémon en Bizarre.
+bottle_cap_remover:Dissolvant de Capsule
+bottle_cap_removerDescription:Relance une statistique parfaite et supprime l'effet de la Capsule d'Or d'un Pokémon, te permettant d'utiliser à nouveau des Capsules d'Or sur lui.
+lag_syrup:Sirop Lent
+lag_syrupDescription:Un sirop qui définit l'IV de Vitesse d'un Pokémon à 0, le rendant plus lent en bataille.
+weak_serum:Sérum Faible
+weak_serumDescription:Un sérum qui définit l'IV d'Attaque d'un Pokémon à 0, réduisant sa puissance physique.
+small_battle_exp_boost:Petit Boost d'EXP de Combat
+small_battle_exp_boostDescription:Un petit boost qui augmente l'EXP gagnée lors des combats.
+medium_battle_xp_boost:Boost d'EXP de Combat Moyen
+medium_battle_xp_boostDescription:Un boost moyen qui augmente considérablement l'EXP gagnée lors des combats.
+large_battle_xp_boost:Grand Boost d'EXP de Combat
+large_battle_xp_boostDescription:Un grand boost qui augmente énormément l'EXP gagnée lors des combats.
+small_battle_coin_boost:Petit Boost de Pièces de Combat
+small_battle_coin_boostDescription:Un petit boost qui augmente les pièces gagnées lors des combats.
+medium_battle_coin_boost:Boost de Pièces de Combat Moyen
+medium_battle_coin_boostDescription:Un boost moyen qui augmente considérablement les pièces gagnées lors des combats.
+large_battle_coin_boost:Grand Boost de Pièces de Combat
+large_battle_coin_boostDescription:Un grand boost qui augmente énormément les pièces gagnées lors des combats.
+small_ball_bundle:Petit Paquet de Balles
+small_ball_bundleDescription:Un paquet contenant une sélection de Poké Balls de base.
 common_present:Présent
 common_presentDescription:Entrez dans un chat et tapez !pokegift pour rendre les autres joueurs heureux ! 🎅
 ball_bundle:Ball Bundle
 ball_bundleDescription:Une offre spéciale comprenant : 1x Cherish Ball, 1x Great Cherish Ball, 1x Ultra Cherish Ball, 1x Heavy Ball, 1x Feather Ball, 1x Repeat Ball, 1x Net Ball, 1x Timer Ball, 1x Quick Ball, 1x Cipher Ball, 1x Friend Ball, 1x Clone Ball, 1x Phantom Ball, 1x Night Ball, 1x Frozen Ball, 1x Beast Ball, 1x Stone Ball, 1x Magnet Ball, 1x Nest Ball, 1x Fast Ball, 1x Level Ball, 1x Heal Ball, 1x Luxury Ball, 1x Sun Ball, 1x Fantasy Ball, 1x Geo Ball, 1x Mach Ball, 1x Basic Ball
+force_disc:Disque de Force (Attaques Physiques)
+force_discDescription:Un disque utilisé pour enseigner à ton Pokémon un nouvel ensemble de mouvements avec une plus grande chance pour les attaques physiques.
+mystic_disc:Disque Mystique (Attaques Spéciales)
+mystic_discDescription:Un disque utilisé pour enseigner à ton Pokémon un nouvel ensemble de mouvements avec une plus grande chance pour les attaques spéciales.

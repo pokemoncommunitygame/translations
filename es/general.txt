@@ -98,6 +98,15 @@ PokemonDead:El Pokémon necesita ser revivido
 PokemonStillAlive:El Pokémon no necesita ser revivido
 PokemonNoStatusCondition:El Pokémon no está afectado por una condición de estado
 PokemonFullPP:Todos los movimientos tienen PP completo
+PokemonHpIvMaxed:El IV de PS ya está en 24 o más
+PokemonAttackIvMaxed:El IV de Ataque ya está en 24 o más
+PokemonDefenseIvMaxed:El IV de Defensa ya está en 24 o más
+PokemonSpecialAttackIvMaxed:El IV de Ataque Especial ya está en 24 o más
+PokemonSpecialDefenseIvMaxed:El IV de Defensa Especial ya está en 24 o más
+PokemonSpeedIvMaxed:El IV de Velocidad ya está en 24 o más
+PokemonAlreadyHasNature:El Pokémon ya tiene esta naturaleza o su equivalente
+PokemonNotModified:El Pokémon no ha sido modificado con una Tapa de Botella
+PokemonNoPerfectStats:El Pokémon no tiene estadísticas perfectas para rehacer
 sellConfirmMessage:¿Estás seguro de que quieres vender tu {name}?
 useConfirmMessage:¿Estás seguro de que quieres usar el objeto {name} en {pkm}?
 sellSuccess:Completaste la venta con éxito

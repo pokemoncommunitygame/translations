@@ -98,6 +98,15 @@ PokemonDead:Le Pokémon a besoin d'être réanimé
 PokemonStillAlive:Le Pokémon n'a pas besoin d'être réanimé
 PokemonNoStatusCondition:Le Pokémon n'est pas affecté par un problème de statut
 PokemonFullPP:Toutes les capacités sont à pleine PP
+PokemonHpIvMaxed:L'IV de PV est déjà à 24 ou plus
+PokemonAttackIvMaxed:L'IV d'Attaque est déjà à 24 ou plus
+PokemonDefenseIvMaxed:L'IV de Défense est déjà à 24 ou plus
+PokemonSpecialAttackIvMaxed:L'IV d'Attaque Spéciale est déjà à 24 ou plus
+PokemonSpecialDefenseIvMaxed:L'IV de Défense Spéciale est déjà à 24 ou plus
+PokemonSpeedIvMaxed:L'IV de Vitesse est déjà à 24 ou plus
+PokemonAlreadyHasNature:Le Pokémon a déjà cette nature ou son équivalent
+PokemonNotModified:Le Pokémon n'a pas été modifié avec une Capsule d'Argent
+PokemonNoPerfectStats:Le Pokémon n'a pas de statistiques parfaites à relancer
 sellConfirmMessage:Es-tu sûr de vouloir vendre ton {name} ?
 useConfirmMessage:Es-tu sûr de vouloir utiliser l'objet {name} sur {pkm} ?
 sellSuccess:Vous avez réussi la vente

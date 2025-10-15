@@ -166,7 +166,93 @@ fantasy_ball:Fantasieball
 fantasy_ballDescription:Ein verzauberter Ball, am effektivsten bei Feen- und Drachen-Wesen.
 geo_ball:Geo-Ball
 geo_ballDescription:Ein robuster Ball, am effektivsten bei Fels- und Boden-Wesen.
+hp_up:KP-Plus
+hp_upDescription:Erhöht den KP-IV des Ziel-Pokémon pro Anwendung um 1, bis es 24 erreicht hat.
+protein:Protein
+proteinDescription:Erhöht den Angriffs-IV des Ziel-Pokémon pro Anwendung um 1, bis es 24 erreicht hat.
+iron:Eisen
+ironDescription:Erhöht den Verteidigungs-IV des Ziel-Pokémon pro Anwendung um 1, bis es 24 erreicht hat.
+calcium:Kalzium
+calciumDescription:Erhöht den Spezial-Angriffs-IV des Ziel-Pokémon pro Anwendung um 1, bis es 24 erreicht hat.
+zinc:Zink
+zincDescription:Erhöht den Spezial-Verteidigungs-IV des Ziel-Pokémon pro Anwendung um 1, bis es 24 erreicht hat.
+carbos:Carbon
+carbosDescription:Erhöht den Initiative-IV des Ziel-Pokémon pro Anwendung um 1, bis es 24 erreicht hat.
+hardy-mint:Kräftig-Minze
+hardy-mintDescription:Eine Minze, die das Wesen eines Pokémon zu Kräftig ändert.
+lonely-mint:Solo-Minze
+lonely-mintDescription:Eine Minze, die das Wesen eines Pokémon zu Solo ändert (erhöht Angriff, senkt Verteidigung).
+brave-mint:Mutig-Minze
+brave-mintDescription:Eine Minze, die das Wesen eines Pokémon zu Mutig ändert (erhöht Angriff, senkt Initiative).
+adamant-mint:Hart-Minze
+adamant-mintDescription:Eine Minze, die das Wesen eines Pokémon zu Hart ändert (erhöht Angriff, senkt Spezial-Angriff).
+naughty-mint:Frech-Minze
+naughty-mintDescription:Eine Minze, die das Wesen eines Pokémon zu Frech ändert (erhöht Angriff, senkt Spezial-Verteidigung).
+bold-mint:Kühn-Minze
+bold-mintDescription:Eine Minze, die das Wesen eines Pokémon zu Kühn ändert (erhöht Verteidigung, senkt Angriff).
+docile-mint:Sanft-Minze
+docile-mintDescription:Eine Minze, die das Wesen eines Pokémon zu Sanft ändert.
+relaxed-mint:Locker-Minze
+relaxed-mintDescription:Eine Minze, die das Wesen eines Pokémon zu Locker ändert (erhöht Verteidigung, senkt Initiative).
+impish-mint:Pfiffig-Minze
+impish-mintDescription:Eine Minze, die das Wesen eines Pokémon zu Pfiffig ändert (erhöht Verteidigung, senkt Spezial-Angriff).
+lax-mint:Lasch-Minze
+lax-mintDescription:Eine Minze, die das Wesen eines Pokémon zu Lasch ändert (erhöht Verteidigung, senkt Spezial-Verteidigung).
+timid-mint:Scheu-Minze
+timid-mintDescription:Eine Minze, die das Wesen eines Pokémon zu Scheu ändert (erhöht Initiative, senkt Angriff).
+hasty-mint:Hastig-Minze
+hasty-mintDescription:Eine Minze, die das Wesen eines Pokémon zu Hastig ändert (erhöht Initiative, senkt Verteidigung).
+serious-mint:Ernst-Minze
+serious-mintDescription:Eine Minze, die das Wesen eines Pokémon zu Ernst ändert.
+jolly-mint:Froh-Minze
+jolly-mintDescription:Eine Minze, die das Wesen eines Pokémon zu Froh ändert (erhöht Initiative, senkt Spezial-Angriff).
+naive-mint:Naiv-Minze
+naive-mintDescription:Eine Minze, die das Wesen eines Pokémon zu Naiv ändert (erhöht Initiative, senkt Spezial-Verteidigung).
+modest-mint:Mäßig-Minze
+modest-mintDescription:Eine Minze, die das Wesen eines Pokémon zu Mäßig ändert (erhöht Spezial-Angriff, senkt Angriff).
+mild-mint:Mild-Minze
+mild-mintDescription:Eine Minze, die das Wesen eines Pokémon zu Mild ändert (erhöht Spezial-Angriff, senkt Verteidigung).
+quiet-mint:Ruhig-Minze
+quiet-mintDescription:Eine Minze, die das Wesen eines Pokémon zu Ruhig ändert (erhöht Spezial-Angriff, senkt Initiative).
+bashful-mint:Zaghaft-Minze
+bashful-mintDescription:Eine Minze, die das Wesen eines Pokémon zu Zaghaft ändert.
+rash-mint:Hitzig-Minze
+rash-mintDescription:Eine Minze, die das Wesen eines Pokémon zu Hitzig ändert (erhöht Spezial-Angriff, senkt Spezial-Verteidigung).
+calm-mint:Still-Minze
+calm-mintDescription:Eine Minze, die das Wesen eines Pokémon zu Still ändert (erhöht Spezial-Verteidigung, senkt Angriff).
+gentle-mint:Zart-Minze
+gentle-mintDescription:Eine Minze, die das Wesen eines Pokémon zu Zart ändert (erhöht Spezial-Verteidigung, senkt Verteidigung).
+sassy-mint:Forsch-Minze
+sassy-mintDescription:Eine Minze, die das Wesen eines Pokémon zu Forsch ändert (erhöht Spezial-Verteidigung, senkt Initiative).
+careful-mint:Sacht-Minze
+careful-mintDescription:Eine Minze, die das Wesen eines Pokémon zu Sacht ändert (erhöht Spezial-Verteidigung, senkt Spezial-Angriff).
+quirky-mint:Kauzig-Minze
+quirky-mintDescription:Eine Minze, die das Wesen eines Pokémon zu Kauzig ändert.
+bottle_cap_remover:Kronkorken-Entferner
+bottle_cap_removerDescription:Würfelt perfekte Werte neu und entfernt den Flaschenverschluss-Effekt von einem Pokémon, sodass du erneut Flaschenverschlüsse darauf verwenden kannst.
+lag_syrup:Träge-Sirup
+lag_syrupDescription:Ein Sirup, der den Initiative-IV eines Pokémon auf 0 setzt und es im Kampf langsamer macht.
+weak_serum:Schwach-Serum
+weak_serumDescription:Ein Serum, das den Angriffs-IV eines Pokémon auf 0 setzt und seine physische Kraft reduziert.
+small_battle_exp_boost:Kleiner Kampf-EP-Boost
+small_battle_exp_boostDescription:Ein kleiner Boost, der die in Kämpfen erhaltenen EP erhöht.
+medium_battle_xp_boost:Mittlerer Kampf-EP-Boost
+medium_battle_xp_boostDescription:Ein mittlerer Boost, der die in Kämpfen erhaltenen EP deutlich erhöht.
+large_battle_xp_boost:Großer Kampf-EP-Boost
+large_battle_xp_boostDescription:Ein großer Boost, der die in Kämpfen erhaltenen EP stark erhöht.
+small_battle_coin_boost:Kleiner Kampf-Münzen-Boost
+small_battle_coin_boostDescription:Ein kleiner Boost, der die in Kämpfen verdienten Münzen erhöht.
+medium_battle_coin_boost:Mittlerer Kampf-Münzen-Boost
+medium_battle_coin_boostDescription:Ein mittlerer Boost, der die in Kämpfen verdienten Münzen deutlich erhöht.
+large_battle_coin_boost:Großer Kampf-Münzen-Boost
+large_battle_coin_boostDescription:Ein großer Boost, der die in Kämpfen verdienten Münzen stark erhöht.
+small_ball_bundle:Kleines Ball-Bündel
+small_ball_bundleDescription:Ein Bündel, das eine Auswahl an Standard-Pokébällen enthält.
 common_present:Geschenk
 common_presentDescription:Tritt einem Chat bei und tippe !pokegift ein, um anderen Spielern eine Freude zu machen! 🎅
 ball_bundle:Ball-Bündel
 ball_bundleDescription:Ein spezielles Bündelangebot enthält: 1x Cherish Ball, 1x Great Cherish Ball, 1x Ultra Cherish Ball, 1x Heavy Ball, 1x Feather Ball, 1x Repeat Ball, 1x Net Ball, 1x Timer Ball, 1x Quick Ball, 1x Cipher Ball, 1x Friend Ball, 1x Clone Ball, 1x Phantom Ball, 1x Night Ball, 1x Frozen Ball, 1x Beast Ball, 1x Stone Ball, 1x Magnet Ball, 1x Nest Ball, 1x Fast Ball, 1x Level Ball, 1x Heal Ball, 1x Luxury Ball, 1x Sun Ball, 1x Fantasy Ball, 1x Geo Ball, 1x Mach Ball, 1x Basic Ball
+force_disc:Kraftscheibe (Physische Attacken)
+force_discDescription:Eine Scheibe, die deinem Pokémon ein neues Moveset beibringt, mit einer höheren Chance für physische Attacken.
+mystic_disc:Mystische Scheibe (Spezial-Attacken)
+mystic_discDescription:Eine Scheibe, die deinem Pokémon ein neues Moveset beibringt, mit einer höheren Chance für Spezial-Attacken.

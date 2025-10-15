@@ -158,6 +158,15 @@ PokemonDead:Pokémon needs to be revived
 PokemonStillAlive:Pokémon does not need to be revived
 PokemonNoStatusCondition:Pokémon not affected by status condition
 PokemonFullPP:All moves at full PP
+PokemonHpIvMaxed:HP IV is already 24 or higher
+PokemonAttackIvMaxed:Attack IV is already 24 or higher
+PokemonDefenseIvMaxed:Defense IV is already 24 or higher
+PokemonSpecialAttackIvMaxed:Special Attack IV is already 24 or higher
+PokemonSpecialDefenseIvMaxed:Special Defense IV is already 24 or higher
+PokemonSpeedIvMaxed:Speed IV is already 24 or higher
+PokemonAlreadyHasNature:Pokémon already has this nature or its equivalent
+PokemonNotModified:Pokémon has not been modified with a Bottle Cap
+PokemonNoPerfectStats:Pokémon has no perfect stats to reroll
 
 
 

@@ -98,6 +98,15 @@ PokemonDead:Покемона нужно оживить
 PokemonStillAlive:Покемон не нуждается в восстановлении
 PokemonNoStatusCondition:Покемон не поражен статусным эффектом
 PokemonFullPP:Все приемы на полном ПП
+PokemonHpIvMaxed:IV здоровья уже 24 или выше
+PokemonAttackIvMaxed:IV атаки уже 24 или выше
+PokemonDefenseIvMaxed:IV защиты уже 24 или выше
+PokemonSpecialAttackIvMaxed:IV специальной атаки уже 24 или выше
+PokemonSpecialDefenseIvMaxed:IV специальной защиты уже 24 или выше
+PokemonSpeedIvMaxed:IV скорости уже 24 или выше
+PokemonAlreadyHasNature:У покемона уже есть эта натура или ее эквивалент
+PokemonNotModified:Покемон не был изменен с помощью Серебряной Крышки
+PokemonNoPerfectStats:У покемона нет идеальных характеристик для переброса
 sellConfirmMessage:Вы уверены, что хотите продать вашего {name}?
 useConfirmMessage:Вы уверены, что хотите использовать предмет {name} на {pkm}?
 sellSuccess:Вы успешно завершили продажу

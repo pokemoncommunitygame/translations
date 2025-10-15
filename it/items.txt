@@ -166,7 +166,93 @@ fantasy_ball:Sfera Fantasia
 fantasy_ballDescription:Una sfera incantata, più efficace se usata su creature di tipo Folletto e Drago.
 geo_ball:Sfera Geologica
 geo_ballDescription:Una sfera robusta, più efficace se usata su creature di tipo Roccia e Terra.
+hp_up:PS-Su
+hp_upDescription:Aggiunge 1 IV PS al Pokémon bersaglio per uso, fino a raggiungere 24.
+protein:Proteina
+proteinDescription:Aggiunge 1 IV Attacco al Pokémon bersaglio per uso, fino a raggiungere 24.
+iron:Ferro
+ironDescription:Aggiunge 1 IV Difesa al Pokémon bersaglio per uso, fino a raggiungere 24.
+calcium:Calcio
+calciumDescription:Aggiunge 1 IV Attacco Speciale al Pokémon bersaglio per uso, fino a raggiungere 24.
+zinc:Zinco
+zincDescription:Aggiunge 1 IV Difesa Speciale al Pokémon bersaglio per uso, fino a raggiungere 24.
+carbos:Carburante
+carbosDescription:Aggiunge 1 IV Velocità al Pokémon bersaglio per uso, fino a raggiungere 24.
+hardy-mint:Menta Ardita
+hardy-mintDescription:Una menta che cambia la natura di un Pokémon in Ardita.
+lonely-mint:Menta Schiva
+lonely-mintDescription:Una menta che cambia la natura di un Pokémon in Schiva (aumenta Attacco, diminuisce Difesa).
+brave-mint:Menta Audace
+brave-mintDescription:Una menta che cambia la natura di un Pokémon in Audace (aumenta Attacco, diminuisce Velocità).
+adamant-mint:Menta Decisa
+adamant-mintDescription:Una menta che cambia la natura di un Pokémon in Decisa (aumenta Attacco, diminuisce Attacco Speciale).
+naughty-mint:Menta Birbona
+naughty-mintDescription:Una menta che cambia la natura di un Pokémon in Birbona (aumenta Attacco, diminuisce Difesa Speciale).
+bold-mint:Menta Ardente
+bold-mintDescription:Una menta che cambia la natura di un Pokémon in Ardente (aumenta Difesa, diminuisce Attacco).
+docile-mint:Menta Docile
+docile-mintDescription:Una menta che cambia la natura di un Pokémon in Docile.
+relaxed-mint:Menta Placida
+relaxed-mintDescription:Una menta che cambia la natura di un Pokémon in Placida (aumenta Difesa, diminuisce Velocità).
+impish-mint:Menta Scaltra
+impish-mintDescription:Una menta che cambia la natura di un Pokémon in Scaltra (aumenta Difesa, diminuisce Attacco Speciale).
+lax-mint:Menta Fiacca
+lax-mintDescription:Una menta che cambia la natura di un Pokémon in Fiacca (aumenta Difesa, diminuisce Difesa Speciale).
+timid-mint:Menta Timida
+timid-mintDescription:Una menta che cambia la natura di un Pokémon in Timida (aumenta Velocità, diminuisce Attacco).
+hasty-mint:Menta Lesta
+hasty-mintDescription:Una menta che cambia la natura di un Pokémon in Lesta (aumenta Velocità, diminuisce Difesa).
+serious-mint:Menta Seria
+serious-mintDescription:Una menta che cambia la natura di un Pokémon in Seria.
+jolly-mint:Menta Allegra
+jolly-mintDescription:Una menta che cambia la natura di un Pokémon in Allegra (aumenta Velocità, diminuisce Attacco Speciale).
+naive-mint:Menta Ingenua
+naive-mintDescription:Una menta che cambia la natura di un Pokémon in Ingenua (aumenta Velocità, diminuisce Difesa Speciale).
+modest-mint:Menta Modesta
+modest-mintDescription:Una menta che cambia la natura di un Pokémon in Modesta (aumenta Attacco Speciale, diminuisce Attacco).
+mild-mint:Menta Mite
+mild-mintDescription:Una menta che cambia la natura di un Pokémon in Mite (aumenta Attacco Speciale, diminuisce Difesa).
+quiet-mint:Menta Quieta
+quiet-mintDescription:Una menta che cambia la natura di un Pokémon in Quieta (aumenta Attacco Speciale, diminuisce Velocità).
+bashful-mint:Menta Ritrosa
+bashful-mintDescription:Una menta che cambia la natura di un Pokémon in Ritrosa.
+rash-mint:Menta Ardente
+rash-mintDescription:Una menta che cambia la natura di un Pokémon in Ardente (aumenta Attacco Speciale, diminuisce Difesa Speciale).
+calm-mint:Menta Calma
+calm-mintDescription:Una menta che cambia la natura di un Pokémon in Calma (aumenta Difesa Speciale, diminuisce Attacco).
+gentle-mint:Menta Gentile
+gentle-mintDescription:Una menta che cambia la natura di un Pokémon in Gentile (aumenta Difesa Speciale, diminuisce Difesa).
+sassy-mint:Menta Vivace
+sassy-mintDescription:Una menta che cambia la natura di un Pokémon in Vivace (aumenta Difesa Speciale, diminuisce Velocità).
+careful-mint:Menta Cauta
+careful-mintDescription:Una menta che cambia la natura di un Pokémon in Cauta (aumenta Difesa Speciale, diminuisce Attacco Speciale).
+quirky-mint:Menta Furba
+quirky-mintDescription:Una menta che cambia la natura di un Pokémon in Furba.
+bottle_cap_remover:Rimuovi Tappo Corona
+bottle_cap_removerDescription:Rimuove l'effetto del Tappo Corona da un Pokémon, permettendoti di usare nuovamente i Tappi Corona su di esso.
+lag_syrup:Sciroppo Lento
+lag_syrupDescription:Uno sciroppo che imposta l'IV di Velocità di un Pokémon a 0, rendendolo più lento in battaglia.
+weak_serum:Siero Debole
+weak_serumDescription:Un siero che imposta l'IV di Attacco di un Pokémon a 0, riducendo la sua potenza fisica.
+small_battle_exp_boost:Piccolo Boost EXP Battaglia
+small_battle_exp_boostDescription:Un piccolo boost che aumenta l'EXP guadagnata dalle battaglie.
+medium_battle_xp_boost:Medio Boost EXP Battaglia
+medium_battle_xp_boostDescription:Un medio boost che aumenta significativamente l'EXP guadagnata dalle battaglie.
+large_battle_xp_boost:Grande Boost EXP Battaglia
+large_battle_xp_boostDescription:Un grande boost che aumenta enormemente l'EXP guadagnata dalle battaglie.
+small_battle_coin_boost:Piccolo Boost Monete Battaglia
+small_battle_coin_boostDescription:Un piccolo boost che aumenta le monete guadagnate dalle battaglie.
+medium_battle_coin_boost:Medio Boost Monete Battaglia
+medium_battle_coin_boostDescription:Un medio boost che aumenta significativamente le monete guadagnate dalle battaglie.
+large_battle_coin_boost:Grande Boost Monete Battaglia
+large_battle_coin_boostDescription:Un grande boost che aumenta enormemente le monete guadagnate dalle battaglie.
+small_ball_bundle:Piccolo Pacchetto Sfere
+small_ball_bundleDescription:Un pacchetto contenente una selezione di Poké Ball base.
 common_present:Presente
 common_presentDescription:Entra in chat e digita !pokegift per rendere felici gli altri giocatori! 🎅
 ball_bundle:Pacchetto Sfere
 ball_bundleDescription:Un'offerta speciale che contiene: 1x Sfera Pregio, 1x Super Sfera Pregio, 1x Ultra Sfera Pregio, 1x Peso Ball, 1x Leggerezza Ball, 1x Bis Ball, 1x Rete Ball, 1x Timer Ball, 1x Veloce Ball, 1x Cifratura Ball, 1x Amico Ball, 1x Clone Ball, 1x Phantom Ball, 1x Notte Ball, 1x Congelo Ball, 1x Creatura Ball, 1x Pietra Ball, 1x Magnete Ball, 1x Nido Ball, 1x Rapid Ball, 1x Livello Ball, 1x Cura Ball, 1x Lusso Ball, 1x Sole Ball, 1x Fantasia Ball, 1x Geo Ball, 1x Mach Ball, 1x Base Ball
+force_disc:Disco Forza (Mosse Fisiche)
+force_discDescription:Un disco usato per insegnare al tuo Pokémon un nuovo set di mosse con una maggiore probabilità di mosse fisiche.
+mystic_disc:Disco Mistico (Mosse Speciali)
+mystic_discDescription:Un disco usato per insegnare al tuo Pokémon un nuovo set di mosse con una maggiore probabilità di mosse speciali.
