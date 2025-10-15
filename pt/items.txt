@@ -252,7 +252,7 @@ common_present:Presente
 common_presentDescription:Entre no chat e digite !pokegift para alegrar outros jogadores! 🎅
 ball_bundle:Pacote de Bolas
 ball_bundleDescription:Uma oferta especial de pacote contendo: 1x Cherish Ball, 1x Great Cherish Ball, 1x Ultra Cherish Ball, 1x Heavy Ball, 1x Feather Ball, 1x Repeat Ball, 1x Net Ball, 1x Timer Ball, 1x Quick Ball, 1x Cipher Ball, 1x Friend Ball, 1x Clone Ball, 1x Phantom Ball, 1x Night Ball, 1x Frozen Ball, 1x Beast Ball, 1x Stone Ball, 1x Magnet Ball, 1x Nest Ball, 1x Fast Ball, 1x Level Ball, 1x Heal Ball, 1x Luxury Ball, 1x Sun Ball, 1x Fantasy Ball, 1x Geo Ball, 1x Mach Ball, 1x Basic Ball
-force_disc:Force Disc (Movimentos Físicos)
+force_disc:Disco de Força
 force_discDescription:Um disco usado para ensinar ao seu Pokémon um novo conjunto de movimentos com maior chance de movimentos físicos.
-mystic_disc:Mystic Disc (Movimentos Especiais)
+mystic_disc:Disco Místico
 mystic_discDescription:Um disco usado para ensinar ao seu Pokémon um novo conjunto de movimentos com maior chance de movimentos especiais.

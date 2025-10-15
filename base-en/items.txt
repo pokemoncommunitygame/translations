@@ -253,7 +253,7 @@ large_battle_coin_boostDescription:A large boost that greatly increases the coin
 small_ball_bundle:Small Ball Bundle
 small_ball_bundleDescription:A bundle containing a selection of basic Poké Balls.
 
-force_disc:Force Disc (Physical Moves)
+force_disc:Force Disc
 force_discDescription:A disc used to teach your Pokémon a new move set with a higher chance for physical moves.
-mystic_disc:Mystic Disc (Special Moves)
+mystic_disc:Mystic Disc
 mystic_discDescription:A disc used to teach your Pokémon a new move set with a higher chance for special moves.
