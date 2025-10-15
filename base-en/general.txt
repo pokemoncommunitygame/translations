@@ -167,11 +167,14 @@ PokemonSpeedIvMaxed:Speed IV is already 24 or higher
 PokemonAlreadyHasNature:Pokémon already has this nature or its equivalent
 PokemonNotModified:Pokémon has not been modified with a Bottle Cap
 PokemonNoPerfectStats:Pokémon has no perfect stats to reroll
+PokemonWrongTypeForDisc:Pokémon must be {0} type to use this disc
 
 
 
 wonderPassNoCooldown:Your Wonderpass is not on cooldown!
 pokedailyNoCooldown:Your Pokedaily is not on cooldown!
+pendingPokemonSelections:You already have pending Pokemon selections. Please complete your current selection first.
+selectionInfo:You can always close that window and decide later on your reward by using the item. It will be consumed after selecting your reward.
 
 eventCategory:Event
 extraCategory:Extra

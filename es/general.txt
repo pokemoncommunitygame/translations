@@ -112,6 +112,8 @@ useConfirmMessage:¿Estás seguro de que quieres usar el objeto {name} en {pkm}?
 sellSuccess:Completaste la venta con éxito
 wonderPassNoCooldown:¡Tu Wonderpass no está en tiempo de reutilización!
 pokedailyNoCooldown:¡Tu Pokedaily no está en tiempo de reutilización!
+pendingPokemonSelections:Ya tienes selecciones de Pokémon pendientes. Por favor, completa tu selección actual primero.
+selectionInfo:Siempre puedes cerrar esa ventana y decidir más tarde sobre tu recompensa usando el objeto. Se consumirá después de seleccionar tu recompensa.
 pokemonListHeadline:Tu Pokémon
 info:Info
 team:Equipo
@@ -306,3 +308,4 @@ points:Puntos
 rewards:Recompensas de Lealtad
 unlocked:Desbloqueado
 retry:Reintentar
+PokemonWrongTypeForDisc:El Pokémon debe ser de tipo {0} para usar este disco.

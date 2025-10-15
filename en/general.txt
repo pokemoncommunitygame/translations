@@ -126,6 +126,8 @@ useConfirmMessage:Are you sure that you want to use the item {name} on {pkm}?
 sellSuccess:You successfully completed the sale
 wonderPassNoCooldown:Your Wonderpass is not on cooldown!
 pokedailyNoCooldown:Your Pokedaily is not on cooldown!
+pendingPokemonSelections:You already have pending Pokemon selections. Please complete your current selection first.
+selectionInfo:You can always close that window and decide later on your reward by using the item. It will be consumed after selecting your reward.
 pokemonListHeadline:Your Pokémon
 info:Info
 team:Team
@@ -306,3 +308,4 @@ newDexEntryCongratulations:Congratulations! You've discovered a new Pokémon!
 newDexEntryDescription:This Pokémon has been added to your Pokédex. You can now view its information anytime.
 shiny:Shiny
 level:Level
+PokemonWrongTypeForDisc:Pokémon must be {0} type to use this disc

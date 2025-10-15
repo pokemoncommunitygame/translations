@@ -112,6 +112,8 @@ useConfirmMessage:Es-tu sûr de vouloir utiliser l'objet {name} sur {pkm} ?
 sellSuccess:Vous avez réussi la vente
 wonderPassNoCooldown:Votre Wonderpass n'est pas en cours de recharge !
 pokedailyNoCooldown:Votre Pokedaily n'est pas en cours de recharge !
+pendingPokemonSelections:Vous avez déjà des sélections de Pokémon en attente. Veuillez d'abord terminer votre sélection actuelle.
+selectionInfo:Vous pouvez toujours fermer cette fenêtre et décider plus tard de votre récompense en utilisant l'objet. Il sera consommé après avoir sélectionné votre récompense.
 pokemonListHeadline:Vos Pokémon
 info:Infos
 team:Équipe
@@ -306,3 +308,4 @@ points:Points
 rewards:Récompenses de Fidélité
 unlocked:Débloqué
 retry:Réessayer
+PokemonWrongTypeForDisc:Les Pokémon doivent être de type {0} pour utiliser ce disque.
