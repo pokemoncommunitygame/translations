@@ -4,7 +4,7 @@ private:Privé
 stadium:Stade
 battleGauntlet:Défi de Combat
 gauntletWins:Victoires
-gauntletDescription:La difficulté augmente avec chaque combat. Les Pokémon utilisés dans les combats précédents ne peuvent plus être utilisés dans les combats suivants. Si vous perdez, vous serez remis au début et retrouverez l'accès à tous vos Pokémon.
+gauntletDescription:Vous pouvez utiliser chaque espèce de Pokémon une seule fois. Si vous perdez, vous serez repoussé de 5 étapes. Le mode se réinitialise toutes les 2 semaines, vous permettant de recommencer à zéro et de gagner à nouveau les récompenses. Vous pouvez taper !gauntlet dans la liste des Pokémon pour voir tous les Pokémon qui n'ont pas encore été utilisés.
 gauntletStart:Commencer le Défi
 gauntletCurrentWins:Victoires Actuelles
 gauntletHighscore:Votre Meilleur Score

@@ -4,7 +4,7 @@ ranked:Ranked
 stadium:Stadion
 battleGauntlet:Kampf-Herausforderung
 gauntletWins:Siege
-gauntletDescription:Die Schwierigkeit steigt mit jedem Kampf. Pokémon, die in früheren Kämpfen verwendet wurden, können in späteren Kämpfen nicht mehr verwendet werden. Wenn du verlierst, wirst du zum Anfang zurückgesetzt und erhältst Zugang zu all deinen Pokémon zurück.
+gauntletDescription:Du kannst jede Pokémon-Art nur einmal verwenden. Wenn du verlierst, wirst du um 5 Stufen zurückgeworfen. Der Modus wird alle 2 Wochen zurückgesetzt, sodass du neu anfangen und die Belohnungen erneut verdienen kannst. Du kannst !gauntlet in die Pokémon-Liste eingeben, um alle Pokémon zu sehen, die noch nicht verwendet wurden.
 gauntletStart:Herausforderung starten
 gauntletCurrentWins:Aktuelle Siege
 gauntletHighscore:Dein Highscore
