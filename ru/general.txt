@@ -309,3 +309,4 @@ rewards:Награды за лояльность
 unlocked:Разблокировано
 retry:Повторить попытку
 PokemonWrongTypeForDisc:Покемон должен быть типа {0}, чтобы использовать этот диск.
+weightScoringDescription:Этот {pokemon_name} набрал {weight} очков из возможных 100!

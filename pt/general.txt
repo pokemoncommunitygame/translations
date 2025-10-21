@@ -309,3 +309,4 @@ rewards:Recompensas de Fidelidade
 unlocked:Desbloqueado
 retry:Tentar Novamente
 PokemonWrongTypeForDisc:Pokémon deve ser do tipo {0} para usar este disco
+weightScoringDescription:Este {pokemon_name} marcou {weight} pontos de um total possível de 100!

@@ -3259,3 +3259,7 @@ venusaur-f:Venusaur (F)
 venusaur-fDescription:Huge amounts of pollen burst from it with the force of a volcanic eruption. Breathing in too much of the pollen can cause fainting.
 vileplume-f:Vileplume (F)
 vileplume-fDescription:The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.
+caterpie-pcg:Caterpie
+caterpie-pcgDescription:Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls. (Art by Anne_Dyari)
+miltank-pcg:Miltank
+miltank-pcgDescription:This Pokémon needs to be milked every day, or else it will fall ill. The flavor of Miltank milk changes with the seasons.(Art by itsbritneexo)

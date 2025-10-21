@@ -294,3 +294,5 @@ ice-disc:Ice Disc
 ice-discDescription:A disc used to teach your Pokémon a full new move set. Increased likelihood of rolling more powerful Ice-type moves.
 zygarde_cell:Zygarde Cell
 zygarde_cellDescription:A small, green, semi-translucent blob-like fragment that forms the body of Zygarde. On their own, Cells have no will or strength, but when directed by a Zygarde Core, they assemble into Zygarde’s various forms.
+sport_ball:Sport Ball
+sport_ballDescription:🪲 Has a 2x chance to catch a shiny Bug Catching Contest event Pokemon. You can recognize them by a distinct spawn message! 🪲

@@ -16,6 +16,11 @@ catch_with_attack:Поймать покемона с Атакой <compare> <val
 catch_with_defense:Поймать покемона с Защитой <compare> <value>
 catch_with_hp:Поймать покемона с ОЗ <compare> <value>
 catch_with_stats:Поймать покемона с Общей Статой <compare> <value>
+catch_score_0_10:[Событие] Поймай {amount} Покемонов с оценкой 0-10
+catch_score_10_40:[Событие] Поймай {amount} Покемонов с оценкой 10-40
+catch_score_40_60:[Событие] Поймай {amount} Покемонов с оценкой 40-60
+catch_score_60_90:[Событие] Поймай {amount} Покемонов с оценкой 60-90
+catch_score_90_100:[Событие] Поймай {amount} Покемонов с оценкой 90-100
 miss:Промахнуться
 miss_with_type:Промахнуться покемоном типа <type>
 miss_with_ball:Промахнуться с <ball>

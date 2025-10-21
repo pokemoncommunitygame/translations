@@ -309,3 +309,4 @@ newDexEntryDescription:Dieses Pokémon wurde deinem Pokédex hinzugefügt. Du ka
 shiny:Schillernd
 level:Level
 PokemonWrongTypeForDisc:Pokémon muss vom Typ {0} sein, um diese Disc zu verwenden.
+weightScoringDescription:Dieses {pokemon_name} hat {weight} von möglichen 100 Punkten erzielt!

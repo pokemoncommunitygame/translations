@@ -390,3 +390,5 @@ newDexEntryDescription:This Pokémon has been added to your Pokédex. You can no
 continue:Continue
 shiny:Shiny
 level:Level
+
+weightScoringDescription:This {pokemon_name} scored {weight} points out of a possible 100!

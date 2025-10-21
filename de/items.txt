@@ -294,3 +294,5 @@ ice-disc:Eis-Scheibe
 ice-discDescription:Eine Scheibe, die deinem Pokémon ein vollständiges neues Moveset beibringt. Erhöhte Wahrscheinlichkeit, mächtigere Eis-Attacken zu erhalten.
 zygarde_cell:Zygarde-Zelle
 zygarde_cellDescription:Ein kleines, grünes, halbtransparentes, blobartiges Fragment, das den Körper von Zygarde bildet. Allein haben Zellen keinen Willen oder keine Stärke, aber wenn sie von einem Zygarde-Kern geleitet werden, formen sie sich zu Zygardes verschiedenen Formen.
+sport_ball:Sportball
+sport_ballDescription:🪲 Hat eine 2x Chance, ein schillerndes Pokémon beim Käferfang-Wettbewerb zu fangen. Du erkennst sie an einer besonderen Spawn-Nachricht! 🪲

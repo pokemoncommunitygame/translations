@@ -294,3 +294,5 @@ ice-disc:Disco Ghiaccio
 ice-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Ghiaccio più potenti.
 zygarde_cell:Cellula di Zygarde
 zygarde_cellDescription:Un piccolo frammento verde, semi-traslucido e simile a una goccia che forma il corpo di Zygarde. Da sole, le Cellule non hanno volontà o forza, ma quando sono dirette da un Nucleo di Zygarde, si assemblano nelle varie forme di Zygarde.
+sport_ball:Sport Ball
+sport_ballDescription:🪲 Ha una probabilità 2x di catturare un Pokémon evento del Concorso Acchiappabug. Puoi riconoscerli da un messaggio di apparizione distintivo! 🪲

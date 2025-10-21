@@ -309,3 +309,4 @@ rewards:Ricompense Fedeltà
 unlocked:Sbloccato
 retry:Riprova
 PokemonWrongTypeForDisc:Il Pokémon deve essere di tipo {0} per usare questo disco.
+weightScoringDescription:Questo {pokemon_name} ha ottenuto {weight} punti su un massimo di 100!

@@ -294,3 +294,5 @@ ice-disc:Disco Hielo
 ice-discDescription:Un disco usado para enseñar a tu Pokémon un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Hielo más poderosos.
 zygarde_cell:Célula de Zygarde
 zygarde_cellDescription:Un pequeño fragmento verde, semitranslúcido y con forma de burbuja que forma el cuerpo de Zygarde. Por sí solas, las Células no tienen voluntad ni fuerza, pero cuando son dirigidas por un Núcleo de Zygarde, se ensamblan en las diversas formas de Zygarde.
+sport_ball:Sport Ball
+sport_ballDescription:🪲 Tiene el doble de probabilidad de atrapar un Pokémon de evento del Concurso de Captura de Bichos brillante. ¡Puedes reconocerlos por un mensaje de aparición distintivo! 🪲

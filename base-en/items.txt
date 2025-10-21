@@ -170,6 +170,8 @@ fantasy_ball:Fantasy Ball
 fantasy_ballDescription:An enchanted ball, most effective when used on Fairy and Dragon-type creatures.
 geo_ball:Geo Ball
 geo_ballDescription:A sturdy ball, most effective when used on Rock and Ground-type creatures.
+sport_ball:Sport Ball
+sport_ballDescription:🪲 Has a 2x chance to catch a shiny Bug Catching Contest event Pokemon. You can recognize them by a distinct spawn message! 🪲
 hp_up:HP Up
 hp_upDescription:Adds 1 HP IV to the target Pokémon per use, until it has 24.
 protein:Protein

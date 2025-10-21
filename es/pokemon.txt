@@ -3258,3 +3258,7 @@ vileplume-f:Vileplume (F)
 vileplume-fDescription:Cuanto mayores son sus pétalos, más tóxico es su polen. Le pesa la cabeza y le cuesta mantenerla erguida.
 steelix-retro:Steelix (Retro)
 steelix-retroDescription:Se cree que su cuerpo se transformó como resultado de la acumulación de hierro internamente al tragar tierra.
+caterpie-pcg:Caterpie
+miltank-pcg:Miltank
+caterpie-pcgDescription:Sus patas cortas terminan en ventosas que le permiten trepar incansablemente por pendientes y paredes. (Arte de Anne_Dyari)
+miltank-pcgDescription:Este Pokémon necesita ser ordeñado todos los días, o de lo contrario se enfermará. El sabor de la leche de Miltank cambia con las estaciones. (Arte de itsbritneexo)
