@@ -1,30 +1,29 @@
-# Raid Goal Choices
-2xShinyChance=2x Probabilidad Shiny
-3xShinyChance=3x Probabilidad Shiny
-2xStoneChance=2x Probabilidad Piedra
-3xStoneChance=3x Probabilidad Piedra
-candyCanDrop=¡Dulces Raros pueden caer ahora!
-2xCandyChance=2x Probabilidad Dulces Raros
-3xCandyChance=3x Probabilidad Dulces Raros
-boostedAtier=Boost de spawn de tier A
-rareSpawnsEnterThePool=Los Spawns Raros entran al pool de spawn
-noCommonPokedaily=sin Pokedaily Común
-noUncommonPokedaily=sin COMÚN & sin POCO COMÚN Pokedaily
-presentCanDrop=¡Regalos pueden caer ahora!
-2xPresentDropChance=¡2x Probabilidad Regalos!
-3xPresentDropChance=¡3x Probabilidad Regalos!
-battleItemsCanDrop=¡Items de Batalla pueden caer ahora!
-2xBattleItemsCanDrop=¡Items de Batalla pueden caer ahora!
-3xBattleItemsCanDrop=¡Items de Batalla pueden caer ahora!
-rarePresentCanDrop=¡REGALOS RAROS pueden caer ahora!
-2xRarePresentChance=¡2x Probabilidad REGALOS RAROS!
-3xRarePresentChance=¡3x Probabilidad REGALOS RAROS!
-35%increasedChatPayout=¡35% Pago de chat aumentado!
-boostedEventCoinDrops=Drops de monedas de evento mejorados
-snowballCanDrop=¡Bolas de nieve pueden caer ahora!
-eggsCanDrop=¡Huevos pueden caer ahora!
-maxCatchLevel20=Hasta Lvl 20 Pokemon Pueden ser Capturados
-maxCatchLevel25=Hasta Lvl 25 Pokemon Pueden ser Capturados
-maxCatchLevel30=Hasta Lvl 30 Pokemon Pueden ser Capturados
-maxCatchLevel35=Hasta Lvl 35 Pokemon Pueden ser Capturados
-maxCatchLevel40=Hasta Lvl 40 Pokemon Pueden ser Capturados
+2xShinyChance:2x Probabilidad Shiny
+3xShinyChance:3x Probabilidad Shiny
+2xStoneChance:2x Probabilidad Piedra
+3xStoneChance:3x Probabilidad Piedra
+candyCanDrop:¡Dulces Raros pueden caer ahora!
+2xCandyChance:2x Probabilidad Dulces Raros
+3xCandyChance:3x Probabilidad Dulces Raros
+boostedAtier:Boost de spawn de tier A
+rareSpawnsEnterThePool:Los Spawns Raros entran al pool de spawn
+noCommonPokedaily:sin Pokedaily Común
+noUncommonPokedaily:sin COMÚN & sin POCO COMÚN Pokedaily
+presentCanDrop:¡Regalos pueden caer ahora!
+2xPresentDropChance:¡2x Probabilidad Regalos!
+3xPresentDropChance:¡3x Probabilidad Regalos!
+battleItemsCanDrop:¡Items de Batalla pueden caer ahora!
+2xBattleItemsCanDrop:¡Items de Batalla pueden caer ahora!
+3xBattleItemsCanDrop:¡Items de Batalla pueden caer ahora!
+rarePresentCanDrop:¡REGALOS RAROS pueden caer ahora!
+2xRarePresentChance:¡2x Probabilidad REGALOS RAROS!
+3xRarePresentChance:¡3x Probabilidad REGALOS RAROS!
+35%increasedChatPayout:¡35% Pago de chat aumentado!
+boostedEventCoinDrops:Drops de monedas de evento mejorados
+snowballCanDrop:¡Bolas de nieve pueden caer ahora!
+eggsCanDrop:¡Huevos pueden caer ahora!
+maxCatchLevel20:Hasta Lvl 20 Pokemon Pueden ser Capturados
+maxCatchLevel25:Hasta Lvl 25 Pokemon Pueden ser Capturados
+maxCatchLevel30:Hasta Lvl 30 Pokemon Pueden ser Capturados
+maxCatchLevel35:Hasta Lvl 35 Pokemon Pueden ser Capturados
+maxCatchLevel40:Hasta Lvl 40 Pokemon Pueden ser Capturados
