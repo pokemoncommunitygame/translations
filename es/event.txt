@@ -5,25 +5,25 @@
 candyCanDrop:¡Dulces Raros pueden caer ahora!
 2xCandyChance:2x Probabilidad Dulces Raros
 3xCandyChance:3x Probabilidad Dulces Raros
-boostedAtier:Boost de spawn de tier A
-rareSpawnsEnterThePool:Los Spawns Raros entran al pool de spawn
-noCommonPokedaily:sin Pokedaily Común
-noUncommonPokedaily:sin COMÚN & sin POCO COMÚN Pokedaily
+boostedAtier:A-tier aumento de aparición
+rareSpawnsEnterThePool:Las apariciones raras entran en el grupo de aparición
+noCommonPokedaily:No hay Pokedaily Común
+noUncommonPokedaily:No hay Pokedaily Común e Inusual
 presentCanDrop:¡Regalos pueden caer ahora!
-2xPresentDropChance:¡2x Probabilidad Regalos!
-3xPresentDropChance:¡3x Probabilidad Regalos!
+2xPresentDropChance:¡2x oportunidad de Presente!
+3xPresentDropChance:¡3x oportunidad de Presente!
 battleItemsCanDrop:¡Items de Batalla pueden caer ahora!
 2xBattleItemsCanDrop:¡Items de Batalla pueden caer ahora!
 3xBattleItemsCanDrop:¡Items de Batalla pueden caer ahora!
-rarePresentCanDrop:¡REGALOS RAROS pueden caer ahora!
-2xRarePresentChance:¡2x Probabilidad REGALOS RAROS!
-3xRarePresentChance:¡3x Probabilidad REGALOS RAROS!
+rarePresentCanDrop:¡Los Presentes Raros ahora pueden caer!
+2xRarePresentChance:2x oportunidad de Presente Raro
+3xRarePresentChance:3x oportunidad de Presente Raro
 35%increasedChatPayout:¡35% Pago de chat aumentado!
 boostedEventCoinDrops:Drops de monedas de evento mejorados
-snowballCanDrop:¡Bolas de nieve pueden caer ahora!
+snowballCanDrop:¡Las Bolas de Nieve ahora pueden caer!
 eggsCanDrop:¡Huevos pueden caer ahora!
-maxCatchLevel20:Hasta Lvl 20 Pokemon Pueden ser Capturados
-maxCatchLevel25:Hasta Lvl 25 Pokemon Pueden ser Capturados
-maxCatchLevel30:Hasta Lvl 30 Pokemon Pueden ser Capturados
-maxCatchLevel35:Hasta Lvl 35 Pokemon Pueden ser Capturados
-maxCatchLevel40:Hasta Lvl 40 Pokemon Pueden ser Capturados
+maxCatchLevel20:Se pueden atrapar Pokémon de hasta Nivel 20
+maxCatchLevel25:Se pueden atrapar Pokémon de hasta Nivel 25
+maxCatchLevel30:Se pueden atrapar Pokémon de hasta Nivel 30
+maxCatchLevel35:Se pueden atrapar Pokémon de hasta Nivel 35
+maxCatchLevel40:Se pueden atrapar Pokémon de hasta Nivel 40

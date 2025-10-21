@@ -5,25 +5,25 @@
 candyCanDrop:Doces Raros podem agora cair!
 2xCandyChance:2x Chance Doces Raros
 3xCandyChance:3x Chance Doces Raros
-boostedAtier:Boost de spawn tier A
-rareSpawnsEnterThePool:Spawns Raros entram no pool de spawn
-noCommonPokedaily:sem Pokedaily Comum
-noUncommonPokedaily:sem COMUM & sem POUCO COMUM Pokedaily
+boostedAtier:Impulso de aparição de nível A
+rareSpawnsEnterThePool:Aparições raras entram no grupo de aparição
+noCommonPokedaily:Sem Pokedaily Comum
+noUncommonPokedaily:Sem Pokedaily Comum & Incomum
 presentCanDrop:Presentes podem agora cair!
-2xPresentDropChance:2x Chance Presentes!
-3xPresentDropChance:3x Chance Presentes!
+2xPresentDropChance:Chance de Presente 2x!
+3xPresentDropChance:Chance de Presente 3x!
 battleItemsCanDrop:Itens de Batalha podem agora cair!
 2xBattleItemsCanDrop:Itens de Batalha podem agora cair!
 3xBattleItemsCanDrop:Itens de Batalha podem agora cair!
-rarePresentCanDrop:PRESENTES RAROS podem agora cair!
-2xRarePresentChance:2x Chance PRESENTES RAROS!
-3xRarePresentChance:3x Chance PRESENTES RAROS!
+rarePresentCanDrop:Presentes Raros podem cair agora!
+2xRarePresentChance:Chance de Presente Raro 2x!
+3xRarePresentChance:Chance de Presente Raro 3x!
 35%increasedChatPayout:35% Pagamento de chat aumentado!
 boostedEventCoinDrops:Drops de moedas de evento impulsionados
-snowballCanDrop:Bolas de neve podem agora cair!
+snowballCanDrop:Bolas de neve podem cair agora!
 eggsCanDrop:Ovos podem agora cair!
-maxCatchLevel20:Até Lvl 20 Pokemon Podem ser Capturados
-maxCatchLevel25:Até Lvl 25 Pokemon Podem ser Capturados
-maxCatchLevel30:Até Lvl 30 Pokemon Podem ser Capturados
-maxCatchLevel35:Até Lvl 35 Pokemon Podem ser Capturados
-maxCatchLevel40:Até Lvl 40 Pokemon Podem ser Capturados
+maxCatchLevel20:Pokémon de até Nível 20 podem ser capturados
+maxCatchLevel25:Pokémon de até Nível 25 podem ser capturados
+maxCatchLevel30:Pokémon de até Nível 30 podem ser capturados
+maxCatchLevel35:Pokémon de até Nível 35 podem ser capturados
+maxCatchLevel40:Pokémon de até Nível 40 podem ser capturados

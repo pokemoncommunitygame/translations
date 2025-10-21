@@ -5,25 +5,25 @@
 candyCanDrop:Rare Candy can now drop!
 2xCandyChance:2x Rare Candy Chance
 3xCandyChance:3x Rare Candy Chance
-boostedAtier:A tiers spawn boost
-rareSpawnsEnterThePool:Rare Spawns Enter the Spawn pool
-noCommonPokedaily:no Common Pokedaily
-noUncommonPokedaily:no COMMON & no UNCOMMON Pokedaily
+boostedAtier:A-tier spawn boost
+rareSpawnsEnterThePool:Rare spawns enter the spawn pool
+noCommonPokedaily:No Common Pokedaily
+noUncommonPokedaily:No Common & Uncommon Pokedaily
 presentCanDrop:Presents can now drop!
-2xPresentDropChance:2x Presents chance!
-3xPresentDropChance:3x Presents chance!
+2xPresentDropChance:2x Present chance!
+3xPresentDropChance:3x Present chance!
 battleItemsCanDrop:Battle Items can now drop!
 2xBattleItemsCanDrop:Battle Items can now drop!
 3xBattleItemsCanDrop:Battle Items can now drop!
-rarePresentCanDrop:RARE Presents can now drop!
-2xRarePresentChance:2x RARE Presents chance!
-3xRarePresentChance:3x RARE Presents chance!
+rarePresentCanDrop:Rare Presents can now drop!
+2xRarePresentChance:2x Rare Present chance!
+3xRarePresentChance:3x Rare Present chance!
 35%increasedChatPayout:35% Increased chat payout!
 boostedEventCoinDrops:Boosted event coin drops
-snowballCanDrop:Snowball can now drop!
+snowballCanDrop:Snowballs can now drop!
 eggsCanDrop:Eggs can now drop!
-maxCatchLevel20:Up to Lvl 20 Pokemon Can be Caught
-maxCatchLevel25:Up to Lvl 25 Pokemon Can be Caught
-maxCatchLevel30:Up to Lvl 30 Pokemon Can be Caught
-maxCatchLevel35:Up to Lvl 35 Pokemon Can be Caught
-maxCatchLevel40:Up to Lvl 40 Pokemon Can be Caught
+maxCatchLevel20:Up to Level 20 Pokemon can be caught
+maxCatchLevel25:Up to Level 25 Pokemon can be caught
+maxCatchLevel30:Up to Level 30 Pokemon can be caught
+maxCatchLevel35:Up to Level 35 Pokemon can be caught
+maxCatchLevel40:Up to Level 40 Pokemon can be caught

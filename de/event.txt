@@ -5,25 +5,25 @@
 candyCanDrop:Seltene Süßigkeiten können jetzt fallen!
 2xCandyChance:2x Seltene Süßigkeiten Chance
 3xCandyChance:3x Seltene Süßigkeiten Chance
-boostedAtier:A-Tier Spawn Boost
-rareSpawnsEnterThePool:Seltene Spawns betreten den Spawn Pool
-noCommonPokedaily:kein Gewöhnliches Pokedaily
-noUncommonPokedaily:kein GEWÖHNLICHES & kein UNGEWÖHNLICHES Pokedaily
+boostedAtier:A-Tier Spawn-Boost
+rareSpawnsEnterThePool:Seltene Spawns betreten den Spawn-Pool
+noCommonPokedaily:Kein Gewöhnlicher Pokedaily
+noUncommonPokedaily:Kein Gewöhnlicher & Ungewöhnlicher Pokedaily
 presentCanDrop:Geschenke können jetzt fallen!
-2xPresentDropChance:2x Geschenke Chance!
-3xPresentDropChance:3x Geschenke Chance!
+2xPresentDropChance:2x Geschenkchance!
+3xPresentDropChance:3x Geschenkchance!
 battleItemsCanDrop:Kampf-Items können jetzt fallen!
 2xBattleItemsCanDrop:Kampf-Items können jetzt fallen!
 3xBattleItemsCanDrop:Kampf-Items können jetzt fallen!
-rarePresentCanDrop:SELTENE Geschenke können jetzt fallen!
-2xRarePresentChance:2x SELTENE Geschenke Chance!
-3xRarePresentChance:3x SELTENE Geschenke Chance!
+rarePresentCanDrop:Seltene Geschenke können jetzt fallen!
+2xRarePresentChance:2x Seltene Geschenkchance!
+3xRarePresentChance:3x Seltene Geschenkchance!
 35%increasedChatPayout:35% Erhöhte Chat-Auszahlung!
 boostedEventCoinDrops:Verstärkte Event-Münzen Drops
 snowballCanDrop:Schneebälle können jetzt fallen!
 eggsCanDrop:Eier können jetzt fallen!
-maxCatchLevel20:Bis zu Lvl 20 Pokemon können gefangen werden
-maxCatchLevel25:Bis zu Lvl 25 Pokemon können gefangen werden
-maxCatchLevel30:Bis zu Lvl 30 Pokemon können gefangen werden
-maxCatchLevel35:Bis zu Lvl 35 Pokemon können gefangen werden
-maxCatchLevel40:Bis zu Lvl 40 Pokemon können gefangen werden
+maxCatchLevel20:Bis zu Level 20 Pokémon können gefangen werden
+maxCatchLevel25:Bis zu Level 25 Pokémon können gefangen werden
+maxCatchLevel30:Bis zu Level 30 Pokémon können gefangen werden
+maxCatchLevel35:Bis zu Level 35 Pokémon können gefangen werden
+maxCatchLevel40:Bis zu Level 40 Pokémon können gefangen werden

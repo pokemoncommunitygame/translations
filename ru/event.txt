@@ -5,25 +5,25 @@
 candyCanDrop:Редкие Конфеты теперь могут выпадать!
 2xCandyChance:2x Шанс Редких Конфет
 3xCandyChance:3x Шанс Редких Конфет
-boostedAtier:Буст спавна тира A
-rareSpawnsEnterThePool:Редкие Спавны входят в пул спавна
-noCommonPokedaily:нет Обычного Покедейли
-noUncommonPokedaily:нет ОБЫЧНОГО & нет НЕОБЫЧНОГО Покедейли
+boostedAtier:Усиленный спавн уровня A
+rareSpawnsEnterThePool:Редкие спавны входят в пул спавнов
+noCommonPokedaily:Нет обычных Pokedaily
+noUncommonPokedaily:Нет обычных и необычных Pokedaily
 presentCanDrop:Подарки теперь могут выпадать!
-2xPresentDropChance:2x Шанс Подарков!
-3xPresentDropChance:3x Шанс Подарков!
+2xPresentDropChance:Шанс на подарок 2x!
+3xPresentDropChance:Шанс на подарок 3x!
 battleItemsCanDrop:Боевые Предметы теперь могут выпадать!
 2xBattleItemsCanDrop:Боевые Предметы теперь могут выпадать!
 3xBattleItemsCanDrop:Боевые Предметы теперь могут выпадать!
-rarePresentCanDrop:РЕДКИЕ Подарки теперь могут выпадать!
-2xRarePresentChance:2x Шанс РЕДКИХ Подарков!
-3xRarePresentChance:3x Шанс РЕДКИХ Подарков!
+rarePresentCanDrop:Редкие подарки теперь могут выпадать!
+2xRarePresentChance:Шанс на редкий подарок 2x!
+3xRarePresentChance:Шанс на редкий подарок 3x!
 35%increasedChatPayout:35% Увеличенная выплата чата!
 boostedEventCoinDrops:Усиленные дропы монет события
 snowballCanDrop:Снежки теперь могут выпадать!
 eggsCanDrop:Яйца теперь могут выпадать!
-maxCatchLevel20:До Ур 20 Покемоны Могут быть Пойманы
-maxCatchLevel25:До Ур 25 Покемоны Могут быть Пойманы
-maxCatchLevel30:До Ур 30 Покемоны Могут быть Пойманы
-maxCatchLevel35:До Ур 35 Покемоны Могут быть Пойманы
-maxCatchLevel40:До Ур 40 Покемоны Могут быть Пойманы
+maxCatchLevel20:Можно поймать покемонов до уровня 20
+maxCatchLevel25:Можно поймать покемонов до уровня 25
+maxCatchLevel30:Можно поймать покемонов до уровня 30
+maxCatchLevel35:Можно поймать покемонов до уровня 35
+maxCatchLevel40:Можно поймать покемонов до уровня 40
