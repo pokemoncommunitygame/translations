@@ -115,3 +115,12 @@ build_a_ranked_team_desc:Félicitations pour ta première victoire ! Tu trouvera
 play_ranked_battle_desc:Il est temps pour un vrai défi !
 claim_pokedaily_desc:Merci d'avoir terminé le tutoriel et d'avoir appris sur PCG !
 use_wonderpass:Utilise un Wonderpass
+tmp_event_mission_week1_option_a_trade_a_tier:Option A: Échange Pokemon de Niveau A
+tmp_event_mission_week1_option_b_trade_b_tier:Option B: Échange Pokemon de Niveau B
+tmp_event_mission_week1_option_c_trade_c_tier:Option C: Échange Pokemon de Niveau C
+tmp_event_mission_week2_option_a_win_7_easy_stadium:Option A: Gagne 7 Combats de Stade Faciles
+tmp_event_mission_week2_option_b_win_7_medium_stadium:Option B: Gagne 7 Combats de Stade Moyens
+tmp_event_mission_week2_option_c_win_7_hard_stadium:Option C: Gagne 7 Combats de Stade Difficiles
+tmp_event_mission_week3_option_a_trade_bug_type:Option A: Échange Pokemon de Type Insecte
+tmp_event_mission_week3_option_b_trade_dark_type:Option B: Échange Pokemon de Type Ténèbres
+tmp_event_mission_week3_option_c_trade_fairy_type:Option C: Échange Pokemon de Type Fée

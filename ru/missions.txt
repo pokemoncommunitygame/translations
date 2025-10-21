@@ -115,3 +115,12 @@ win_stadium_easy_desc:Давай используем то, что мы узна
 build_a_ranked_team_desc:Поздравляем с первой победой! Ты часто будешь находить миссии, требующие победить бота стадиона или испытания ограниченного времени.
 use_wonderpass_desc:В PCG нет прямой торговли. Вы можете использовать Чудо-Обмен каждые 3 часа.
 use_wonderpass:Использовать Чудо-пропуск
+tmp_event_mission_week1_option_a_trade_a_tier:Вариант A: Обменять покемонов уровня A
+tmp_event_mission_week1_option_b_trade_b_tier:Вариант B: Обменять покемонов уровня B
+tmp_event_mission_week1_option_c_trade_c_tier:Вариант C: Обменять покемонов уровня C
+tmp_event_mission_week2_option_a_win_7_easy_stadium:Вариант A: Выиграть 7 легких боев стадиона
+tmp_event_mission_week2_option_b_win_7_medium_stadium:Вариант B: Выиграть 7 средних боев стадиона
+tmp_event_mission_week2_option_c_win_7_hard_stadium:Вариант C: Выиграть 7 сложных боев стадиона
+tmp_event_mission_week3_option_a_trade_bug_type:Вариант A: Обменять покемонов типа Насекомое
+tmp_event_mission_week3_option_b_trade_dark_type:Вариант B: Обменять покемонов типа Темный
+tmp_event_mission_week3_option_c_trade_fairy_type:Вариант C: Обменять покемонов типа Фея

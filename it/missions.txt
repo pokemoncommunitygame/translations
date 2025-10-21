@@ -115,3 +115,12 @@ win_stadium_easy_desc:Usiamo ciò che abbiamo imparato per portare i nostri Pok�
 build_a_ranked_team_desc:Congratulazioni per la tua prima vittoria! Troverai spesso missioni che richiedono di sconfiggere il bot dello stadio o sfide di eventi a tempo limitato.\n\nAffrontare altri giocatori può essere intenso, quindi dovremo assemblare una squadra forte per competere.\n\nCostruisci una squadra con un BST medio di 450 o più che sia consentito secondo le regole classificate attuali. Tieni presente che non possiamo usare duplicati!\n\nConsiglio: Dai un'occhiata alla lista dei premi che puoi sbloccare vincendo battaglie classificate nella scheda battaglia.
 use_wonderpass_desc:Non ci sono scambi diretti in PCG. Puoi usare il Wonder Trade ogni 3 ore.\n\nOgni Pokémon ha un livello assegnato, che va da C (molto comune) a S (leggendario).\n\nQuando scambi, di solito riceverai un Pokémon dello stesso livello, tuttavia c'è una piccola possibilità di un miglioramento o peggioramento.\n\nUsa il 'Wonder Pass' per azzerare immediatamente il tempo di attesa per lo scambio!\n\nConsiglio: Scambiare un Pokémon cromatico non aumenta le tue possibilità di riceverne uno cromatico in cambio.
 use_wonderpass:Usa un Wonderpass
+tmp_event_mission_week1_option_a_trade_a_tier:Opzione A: Scambia Pokemon di Livello A
+tmp_event_mission_week1_option_b_trade_b_tier:Opzione B: Scambia Pokemon di Livello B
+tmp_event_mission_week1_option_c_trade_c_tier:Opzione C: Scambia Pokemon di Livello C
+tmp_event_mission_week2_option_a_win_7_easy_stadium:Opzione A: Vinci 7 Battaglie Stadio Facili
+tmp_event_mission_week2_option_b_win_7_medium_stadium:Opzione B: Vinci 7 Battaglie Stadio Medie
+tmp_event_mission_week2_option_c_win_7_hard_stadium:Opzione C: Vinci 7 Battaglie Stadio Difficili
+tmp_event_mission_week3_option_a_trade_bug_type:Opzione A: Scambia Pokemon di Tipo Coleottero
+tmp_event_mission_week3_option_b_trade_dark_type:Opzione B: Scambia Pokemon di Tipo Buio
+tmp_event_mission_week3_option_c_trade_fairy_type:Opzione C: Scambia Pokemon di Tipo Folletto

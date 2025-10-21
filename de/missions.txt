@@ -115,3 +115,12 @@ build_a_ranked_team_desc:Glückwunsch zu deinem ersten Sieg! Du wirst häufig Mi
 play_ranked_battle_desc:Zeit für eine echte Herausforderung!\n\nSpiele einen Ranglistenkampf gegen einen anderen Spieler, um die Leiter zu erklimmen!\n\nTipp: Beim Aufbau eines Teams solltest du nicht nur auf die Werte achten—stelle sicher, dass du ein ausgewogenes Team hast, das alle Schwächen und Rollen abdeckt.
 claim_pokedaily_desc:Vielen Dank, dass du das Tutorial abgeschlossen und über PCG gelernt hast!\n\nEs gibt noch viel mehr zu entdecken, aber du hast die Grundlagen abgedeckt.\n\nTritt unserem Discord-Server bei, um die Community zu treffen, über neue Events zu erfahren und die tägliche Belohnung zu beanspruchen.\n\nTipp: Gib !pokedaily in einem Twitch-Chat ein, um den Einladungslink zu erhalten!
 use_wonderpass:Verwende einen Wunderpass
+tmp_event_mission_week1_option_a_trade_a_tier:Option A: Tausche A-Tier Pokemon
+tmp_event_mission_week1_option_b_trade_b_tier:Option B: Tausche B-Tier Pokemon
+tmp_event_mission_week1_option_c_trade_c_tier:Option C: Tausche C-Tier Pokemon
+tmp_event_mission_week2_option_a_win_7_easy_stadium:Option A: Gewinne 7 einfache Stadion-Kämpfe
+tmp_event_mission_week2_option_b_win_7_medium_stadium:Option B: Gewinne 7 mittlere Stadion-Kämpfe
+tmp_event_mission_week2_option_c_win_7_hard_stadium:Option C: Gewinne 7 schwere Stadion-Kämpfe
+tmp_event_mission_week3_option_a_trade_bug_type:Option A: Tausche Käfer-Typ Pokemon
+tmp_event_mission_week3_option_b_trade_dark_type:Option B: Tausche Unlicht-Typ Pokemon
+tmp_event_mission_week3_option_c_trade_fairy_type:Option C: Tausche Fee-Typ Pokemon

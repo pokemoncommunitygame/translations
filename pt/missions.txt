@@ -115,3 +115,12 @@ build_a_ranked_team_desc:Parabéns pela sua primeira vitória! Você frequenteme
 play_ranked_battle_desc:Hora de um verdadeiro desafio!\n\nJogue uma batalha ranqueada contra outro jogador para subir na classificação!\n\nDica: Ao montar um time, não foque apenas nas estatísticas—certifique-se de ter um time bem equilibrado que cubra todas as fraquezas e funções.
 claim_pokedaily_desc:Obrigado por terminar o tutorial e aprender sobre o PCG!\n\nHá muito mais, mas você já cobriu o básico.\n\nJunte-se ao nosso servidor Discord para conhecer a comunidade, aprender sobre novos eventos e reivindicar a recompensa diária.\n\nDica: Digite !pokedaily em um chat do Twitch para obter o link de convite!
 use_wonderpass:Usar um Wonderpass
+tmp_event_mission_week1_option_a_trade_a_tier:Opção A: Troque Pokemon de Nível A
+tmp_event_mission_week1_option_b_trade_b_tier:Opção B: Troque Pokemon de Nível B
+tmp_event_mission_week1_option_c_trade_c_tier:Opção C: Troque Pokemon de Nível C
+tmp_event_mission_week2_option_a_win_7_easy_stadium:Opção A: Vença 7 Batalhas de Estádio Fáceis
+tmp_event_mission_week2_option_b_win_7_medium_stadium:Opção B: Vença 7 Batalhas de Estádio Médias
+tmp_event_mission_week2_option_c_win_7_hard_stadium:Opção C: Vença 7 Batalhas de Estádio Difíceis
+tmp_event_mission_week3_option_a_trade_bug_type:Opção A: Troque Pokemon de Tipo Inseto
+tmp_event_mission_week3_option_b_trade_dark_type:Opção B: Troque Pokemon de Tipo Sombrio
+tmp_event_mission_week3_option_c_trade_fairy_type:Opção C: Troque Pokemon de Tipo Fada

@@ -94,6 +94,17 @@ wondertrade_event_water:[Event] Wonder Trade Water-type Pokémon
 wondertrade_event_fire:[Event] Wonder Trade Fire-type Pokémon
 wondertrade_event_grass:[Event] Wonder Trade Grass-type Pokémon
 
+# Event Missions
+tmp_event_mission_week1_option_a_trade_a_tier:Option A: Trade A Tier Pokemon
+tmp_event_mission_week1_option_b_trade_b_tier:Option B: Trade B Tier Pokemon
+tmp_event_mission_week1_option_c_trade_c_tier:Option C: Trade C Tier Pokemon
+tmp_event_mission_week2_option_a_win_7_easy_stadium:Option A: Win 7 Easy Stadium Battles
+tmp_event_mission_week2_option_b_win_7_medium_stadium:Option B: Win 7 Medium Stadium Battles
+tmp_event_mission_week2_option_c_win_7_hard_stadium:Option C: Win 7 Hard Stadium Battles
+tmp_event_mission_week3_option_a_trade_bug_type:Option A: Trade Bug Type Pokemon
+tmp_event_mission_week3_option_b_trade_dark_type:Option B: Trade Dark Type Pokemon
+tmp_event_mission_week3_option_c_trade_fairy_type:Option C: Trade Fairy Type Pokemon
+
 // compare
 above:above
 below:below

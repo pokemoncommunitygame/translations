@@ -115,3 +115,12 @@ build_a_ranked_team_desc:¡Felicidades por tu primera victoria! Con frecuencia e
 play_ranked_battle_desc:¡Hora de un verdadero desafío!
 claim_pokedaily_desc:¡Gracias por terminar el tutorial y aprender sobre PCG!
 use_wonderpass:Usa un Wonderpass
+tmp_event_mission_week1_option_a_trade_a_tier:Opción A: Intercambia Pokemon de Nivel A
+tmp_event_mission_week1_option_b_trade_b_tier:Opción B: Intercambia Pokemon de Nivel B
+tmp_event_mission_week1_option_c_trade_c_tier:Opción C: Intercambia Pokemon de Nivel C
+tmp_event_mission_week2_option_a_win_7_easy_stadium:Opción A: Gana 7 Batallas de Estadio Fáciles
+tmp_event_mission_week2_option_b_win_7_medium_stadium:Opción B: Gana 7 Batallas de Estadio Medias
+tmp_event_mission_week2_option_c_win_7_hard_stadium:Opción C: Gana 7 Batallas de Estadio Difíciles
+tmp_event_mission_week3_option_a_trade_bug_type:Opción A: Intercambia Pokemon de Tipo Bicho
+tmp_event_mission_week3_option_b_trade_dark_type:Opción B: Intercambia Pokemon de Tipo Siniestro
+tmp_event_mission_week3_option_c_trade_fairy_type:Opción C: Intercambia Pokemon de Tipo Hada
