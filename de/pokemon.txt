@@ -2654,7 +2654,7 @@ pikachu-kalos:Pikachu (Kalos)
 pikachu-kalosDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
 pikachu-original:Pikachu (Original)
 pikachu-originalDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
-pikachu-partner:Pikachu (Partner)
+pikachu-partner:Pikachu (Partner-Mütze)
 pikachu-partnerDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
 pikachu-popstar:Pikachu (Popstar)
 pikachu-popstarDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.

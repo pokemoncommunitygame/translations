@@ -2652,7 +2652,7 @@ pikachu-kalos:Pikachu (Kalos)
 pikachu-kalosDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
 pikachu-original:Pikachu (Original)
 pikachu-originalDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
-pikachu-partner:Pikachu (Compañero)
+pikachu-partner:Pikachu (Gorra de Compañero)
 pikachu-partnerDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
 pikachu-popstar:Pikachu (Estrella del Pop)
 pikachu-popstarDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.

@@ -2652,7 +2652,7 @@ pikachu-kalos:Pikachu (Kalos)
 pikachu-kalosDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
 pikachu-original:Pikachu (Original)
 pikachu-originalDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
-pikachu-partner:Pikachu (Partenaire)
+pikachu-partner:Pikachu (Casquette Partenaire)
 pikachu-partnerDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
 pikachu-popstar:Pikachu (Popstar)
 pikachu-popstarDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.

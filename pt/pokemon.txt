@@ -2652,7 +2652,7 @@ pikachu-kalos:Pikachu (Kalos)
 pikachu-kalosDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
 pikachu-original:Pikachu (Original)
 pikachu-originalDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
-pikachu-partner:Pikachu (Parceiro)
+pikachu-partner:Pikachu (Boné de Parceiro)
 pikachu-partnerDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
 pikachu-popstar:Pikachu (Popstar)
 pikachu-popstarDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
