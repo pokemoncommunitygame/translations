@@ -24,7 +24,7 @@ catch_score_90_100:[Evento] Capture {amount} Pokémon que marcaram 90-100
 miss:Captura falhou
 miss_with_type:Falha ao capturar Pokémon do tipo <type>
 miss_with_ball:Falha ao capturar usando <ball>
-attempt_catch:Tenha a chance de pegar um Pokémon
+attempt_catch:Tente capturar um Pokémon
 attempt_tier_catch:Tente capturar um Pokémon de nível <tier>
 trade_lvl:Trocar Pokémon Wondertrade <compare> nível <value>
 trade_type:Wondertrade Pokémon do tipo <type>

@@ -49,7 +49,7 @@ win_stadium:Vinci una battaglia allo stadio
 win_stadium_easy:Vinci una battaglia facile allo stadio
 win_stadium_medium:Vinci una battaglia media allo stadio
 win_stadium_hard:Vinci una battaglia difficile allo stadio
-win_stadium_type:Vinci una battaglia allo stadio usando solo Pokémon di tipo {type}
+win_stadium_type:Vinci una battaglia allo stadio usando solo Pokémon di tipo <type>
 play_challenge:Gioca una battaglia di sfida
 win_challenge:Vinci una battaglia di sfida
 build_a_ranked_team:Costruisci una squadra classificata
@@ -69,9 +69,9 @@ exactly:Esattamente
 pcg_event_catch_week4:Evento di cattura Pokémon – Settimana 4
 mission__battle:Lotta usando un Pokémon di tipo <type>
 mission__wondertrade:Scambia un Pokémon in Scambio Prodigioso
-mission__battle_deal_damage:Infliggi <value> danni in battaglia.
-mission__win_ranked_or_challenge__battle:Vinci una battaglia classificata o di sfida.
-claim_pokedaily_desc:Unisciti al nostro Discord (puoi digitare !pokediscord nella chat per ottenere il link) per reclamare ricompense giornaliere.
+mission__battle_deal_damage:Infliggi danni nelle lotte.
+mission__win_ranked_or_challenge__battle:[EVENT] Vinci battaglie classificate o di sfida
+claim_pokedaily_desc:Grazie per aver completato il tutorial e aver conosciuto PCG!\n\nC'è molto altro, ma hai già appreso le basi.\n\nUnisciti al nostro server Discord per conoscere la community, scoprire nuovi eventi e riscattare la ricompensa giornaliera.\n\nSuggerimento: Digita !pokedaily in una chat di Twitch per ottenere il link di invito!
 loyalty_goal_earn_5_percent:Guadagna un ulteriore 5% $ in questo stream
 loyalty_goal_golden_ticket:Possibilità di ottenere un biglietto d'oro in questo stream
 loyalty_goal_catch_level_25:Cattura Pokémon fino al livello 25 in questo stream
@@ -94,18 +94,18 @@ check_move_information:Controlla le informazioni sulle mosse
 reroll_pokemon_moves:Rerolla le mosse di un Pokémon
 reroll_pokemon_nature:Rerolla la natura di un Pokémon
 reroll_pokemon_ivs:Rerolla gli IVs di un Pokémon
-buy_balls_from_shop_desc:todo
-use_special_ball_desc:todo
-view_golden_coin_shop_desc:todo
-set_buddy_desc:todo
-trade_generation_3_pokemon_desc:todo
-lock_pokemon_desc:todo
-add_pokemon_to_team_desc:todo
-check_pokemon_stats_desc:todo
-check_move_information_desc:todo
-reroll_pokemon_moves_desc:todo
-reroll_pokemon_nature_desc:todo
-reroll_pokemon_ivs_desc:todo
+buy_balls_from_shop_desc:Benvenuto nell'estensione PCG! Qui puoi gestire i tuoi Pokémon, acquistare oggetti e lottare contro altri giocatori!\n\nQuesto tutorial passo-passo ti guiderà attraverso le funzionalità di base del gioco.\n\nPCG riguarda soprattutto la cattura dei Pokémon, e per farlo servono le sfere!\n\nClicca l'icona della borsa nella barra di navigazione per vedere l'inventario e il negozio.\n\nIniziamo con il tuo primo acquisto!\n\nSuggerimento: Puoi guadagnare più Pokédollari scrivendo in qualsiasi canale in cui gira PCG!
+use_special_ball_desc:Ottimo lavoro con la prima missione del tutorial!\n\nPuoi lanciare una Poké Ball normale digitando semplicemente !pokecatch. Se vuoi usare un tipo diverso di sfera, devi specificarlo.\n\nUsa !pokecatch [nome sfera] per lanciare una sfera speciale!\n\nSuggerimento: Se acquisti 10 sfere in una volta nel negozio, riceverai una Premier Ball gratuita come bonus.
+view_golden_coin_shop_desc:Avrai notato un negozio aggiuntivo nella sezione inventario: il Negozio delle Monete d'Oro.\n\nUna moneta d'oro è disponibile ogni settimana tramite le missioni. Dà accesso a ricompense speciali e limitate.\n\nVai ora al Negozio delle Monete d'Oro e dai un'occhiata!\n\nSuggerimento: Puoi ottenere monete d'oro extra partecipando a tornei selezionati. Tienili d'occhio sul nostro server Discord. Digita !pokedaily per partecipare.
+set_buddy_desc:Vediamo ora cosa possiamo fare con i nostri Pokémon.\n\nVai all'icona del computer nell'estensione e clicca il tuo Pokémon preferito. Nella vista dettagli, clicca sul cuoricino accanto al Pokémon per impostarlo come compagno.\n\nIl tuo compagno guadagna EXP ogni volta che catturi un nuovo Pokémon e influenza il bonus di cattura della Friend Ball.\n\nSuggerimento: Puoi mostrare il tuo compagno in chat usando !pokeflex.
+trade_generation_3_pokemon_desc:Non c'è limite a quanti Pokémon puoi collezionare in PCG. Elenchi molto lunghi possono diventare caotici velocemente, ma abbiamo opzioni di filtro per trovare esattamente ciò che cerchi!\n\nPuoi applicare filtri in alto a destra nella lista dei Pokémon o inserirli nella barra di ricerca.\n\nProva a cercare tutti i Pokémon di Generazione 3 usando !g 3\n\nSuggerimento: Puoi filtrare per nomi, ID, statistiche base, tipi e tier.
+lock_pokemon_desc:Una funzione davvero importante in PCG è poter bloccare un Pokémon così da non scambiarlo o venderlo per errore.\n\nProvalo ora cliccando l'icona del lucchetto su un Pokémon a cui tieni. Non preoccuparti, puoi sbloccarlo in qualsiasi momento!\n\nSuggerimento: I Pokémon bloccati non possono essere modificati dagli oggetti da lotta—ne parleremo più avanti!
+add_pokemon_to_team_desc:Ora iniziamo a creare la nostra prima squadra.\n\nAssegna un Pokémon ad uno slot squadra cliccando l'icona delle spade incrociate.\n\nPuoi rimuoverlo dalla squadra cliccandolo nella scheda lotta e selezionando “rimuovi dalla squadra”.\n\nSuggerimento: Un Pokémon può far parte di più squadre contemporaneamente.
+check_pokemon_stats_desc:Nelle lotte Pokémon ci sono molti fattori da considerare. Tra i più importanti ci sono le statistiche base, che definiscono la forza del Pokémon. A differenza dei Valori Individuali, le statistiche base sono identiche per tutti i Pokémon della stessa specie.\n\nLe statistiche base ti aiutano a capire punti di forza e debolezza.\n\nControlla le statistiche del tuo Pokémon cliccando il pulsante info nell'estensione.\n\nSuggerimento: Il totale delle statistiche base (BST) è spesso rilevante per missioni e restrizioni delle lotte.
+check_move_information_desc:Anche le mosse del tuo Pokémon sono cruciali—determinano il suo rendimento in lotta.\n\nPer sapere cosa fa una mossa, cliccala nel menu del Pokémon. Potrai vedere potenza, effetto e classe di danno.\n\nUn Pokémon rende al meglio quando le classi di danno delle mosse sono allineate con le sue statistiche più alte!\n\nSuggerimento: Usare una mossa dello stesso tipo del tuo Pokémon garantisce un bonus del 50% ai danni.
+reroll_pokemon_moves_desc:In PCG i Pokémon non imparano nuove mosse salendo di livello—puoi dargli un set completamente nuovo usando un “Disco Vuoto”.\n\nClicca il pulsante oggetti nella vista del Pokémon per assegnare un oggetto da lotta. Assicurati prima che il Pokémon non sia bloccato!\n\nSuggerimento: È raro ottenere set perfetti. Sfrutta al meglio ciò che hai e sii creativo!
+reroll_pokemon_nature_desc:Abbiamo visto i fattori più importanti: statistiche base e mosse. C'è però altro da sapere!\n\nOgni Pokémon ha una natura che aumenta e riduce del 10% due sue statistiche. Nella vista del Pokémon vedi quali—quella aumentata è in rosso, quella ridotta in blu.\n\nCambia la natura usando una “Menta d'Umore”!\n\nSuggerimento: Alcuni Pokémon hanno natura neutra, senza bonus o malus.
+reroll_pokemon_ivs_desc:Ogni Pokémon ha un set di valori individuali che può migliorare le statistiche totali. Sono indicati con una valutazione da Orribile a Perfetto. Se vuoi i valori esatti, passa il mouse sull'etichetta.\n\nIV e nature sono un ottimo bonus quando il Pokémon ha già un buon BST e buone mosse; raramente sono il fattore decisivo.\n\nCambia ora gli IV usando un “Reset IV”.\n\nSuggerimento: Nelle lotte PCG tutti i Pokémon sono impostati al livello 50; livelli più alti non danno bonus in lotta.
 play_ranked_battle_desc:Partecipa a battaglie classificate per dimostrare la tua abilità e scalare le classifiche!
 level_up_pokemon:Far salire di livello un Pokémon
 evolve_pokemon:Far evolvere un Pokémon

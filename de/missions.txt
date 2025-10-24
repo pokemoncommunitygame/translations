@@ -27,17 +27,17 @@ miss_with_ball:Fangversuch verfehlt mit einem <ball>
 attempt_catch:Versuche, ein Pokémon zu fangen
 attempt_tier_catch:Versuche, ein Pokémon der Stufe <tier> zu fangen
 trade_lvl:Wundertausche Pokémon <compare> Level <value>
-trade_type:Wondertrade Pokémon vom Typ <type>
-trade_iv:Wundertausche Pokémon <compare> <value> IV
-trade_fish:Wondertrade fischähnliche Pokémon
-trade_with_weight:Wondertrade Pokémon mit einem Gewicht von <compare> <value> kg
-trade_with_speed:Wondertrade Pokémon mit Initiative <compare> <value>
-trade_with_specialAttack:Wondertrade Pokémon mit Spezial-Angriff <compare> <value>
-trade_with_specialDefense:Wondertrade Pokémon mit Spezial-Verteidigung <compare> <value>
-trade_with_attack:Wondertrade Pokémon mit Angriff <compare> <value>
-trade_with_defense:Wondertrade Pokémon mit Verteidigung <compare> <value>
-trade_with_hp:Wondertrade Pokémon mit KP <compare> <value>
-trade_with_bst:Wondertrade Pokémon mit Basiswertsumme <compare> <value>
+trade_type:Wundertausche Pokémon vom Typ <type>
+trade_iv:Wundertausche Pokémon mit IV <compare> <value>
+trade_fish:Wundertausche fischähnliche Pokémon
+trade_with_weight:Wundertausche Pokémon mit einem Gewicht von <compare> <value> kg
+trade_with_speed:Wundertausche Pokémon mit Initiative <compare> <value>
+trade_with_specialAttack:Wundertausche Pokémon mit Spezial-Angriff <compare> <value>
+trade_with_specialDefense:Wundertausche Pokémon mit Spezial-Verteidigung <compare> <value>
+trade_with_attack:Wundertausche Pokémon mit Angriff <compare> <value>
+trade_with_defense:Wundertausche Pokémon mit Verteidigung <compare> <value>
+trade_with_hp:Wundertausche Pokémon mit KP <compare> <value>
+trade_with_bst:Wundertausche Pokémon mit Basiswertsumme <compare> <value>
 effective:Setze eine sehr effektive Attacke ein
 field_effect:Setze Feldeffekte im Kampf ein
 battle_stat_change:Verwende eine Attacke, die erfolgreich Statuswerte ändert.
@@ -67,7 +67,7 @@ below:unter
 exactly:genau
 pcg_event_catch_week4:[Event] Fange Event-Pokémon – Woche 4
 mission__battle:Kämpfe mit einem <type>-Typ-Pokémon
-mission__wondertrade:Tausche Pokémon in der Wundertausch
+mission__wondertrade:Wundertausche Pokémon
 mission__battle_deal_damage:Füge in Kämpfen Schaden zu.
 mission__win_ranked_or_challenge__battle:[Event] Gewinne Rang- oder Herausforderungs-Kämpfe
 loyalty_goal_earn_5_percent:Verdiene zusätzliche 5% $ in diesem Stream
