@@ -16,11 +16,11 @@ catch_with_attack:Catch Pokémon with Attack <compare> <value>
 catch_with_defense:Catch Pokémon with Defense <compare> <value>
 catch_with_hp:Catch Pokémon with HP <compare> <value>
 catch_with_stats:Catch Pokémon with Base Stat Total <compare> <value>
-catch_score_0_20:[Event] Catch {amount} Pokémon that scored 0-20
-catch_score_21_40:[Event] Catch {amount} Pokémon that scored 21-40
-catch_score_41_60:[Event] Catch {amount} Pokémon that scored 41-60
-catch_score_61_80:[Event] Catch {amount} Pokémon that scored 61-80
-catch_score_81_100:[Event] Catch {amount} Pokémon that scored 81-100
+catch_score_0_20:[Event] Catch Pokémon that scored 0-20
+catch_score_21_40:[Event] Catch Pokémon that scored 21-40
+catch_score_41_60:[Event] Catch Pokémon that scored 41-60
+catch_score_61_80:[Event] Catch Pokémon that scored 61-80
+catch_score_81_100:[Event] Catch Pokémon that scored 81-100
 miss:Miss catch
 miss_with_type:Miss <type>-type Pokémon
 miss_with_ball:Miss catch using <ball>

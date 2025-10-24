@@ -16,11 +16,11 @@ catch_with_attack:Capture des Pokémon avec une Attaque <compare> <value>
 catch_with_defense:Capture des Pokémon avec une Défense <compare> <value>
 catch_with_hp:Capture des Pokémon avec des PV <compare> <value>
 catch_with_stats:Capture des Pokémon avec un Total de Stat de Base <compare> <value>
-catch_score_0_20:[Événement] Attrape {amount} Pokémon qui ont marqué 0-20
-catch_score_21_40:[Événement] Attrape {amount} Pokémon qui ont marqué 21-40
-catch_score_41_60:[Événement] Attrape {amount} Pokémon qui ont marqué 41-60
-catch_score_61_80:[Événement] Attrape {amount} Pokémon qui ont marqué 61-80
-catch_score_81_100:[Événement] Attrape {amount} Pokémon qui ont marqué 81-100
+catch_score_0_20:[Événement] Attrape Pokémon qui ont marqué 0-20
+catch_score_21_40:[Événement] Attrape Pokémon qui ont marqué 21-40
+catch_score_41_60:[Événement] Attrape Pokémon qui ont marqué 41-60
+catch_score_61_80:[Événement] Attrape Pokémon qui ont marqué 61-80
+catch_score_81_100:[Événement] Attrape Pokémon qui ont marqué 81-100
 miss:Rate des captures
 miss_with_type:Rate des Pokémon de type <type>
 miss_with_ball:Rate des captures en utilisant une <ball>
