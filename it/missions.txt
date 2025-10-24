@@ -16,11 +16,11 @@ catch_with_attack:Cattura un Pokémon con Attacco <compare> <value>
 catch_with_defense:Cattura un Pokémon con Difesa <compare> <value>
 catch_with_hp:Cattura un Pokémon con HP <compare> <value>
 catch_with_stats:Cattura un Pokémon con un totale di statistiche base <compare> <value>
-catch_score_0_10:Cattura {amount} Pokémon che hanno segnato 0-10
-catch_score_10_40:Cattura {amount} Pokémon che hanno segnato 10-40
-catch_score_40_60:Cattura {amount} Pokémon che hanno segnato 40-60
-catch_score_60_90:Cattura {amount} Pokémon che hanno segnato 60-90
-catch_score_90_100:Cattura {amount} Pokémon che hanno segnato 90-100
+catch_score_0_20:Cattura {amount} Pokémon che hanno segnato 0-20
+catch_score_21_40:Cattura {amount} Pokémon che hanno segnato 21-40
+catch_score_41_60:Cattura {amount} Pokémon che hanno segnato 41-60
+catch_score_61_80:Cattura {amount} Pokémon che hanno segnato 61-80
+catch_score_81_100:Cattura {amount} Pokémon che hanno segnato 81-100
 miss:Manca una cattura
 miss_with_type:Manca un Pokémon di tipo <type>
 miss_with_ball:Manca una cattura usando una <ball>

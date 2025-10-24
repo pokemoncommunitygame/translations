@@ -16,11 +16,11 @@ catch_with_attack:Captura Pokémon con Ataque <compare> <value>
 catch_with_defense:Captura Pokémon con Defensa <compare> <value>
 catch_with_hp:Captura Pokémon con HP <compare> <value>
 catch_with_stats:Captura Pokémon con Total de Estadísticas Base <compare> <value>
-catch_score_0_10:[Evento] Atrapa {amount} Pokémon que anotaron 0-10
-catch_score_10_40:[Evento] Atrapa {amount} Pokémon que anotaron 10-40
-catch_score_40_60:[Evento] Atrapa {amount} Pokémon que anotaron 40-60
-catch_score_60_90:[Evento] Atrapa {amount} Pokémon que anotaron 60-90
-catch_score_90_100:[Evento] Atrapa {amount} Pokémon que anotaron 90-100
+catch_score_0_20:[Evento] Atrapa {amount} Pokémon que anotaron 0-20
+catch_score_21_40:[Evento] Atrapa {amount} Pokémon que anotaron 21-40
+catch_score_41_60:[Evento] Atrapa {amount} Pokémon que anotaron 41-60
+catch_score_61_80:[Evento] Atrapa {amount} Pokémon que anotaron 61-80
+catch_score_81_100:[Evento] Atrapa {amount} Pokémon que anotaron 81-100
 miss:Fallo en la captura
 miss_with_type:Falla al capturar Pokémon de tipo <type>
 miss_with_ball:Falla al capturar usando <ball>

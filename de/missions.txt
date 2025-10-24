@@ -16,11 +16,11 @@ catch_with_attack:Fange Pokémon mit Angriff <compare> <value>
 catch_with_defense:Fange Pokémon mit Verteidigung <compare> <value>
 catch_with_hp:Fange Pokémon mit KP <compare> <value>
 catch_with_stats:Fange Pokémon mit Gesamtwert <compare> <value>
-catch_score_0_10:[Event] Fange {amount} Pokémon, die 0-10 Punkte erzielt haben
-catch_score_10_40:[Event] Fange {amount} Pokémon, die 10-40 Punkte erzielt haben
-catch_score_40_60:[Event] Fange {amount} Pokémon, die 40-60 Punkte erzielt haben
-catch_score_60_90:[Event] Fange {amount} Pokémon, die 60-90 Punkte erzielt haben
-catch_score_90_100:[Event] Fange {amount} Pokémon, die 90-100 Punkte erzielt haben
+catch_score_0_20:[Event] Fange {amount} Pokémon, die 0-20 Punkte erzielt haben
+catch_score_21_40:[Event] Fange {amount} Pokémon, die 21-40 Punkte erzielt haben
+catch_score_41_60:[Event] Fange {amount} Pokémon, die 41-60 Punkte erzielt haben
+catch_score_61_80:[Event] Fange {amount} Pokémon, die 61-80 Punkte erzielt haben
+catch_score_81_100:[Event] Fange {amount} Pokémon, die 81-100 Punkte erzielt haben
 miss:Fangversuch verfehlt
 miss_with_type:Verfehle Pokémon vom Typ <type>
 miss_with_ball:Fangversuch verfehlt mit einem <ball>
