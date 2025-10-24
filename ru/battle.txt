@@ -141,3 +141,8 @@ PERISH_SONG_COOLDOWN:'s судьбоносный отсчёт упал до
 HEAL_BLOCK_STARTED:Лечение вражеского покемона было заблокировано!
 HEAL_BLOCK_END:Вражеский покемон снова может лечиться!
 battleShowSpectateKey:Ключ наблюдения
+rankedLeaderboard:Рейтинговая таблица лидеров
+battleMenu:Меню битвы
+position:Позиция
+highscore:Рекорд
+rank:Ранг

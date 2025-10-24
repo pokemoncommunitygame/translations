@@ -141,3 +141,8 @@ ATTACK_MISSED:'s attack missed.
 HEAL_BLOCK_STARTED:The opposing Pokémon's healing was blocked!
 HEAL_BLOCK_END:The opposing Pokémon can heal again!
 battleShowSpectateKey:Spectate key
+rankedLeaderboard:Ranked Leaderboard
+battleMenu:Battle Menu
+position:Position
+highscore:Highscore
+rank:Rank

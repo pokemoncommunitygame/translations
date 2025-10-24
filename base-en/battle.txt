@@ -13,6 +13,11 @@ gauntletStart:Start Gauntlet
 gauntletCurrentWins:Current Wins
 gauntletHighscore:Your Highscore
 gauntletLeaderboard:Gauntlet Leaderboard
+rankedLeaderboard:Ranked Leaderboard
+battleMenu:Battle Menu
+position:Position
+highscore:Highscore
+rank:Rank
 gauntletForbiddenPokemon:Forbidden Pokémon
 gauntletForbiddenExplanation:These Pokémon have been used in previous gauntlet battles and cannot be used again until you lose and reset.
 gauntletForbiddenInTeam:You have forbidden Pokémon in your team! Remove them to start the gauntlet.

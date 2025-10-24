@@ -141,3 +141,8 @@ PERISH_SONG_COOLDOWN:Il conto alla rovescia di è sceso a
 HEAL_BLOCK_STARTED:La guarigione del Pokémon avversario è stata bloccata!
 HEAL_BLOCK_END:Il Pokémon avversario può guarire di nuovo!
 battleShowSpectateKey:Tasto per assistere:
+rankedLeaderboard:Classifica Classificata
+battleMenu:Menu di Battaglia
+position:Posizione
+highscore:Punteggio più alto
+rank:Classifica

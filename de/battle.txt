@@ -141,3 +141,8 @@ PERISH_SONG_COOLDOWN:'s Verhängniszähler fiel auf
 HEAL_BLOCK_STARTED:Die Heilung des gegnerischen Pokémon wurde blockiert!
 HEAL_BLOCK_END:Das gegnerische Pokémon kann wieder heilen!
 battleShowSpectateKey:Zuschauerschlüssel
+rankedLeaderboard:Rangliste
+battleMenu:Kampfmenü
+position:Position
+highscore:Highscore
+rank:Rang

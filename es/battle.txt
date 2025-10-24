@@ -141,3 +141,8 @@ PERISH_SONG_COOLDOWN:el conteo de perecer de cayó a
 HEAL_BLOCK_STARTED:¡La curación del Pokémon rival fue bloqueada!
 HEAL_BLOCK_END:¡El Pokémon rival puede curarse de nuevo!
 battleShowSpectateKey:Clave de espectador
+rankedLeaderboard:Tabla de Clasificación
+battleMenu:Menú de Batalla
+position:Posición
+highscore:Puntuación Máxima
+rank:Rango

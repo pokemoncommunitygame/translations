@@ -141,3 +141,8 @@ PERISH_SONG_COOLDOWN:le décompte de péril de est tombé à
 HEAL_BLOCK_STARTED:La guérison du Pokémon adverse a été bloquée !
 HEAL_BLOCK_END:Le Pokémon adverse peut à nouveau se soigner !
 battleShowSpectateKey:Clé de spectateur
+rankedLeaderboard:Classement Classé
+battleMenu:Menu de Combat
+position:Position
+highscore:Meilleur Score
+rank:Rang
