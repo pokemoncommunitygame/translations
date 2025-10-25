@@ -3258,7 +3258,7 @@ vileplume-f:Vileplume (F)
 vileplume-fDescription:The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.
 steelix-retro:Steelix (Retro)
 steelix-retroDescription:Pensa-se que seu corpo se transformou como resultado do acúmulo de ferro internamente ao engolir solo.
-caterpie-pcg:Caterpie
-miltank-pcg:Miltank
+caterpie-pcg:PCG Caterpie
+miltank-pcg:PCG Miltank
 caterpie-pcgDescription:Seus pés curtos têm ventosas que lhe permitem escalar incansavelmente encostas e paredes. (Arte por Anne_Dyari)
 miltank-pcgDescription:Este Pokémon precisa ser ordenhado todos os dias, senão ficará doente. O sabor do leite de Miltank muda com as estações. (Arte por itsbritneexo)

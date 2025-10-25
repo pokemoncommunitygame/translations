@@ -3258,7 +3258,7 @@ vileplume-f:Giflor (W)
 vileplume-fDescription:Je größer die Blütenblätter, desto mehr giftige Pollen enthält die Blüte. Aber es ist auch umso erschöpfter, da sein Kopf so schwer wird.
 steelix-retro:Steelix (Retro)
 steelix-retroDescription:Man nimmt an, dass sich sein Körper durch die Ansammlung von Eisen, das beim Verschlucken von Erde aufgenommen wurde, verwandelt hat.
-caterpie-pcg:Caterpie
-miltank-pcg:Miltank
+caterpie-pcg:PCG Raupy
+miltank-pcg:PCG Miltank
 caterpie-pcgDescription:Seine kurzen Füße sind mit Saugnäpfen versehen, die es ihm ermöglichen, unermüdlich Hänge und Wände zu erklimmen. (Kunst von Anne_Dyari)
 miltank-pcgDescription:Dieses Pokémon muss jeden Tag gemolken werden, sonst wird es krank. Der Geschmack der Miltank-Milch ändert sich mit den Jahreszeiten. (Kunst von itsbritneexo)
