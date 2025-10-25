@@ -310,3 +310,4 @@ unlocked:Desbloqueado
 retry:Reintentar
 PokemonWrongTypeForDisc:El Pokémon debe ser de tipo {0} para usar este disco.
 weightScoringDescription:¡Este {pokemon_name} obtuvo {weight} puntos de un máximo de 100!
+PokemonLocked:Has bloqueado al Pokémon, este objeto no se puede usar. Desbloquea al Pokémon primero antes de usar ese objeto.

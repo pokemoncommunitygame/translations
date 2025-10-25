@@ -310,3 +310,4 @@ unlocked:Desbloqueado
 retry:Tentar Novamente
 PokemonWrongTypeForDisc:Pokémon deve ser do tipo {0} para usar este disco
 weightScoringDescription:Este {pokemon_name} marcou {weight} pontos de um total possível de 100!
+PokemonLocked:Você trancou o Pokémon, este item não pode ser usado. Destranque o Pokémon primeiro antes de usar esse item.

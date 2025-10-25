@@ -50,12 +50,14 @@ SHOP_NOT_FOR_SALE:@{0} That item isn’t available for purchase.
 SHOP_NO_MONEY:@{0} You don’t have enough Poké-Dollars. Required: ${1}
 SHOP_SUCCESS:@{0} Purchase successful!
 
-RAIDS_NO_RAID:@{0} There’s no active raid right now.
+RAIDS_NO_RAID:@{0} There's no active raid right now.
 RAIDS_NEXT_GOAL:Next Goal
 RAIDS_REACHED_FINAL_GOAL:Final goal reached ✅
 RAIDS_REACHED_GOAL:Goal reached ✅ Upgrades available:
 RAIDS_CAUGHT:caught
 RAIDS_MINIMUM_1000:@{0} You need to donate at least $1000 to join the raid.
+RAIDS_GOALS_NO_GOALS:@{0} No goals have been achieved yet! Keep catching!
+RAIDS_GOALS_ACHIEVED:@{0} Achieved Raid Goals ({1} catches):
 
 BET_SUCCESSFUL:@{0} You predicted a win for {1}!
 BET_STATS:@{0} Odds for {1}: {2} - {3}

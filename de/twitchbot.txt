@@ -46,6 +46,8 @@ RAIDS_REACHED_FINAL_GOAL:Endziel erreicht ✅
 RAIDS_REACHED_GOAL:Ziel erreicht ✅ Upgrades verfügbar:
 RAIDS_CAUGHT:gefangen
 RAIDS_MINIMUM_1000:@{0} Du musst mindestens $1000 spenden, um am Raid teilzunehmen.
+RAIDS_GOALS_NO_GOALS:@{0} Noch keine Ziele erreicht! Weiter fangen!
+RAIDS_GOALS_ACHIEVED:@{0} Erreichte Raid-Ziele ({1} Fänge):
 BET_SUCCESSFUL:@{0} Du hast einen Sieg für {1} vorhergesagt!
 BET_STATS:@{0} Quoten für {1}: {2} - {3}
 BET_INFO:@{0} Platziere eine Vorhersage zwischen $100 und $5000 mit: !pokepredict <winner> <amount>

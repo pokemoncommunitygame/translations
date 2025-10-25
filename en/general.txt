@@ -310,3 +310,4 @@ shiny:Shiny
 level:Level
 PokemonWrongTypeForDisc:Pokémon must be {0} type to use this disc
 weightScoringDescription:This {pokemon_name} scored {weight} points out of a possible 100!
+PokemonLocked:You locked the Pokémon, this item can't be used. Unlock the Pokémon first before using that item.

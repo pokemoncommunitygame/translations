@@ -168,6 +168,7 @@ PokemonAlreadyHasNature:Pokémon already has this nature or its equivalent
 PokemonNotModified:Pokémon has not been modified with a Bottle Cap
 PokemonNoPerfectStats:Pokémon has no perfect stats to reroll
 PokemonWrongTypeForDisc:Pokémon must be {0} type to use this disc
+PokemonLocked:You locked the Pokémon, this item can't be used. Unlock the Pokémon first before using that item.
 
 
 

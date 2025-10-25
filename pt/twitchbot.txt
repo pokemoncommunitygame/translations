@@ -46,6 +46,8 @@ RAIDS_REACHED_FINAL_GOAL:Objetivo final alcançado ✅
 RAIDS_REACHED_GOAL:Objetivo alcançado ✅ Melhorias disponíveis:
 RAIDS_CAUGHT:capturado
 RAIDS_MINIMUM_1000:@{0} Você precisa doar pelo menos $1000 para participar da raid.
+RAIDS_GOALS_NO_GOALS:@{0} Nenhum objetivo alcançado ainda! Continue capturando!
+RAIDS_GOALS_ACHIEVED:@{0} Objetivos de Raid Alcançados ({1} capturas):
 BET_SUCCESSFUL:@{0} Você previu uma vitória para {1}!
 BET_STATS:@{0} Chances para {1}: {2} - {3}
 BET_INFO:@{0} Faça uma previsão entre $100 e $5000 com: !pokepredict <vencedor> <quantia>

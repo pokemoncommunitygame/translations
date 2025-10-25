@@ -310,3 +310,4 @@ shiny:Schillernd
 level:Level
 PokemonWrongTypeForDisc:Pokémon muss vom Typ {0} sein, um diese Disc zu verwenden.
 weightScoringDescription:Dieses {pokemon_name} hat {weight} von möglichen 100 Punkten erzielt!
+PokemonLocked:Du hast das Pokémon gesperrt, dieser Gegenstand kann nicht verwendet werden. Entsperre das Pokémon zuerst, bevor du diesen Gegenstand benutzt.
