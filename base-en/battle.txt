@@ -8,7 +8,7 @@ ranked:Ranked
 stadium:Stadium
 battleGauntlet:Battle Gauntlet
 gauntletWins:Wins
-gauntletDescription:You can use each Pokémon species only once. If you lose, you’ll be pushed back 5 stages. The mode resets every 2 weeks, allowing you to start fresh and earn the rewards again. You can type !gauntlet in the Pokémon list to see all Pokémon that haven’t been used yet.
+gauntletDescription:You can use each Pokémon species only once. The mode resets every 2 weeks, allowing you to start fresh and earn the rewards again. You can type !gauntlet in the Pokémon list to see all Pokémon that haven’t been used yet.
 gauntletStart:Start Gauntlet
 gauntletCurrentWins:Current Wins
 gauntletHighscore:Your Highscore

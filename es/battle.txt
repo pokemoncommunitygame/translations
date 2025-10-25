@@ -4,7 +4,7 @@ private:Privado
 stadium:Estadio
 battleGauntlet:Desafío de Batalla
 gauntletWins:Victorias
-gauntletDescription:Solo puedes usar cada especie de Pokémon una vez. Si pierdes, retrocederás 5 etapas. El modo se reinicia cada 2 semanas, permitiéndote comenzar de nuevo y ganar las recompensas otra vez. Puedes escribir !gauntlet en la lista de Pokémon para ver todos los Pokémon que aún no se han usado.
+gauntletDescription:Solo puedes usar cada especie de Pokémon una vez. El modo se reinicia cada 2 semanas, permitiéndote comenzar de nuevo y ganar las recompensas otra vez. Puedes escribir !gauntlet en la lista de Pokémon para ver todos los Pokémon que aún no se han usado.
 gauntletStart:Iniciar Desafío
 gauntletCurrentWins:Victorias Actuales
 gauntletHighscore:Tu Mejor Puntuación
