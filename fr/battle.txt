@@ -146,3 +146,4 @@ battleMenu:Menu de Combat
 position:Position
 highscore:Meilleur Score
 rank:Rang
+gauntletAttempts:Défaites

@@ -8,6 +8,7 @@ ranked:Ranked
 stadium:Stadium
 battleGauntlet:Battle Gauntlet
 gauntletWins:Wins
+gauntletAttempts:Losses
 gauntletDescription:You can use each Pokémon species only once. The mode resets every 2 weeks, allowing you to start fresh and earn the rewards again. You can type !gauntlet in the Pokémon list to see all Pokémon that haven’t been used yet.
 gauntletStart:Start Gauntlet
 gauntletCurrentWins:Current Wins

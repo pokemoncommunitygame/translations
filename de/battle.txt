@@ -146,3 +146,4 @@ battleMenu:Kampfmenü
 position:Position
 highscore:Highscore
 rank:Rang
+gauntletAttempts:Niederlagen

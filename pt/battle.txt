@@ -146,3 +146,4 @@ battleMenu:Menu de Batalha
 position:Posição
 highscore:Recorde
 rank:Classificação
+gauntletAttempts:Derrotas

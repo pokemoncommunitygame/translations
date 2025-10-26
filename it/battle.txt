@@ -146,3 +146,4 @@ battleMenu:Menu di Battaglia
 position:Posizione
 highscore:Punteggio più alto
 rank:Classifica
+gauntletAttempts:Sconfitte

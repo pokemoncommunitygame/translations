@@ -146,3 +146,4 @@ battleMenu:Меню битвы
 position:Позиция
 highscore:Рекорд
 rank:Ранг
+gauntletAttempts:Поражения

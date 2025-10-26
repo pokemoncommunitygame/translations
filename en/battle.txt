@@ -146,3 +146,4 @@ battleMenu:Battle Menu
 position:Position
 highscore:Highscore
 rank:Rank
+gauntletAttempts:Losses
