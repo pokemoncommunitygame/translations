@@ -2784,7 +2784,7 @@ toxtricity-gmax:Giga-Dynamax Riffex
 toxtricity-gmaxDescription:Wenn es mit speziellen Organen in seiner Brust Elektrizität erzeugt, erklingen dabei Geräusche, die an eine Bassgitarre erinnern.
 toxtricity-lowkey:Riffex (Tief-Form)
 toxtricity-lowkeyDescription:Wenn es mit speziellen Organen in seiner Brust Elektrizität erzeugt, erklingen dabei Geräusche, die an eine Bassgitarre erinnern.
-unfezant-f:Fasanobliv (W)
+unfezant-f:Fasasnob (W)
 unfezant-fDescription:Es ist schlau, aber auch sehr stolz. Seine Trainer genießen daher generell großen Respekt.
 unown-b:Icognito
 unown-bDescription:Icognito hat die Form antiker Schriftzeichen. Bis heute ist unklar, was zuerst da war – die antiken Schriftzeichen oder die vielen unterschiedlichen Icognito. Trotz umfangreicher Forschung bleiben Fragen offen.
