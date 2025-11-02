@@ -257,41 +257,41 @@ force_discDescription:Un disco usado para enseñar a tu Pokémon un nuevo conjun
 mystic_disc:Disco Místico
 mystic_discDescription:Un disco usado para enseñar a tu Pokémon un nuevo conjunto de movimientos con una mayor probabilidad de movimientos especiales.
 fighting-disc:Disco Lucha
-fighting-discDescription:Un disco usado para enseñar a tu Pokémon un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Lucha más poderosos.
+fighting-discDescription:Un disco usado para enseñar a tu Pokémon de tipo Lucha un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Lucha más poderosos.
 bug-disc:Disco Bicho
-bug-discDescription:Un disco usado para enseñar a tu Pokémon un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Bicho más poderosos.
+bug-discDescription:Un disco usado para enseñar a tu Pokémon de tipo Bicho un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Bicho más poderosos.
 fire-disc:Disco Fuego
-fire-discDescription:Un disco usado para enseñar a tu Pokémon un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Fuego más poderosos.
+fire-discDescription:Un disco usado para enseñar a tu Pokémon de tipo Fuego un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Fuego más poderosos.
 grass-disc:Disco Planta
-grass-discDescription:Un disco usado para enseñar a tu Pokémon un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Planta más poderosos.
+grass-discDescription:Un disco usado para enseñar a tu Pokémon de tipo Planta un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Planta más poderosos.
 electric-disc:Disco Eléctrico
-electric-discDescription:Un disco usado para enseñar a tu Pokémon un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Eléctrico más poderosos.
+electric-discDescription:Un disco usado para enseñar a tu Pokémon de tipo Eléctrico un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Eléctrico más poderosos.
 poison-disc:Disco Veneno
-poison-discDescription:Un disco usado para enseñar a tu Pokémon un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Veneno más poderosos.
+poison-discDescription:Un disco usado para enseñar a tu Pokémon de tipo Veneno un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Veneno más poderosos.
 ground-disc:Disco Tierra
-ground-discDescription:Un disco usado para enseñar a tu Pokémon un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Tierra más poderosos.
+ground-discDescription:Un disco usado para enseñar a tu Pokémon de tipo Tierra un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Tierra más poderosos.
 water-disc:Disco Agua
-water-discDescription:Un disco usado para enseñar a tu Pokémon un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Agua más poderosos.
+water-discDescription:Un disco usado para enseñar a tu Pokémon de tipo Agua un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Agua más poderosos.
 steel-disc:Disco Acero
-steel-discDescription:Un disco usado para enseñar a tu Pokémon un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Acero más poderosos.
+steel-discDescription:Un disco usado para enseñar a tu Pokémon de tipo Acero un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Acero más poderosos.
 dragon-disc:Disco Dragón
-dragon-discDescription:Un disco usado para enseñar a tu Pokémon un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Dragón más poderosos.
+dragon-discDescription:Un disco usado para enseñar a tu Pokémon de tipo Dragón un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Dragón más poderosos.
 rock-disc:Disco Roca
-rock-discDescription:Un disco usado para enseñar a tu Pokémon un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Roca más poderosos.
+rock-discDescription:Un disco usado para enseñar a tu Pokémon de tipo Roca un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Roca más poderosos.
 dark-disc:Disco Siniestro
-dark-discDescription:Un disco usado para enseñar a tu Pokémon un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Siniestro más poderosos.
+dark-discDescription:Un disco usado para enseñar a tu Pokémon de tipo Siniestro un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Siniestro más poderosos.
 psychic-disc:Disco Psíquico
-psychic-discDescription:Un disco usado para enseñar a tu Pokémon un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Psíquico más poderosos.
+psychic-discDescription:Un disco usado para enseñar a tu Pokémon de tipo Psíquico un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Psíquico más poderosos.
 flying-disc:Disco Volador
-flying-discDescription:Un disco usado para enseñar a tu Pokémon un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Volador más poderosos.
+flying-discDescription:Un disco usado para enseñar a tu Pokémon de tipo Volador un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Volador más poderosos.
 ghost-disc:Disco Fantasma
-ghost-discDescription:Un disco usado para enseñar a tu Pokémon un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Fantasma más poderosos.
+ghost-discDescription:Un disco usado para enseñar a tu Pokémon de tipo Fantasma un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Fantasma más poderosos.
 normal-disc:Disco Normal
-normal-discDescription:Un disco usado para enseñar a tu Pokémon un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Normal más poderosos.
+normal-discDescription:Un disco usado para enseñar a tu Pokémon de tipo Normal un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Normal más poderosos.
 fairy-disc:Disco Hada
-fairy-discDescription:Un disco usado para enseñar a tu Pokémon un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Hada más poderosos.
+fairy-discDescription:Un disco usado para enseñar a tu Pokémon de tipo Hada un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Hada más poderosos.
 ice-disc:Disco Hielo
-ice-discDescription:Un disco usado para enseñar a tu Pokémon un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Hielo más poderosos.
+ice-discDescription:Un disco usado para enseñar a tu Pokémon de tipo Hielo un conjunto completo de movimientos nuevos. Mayor probabilidad de obtener movimientos de tipo Hielo más poderosos.
 zygarde_cell:Célula de Zygarde
 zygarde_cellDescription:Un pequeño fragmento verde, semitranslúcido y con forma de burbuja que forma el cuerpo de Zygarde. Por sí solas, las Células no tienen voluntad ni fuerza, pero cuando son dirigidas por un Núcleo de Zygarde, se ensamblan en las diversas formas de Zygarde.
 sport_ball:Sport Ball

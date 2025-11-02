@@ -257,41 +257,41 @@ force_discDescription:Un disco usato per insegnare al tuo Pokémon un nuovo set 
 mystic_disc:Disco Mistico (Mosse Speciali)
 mystic_discDescription:Un disco usato per insegnare al tuo Pokémon un nuovo set di mosse con una maggiore probabilità di mosse speciali.
 fighting-disc:Disco Lotta
-fighting-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Lotta più potenti.
+fighting-discDescription:Un disco usato per insegnare al tuo Pokémon di tipo Lotta un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Lotta più potenti.
 bug-disc:Disco Coleottero
-bug-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Coleottero più potenti.
+bug-discDescription:Un disco usato per insegnare al tuo Pokémon di tipo Coleottero un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Coleottero più potenti.
 fire-disc:Disco Fuoco
-fire-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Fuoco più potenti.
+fire-discDescription:Un disco usato per insegnare al tuo Pokémon di tipo Fuoco un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Fuoco più potenti.
 grass-disc:Disco Erba
-grass-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Erba più potenti.
+grass-discDescription:Un disco usato per insegnare al tuo Pokémon di tipo Erba un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Erba più potenti.
 electric-disc:Disco Elettro
-electric-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Elettro più potenti.
+electric-discDescription:Un disco usato per insegnare al tuo Pokémon di tipo Elettro un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Elettro più potenti.
 poison-disc:Disco Veleno
-poison-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Veleno più potenti.
+poison-discDescription:Un disco usato per insegnare al tuo Pokémon di tipo Veleno un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Veleno più potenti.
 ground-disc:Disco Terra
-ground-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Terra più potenti.
+ground-discDescription:Un disco usato per insegnare al tuo Pokémon di tipo Terra un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Terra più potenti.
 water-disc:Disco Acqua
-water-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Acqua più potenti.
+water-discDescription:Un disco usato per insegnare al tuo Pokémon di tipo Acqua un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Acqua più potenti.
 steel-disc:Disco Acciaio
-steel-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Acciaio più potenti.
+steel-discDescription:Un disco usato per insegnare al tuo Pokémon di tipo Acciaio un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Acciaio più potenti.
 dragon-disc:Disco Drago
-dragon-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Drago più potenti.
+dragon-discDescription:Un disco usato per insegnare al tuo Pokémon di tipo Drago un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Drago più potenti.
 rock-disc:Disco Roccia
-rock-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Roccia più potenti.
+rock-discDescription:Un disco usato per insegnare al tuo Pokémon di tipo Roccia un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Roccia più potenti.
 dark-disc:Disco Buio
-dark-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Buio più potenti.
+dark-discDescription:Un disco usato per insegnare al tuo Pokémon di tipo Buio un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Buio più potenti.
 psychic-disc:Disco Psico
-psychic-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Psico più potenti.
+psychic-discDescription:Un disco usato per insegnare al tuo Pokémon di tipo Psico un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Psico più potenti.
 flying-disc:Disco Volante
-flying-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Volante più potenti.
+flying-discDescription:Un disco usato per insegnare al tuo Pokémon di tipo Volante un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Volante più potenti.
 ghost-disc:Disco Spettro
-ghost-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Spettro più potenti.
+ghost-discDescription:Un disco usato per insegnare al tuo Pokémon di tipo Spettro un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Spettro più potenti.
 normal-disc:Disco Normale
-normal-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Normale più potenti.
+normal-discDescription:Un disco usato per insegnare al tuo Pokémon di tipo Normale un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Normale più potenti.
 fairy-disc:Disco Folletto
-fairy-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Folletto più potenti.
+fairy-discDescription:Un disco usato per insegnare al tuo Pokémon di tipo Folletto un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Folletto più potenti.
 ice-disc:Disco Ghiaccio
-ice-discDescription:Un disco usato per insegnare al tuo Pokémon un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Ghiaccio più potenti.
+ice-discDescription:Un disco usato per insegnare al tuo Pokémon di tipo Ghiaccio un set completo di nuove mosse. Maggiore probabilità di ottenere mosse di tipo Ghiaccio più potenti.
 zygarde_cell:Cellula di Zygarde
 zygarde_cellDescription:Un piccolo frammento verde, semi-traslucido e simile a una goccia che forma il corpo di Zygarde. Da sole, le Cellule non hanno volontà o forza, ma quando sono dirette da un Nucleo di Zygarde, si assemblano nelle varie forme di Zygarde.
 sport_ball:Sport Ball

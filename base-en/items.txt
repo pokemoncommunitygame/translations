@@ -261,41 +261,41 @@ mystic_disc:Mystic Disc
 mystic_discDescription:A disc used to teach your Pokémon a new move set with a higher chance for special moves.
 
 fighting-disc:Fighting Disc
-fighting-discDescription:A disc used to teach your Pokémon a full new move set. Increased likelihood of rolling more powerful Fighting-type moves.
+fighting-discDescription:A disc used to teach your fighting type Pokémon a full new move set. Increased likelihood of rolling more powerful Fighting-type moves.
 bug-disc:Bug Disc
-bug-discDescription:A disc used to teach your Pokémon a full new move set. Increased likelihood of rolling more powerful Bug-type moves.
+bug-discDescription:A disc used to teach your bug type Pokémon a full new move set. Increased likelihood of rolling more powerful Bug-type moves.
 fire-disc:Fire Disc
-fire-discDescription:A disc used to teach your Pokémon a full new move set. Increased likelihood of rolling more powerful Fire-type moves.
+fire-discDescription:A disc used to teach your fire type Pokémon a full new move set. Increased likelihood of rolling more powerful Fire-type moves.
 grass-disc:Grass Disc
-grass-discDescription:A disc used to teach your Pokémon a full new move set. Increased likelihood of rolling more powerful Grass-type moves.
+grass-discDescription:A disc used to teach your grass type Pokémon a full new move set. Increased likelihood of rolling more powerful Grass-type moves.
 electric-disc:Electric Disc
-electric-discDescription:A disc used to teach your Pokémon a full new move set. Increased likelihood of rolling more powerful Electric-type moves.
+electric-discDescription:A disc used to teach your electric type Pokémon a full new move set. Increased likelihood of rolling more powerful Electric-type moves.
 poison-disc:Poison Disc
-poison-discDescription:A disc used to teach your Pokémon a full new move set. Increased likelihood of rolling more powerful Poison-type moves.
+poison-discDescription:A disc used to teach your poison type Pokémon a full new move set. Increased likelihood of rolling more powerful Poison-type moves.
 ground-disc:Ground Disc
-ground-discDescription:A disc used to teach your Pokémon a full new move set. Increased likelihood of rolling more powerful Ground-type moves.
+ground-discDescription:A disc used to teach your ground type Pokémon a full new move set. Increased likelihood of rolling more powerful Ground-type moves.
 water-disc:Water Disc
-water-discDescription:A disc used to teach your Pokémon a full new move set. Increased likelihood of rolling more powerful Water-type moves.
+water-discDescription:A disc used to teach your water type Pokémon a full new move set. Increased likelihood of rolling more powerful Water-type moves.
 steel-disc:Steel Disc
-steel-discDescription:A disc used to teach your Pokémon a full new move set. Increased likelihood of rolling more powerful Steel-type moves.
+steel-discDescription:A disc used to teach your steel type Pokémon a full new move set. Increased likelihood of rolling more powerful Steel-type moves.
 dragon-disc:Dragon Disc
-dragon-discDescription:A disc used to teach your Pokémon a full new move set. Increased likelihood of rolling more powerful Dragon-type moves.
+dragon-discDescription:A disc used to teach your dragon type Pokémon a full new move set. Increased likelihood of rolling more powerful Dragon-type moves.
 rock-disc:Rock Disc
-rock-discDescription:A disc used to teach your Pokémon a full new move set. Increased likelihood of rolling more powerful Rock-type moves.
+rock-discDescription:A disc used to teach your rock type Pokémon a full new move set. Increased likelihood of rolling more powerful Rock-type moves.
 dark-disc:Dark Disc
-dark-discDescription:A disc used to teach your Pokémon a full new move set. Increased likelihood of rolling more powerful Dark-type moves.
+dark-discDescription:A disc used to teach your dark type Pokémon a full new move set. Increased likelihood of rolling more powerful Dark-type moves.
 psychic-disc:Psychic Disc
-psychic-discDescription:A disc used to teach your Pokémon a full new move set. Increased likelihood of rolling more powerful Psychic-type moves.
+psychic-discDescription:A disc used to teach your psychic type Pokémon a full new move set. Increased likelihood of rolling more powerful Psychic-type moves.
 flying-disc:Flying Disc
-flying-discDescription:A disc used to teach your Pokémon a full new move set. Increased likelihood of rolling more powerful Flying-type moves.
+flying-discDescription:A disc used to teach your flying type Pokémon a full new move set. Increased likelihood of rolling more powerful Flying-type moves.
 ghost-disc:Ghost Disc
-ghost-discDescription:A disc used to teach your Pokémon a full new move set. Increased likelihood of rolling more powerful Ghost-type moves.
+ghost-discDescription:A disc used to teach your ghost type Pokémon a full new move set. Increased likelihood of rolling more powerful Ghost-type moves.
 normal-disc:Normal Disc
-normal-discDescription:A disc used to teach your Pokémon a full new move set. Increased likelihood of rolling more powerful Normal-type moves.
+normal-discDescription:A disc used to teach your normal type Pokémon a full new move set. Increased likelihood of rolling more powerful Normal-type moves.
 fairy-disc:Fairy Disc
-fairy-discDescription:A disc used to teach your Pokémon a full new move set. Increased likelihood of rolling more powerful Fairy-type moves.
+fairy-discDescription:A disc used to teach your fairy type Pokémon a full new move set. Increased likelihood of rolling more powerful Fairy-type moves.
 ice-disc:Ice Disc
-ice-discDescription:A disc used to teach your Pokémon a full new move set. Increased likelihood of rolling more powerful Ice-type moves.
+ice-discDescription:A disc used to teach your ice type Pokémon a full new move set. Increased likelihood of rolling more powerful Ice-type moves.
 
 zygarde_cell:Zygarde Cell
 zygarde_cellDescription:A small, green, semi-translucent blob-like fragment that forms the body of Zygarde. On their own, Cells have no will or strength, but when directed by a Zygarde Core, they assemble into Zygarde’s various forms.
