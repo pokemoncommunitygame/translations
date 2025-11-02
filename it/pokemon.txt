@@ -3258,7 +3258,7 @@ vileplume-f:Vileplume
 vileplume-fDescription:Più grandi sono i petali, maggiore è la quantità di polline tossico che contengono. La testa, però, diventa molto pesante e fa fatica a sostenerla.
 steelix-retro:Steelix (Retro)
 steelix-retroDescription:Si pensa che il suo corpo si sia trasformato a causa dell'accumulo di ferro internamente per aver inghiottito terra.
-caterpie-pcg:I suoi piedi corti sono dotati di ventose che gli permettono di arrampicarsi instancabilmente su pendii e pareti. (Art di Anne_Dyari)
-miltank-pcg:Questo Pokémon deve essere munto ogni giorno, altrimenti si ammalerà. Il sapore del latte di Miltank cambia con le stagioni. (Art di itsbritneexo)
+caterpie-pcg:PCG Caterpie
+miltank-pcg:PCG Miltank
 caterpie-pcgDescription:I suoi piedi corti sono dotati di ventose che gli permettono di arrampicarsi instancabilmente su pendii e pareti. (Art di Anne_Dyari)
 miltank-pcgDescription:Questo Pokémon deve essere munto ogni giorno, altrimenti si ammalerà. Il sapore del latte di Miltank cambia con le stagioni. (Art di itsbritneexo)
