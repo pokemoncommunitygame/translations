@@ -253,45 +253,45 @@ common_presentDescription:Entrez dans un chat et tapez !pokegift pour rendre les
 ball_bundle:Ball Bundle
 ball_bundleDescription:Une offre spéciale comprenant : 1x Cherish Ball, 1x Great Cherish Ball, 1x Ultra Cherish Ball, 1x Heavy Ball, 1x Feather Ball, 1x Repeat Ball, 1x Net Ball, 1x Timer Ball, 1x Quick Ball, 1x Cipher Ball, 1x Friend Ball, 1x Clone Ball, 1x Phantom Ball, 1x Night Ball, 1x Frozen Ball, 1x Beast Ball, 1x Stone Ball, 1x Magnet Ball, 1x Nest Ball, 1x Fast Ball, 1x Level Ball, 1x Heal Ball, 1x Luxury Ball, 1x Sun Ball, 1x Fantasy Ball, 1x Geo Ball, 1x Mach Ball, 1x Basic Ball
 force_disc:Disque de Force
-force_discDescription:Un disque utilisé pour enseigner à ton Pokémon un nouvel ensemble de mouvements avec une plus grande chance pour les attaques physiques.
+force_discDescription:Un disque utilisé pour enseigner à ton Pokémon un nouvel ensemble de capacités avec une plus grande chance pour les attaques physiques.
 mystic_disc:Disque Mystique
-mystic_discDescription:Un disque utilisé pour enseigner à ton Pokémon un nouvel ensemble de mouvements avec une plus grande chance pour les attaques spéciales.
+mystic_discDescription:Un disque utilisé pour enseigner à ton Pokémon un nouvel ensemble de capacités avec une plus grande chance pour les attaques spéciales.
 fighting-disc:Disque Combat
-fighting-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Combat un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Combat plus puissants.
+fighting-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Combat un ensemble complet de nouvelles capacités. Probabilité accrue d'obtenir des capacités de type Combat plus puissantes.
 bug-disc:Disque Insecte
-bug-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Insecte un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Insecte plus puissants.
+bug-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Insecte un ensemble complet de nouvelles capacités. Probabilité accrue d'obtenir des capacités de type Insecte plus puissantes.
 fire-disc:Disque Feu
-fire-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Feu un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Feu plus puissants.
+fire-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Feu un ensemble complet de nouvelles capacités. Probabilité accrue d'obtenir des capacités de type Feu plus puissantes.
 grass-disc:Disque Plante
-grass-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Plante un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Plante plus puissants.
+grass-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Plante un ensemble complet de nouvelles capacités. Probabilité accrue d'obtenir des capacités de type Plante plus puissantes.
 electric-disc:Disque Électrique
-electric-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Électrique un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Électrique plus puissants.
+electric-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Électrique un ensemble complet de nouvelles capacités. Probabilité accrue d'obtenir des capacités de type Électrique plus puissantes.
 poison-disc:Disque Poison
-poison-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Poison un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Poison plus puissants.
+poison-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Poison un ensemble complet de nouvelles capacités. Probabilité accrue d'obtenir des capacités de type Poison plus puissantes.
 ground-disc:Disque Sol
-ground-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Sol un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Sol plus puissants.
+ground-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Sol un ensemble complet de nouvelles capacités. Probabilité accrue d'obtenir des capacités de type Sol plus puissantes.
 water-disc:Disque Eau
-water-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Eau un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Eau plus puissants.
+water-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Eau un ensemble complet de nouvelles capacités. Probabilité accrue d'obtenir des capacités de type Eau plus puissantes.
 steel-disc:Disque Acier
-steel-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Acier un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Acier plus puissants.
+steel-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Acier un ensemble complet de nouvelles capacités. Probabilité accrue d'obtenir des capacités de type Acier plus puissantes.
 dragon-disc:Disque Dragon
-dragon-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Dragon un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Dragon plus puissants.
+dragon-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Dragon un ensemble complet de nouvelles capacités. Probabilité accrue d'obtenir des capacités de type Dragon plus puissantes.
 rock-disc:Disque Roche
-rock-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Roche un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Roche plus puissants.
+rock-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Roche un ensemble complet de nouvelles capacités. Probabilité accrue d'obtenir des capacités de type Roche plus puissantes.
 dark-disc:Disque Ténèbres
-dark-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Ténèbres un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Ténèbres plus puissants.
+dark-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Ténèbres un ensemble complet de nouvelles capacités. Probabilité accrue d'obtenir des capacités de type Ténèbres plus puissantes.
 psychic-disc:Disque Psy
-psychic-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Psy un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Psy plus puissants.
+psychic-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Psy un ensemble complet de nouvelles capacités. Probabilité accrue d'obtenir des capacités de type Psy plus puissantes.
 flying-disc:Disque Vol
-flying-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Vol un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Vol plus puissants.
+flying-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Vol un ensemble complet de nouvelles capacités. Probabilité accrue d'obtenir des capacités de type Vol plus puissantes.
 ghost-disc:Disque Spectre
-ghost-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Spectre un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Spectre plus puissants.
+ghost-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Spectre un ensemble complet de nouvelles capacités. Probabilité accrue d'obtenir des capacités de type Spectre plus puissantes.
 normal-disc:Disque Normal
-normal-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Normal un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Normal plus puissants.
+normal-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Normal un ensemble complet de nouvelles capacités. Probabilité accrue d'obtenir des capacités de type Normal plus puissantes.
 fairy-disc:Disque Fée
-fairy-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Fée un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Fée plus puissants.
+fairy-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Fée un ensemble complet de nouvelles capacités. Probabilité accrue d'obtenir des capacités de type Fée plus puissantes.
 ice-disc:Disque Glace
-ice-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Glace un ensemble complet de nouveaux mouvements. Probabilité accrue d'obtenir des mouvements de type Glace plus puissants.
+ice-discDescription:Un disque utilisé pour enseigner à ton Pokémon de type Glace un ensemble complet de nouvelles capacités. Probabilité accrue d'obtenir des capacités de type Glace plus puissantes.
 zygarde_cell:Cellule de Zygarde
 zygarde_cellDescription:Un petit fragment vert, semi-translucide et gélatineux qui forme le corps de Zygarde. Seules, les Cellules n'ont ni volonté ni force, mais lorsqu'elles sont dirigées par un Noyau de Zygarde, elles s'assemblent en diverses formes de Zygarde.
 sport_ball:Sport Ball
