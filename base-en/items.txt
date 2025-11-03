@@ -241,17 +241,17 @@ lag_syrupDescription:A syrup that sets a Pokémon's Speed IV to 0, making it slo
 weak_serum:Weak Serum
 weak_serumDescription:A serum that sets a Pokémon's Attack IV to 0, reducing its physical power.
 small_battle_exp_boost:Small Battle XP Boost
-small_battle_exp_boostDescription:A small boost that increases the XP gained from battles.
+small_battle_exp_boostDescription:A small boost that increases the XP gained from battles. Lasts for 5 battles.
 medium_battle_xp_boost:Medium Battle XP Boost
-medium_battle_xp_boostDescription:A medium boost that significantly increases the XP gained from battles.
+medium_battle_xp_boostDescription:A medium boost that significantly increases the XP gained from battles. Lasts for 10 battles.
 large_battle_xp_boost:Large Battle XP Boost
-large_battle_xp_boostDescription:A large boost that greatly increases the XP gained from battles.
+large_battle_xp_boostDescription:A large boost that greatly increases the XP gained from battles. Lasts for 15 battles.
 small_battle_coin_boost:Small Battle Coin Boost
-small_battle_coin_boostDescription:A small boost that increases the coins earned from battles.
+small_battle_coin_boostDescription:A small boost that increases the coins earned from battles. Lasts for 5 battles.
 medium_battle_coin_boost:Medium Battle Coin Boost
-medium_battle_coin_boostDescription:A medium boost that significantly increases the coins earned from battles.
+medium_battle_coin_boostDescription:A medium boost that significantly increases the coins earned from battles. Lasts for 10 battles.
 large_battle_coin_boost:Large Battle Coin Boost
-large_battle_coin_boostDescription:A large boost that greatly increases the coins earned from battles.
+large_battle_coin_boostDescription:A large boost that greatly increases the coins earned from battles. Lasts for 15 battles.
 small_ball_bundle:Small Ball Bundle
 small_ball_bundleDescription:A bundle containing a selection of basic Poké Balls.
 

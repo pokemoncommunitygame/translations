@@ -235,17 +235,17 @@ lag_syrupDescription:Un jarabe que establece el IV de Velocidad de un Pokémon a
 weak_serum:Suero Débil
 weak_serumDescription:Un suero que establece el IV de Ataque de un Pokémon a 0, reduciendo su poder físico.
 small_battle_exp_boost:Impulso de EXP de Batalla Pequeño
-small_battle_exp_boostDescription:Un pequeño impulso que aumenta la EXP ganada en las batallas.
+small_battle_exp_boostDescription:Un pequeño impulso que aumenta la EXP ganada en las batallas. Dura para 5 batallas.
 medium_battle_xp_boost:Impulso de EXP de Batalla Mediano
-medium_battle_xp_boostDescription:Un impulso mediano que aumenta significativamente la EXP ganada en las batallas.
+medium_battle_xp_boostDescription:Un impulso mediano que aumenta significativamente la EXP ganada en las batallas. Dura para 10 batallas.
 large_battle_xp_boost:Impulso de EXP de Batalla Grande
-large_battle_xp_boostDescription:Un gran impulso que aumenta enormemente la EXP ganada en las batallas.
+large_battle_xp_boostDescription:Un gran impulso que aumenta enormemente la EXP ganada en las batallas. Dura para 15 batallas.
 small_battle_coin_boost:Impulso de Monedas de Batalla Pequeño
-small_battle_coin_boostDescription:Un pequeño impulso que aumenta las monedas ganadas en las batallas.
+small_battle_coin_boostDescription:Un pequeño impulso que aumenta las monedas ganadas en las batallas. Dura para 5 batallas.
 medium_battle_coin_boost:Impulso de Monedas de Batalla Mediano
-medium_battle_coin_boostDescription:Un impulso mediano que aumenta significativamente las monedas ganadas en las batallas.
+medium_battle_coin_boostDescription:Un impulso mediano que aumenta significativamente las monedas ganadas en las batallas. Dura para 10 batallas.
 large_battle_coin_boost:Impulso de Monedas de Batalla Grande
-large_battle_coin_boostDescription:Un gran impulso que aumenta enormemente las monedas ganadas en las batallas.
+large_battle_coin_boostDescription:Un gran impulso que aumenta enormemente las monedas ganadas en las batallas. Dura para 15 batallas.
 small_ball_bundle:Paquete de Bolas Pequeño
 small_ball_bundleDescription:Un paquete que contiene una selección de Poké Balls básicas.
 common_present:Presente

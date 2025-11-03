@@ -235,17 +235,17 @@ lag_syrupDescription:Uno sciroppo che imposta l'IV di Velocità di un Pokémon a
 weak_serum:Siero Debole
 weak_serumDescription:Un siero che imposta l'IV di Attacco di un Pokémon a 0, riducendo la sua potenza fisica.
 small_battle_exp_boost:Piccolo Boost EXP Battaglia
-small_battle_exp_boostDescription:Un piccolo boost che aumenta l'EXP guadagnata dalle battaglie.
+small_battle_exp_boostDescription:Un piccolo boost che aumenta l'EXP guadagnata dalle battaglie. Dura per 5 battaglie.
 medium_battle_xp_boost:Medio Boost EXP Battaglia
-medium_battle_xp_boostDescription:Un medio boost che aumenta significativamente l'EXP guadagnata dalle battaglie.
+medium_battle_xp_boostDescription:Un medio boost che aumenta significativamente l'EXP guadagnata dalle battaglie. Dura per 10 battaglie.
 large_battle_xp_boost:Grande Boost EXP Battaglia
-large_battle_xp_boostDescription:Un grande boost che aumenta enormemente l'EXP guadagnata dalle battaglie.
+large_battle_xp_boostDescription:Un grande boost che aumenta enormemente l'EXP guadagnata dalle battaglie. Dura per 15 battaglie.
 small_battle_coin_boost:Piccolo Boost Monete Battaglia
-small_battle_coin_boostDescription:Un piccolo boost che aumenta le monete guadagnate dalle battaglie.
+small_battle_coin_boostDescription:Un piccolo boost che aumenta le monete guadagnate dalle battaglie. Dura per 5 battaglie.
 medium_battle_coin_boost:Medio Boost Monete Battaglia
-medium_battle_coin_boostDescription:Un medio boost che aumenta significativamente le monete guadagnate dalle battaglie.
+medium_battle_coin_boostDescription:Un medio boost che aumenta significativamente le monete guadagnate dalle battaglie. Dura per 10 battaglie.
 large_battle_coin_boost:Grande Boost Monete Battaglia
-large_battle_coin_boostDescription:Un grande boost che aumenta enormemente le monete guadagnate dalle battaglie.
+large_battle_coin_boostDescription:Un grande boost che aumenta enormemente le monete guadagnate dalle battaglie. Dura per 15 battaglie.
 small_ball_bundle:Piccolo Pacchetto Sfere
 small_ball_bundleDescription:Un pacchetto contenente una selezione di Poké Ball base.
 common_present:Presente

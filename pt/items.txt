@@ -235,17 +235,17 @@ lag_syrupDescription:Um xarope que define o IV de Velocidade de um Pokémon como
 weak_serum:Soro Fraco
 weak_serumDescription:Um soro que define o IV de Ataque de um Pokémon como 0, reduzindo seu poder físico.
 small_battle_exp_boost:Pequeno Boost de EXP de Batalha
-small_battle_exp_boostDescription:Um pequeno boost que aumenta a EXP ganha nas batalhas.
+small_battle_exp_boostDescription:Um pequeno boost que aumenta a EXP ganha nas batalhas. Dura para 5 batalhas.
 medium_battle_xp_boost:Médio Boost de EXP de Batalha
-medium_battle_xp_boostDescription:Um boost médio que aumenta significativamente a EXP ganha nas batalhas.
+medium_battle_xp_boostDescription:Um boost médio que aumenta significativamente a EXP ganha nas batalhas. Dura para 10 batalhas.
 large_battle_xp_boost:Grande Boost de EXP de Batalha
-large_battle_xp_boostDescription:Um grande boost que aumenta enormemente a EXP ganha nas batalhas.
+large_battle_xp_boostDescription:Um grande boost que aumenta enormemente a EXP ganha nas batalhas. Dura para 15 batalhas.
 small_battle_coin_boost:Pequeno Boost de Moedas de Batalha
-small_battle_coin_boostDescription:Um pequeno boost que aumenta as moedas ganhas nas batalhas.
+small_battle_coin_boostDescription:Um pequeno boost que aumenta as moedas ganhas nas batalhas. Dura para 5 batalhas.
 medium_battle_coin_boost:Médio Boost de Moedas de Batalha
-medium_battle_coin_boostDescription:Um boost médio que aumenta significativamente as moedas ganhas nas batalhas.
+medium_battle_coin_boostDescription:Um boost médio que aumenta significativamente as moedas ganhas nas batalhas. Dura para 10 batalhas.
 large_battle_coin_boost:Grande Boost de Moedas de Batalha
-large_battle_coin_boostDescription:Um grande boost que aumenta enormemente as moedas ganhas nas batalhas.
+large_battle_coin_boostDescription:Um grande boost que aumenta enormemente as moedas ganhas nas batalhas. Dura para 15 batalhas.
 small_ball_bundle:Pequeno Pacote de Bolas
 small_ball_bundleDescription:Um pacote contendo uma seleção de Poké Balls básicas.
 common_present:Presente

@@ -235,17 +235,17 @@ lag_syrupDescription:Сироп, который устанавливает IV С
 weak_serum:Слабая сыворотка
 weak_serumDescription:Сыворотка, которая устанавливает IV Атаки Покемона на 0, снижая его физическую силу.
 small_battle_exp_boost:Малый боевой буст опыта
-small_battle_exp_boostDescription:Небольшой буст, который увеличивает опыт, получаемый в боях.
+small_battle_exp_boostDescription:Небольшой буст, который увеличивает опыт, получаемый в боях. Действует на 5 боёв.
 medium_battle_xp_boost:Средний боевой буст опыта
-medium_battle_xp_boostDescription:Средний буст, который значительно увеличивает опыт, получаемый в боях.
+medium_battle_xp_boostDescription:Средний буст, который значительно увеличивает опыт, получаемый в боях. Действует на 10 боёв.
 large_battle_xp_boost:Большой боевой буст опыта
-large_battle_xp_boostDescription:Большой буст, который сильно увеличивает опыт, получаемый в боях.
+large_battle_xp_boostDescription:Большой буст, который сильно увеличивает опыт, получаемый в боях. Действует на 15 боёв.
 small_battle_coin_boost:Малый боевой буст монет
-small_battle_coin_boostDescription:Небольшой буст, который увеличивает монеты, заработанные в боях.
+small_battle_coin_boostDescription:Небольшой буст, который увеличивает монеты, заработанные в боях. Действует на 5 боёв.
 medium_battle_coin_boost:Средний боевой буст монет
-medium_battle_coin_boostDescription:Средний буст, который значительно увеличивает монеты, заработанные в боях.
+medium_battle_coin_boostDescription:Средний буст, который значительно увеличивает монеты, заработанные в боях. Действует на 10 боёв.
 large_battle_coin_boost:Большой боевой буст монет
-large_battle_coin_boostDescription:Большой буст, который сильно увеличивает монеты, заработанные в боях.
+large_battle_coin_boostDescription:Большой буст, который сильно увеличивает монеты, заработанные в боях. Действует на 15 боёв.
 small_ball_bundle:Малый набор мячей
 small_ball_bundleDescription:Набор, содержащий подборку базовых Покеболов.
 common_present:Подарок

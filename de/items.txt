@@ -235,17 +235,17 @@ lag_syrupDescription:Ein Sirup, der den Initiative-IV eines Pokémon auf 0 setzt
 weak_serum:Schwach-Serum
 weak_serumDescription:Ein Serum, das den Angriffs-IV eines Pokémon auf 0 setzt und seine physische Kraft reduziert.
 small_battle_exp_boost:Kleiner Kampf-EP-Boost
-small_battle_exp_boostDescription:Ein kleiner Boost, der die in Kämpfen erhaltenen EP erhöht.
+small_battle_exp_boostDescription:Ein kleiner Boost, der die in Kämpfen erhaltenen EP erhöht. Hält für 5 Kämpfe.
 medium_battle_xp_boost:Mittlerer Kampf-EP-Boost
-medium_battle_xp_boostDescription:Ein mittlerer Boost, der die in Kämpfen erhaltenen EP deutlich erhöht.
+medium_battle_xp_boostDescription:Ein mittlerer Boost, der die in Kämpfen erhaltenen EP deutlich erhöht. Hält für 10 Kämpfe.
 large_battle_xp_boost:Großer Kampf-EP-Boost
-large_battle_xp_boostDescription:Ein großer Boost, der die in Kämpfen erhaltenen EP stark erhöht.
+large_battle_xp_boostDescription:Ein großer Boost, der die in Kämpfen erhaltenen EP stark erhöht. Hält für 15 Kämpfe.
 small_battle_coin_boost:Kleiner Kampf-Münzen-Boost
-small_battle_coin_boostDescription:Ein kleiner Boost, der die in Kämpfen verdienten Münzen erhöht.
+small_battle_coin_boostDescription:Ein kleiner Boost, der die in Kämpfen verdienten Münzen erhöht. Hält für 5 Kämpfe.
 medium_battle_coin_boost:Mittlerer Kampf-Münzen-Boost
-medium_battle_coin_boostDescription:Ein mittlerer Boost, der die in Kämpfen verdienten Münzen deutlich erhöht.
+medium_battle_coin_boostDescription:Ein mittlerer Boost, der die in Kämpfen verdienten Münzen deutlich erhöht. Hält für 10 Kämpfe.
 large_battle_coin_boost:Großer Kampf-Münzen-Boost
-large_battle_coin_boostDescription:Ein großer Boost, der die in Kämpfen verdienten Münzen stark erhöht.
+large_battle_coin_boostDescription:Ein großer Boost, der die in Kämpfen verdienten Münzen stark erhöht. Hält für 15 Kämpfe.
 small_ball_bundle:Kleines Ball-Bündel
 small_ball_bundleDescription:Ein Bündel, das eine Auswahl an Standard-Pokébällen enthält.
 common_present:Geschenk

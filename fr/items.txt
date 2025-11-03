@@ -235,17 +235,17 @@ lag_syrupDescription:Un sirop qui définit l'IV de Vitesse d'un Pokémon à 0, l
 weak_serum:Sérum Faible
 weak_serumDescription:Un sérum qui définit l'IV d'Attaque d'un Pokémon à 0, réduisant sa puissance physique.
 small_battle_exp_boost:Petit Boost d'EXP de Combat
-small_battle_exp_boostDescription:Un petit boost qui augmente l'EXP gagnée lors des combats.
+small_battle_exp_boostDescription:Un petit boost qui augmente l'EXP gagnée lors des combats. Dure pour 5 combats.
 medium_battle_xp_boost:Boost d'EXP de Combat Moyen
-medium_battle_xp_boostDescription:Un boost moyen qui augmente considérablement l'EXP gagnée lors des combats.
+medium_battle_xp_boostDescription:Un boost moyen qui augmente considérablement l'EXP gagnée lors des combats. Dure pour 10 combats.
 large_battle_xp_boost:Grand Boost d'EXP de Combat
-large_battle_xp_boostDescription:Un grand boost qui augmente énormément l'EXP gagnée lors des combats.
+large_battle_xp_boostDescription:Un grand boost qui augmente énormément l'EXP gagnée lors des combats. Dure pour 15 combats.
 small_battle_coin_boost:Petit Boost de Pièces de Combat
-small_battle_coin_boostDescription:Un petit boost qui augmente les pièces gagnées lors des combats.
+small_battle_coin_boostDescription:Un petit boost qui augmente les pièces gagnées lors des combats. Dure pour 5 combats.
 medium_battle_coin_boost:Boost de Pièces de Combat Moyen
-medium_battle_coin_boostDescription:Un boost moyen qui augmente considérablement les pièces gagnées lors des combats.
+medium_battle_coin_boostDescription:Un boost moyen qui augmente considérablement les pièces gagnées lors des combats. Dure pour 10 combats.
 large_battle_coin_boost:Grand Boost de Pièces de Combat
-large_battle_coin_boostDescription:Un grand boost qui augmente énormément les pièces gagnées lors des combats.
+large_battle_coin_boostDescription:Un grand boost qui augmente énormément les pièces gagnées lors des combats. Dure pour 15 combats.
 small_ball_bundle:Petit Paquet de Balles
 small_ball_bundleDescription:Un paquet contenant une sélection de Poké Balls de base.
 common_present:Présent
