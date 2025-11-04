@@ -1830,13 +1830,13 @@ castform-snowy:Castform (Snowy)
 castform-snowyDescription:Il suo aspetto cambia con le condizioni atmosferiche. Più il tempo è brutto, più diventa aggressivo.
 basculin-blue-striped:Basculin
 basculin-blue-stripedDescription:Utilizzati in passato in cucina, i Basculin Forma Linearossa erano ritenuti adatti ai giovani per la loro carne ad alto contenuto di grassi.
-tornadus-therian:Tornadus
+tornadus-therian:Tornadus (Therian)
 tornadus-therianDescription:L’energia sprigionata dalla coda di Tornadus provoca una violenta tempesta in grado di spazzare via le case.
-thundurus-therian:Thundurus
+thundurus-therian:Thundurus (Therian)
 thundurus-therianDescription:Non è molto amato perché durante il suo peregrinare nei cieli fa cadere fulmini qua e là che causano incendi nei boschi.
 darmanitan-zen:Darmanitan
 darmanitan-zenDescription:Se subisce danni, diventa immobile come un sasso e medita per temprare lo spirito.
-landorus-therian:Landorus
+landorus-therian:Landorus (Therian)
 landorus-therianDescription:Rende fertile la terra trasformando l’energia del vento e dei fulmini in nutrimento per il suolo.
 kyurem-black:Kyurem
 kyurem-blackDescription:Sembra che abbia finito con il congelarsi producendo un soffio gelido al fine di stabilizzare la sua struttura cellulare.
@@ -2960,8 +2960,8 @@ magnezone-retro:Magnezone (Retro)
 magnezone-retroDescription:Si pensa che la sua struttura molecolare sia mutata in seguito all’esposizione a uno speciale campo magnetico, che ha innescato l’evoluzione.
 enamorus-incarnate:Enamorus
 enamorus-incarnateDescription:When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon's love gives rise to the budding of fresh life across Hisui.
-enamorus:Enamorus
-enamorusDescription:When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon's love gives rise to the budding of fresh life across Hisui.
+enamorus-therian:Enamorus (Therian)
+enamorus-therianDescription:When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon's love gives rise to the budding of fresh life across Hisui.
 sprigatito:Sprigatito
 sprigatitoDescription:The sweet scent its body gives off mesmerizes those around it. The scent grows stronger when this Pokémon is in the sun.
 floragato:Floragato

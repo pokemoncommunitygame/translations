@@ -2962,8 +2962,8 @@ magnezone-retro:Magnézone (Retro)
 magnezone-retroDescription:On pense qu’il a évolué après avoir été exposé à un champ magnétique particulier qui a modifié la structure moléculaire de son corps.
 enamorus-incarnate:Amovénus
 enamorus-incarnateDescription:When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon's love gives rise to the budding of fresh life across Hisui.
-enamorus:Amovénus
-enamorusDescription:When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon's love gives rise to the budding of fresh life across Hisui.
+enamorus-therian:Amovénus (Therian)
+enamorus-therianDescription:When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon's love gives rise to the budding of fresh life across Hisui.
 sprigatito:Poussacha
 sprigatitoDescription:The sweet scent its body gives off mesmerizes those around it. The scent grows stronger when this Pokémon is in the sun.
 floragato:Matourgeon

@@ -1850,7 +1850,7 @@ tornadus-therian:Boreos (Tiergeistform)
 tornadus-therianDescription:Mit der Energie aus seiner Rute erzeugt es wilde Stürme, die stark genug sind, um ganze Wohnhäuser davonzuwehen.
 thundurus-therian:Voltolos (Tiergeistform)
 thundurus-therianDescription:Es ist bei den Leuten verhasst, weil es auf seinen Rundflügen immer wieder Blitze erzeugt, die Waldbrände verursachen.
-landorus-therian:Demeteros
+landorus-therian:Demeteros (Tiergeistform)
 landorus-therianDescription:Seine aus Wind und Donner gewonnene Energie sorgt für reiche Ernten, da sie den Boden mit Nährstoffen anreichert.
 kyurem-black:Kyurem (Schwarz)
 kyurem-blackDescription:Nachdem es Zekrom, das über identische Gene verfügt, absorbiert hat, kann es nun sowohl Elektro- als auch Eis-Energie einsetzen.
@@ -2962,8 +2962,8 @@ magnezone-retro:Magnezone (Retro)
 magnezone-retroDescription:Man vermutet, es habe sich entwickelt, nachdem es einem besonderen Magnetfeld ausgesetzt war, das seine Molekularstruktur veränderte.
 enamorus-incarnate:Cupidos
 enamorus-incarnateDescription:When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon's love gives rise to the budding of fresh life across Hisui.
-enamorus:Cupidos
-enamorusDescription:When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon's love gives rise to the budding of fresh life across Hisui.
+enamorus-therian:Cupidos (Tiergeistform)
+enamorus-therianDescription:When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon's love gives rise to the budding of fresh life across Hisui.
 sprigatito:Felori
 sprigatitoDescription:The sweet scent its body gives off mesmerizes those around it. The scent grows stronger when this Pokémon is in the sun.
 floragato:Feliospa
