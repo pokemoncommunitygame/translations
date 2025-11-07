@@ -3261,4 +3261,6 @@ steelix-retroDescription:It is thought its body transformed as a result of iron 
 caterpie-pcg:PCG Caterpie
 miltank-pcg:PCG Miltank
 caterpie-pcgDescription:Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls. (Art by Anne_Dyari)
-miltank-pcgDescription:This Pokémon needs to be milked every day, or else it will fall ill. The flavor of Miltank milk changes with the seasons.(Art by itsbritneexo)
+miltank-pcgDescription:This Pokémon needs to be milked every day, or else it will fall ill. The flavor of Miltank milk changes with the seasons. (Art by itsbritneexo)
+spinarak-pcg:PCG Spinarak
+spinarak-pcgDescription:Although the poison from its fangs isn’t that strong, it’s potent enough to weaken prey that gets caught in its web. (Art by Lenathepanda & Hallowwisp)

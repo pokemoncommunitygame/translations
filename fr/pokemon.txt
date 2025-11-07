@@ -3262,3 +3262,5 @@ caterpie-pcg:PCG Chenipan
 miltank-pcg:PCG Écrémeuh
 caterpie-pcgDescription:Ses petites pattes sont munies de ventouses qui lui permettent de grimper sans relâche sur les pentes et les murs. (Art par Anne_Dyari)
 miltank-pcgDescription:Ce Pokémon doit être trait tous les jours, sinon il tombera malade. Le goût du lait de Miltank change avec les saisons. (Art par itsbritneexo)
+spinarak-pcg:PCG Spinarak
+spinarak-pcgDescription:Bien que le poison de ses crocs ne soit pas très puissant, il est suffisamment fort pour affaiblir les proies prises dans sa toile. (Art par Lenathepanda & Hallowwisp)

@@ -3262,3 +3262,5 @@ caterpie-pcg:PCG Caterpie
 miltank-pcg:PCG Miltank
 caterpie-pcgDescription:Seus pés curtos têm ventosas que lhe permitem escalar incansavelmente encostas e paredes. (Arte por Anne_Dyari)
 miltank-pcgDescription:Este Pokémon precisa ser ordenhado todos os dias, senão ficará doente. O sabor do leite de Miltank muda com as estações. (Arte por itsbritneexo)
+spinarak-pcg:PCG Spinarak
+spinarak-pcgDescription:Embora o veneno de suas presas não seja tão forte, é potente o suficiente para enfraquecer a presa que fica presa em sua teia. (Arte por Lenathepanda & Hallowwisp)

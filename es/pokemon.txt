@@ -3261,4 +3261,6 @@ steelix-retroDescription:Se cree que su cuerpo se transformó como resultado de 
 caterpie-pcg:PCG Caterpie
 miltank-pcg:PCG Miltank
 caterpie-pcgDescription:Sus patas cortas terminan en ventosas que le permiten trepar incansablemente por pendientes y paredes. (Arte de Anne_Dyari)
-miltank-pcgDescription:Este Pokémon necesita ser ordeñado todos los días, o de lo contrario se enfermará. El sabor de la leche de Miltank cambia con las estaciones. (Arte de itsbritneexo)
+miltank-pcgDescription:Este Pokémon necesita ser ordeñado todos los días, o de lo contrario se enfermará. El sabor de la leche de Miltank cambia con las estaciones. (Arte por itsbritneexo)
+spinarak-pcg:PCG Spinarak
+spinarak-pcgDescription:Aunque el veneno de sus colmillos no es muy fuerte, es lo suficientemente potente como para debilitar a las presas que quedan atrapadas en su telaraña. (Arte por Lenathepanda & Hallowwisp)

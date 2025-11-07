@@ -3262,4 +3262,6 @@ vileplume-fDescription:The larger its petals, the more toxic pollen it contains.
 caterpie-pcg:PCG Caterpie
 caterpie-pcgDescription:Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls. (Art by Anne_Dyari)
 miltank-pcg:PCG Miltank
-miltank-pcgDescription:This Pokémon needs to be milked every day, or else it will fall ill. The flavor of Miltank milk changes with the seasons.(Art by itsbritneexo)
+miltank-pcgDescription:This Pokémon needs to be milked every day, or else it will fall ill. The flavor of Miltank milk changes with the seasons. (Art by itsbritneexo)
+spinarak-pcg:PCG Spinarak
+spinarak-pcgDescription:Although the poison from its fangs isn’t that strong, it’s potent enough to weaken prey that gets caught in its web. (Art by Lenathepanda & Hallowwisp)

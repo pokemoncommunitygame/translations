@@ -3262,3 +3262,5 @@ caterpie-pcg:PCG Raupy
 miltank-pcg:PCG Miltank
 caterpie-pcgDescription:Seine kurzen Füße sind mit Saugnäpfen versehen, die es ihm ermöglichen, unermüdlich Hänge und Wände zu erklimmen. (Kunst von Anne_Dyari)
 miltank-pcgDescription:Dieses Pokémon muss jeden Tag gemolken werden, sonst wird es krank. Der Geschmack der Miltank-Milch ändert sich mit den Jahreszeiten. (Kunst von itsbritneexo)
+spinarak-pcg:PCG Spinarak
+spinarak-pcgDescription:Obwohl das Gift aus seinen Reißzähnen nicht sehr stark ist, ist es stark genug, um Beute zu schwächen, die sich in seinem Netz verfängt. (Kunst von Lenathepanda & Hallowwisp)
