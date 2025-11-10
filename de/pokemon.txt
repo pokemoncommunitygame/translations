@@ -2662,10 +2662,6 @@ pikachu-rockstar:Pikachu (Rockstar)
 pikachu-rockstarDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
 pikachu-sinnoh:Pikachu (Sinnoh)
 pikachu-sinnohDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
-pikachu-starter-f:Pikachu (Starter-W)
-pikachu-starter-fDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
-pikachu-starter:Pikachu (Starter)
-pikachu-starterDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
 pikachu-unova:Pikachu (Unova)
 pikachu-unovaDescription:Schlägt es mit seinem blitzförmigen Schweif zu, fahren die Elektrizität und die Spannung eines einschlagenden Blitzes durch den Gegner.
 piloswine-f:Keifel (W)

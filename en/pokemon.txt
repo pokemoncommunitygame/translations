@@ -2658,10 +2658,6 @@ pikachu-rockstar:Pikachu (Rockstar)
 pikachu-rockstarDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
 pikachu-sinnoh:Pikachu (Sinnoh)
 pikachu-sinnohDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
-pikachu-starter-f:Pikachu (Starter-F)
-pikachu-starter-fDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
-pikachu-starter:Pikachu (Starter)
-pikachu-starterDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
 pikachu-unova:Pikachu (Unova)
 pikachu-unovaDescription:When it smashes its opponents with its bolt- shaped tail, it delivers a surge of electricity equivalent to a lightning strike.
 piloswine-f:Piloswine (F)

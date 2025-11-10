@@ -2660,10 +2660,6 @@ pikachu-rockstar:Pikachu
 pikachu-rockstarDescription:Indossa il cappello del suo amato Allenatore. È un prezioso ricordo del loro fatidico incontro.
 pikachu-sinnoh:Pikachu
 pikachu-sinnohDescription:Indossa il cappello del suo amato Allenatore. È un prezioso ricordo del loro fatidico incontro.
-pikachu-starter-f:Pikachu
-pikachu-starter-fDescription:Indossa il cappello del suo amato Allenatore. È un prezioso ricordo del loro fatidico incontro.
-pikachu-starter:Pikachu
-pikachu-starterDescription:Indossa il cappello del suo amato Allenatore. È un prezioso ricordo del loro fatidico incontro.
 pikachu-unova:Pikachu
 pikachu-unovaDescription:Indossa il cappello del suo amato Allenatore. È un prezioso ricordo del loro fatidico incontro.
 piloswine-f:Piloswine

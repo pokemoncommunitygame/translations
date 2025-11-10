@@ -2660,10 +2660,6 @@ pikachu-rockstar:Pikachu (Rockstar)
 pikachu-rockstarDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
 pikachu-sinnoh:Pikachu (Sinnoh)
 pikachu-sinnohDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
-pikachu-starter-f:Pikachu (Starter-F)
-pikachu-starter-fDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
-pikachu-starter:Pikachu (Starter)
-pikachu-starterDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
 pikachu-unova:Pikachu (Unova)
 pikachu-unovaDescription:Un coup de sa queue en forme d’éclair donne à l’adversaire un choc électrique ayant l’intensité et la tension de la foudre qui tombe.
 piloswine-f:Cochignon (F)

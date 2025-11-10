@@ -2660,10 +2660,6 @@ pikachu-rockstar:Pikachu (Estrella del Rock)
 pikachu-rockstarDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
 pikachu-sinnoh:Pikachu (Sinnoh)
 pikachu-sinnohDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
-pikachu-starter-f:Pikachu (Inicial-H)
-pikachu-starter-fDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
-pikachu-starter:Pikachu (Inicial)
-pikachu-starterDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
 pikachu-unova:Pikachu (Teselia)
 pikachu-unovaDescription:Un golpe con su cola en forma de rayo puede propinar al rival una descarga eléctrica con una intensidad comparable a la de un relámpago.
 piloswine-f:Piloswine (H)
