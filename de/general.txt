@@ -124,6 +124,7 @@ wonderPassNoCooldown:Dein Wunderpass ist nicht auf Abklingzeit!
 pokedailyNoCooldown:Dein Pokedaily ist nicht auf Abklingzeit!
 pendingPokemonSelections:Du hast bereits ausstehende Pokémon-Auswahlen. Bitte schließe deine aktuelle Auswahl zuerst ab.
 selectionInfo:Du kannst dieses Fenster jederzeit schließen und später über deine Belohnung entscheiden, indem du das Item verwendest. Es wird nach der Auswahl deiner Belohnung verbraucht.
+pendingSelectionsFromDifferentItem:Du hast bereits ausstehende Auswahlen von {existing_item_name}. Bitte bestätige deine bestehenden Auswahlen zuerst, indem du {existing_item_name} erneut verwendest.
 pokemonListHeadline:Deine Pokémon
 info:Info
 team:Team

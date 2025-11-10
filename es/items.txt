@@ -296,3 +296,11 @@ zygarde_cell:Célula de Zygarde
 zygarde_cellDescription:Un pequeño fragmento verde, semitranslúcido y con forma de burbuja que forma el cuerpo de Zygarde. Por sí solas, las Células no tienen voluntad ni fuerza, pero cuando son dirigidas por un Núcleo de Zygarde, se ensamblan en las diversas formas de Zygarde.
 sport_ball:Sport Ball
 sport_ballDescription:🪲 Tiene el doble de probabilidad de atrapar un Pokémon de evento del Concurso de Captura de Bichos brillante. ¡Puedes reconocerlos por un mensaje de aparición distintivo! 🪲
+pokemon_pick-300:Elección de Pokémon 300+ BST
+pokemon_pick-300Description:Elige uno de 3 Pokémon con 300 o más BST
+pokemon_pick-400:Elección de Pokémon 400+ BST
+pokemon_pick-400Description:Elige uno de 3 Pokémon con 400 o más BST
+pokemon_pick-500:Elección de Pokémon 500+ BST
+pokemon_pick-500Description:Elige uno de 3 Pokémon con 500 o más BST
+pokemon_pick-600:Elección de Pokémon 600+ BST
+pokemon_pick-600Description:Elige uno de 3 Pokémon con 600 o más BST

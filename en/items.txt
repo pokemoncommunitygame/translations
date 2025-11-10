@@ -296,3 +296,11 @@ zygarde_cell:Zygarde Cell
 zygarde_cellDescription:A small, green, semi-translucent blob-like fragment that forms the body of Zygarde. On their own, Cells have no will or strength, but when directed by a Zygarde Core, they assemble into Zygarde’s various forms.
 sport_ball:Sport Ball
 sport_ballDescription:🪲 Has a 2x chance to catch a shiny Bug Catching Contest event Pokemon. You can recognize them by a distinct spawn message! 🪲
+pokemon_pick-300:Pokemon Pick 300+ BST
+pokemon_pick-300Description:Pick one of 3 Pokemon with 300 or more BST
+pokemon_pick-400:Pokemon Pick 400+ BST
+pokemon_pick-400Description:Pick one of 3 Pokemon with 400 or more BST
+pokemon_pick-500:Pokemon Pick 500+ BST
+pokemon_pick-500Description:Pick one of 3 Pokemon with 500 or more BST
+pokemon_pick-600:Pokemon Pick 600+ BST
+pokemon_pick-600Description:Pick one of 3 Pokemon with 600 or more BST

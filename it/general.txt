@@ -114,6 +114,7 @@ wonderPassNoCooldown:Il tuo Wonderpass non è in cooldown!
 pokedailyNoCooldown:Il tuo Pokedaily non è in cooldown!
 pendingPokemonSelections:Hai già selezioni di Pokémon in sospeso. Completa prima la tua selezione attuale.
 selectionInfo:Puoi sempre chiudere quella finestra e decidere più tardi sulla tua ricompensa usando l'oggetto. Verrà consumato dopo aver selezionato la tua ricompensa.
+pendingSelectionsFromDifferentItem:Hai già selezioni in sospeso da {existing_item_name}. Per favore, conferma prima le tue selezioni esistenti usando {existing_item_name} di nuovo.
 pokemonListHeadline:I tuoi Pokémon
 info:Info
 team:Squadra

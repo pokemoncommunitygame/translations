@@ -296,3 +296,11 @@ zygarde_cell:Zygarde-Zelle
 zygarde_cellDescription:Ein kleines, grünes, halbtransparentes, blobartiges Fragment, das den Körper von Zygarde bildet. Allein haben Zellen keinen Willen oder keine Stärke, aber wenn sie von einem Zygarde-Kern geleitet werden, formen sie sich zu Zygardes verschiedenen Formen.
 sport_ball:Sportball
 sport_ballDescription:🪲 Hat eine 2x Chance, ein schillerndes Pokémon beim Käferfang-Wettbewerb zu fangen. Du erkennst sie an einer besonderen Spawn-Nachricht! 🪲
+pokemon_pick-300:Pokemon Auswahl 300+ BST
+pokemon_pick-300Description:Wähle eines von 3 Pokemon mit 300 oder mehr BST
+pokemon_pick-400:Pokemon Auswahl 400+ BST
+pokemon_pick-400Description:Wähle eines von 3 Pokemon mit 400 oder mehr BST
+pokemon_pick-500:Pokemon Auswahl 500+ BST
+pokemon_pick-500Description:Wähle eines von 3 Pokemon mit 500 oder mehr BST
+pokemon_pick-600:Pokemon Auswahl 600+ BST
+pokemon_pick-600Description:Wähle eines von 3 Pokemon mit 600 oder mehr BST

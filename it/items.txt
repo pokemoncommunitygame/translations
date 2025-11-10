@@ -296,3 +296,11 @@ zygarde_cell:Cellula di Zygarde
 zygarde_cellDescription:Un piccolo frammento verde, semi-traslucido e simile a una goccia che forma il corpo di Zygarde. Da sole, le Cellule non hanno volontà o forza, ma quando sono dirette da un Nucleo di Zygarde, si assemblano nelle varie forme di Zygarde.
 sport_ball:Sport Ball
 sport_ballDescription:🪲 Ha una probabilità 2x di catturare un Pokémon evento del Concorso Acchiappabug. Puoi riconoscerli da un messaggio di apparizione distintivo! 🪲
+pokemon_pick-300:Pokemon Scelta 300+ BST
+pokemon_pick-300Description:Scegli uno dei 3 Pokemon con 300 o più BST
+pokemon_pick-400:Pokemon Scelta 400+ BST
+pokemon_pick-400Description:Scegli uno dei 3 Pokemon con 400 o più BST
+pokemon_pick-500:Pokemon Scelta 500+ BST
+pokemon_pick-500Description:Scegli uno dei 3 Pokemon con 500 o più BST
+pokemon_pick-600:Pokemon Scelta 600+ BST
+pokemon_pick-600Description:Scegli uno dei 3 Pokemon con 600 o più BST

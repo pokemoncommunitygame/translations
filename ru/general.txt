@@ -114,6 +114,7 @@ wonderPassNoCooldown:Ваш Wonderpass не находится на переза
 pokedailyNoCooldown:Ваш Pokedaily не находится на перезарядке!
 pendingPokemonSelections:У вас уже есть ожидающие выбора покемоны. Пожалуйста, сначала завершите ваш текущий выбор.
 selectionInfo:Вы всегда можете закрыть это окно и решить позже о вашей награде, используя предмет. Он будет потрачен после выбора вашей награды.
+pendingSelectionsFromDifferentItem:У вас уже есть ожидающие выбора от {existing_item_name}. Пожалуйста, сначала подтвердите ваши существующие выборы, используя {existing_item_name} снова.
 pokemonListHeadline:Ваши покемоны
 info:Информация
 team:Команда

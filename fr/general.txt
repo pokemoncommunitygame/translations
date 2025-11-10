@@ -114,6 +114,7 @@ wonderPassNoCooldown:Votre Wonderpass n'est pas en cours de recharge !
 pokedailyNoCooldown:Votre Pokedaily n'est pas en cours de recharge !
 pendingPokemonSelections:Vous avez déjà des sélections de Pokémon en attente. Veuillez d'abord terminer votre sélection actuelle.
 selectionInfo:Vous pouvez toujours fermer cette fenêtre et décider plus tard de votre récompense en utilisant l'objet. Il sera consommé après avoir sélectionné votre récompense.
+pendingSelectionsFromDifferentItem:Vous avez déjà des sélections en attente de {existing_item_name}. Veuillez d'abord confirmer vos sélections existantes en utilisant {existing_item_name} à nouveau.
 pokemonListHeadline:Vos Pokémon
 info:Infos
 team:Équipe

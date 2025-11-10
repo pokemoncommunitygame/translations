@@ -130,6 +130,7 @@ sellConfirmMessage:Are you sure that you want to sell your {name}?
 sellItemSuccess:You successfully sold your item
 sellSuccess:You successfully completed the sale
 useConfirmMessage:Are you sure that you want to use the item {name} on {pkm}?
+pendingSelectionsFromDifferentItem:You already have pending selections from {existing_item_name}. Please confirm your existing selections first by using {existing_item_name} again.
 
 
 howManyYouWantBuy:How many {name}s do you want to buy?

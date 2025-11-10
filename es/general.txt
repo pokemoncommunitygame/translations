@@ -114,6 +114,7 @@ wonderPassNoCooldown:¡Tu Wonderpass no está en tiempo de reutilización!
 pokedailyNoCooldown:¡Tu Pokedaily no está en tiempo de reutilización!
 pendingPokemonSelections:Ya tienes selecciones de Pokémon pendientes. Por favor, completa tu selección actual primero.
 selectionInfo:Siempre puedes cerrar esa ventana y decidir más tarde sobre tu recompensa usando el objeto. Se consumirá después de seleccionar tu recompensa.
+pendingSelectionsFromDifferentItem:Ya tienes selecciones pendientes de {existing_item_name}. Por favor, confirma tus selecciones existentes primero usando {existing_item_name} nuevamente.
 pokemonListHeadline:Tu Pokémon
 info:Info
 team:Equipo
