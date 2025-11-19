@@ -31,12 +31,12 @@ trade_type:Wondertrade Pokémon do tipo <type>
 trade_iv:Trocar Pokémon Wondertrade <compare> <value> IV
 trade_fish:Wondertrade Pokémon tipo peixe
 trade_with_weight:Wondertrade Pokémon pesando <compare> <value> kg
-trade_with_speed:Wondertrade Pokémon com Velocidade <compare> <value>
-trade_with_specialAttack:Wondertrade Pokémon com Ataque Especial <compare> <value>
-trade_with_specialDefense:Wondertrade Pokémon com Defesa Especial <compare> <value>
-trade_with_attack:Wondertrade Pokémon com Ataque <compare> <value>
-trade_with_defense:Wondertrade Pokémon com Defesa <compare> <value>
-trade_with_hp:Wondertrade Pokémon com HP <compare> <value>
+trade_with_speed:Troque Pokémon com Velocidade Base <compare> <value>
+trade_with_specialAttack:Troque Pokémon com Ataque Especial Base <compare> <value>
+trade_with_specialDefense:Troque Pokémon com Defesa Especial Base <compare> <value>
+trade_with_attack:Troque Pokémon com Ataque Base <compare> <value>
+trade_with_defense:Troque Pokémon com Defesa Base <compare> <value>
+trade_with_hp:Troque Pokémon com HP Base <compare> <value>
 trade_with_bst:Wondertrade Pokémon com total de pontos base <compare> <value>
 effective:Usar golpe super efetivo
 field_effect:Usar efeitos de campo na batalha

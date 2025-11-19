@@ -42,12 +42,12 @@ trade_iv:Wondertrade Pokémon <compare> <value> IV
 trade_fish:Wondertrade fish-like Pokémon
 
 trade_with_weight:Wondertrade Pokémon weighing <compare> <value> kg
-trade_with_speed:Wondertrade Pokémon with Speed <compare> <value>
-trade_with_specialAttack:Wondertrade Pokémon with Special Attack <compare> <value>
-trade_with_specialDefense:Wondertrade Pokémon with Special Defense <compare> <value>
-trade_with_attack:Wondertrade Pokémon with Attack <compare> <value>
-trade_with_defense:Wondertrade Pokémon with Defense <compare> <value>
-trade_with_hp:Wondertrade Pokémon with HP <compare> <value>
+trade_with_speed:Wondertrade Pokémon with Base Speed <compare> <value>
+trade_with_specialAttack:Wondertrade Pokémon with Base Special Attack <compare> <value>
+trade_with_specialDefense:Wondertrade Pokémon with Base Special Defense <compare> <value>
+trade_with_attack:Wondertrade Pokémon with Base Attack <compare> <value>
+trade_with_defense:Wondertrade Pokémon with Base Defense <compare> <value>
+trade_with_hp:Wondertrade Pokémon with Base HP <compare> <value>
 trade_with_bst:Wondertrade Pokémon with Base Stat Total <compare> <value>
 
 # Battle

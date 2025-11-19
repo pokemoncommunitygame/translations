@@ -31,12 +31,12 @@ trade_type:Wundertausche Pokémon vom Typ <type>
 trade_iv:Wundertausche Pokémon mit IV <compare> <value>
 trade_fish:Wundertausche fischähnliche Pokémon
 trade_with_weight:Wundertausche Pokémon mit einem Gewicht von <compare> <value> kg
-trade_with_speed:Wundertausche Pokémon mit Initiative <compare> <value>
-trade_with_specialAttack:Wundertausche Pokémon mit Spezial-Angriff <compare> <value>
-trade_with_specialDefense:Wundertausche Pokémon mit Spezial-Verteidigung <compare> <value>
-trade_with_attack:Wundertausche Pokémon mit Angriff <compare> <value>
-trade_with_defense:Wundertausche Pokémon mit Verteidigung <compare> <value>
-trade_with_hp:Wundertausche Pokémon mit KP <compare> <value>
+trade_with_speed:Wundertausch Pokémon mit Basis-Initiative <compare> <value>
+trade_with_specialAttack:Wundertausch Pokémon mit Basis-Spezial-Angriff <compare> <value>
+trade_with_specialDefense:Wundertausch Pokémon mit Basis-Spezial-Verteidigung <compare> <value>
+trade_with_attack:Wundertausch Pokémon mit Basis-Angriff <compare> <value>
+trade_with_defense:Wundertausch Pokémon mit Basis-Verteidigung <compare> <value>
+trade_with_hp:Wundertausch Pokémon mit Basis-KP <compare> <value>
 trade_with_bst:Wundertausche Pokémon mit Basiswertsumme <compare> <value>
 effective:Setze eine sehr effektive Attacke ein
 field_effect:Setze Feldeffekte im Kampf ein

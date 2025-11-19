@@ -31,12 +31,12 @@ trade_type:Intercambio Maravilla de Pokémon de tipo <type>
 trade_iv:Intercambia Pokémon con IV <compare> <value>
 trade_fish:Intercambio Maravilloso Pokémon tipo pez
 trade_with_weight:Intercambio Maravilloso Pokémon que pesa <compare> <value> kg
-trade_with_speed:Intercambio Maravilloso Pokémon con Velocidad <compare> <value>
-trade_with_specialAttack:Intercambio Maravilloso Pokémon con Ataque Especial <compare> <value>
-trade_with_specialDefense:Intercambio Maravilloso Pokémon con Defensa Especial <compare> <value>
-trade_with_attack:Intercambio Maravilloso Pokémon con Ataque <compare> <value>
-trade_with_defense:Intercambio Maravilloso Pokémon con Defensa <compare> <value>
-trade_with_hp:Intercambio Maravilloso Pokémon con PS <compare> <value>
+trade_with_speed:Intercambia Pokémon con Velocidad Base <compare> <value>
+trade_with_specialAttack:Intercambia Pokémon con Ataque Especial Base <compare> <value>
+trade_with_specialDefense:Intercambia Pokémon con Defensa Especial Base <compare> <value>
+trade_with_attack:Intercambia Pokémon con Ataque Base <compare> <value>
+trade_with_defense:Intercambia Pokémon con Defensa Base <compare> <value>
+trade_with_hp:Intercambia Pokémon con PS Base <compare> <value>
 trade_with_bst:Intercambio Maravilloso Pokémon con Suma de Estadísticas Base <compare> <value>
 effective:Usa un movimiento súper efectivo
 field_effect:Usa efectos de campo en batalla

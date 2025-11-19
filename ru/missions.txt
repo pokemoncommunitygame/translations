@@ -31,12 +31,12 @@ trade_type:Чудо-обмен покемона типа <type>
 trade_iv:Обменять Покемона на Чудообмен с <compare> <value> IV
 trade_fish:Чудо-обмен рыбоподобного покемона
 trade_with_weight:Чудо-обмен покемона с весом <compare> <value> кг
-trade_with_speed:Чудо-обмен покемона со Скоростью <compare> <value>
-trade_with_specialAttack:Чудо-обмен покемона с Особой Атакой <compare> <value>
-trade_with_specialDefense:Чудо-обмен покемона с Особой Защитой <compare> <value>
-trade_with_attack:Чудо-обмен покемона с Атакой <compare> <value>
-trade_with_defense:Чудо-обмен покемона с Защитой <compare> <value>
-trade_with_hp:Чудо-обмен покемона с ОЗ <compare> <value>
+trade_with_speed:Обменять Покемона с базовой Скоростью <compare> <value>
+trade_with_specialAttack:Обменять Покемона с базовой Спец. Атакой <compare> <value>
+trade_with_specialDefense:Обменять Покемона с базовой Спец. Защитой <compare> <value>
+trade_with_attack:Обменять Покемона с базовой Атакой <compare> <value>
+trade_with_defense:Обменять Покемона с базовой Защитой <compare> <value>
+trade_with_hp:Обменять Покемона с базовым Здоровьем <compare> <value>
 trade_with_bst:Чудо-обмен покемона с Общим Статом <compare> <value>
 effective:Использовать суперэффективный прием
 field_effect:Сражаться под воздействием поля

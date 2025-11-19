@@ -31,12 +31,12 @@ trade_type:Échange miracle des Pokémon de type <type>
 trade_iv:Échange miracle des Pokémon <compare> <value> IV
 trade_fish:Échange miracle des Pokémon ressemblant à des poissons
 trade_with_weight:Échange miracle des Pokémon avec un poids <compare> <value> kg
-trade_with_speed:Échange miracle des Pokémon avec une Vitesse <compare> <value>
-trade_with_specialAttack:Échange miracle des Pokémon avec une Attaque Spéciale <compare> <value>
-trade_with_specialDefense:Échange miracle des Pokémon avec une Défense Spéciale <compare> <value>
-trade_with_attack:Échange miracle des Pokémon avec une Attaque <compare> <value>
-trade_with_defense:Échange miracle des Pokémon avec une Défense <compare> <value>
-trade_with_hp:Échange miracle des Pokémon ayant des PV <compare> <value>
+trade_with_speed:Échange Miracle Pokémon avec Vitesse de Base <compare> <value>
+trade_with_specialAttack:Échange Miracle Pokémon avec Attaque Spéciale de Base <compare> <value>
+trade_with_specialDefense:Échange Miracle Pokémon avec Défense Spéciale de Base <compare> <value>
+trade_with_attack:Échange Miracle Pokémon avec Attaque de Base <compare> <value>
+trade_with_defense:Échange Miracle Pokémon avec Défense de Base <compare> <value>
+trade_with_hp:Échange Miracle Pokémon avec PV de Base <compare> <value>
 trade_with_bst:Échange miracle des Pokémon avec un Total des Stats de Base <compare> <value>
 effective:Utilise des attaques super efficaces
 field_effect:Utilise des effets de terrain en combat
