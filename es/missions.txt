@@ -9,12 +9,12 @@ catch_with_ball:Captura Pokémon usando <ball>
 catch_with_iv:Captura Pokémon con IV <compare> <value>
 catch_monotype:Captura Pokémon monotipo
 catch_with_weight:Captura Pokémon que pesa <compare> <value> kg
-catch_with_speed:Captura Pokémon con Velocidad <compare> <value>
-catch_with_specialAttack:Captura Pokémon con Ataque Especial <compare> <value>
-catch_with_specialDefense:Captura Pokémon con Defensa Especial <compare> <value>
-catch_with_attack:Captura Pokémon con Ataque <compare> <value>
-catch_with_defense:Captura Pokémon con Defensa <compare> <value>
-catch_with_hp:Captura Pokémon con HP <compare> <value>
+catch_with_speed:Atrapa Pokémon con Velocidad Base <compare> <value>
+catch_with_specialAttack:Atrapa Pokémon con Ataque Especial Base <compare> <value>
+catch_with_specialDefense:Atrapa Pokémon con Defensa Especial Base <compare> <value>
+catch_with_attack:Atrapa Pokémon con Ataque Base <compare> <value>
+catch_with_defense:Atrapa Pokémon con Defensa Base <compare> <value>
+catch_with_hp:Atrapa Pokémon con PS Base <compare> <value>
 catch_with_stats:Captura Pokémon con Total de Estadísticas Base <compare> <value>
 catch_score_0_20:[Evento] Atrapa Pokémon que anotaron 0-20
 catch_score_21_40:[Evento] Atrapa Pokémon que anotaron 21-40

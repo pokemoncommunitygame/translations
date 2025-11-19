@@ -9,12 +9,12 @@ catch_with_ball:Fange Pokémon mit einem <ball>
 catch_with_iv:Fange Pokémon mit IV <compare> <value>
 catch_monotype:Fange monotypische Pokémon
 catch_with_weight:Fange Pokémon mit einem Gewicht von <compare> <value> kg
-catch_with_speed:Fange Pokémon mit einer Initiative von <compare> <value>
-catch_with_specialAttack:Fange Pokémon mit Spezial-Angriff <compare> <value>
-catch_with_specialDefense:Fange Pokémon mit Spezial-Verteidigung <compare> <value>
-catch_with_attack:Fange Pokémon mit Angriff <compare> <value>
-catch_with_defense:Fange Pokémon mit Verteidigung <compare> <value>
-catch_with_hp:Fange Pokémon mit KP <compare> <value>
+catch_with_speed:Fange Pokémon mit Basis-Initiative <compare> <value>
+catch_with_specialAttack:Fange Pokémon mit Basis-Spezial-Angriff <compare> <value>
+catch_with_specialDefense:Fange Pokémon mit Basis-Spezial-Verteidigung <compare> <value>
+catch_with_attack:Fange Pokémon mit Basis-Angriff <compare> <value>
+catch_with_defense:Fange Pokémon mit Basis-Verteidigung <compare> <value>
+catch_with_hp:Fange Pokémon mit Basis-KP <compare> <value>
 catch_with_stats:Fange Pokémon mit Gesamtwert <compare> <value>
 catch_score_0_20:[Event] Fange Pokémon, die 0-20 Punkte erzielt haben
 catch_score_21_40:[Event] Fange Pokémon, die 21-40 Punkte erzielt haben

@@ -9,12 +9,12 @@ catch_with_ball:Поймать покемона с помощью <ball>
 catch_with_iv:Поймать покемона с IV <compare> <value>
 catch_monotype:Поймать покемона однотипного
 catch_with_weight:Поймать покемона весом <compare> <value> кг
-catch_with_speed:Поймать покемона со Скоростью <compare> <value>
-catch_with_specialAttack:Поймать покемона с Особой Атакой <compare> <value>
-catch_with_specialDefense:Поймать покемона с Особой Защитой <compare> <value>
-catch_with_attack:Поймать покемона с Атакой <compare> <value>
-catch_with_defense:Поймать покемона с Защитой <compare> <value>
-catch_with_hp:Поймать покемона с ОЗ <compare> <value>
+catch_with_speed:Поймайте Покемона со Скоростью <compare> <value>
+catch_with_specialAttack:Поймайте Покемона с Особой Атакой <compare> <value>
+catch_with_specialDefense:Поймайте Покемона с Особой Защитой <compare> <value>
+catch_with_attack:Поймайте Покемона с Атакой <compare> <value>
+catch_with_defense:Поймайте Покемона с Защитой <compare> <value>
+catch_with_hp:Поймайте Покемона с ОЗ <compare> <value>
 catch_with_stats:Поймать покемона с Общей Статой <compare> <value>
 catch_score_0_20:[Событие] Поймай Покемонов с оценкой 0-20
 catch_score_21_40:[Событие] Поймай Покемонов с оценкой 21-40
