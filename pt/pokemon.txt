@@ -3260,3 +3260,7 @@ caterpie-pcgDescription:Seus pés curtos têm ventosas que lhe permitem escalar 
 miltank-pcgDescription:Este Pokémon precisa ser ordenhado todos os dias, senão ficará doente. O sabor do leite de Miltank muda com as estações. (Arte por itsbritneexo)
 spinarak-pcg:PCG Spinarak
 spinarak-pcgDescription:Embora o veneno de suas presas não seja tão forte, é potente o suficiente para enfraquecer a presa que fica presa em sua teia. (Arte por Lenathepanda & Hallowwisp)
+hisuian-decidueye:Seu Decidueye
+hisuian-decidueyeDescription:Em um décimo de segundo, ele pode encaixar e disparar uma flecha de pena, perfurando o ponto fraco de um oponente antes que ele perceba o que está acontecendo.
+wailord-retro:Wailord (Retrô)
+wailord-retroDescription:Seu tamanho imenso é a razão de sua popularidade. Observar Wailord é uma atividade turística favorita em várias partes do mundo.

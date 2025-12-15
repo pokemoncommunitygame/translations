@@ -3261,3 +3261,8 @@ miltank-pcg:PCG Miltank
 miltank-pcgDescription:This Pokémon needs to be milked every day, or else it will fall ill. The flavor of Miltank milk changes with the seasons. (Art by itsbritneexo)
 spinarak-pcg:PCG Spinarak
 spinarak-pcgDescription:Although the poison from its fangs isn’t that strong, it’s potent enough to weaken prey that gets caught in its web. (Art by Lenathepanda & Hallowwisp)
+
+hisuian-decidueye:His Decidueye
+hisuian-decidueyeDescription:In a tenth of a second, it can nock and fire an arrow quill, piercing an opponent’s weak point before they notice what’s happening.
+wailord-retro:Wailord (Retro)
+wailord-retroDescription:Its immense size is the reason for its popularity. Wailord watching is a favorite sightseeing activity in various parts of the world.

@@ -3260,3 +3260,7 @@ caterpie-pcgDescription:I suoi piedi corti sono dotati di ventose che gli permet
 miltank-pcgDescription:Questo Pokémon deve essere munto ogni giorno, altrimenti si ammalerà. Il sapore del latte di Miltank cambia con le stagioni. (Art di itsbritneexo)
 spinarak-pcg:PCG Spinarak
 spinarak-pcgDescription:Anche se il veleno delle sue zanne non è molto forte, è abbastanza potente da indebolire le prede che rimangono intrappolate nella sua ragnatela. (Arte di Lenathepanda & Hallowwisp)
+hisuian-decidueye:Il suo Decidueye
+hisuian-decidueyeDescription:In un decimo di secondo, può incoccare e scoccare una freccia piumata, colpendo il punto debole dell'avversario prima che si accorga di cosa sta succedendo.
+wailord-retro:Wailord (Retro)
+wailord-retroDescription:La sua immensa dimensione è la ragione della sua popolarità. Osservare i Wailord è un'attività turistica molto amata in varie parti del mondo.

@@ -3260,3 +3260,7 @@ caterpie-pcgDescription:Sus patas cortas terminan en ventosas que le permiten tr
 miltank-pcgDescription:Este Pokémon necesita ser ordeñado todos los días, o de lo contrario se enfermará. El sabor de la leche de Miltank cambia con las estaciones. (Arte por itsbritneexo)
 spinarak-pcg:PCG Spinarak
 spinarak-pcgDescription:Aunque el veneno de sus colmillos no es muy fuerte, es lo suficientemente potente como para debilitar a las presas que quedan atrapadas en su telaraña. (Arte por Lenathepanda & Hallowwisp)
+hisuian-decidueye:Su Decidueye
+hisuian-decidueyeDescription:En una décima de segundo, puede colocar y disparar una pluma flecha, perforando el punto débil de un oponente antes de que se dé cuenta de lo que está sucediendo.
+wailord-retro:Wailord (Retro)
+wailord-retroDescription:Su inmenso tamaño es la razón de su popularidad. Observar a Wailord es una actividad turística favorita en varias partes del mundo.

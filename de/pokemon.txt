@@ -3260,3 +3260,7 @@ caterpie-pcgDescription:Seine kurzen Füße sind mit Saugnäpfen versehen, die e
 miltank-pcgDescription:Dieses Pokémon muss jeden Tag gemolken werden, sonst wird es krank. Der Geschmack der Miltank-Milch ändert sich mit den Jahreszeiten. (Kunst von itsbritneexo)
 spinarak-pcg:PCG Spinarak
 spinarak-pcgDescription:Obwohl das Gift aus seinen Reißzähnen nicht sehr stark ist, ist es stark genug, um Beute zu schwächen, die sich in seinem Netz verfängt. (Kunst von Lenathepanda & Hallowwisp)
+hisuian-decidueye:Sein Decidueye
+hisuian-decidueyeDescription:In einem Zehntel einer Sekunde kann es einen Pfeilfeder auflegen und abschießen, um den Schwachpunkt eines Gegners zu durchbohren, bevor dieser merkt, was passiert.
+wailord-retro:Wailord (Retro)
+wailord-retroDescription:Seine immense Größe ist der Grund für seine Beliebtheit. Wailord-Beobachtung ist eine beliebte Sehenswürdigkeit in verschiedenen Teilen der Welt.

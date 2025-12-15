@@ -3260,3 +3260,7 @@ caterpie-pcgDescription:Ses petites pattes sont munies de ventouses qui lui perm
 miltank-pcgDescription:Ce Pokémon doit être trait tous les jours, sinon il tombera malade. Le goût du lait de Miltank change avec les saisons. (Art par itsbritneexo)
 spinarak-pcg:PCG Spinarak
 spinarak-pcgDescription:Bien que le poison de ses crocs ne soit pas très puissant, il est suffisamment fort pour affaiblir les proies prises dans sa toile. (Art par Lenathepanda & Hallowwisp)
+hisuian-decidueye:Son Archéduc
+hisuian-decidueyeDescription:En un dixième de seconde, il peut encocher et tirer une flèche, perçant le point faible d'un adversaire avant qu'il ne se rende compte de ce qui se passe.
+wailord-retro:Wailord (Rétro)
+wailord-retroDescription:Sa taille immense est la raison de sa popularité. Observer les Wailord est une activité touristique favorite dans diverses parties du monde.
