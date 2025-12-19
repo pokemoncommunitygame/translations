@@ -1,5 +1,5 @@
-event_coin:Cake
-event_coinDescription:Tausche Kuchen gegen Event-Belohnungen deiner Wahl während des PCG-Geburtstags-Events 2025. Dieser Gegenstand wird eine Woche nach dem Event verschwinden.
+event_coin:Weihnachtssterne
+event_coinDescription:Tausche Weihnachtssterne gegen Event-Belohnungen deiner Wahl während des PCG-Weihnachtsevents 2025 ein. Dieser Gegenstand verschwindet eine Woche nach dem Event.
 mach_ball:Mach Ball
 mach_ballDescription:Ein robuster Ball, am effektivsten wenn er bei Kampf- oder Flug-Pokémon eingesetzt wird.
 basic_ball:Basisball

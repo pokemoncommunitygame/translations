@@ -1,5 +1,5 @@
-event_coin:Tarta
-event_coinDescription:Intercambia Pasteles por recompensas de evento de tu elección durante el Evento de Cumpleaños de PCG 2025. Este objeto desaparecerá una semana después del evento.
+event_coin:Estrellas de Navidad
+event_coinDescription:Intercambia Estrellas de Navidad por recompensas del evento de tu elección durante el Evento de Navidad PCG 2025. Este objeto desaparecerá una semana después del evento.
 mach_ball:Mach Ball
 mach_ballDescription:Una bola resistente, más efectiva cuando se usa en Pokémon de tipo Lucha o Volador.
 basic_ball:Basic Ball
