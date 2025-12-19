@@ -3264,3 +3264,5 @@ hisuian-decidueye:Sein Decidueye
 hisuian-decidueyeDescription:In einem Zehntel einer Sekunde kann es einen Pfeilfeder auflegen und abschießen, um den Schwachpunkt eines Gegners zu durchbohren, bevor dieser merkt, was passiert.
 wailord-retro:Wailord (Retro)
 wailord-retroDescription:Seine immense Größe ist der Grund für seine Beliebtheit. Wailord-Beobachtung ist eine beliebte Sehenswürdigkeit in verschiedenen Teilen der Welt.
+mysterious-snowman:Mysteriöser Schneemann
+mysterious-snowmanDescription:Mysteriöser Schneemann

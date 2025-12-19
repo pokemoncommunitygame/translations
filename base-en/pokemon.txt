@@ -3266,3 +3266,6 @@ hisuian-decidueye:His Decidueye
 hisuian-decidueyeDescription:In a tenth of a second, it can nock and fire an arrow quill, piercing an opponent’s weak point before they notice what’s happening.
 wailord-retro:Wailord (Retro)
 wailord-retroDescription:Its immense size is the reason for its popularity. Wailord watching is a favorite sightseeing activity in various parts of the world.
+
+mysterious-snowman:Mysterious Snowman
+mysterious-snowmanDescription:Mysterious Snowman

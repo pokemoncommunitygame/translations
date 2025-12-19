@@ -3264,3 +3264,5 @@ hisuian-decidueye:Su Decidueye
 hisuian-decidueyeDescription:En una décima de segundo, puede colocar y disparar una pluma flecha, perforando el punto débil de un oponente antes de que se dé cuenta de lo que está sucediendo.
 wailord-retro:Wailord (Retro)
 wailord-retroDescription:Su inmenso tamaño es la razón de su popularidad. Observar a Wailord es una actividad turística favorita en varias partes del mundo.
+mysterious-snowman:Hombre de Nieve Misterioso
+mysterious-snowmanDescription:Hombre de Nieve Misterioso
