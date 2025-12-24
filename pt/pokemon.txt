@@ -3264,3 +3264,5 @@ hisuian-decidueye:Seu Decidueye
 hisuian-decidueyeDescription:Em um décimo de segundo, ele pode encaixar e disparar uma flecha de pena, perfurando o ponto fraco de um oponente antes que ele perceba o que está acontecendo.
 wailord-retro:Wailord (Retrô)
 wailord-retroDescription:Seu tamanho imenso é a razão de sua popularidade. Observar Wailord é uma atividade turística favorita em várias partes do mundo.
+mysterious-snowman:Boneco de Neve Misterioso
+mysterious-snowmanDescription:Boneco de Neve Misterioso

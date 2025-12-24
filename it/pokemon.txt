@@ -3264,3 +3264,5 @@ hisuian-decidueye:Il suo Decidueye
 hisuian-decidueyeDescription:In un decimo di secondo, può incoccare e scoccare una freccia piumata, colpendo il punto debole dell'avversario prima che si accorga di cosa sta succedendo.
 wailord-retro:Wailord (Retro)
 wailord-retroDescription:La sua immensa dimensione è la ragione della sua popolarità. Osservare i Wailord è un'attività turistica molto amata in varie parti del mondo.
+mysterious-snowman:Uomo di Neve Misterioso
+mysterious-snowmanDescription:Uomo di Neve Misterioso

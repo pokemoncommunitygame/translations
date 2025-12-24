@@ -3264,3 +3264,5 @@ hisuian-decidueye:His Archéduc
 hisuian-decidueyeDescription:En un dixième de seconde, il peut encocher et tirer une flèche, perçant le point faible d'un adversaire avant qu'il ne se rende compte de ce qui se passe.
 wailord-retro:Wailord (Rétro)
 wailord-retroDescription:Sa taille immense est la raison de sa popularité. Observer les Wailord est une activité touristique favorite dans diverses parties du monde.
+mysterious-snowman:Bonhomme de neige mystérieux
+mysterious-snowmanDescription:Bonhomme de neige mystérieux
