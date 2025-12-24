@@ -3266,3 +3266,9 @@ wailord-retro:Wailord (Retrô)
 wailord-retroDescription:Seu tamanho imenso é a razão de sua popularidade. Observar Wailord é uma atividade turística favorita em várias partes do mundo.
 mysterious-snowman:Boneco de Neve Misterioso
 mysterious-snowmanDescription:Boneco de Neve Misterioso
+porygon-pcg:PCG Porygon
+porygon-pcgDescription:Nos últimos anos, esta espécie tem sido muito útil no ciberespaço. Estes Pokémon circulam verificando para garantir que não existam dados suspeitos. (Arte por Finsthehuman)
+porygon2-pcg:PCG Porygon2
+porygon2-pcgDescription:Após a implementação de inteligência artificial no Porygon2, o Pokémon começou a usar uma linguagem estranha que apenas outros Porygon2 entendem. (Arte por Finsthehuman)
+porygon-z-pcg:PCG Porygon-Z
+porygon-z-pcgDescription:Alguns dizem que um programa adicional fez este Pokémon evoluir, mas até mesmo os acadêmicos não conseguem concordar se Porygon-Z é realmente uma evolução. (Arte por Finsthehuman)

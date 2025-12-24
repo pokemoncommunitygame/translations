@@ -3266,3 +3266,9 @@ wailord-retro:Wailord (Rétro)
 wailord-retroDescription:Sa taille immense est la raison de sa popularité. Observer les Wailord est une activité touristique favorite dans diverses parties du monde.
 mysterious-snowman:Bonhomme de neige mystérieux
 mysterious-snowmanDescription:Bonhomme de neige mystérieux
+porygon-pcg:PCG Porygon
+porygon-pcgDescription:Ces dernières années, cette espèce a été très utile dans le cyberespace. Ces Pokémon vérifient qu'aucune donnée suspecte n'existe. (Art par Finsthehuman)
+porygon2-pcg:PCG Porygon2
+porygon2-pcgDescription:Après l'implémentation de l'intelligence artificielle dans Porygon2, le Pokémon a commencé à utiliser un langage étrange que seuls les autres Porygon2 comprennent. (Art par Finsthehuman)
+porygon-z-pcg:PCG Porygon-Z
+porygon-z-pcgDescription:Certains disent qu'un programme supplémentaire a fait évoluer ce Pokémon, mais même les académiciens ne s'accordent pas sur le fait que Porygon-Z soit vraiment une évolution. (Art par Finsthehuman)
