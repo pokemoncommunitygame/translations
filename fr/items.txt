@@ -11,19 +11,19 @@ night_ballDescription:Une balle sombre. Fonctionne mieux sur des Pokémon de typ
 frozen_ball:Givre Ball
 frozen_ballDescription:Une balle glacée. La plus efficace si utilisée sur des Pokémon de type Glace.
 easter_egg:Œuf de Pâques
-easter_eggDescription:Collectez 100 Œufs de Pâques pour recevoir Dewott, le starter évolué.
+easter_eggDescription:Collectez 100 Œufs de Pâques pour recevoir Mateloutre, le starter évolué.
 empty_disc:Disque Vide
 empty_discDescription:Un disque vide utilisé pour enseigner à votre Pokémon un ensemble complet de nouvelles attaques. Utilisez-le avec prudence.
 iv_reset:Change-IV
 iv_resetDescription:Change complètement les valeurs individuelles d'un Pokémon.
 wonder_pass:Passe Miracle
-wonder_passDescription:Un pass rare qui vous permet d'échanger à nouveau instantanément via le wonder trade.
+wonder_passDescription:Un pass rare qui vous permet d'échanger à nouveau instantanément via l'échange miracle.
 friend_ball:Copain ball
 friend_ballDescription:Une belle balle qui est plus efficace sur les Pokémon qui partagent un type avec votre Pokémon-Partenaire.
 mood_mint:Aromate Nature
-mood_mintDescription:Délicieuse menthe, qui change complètement la nature de ton pokemon.
+mood_mintDescription:Délicieux aromate, qui change complètement la nature de ton pokemon.
 battle_coin:Pièce d'Or
-battle_coinDescription:Récompense pour avoir terminé les missions hebdomadaires et participé à un tournoi PCG. Ce jeton peut être dépensé pour divers objets rares et Pokémon dans la Boutique de la Pièce d'Or ou conservé comme souvenir.
+battle_coinDescription:Récompense pour avoir terminé les missions hebdomadaires et participé à certains tournoi PCG. Ce jeton peut être dépensé pour divers objets rares et Pokémon dans la Boutique de Pièce d'Or ou conservé comme souvenir.
 present:Cadeau
 presentDescription:Entrez dans un chat et tapez !pokegift pour rendre les autres joueurs heureux ! 🎅
 rare_present:Cadeau Rare
@@ -31,11 +31,11 @@ rare_presentDescription:Entrez dans un chat et tapez !pokegift rare pour rendre 
 team_enhancer:Bon d'Équipe
 team_enhancerDescription:Utilisez cet objet pour augmenter le nombre d'équipes de 1 ! Vous pouvez avoir jusqu'à 30 équipes.
 shiny_charm:Charme Chroma
-shiny_charmDescription:Récompense pour avoir complété le pokédex spawnable. Double la chance d'obtenir un shiny pour toutes les captures (exception : balls Souvenir)
+shiny_charmDescription:Récompense pour avoir complété le pokédex spawnable. Double la chance d'obtenir un shiny pour toutes les captures (exception : Memoire Balls)
 pokedaily_reset:Pokedaily reset
 pokedaily_resetDescription:Cet objet réinitialisera le délai de récupération de votre pokedaily !
 total_reset:Change-Total
-total_resetDescription:Réinitialisation Totale utilisée pour enseigner à votre Pokémon un tout nouveau set de mouvements, change complètement la nature de votre pokemon et modifie les valeurs individuelles d'un Pokémon. Utilisez-le avec précaution.
+total_resetDescription:Réinitialisation Totale utilisée pour enseigner à votre Pokémon un tout nouveau set d'attaques, change complètement la nature de votre pokemon et modifie les IVs d'un Pokémon. Utilisez-le avec précaution.
 safari_ball:Safari Ball
 safari_ballDescription:🪶 A 2x de chance de capturer un Pokémon d'événement safari shiny. Vous pouvez les reconnaître grâce à un message de spawn différent ! 🪶
 park_ball:Park Ball
@@ -50,8 +50,8 @@ team_ghost_badge:Badge Équipe Fantôme
 team_ghost_badgeDescription:Jeton d'adhésion de l'Équipe Fantôme lors de l'Événement Halloween 2022
 team_dark_badge:Badge Équipe Sombre
 team_dark_badgeDescription:Jeton d'adhésion de l'Équipe Sombre lors de l'Événement Halloween 2022
-bottle_cap:Bouchon de Bouteille
-bottle_capDescription:Maximise aléatoirement l'une des valeurs individuelles du Pokémon. Utilisable 1x par Pokémon.
+bottle_cap:Capsule d'Argent
+bottle_capDescription:Maximise aléatoirement l'un des IVs du Pokémon. Utilisable 1 fois par Pokémon.
 normal_stone:Pierre Normale
 normal_stoneDescription:Une pierre qui fait évoluer certaines espèces de Pokémon. On dit que la couleur de la pierre détermine le Pokémon qui évoluera.
 fighting_stone:Pierre Combat
@@ -78,13 +78,13 @@ grass_stone:Pierre Plante
 grass_stoneDescription:Une pierre qui fait évoluer certaines espèces de Pokémon. On dit que la couleur de la pierre détermine le Pokémon qui évoluera.
 electric_stone:Pierre Électrique
 electric_stoneDescription:Une pierre qui fait évoluer certaines espèces de Pokémon. On dit que la couleur de la pierre détermine le Pokémon qui évoluera.
-psychic_stone:Pierre psy
+psychic_stone:Pierre Psy
 psychic_stoneDescription:Une pierre qui fait évoluer certaines espèces de Pokémon. On dit que la couleur de la pierre détermine le Pokémon qui évoluera.
 ice_stone:Pierre Glace
 ice_stoneDescription:Une pierre qui fait évoluer certaines espèces de Pokémon. On dit que la couleur de la pierre détermine le Pokémon qui évoluera.
 dragon_stone:Pierre Dragon
 dragon_stoneDescription:Une pierre qui fait évoluer certaines espèces de Pokémon. On dit que la couleur de la pierre détermine le Pokémon qui évoluera.
-dark_stone:Pierre Ténèbres
+dark_stone:Pierre Ténèbre
 dark_stoneDescription:Une pierre qui fait évoluer certaines espèces de Pokémon. On dit que la couleur de la pierre détermine le Pokémon qui évoluera.
 fairy_stone:Pierre Fée
 fairy_stoneDescription:Une pierre qui fait évoluer certaines espèces de Pokémon. On dit que la couleur de la pierre détermine le Pokémon qui évoluera.
@@ -97,13 +97,13 @@ snowballDescription:Une boule de neige. Elle fondra si tu ne l'utilises pas jusq
 dive_ball:Scuba Ball
 dive_ballDescription:Une Ball plus efficace pour attraper les Pokémon 🐟 Poisson 🐟.
 cipher_ball:Psycho Ball
-cipher_ballDescription:Une Poké Ball un peu différente qui est plus efficace pour attraper les Pokémon de type Poison ou Psychique.
+cipher_ballDescription:Une Poké Ball un peu différente qui est plus efficace pour attraper les Pokémon de type Poison ou Psy.
 golden_ticket:Ticket Doré
 golden_ticketDescription:À quoi cela pourrait-il servir ? Tapez !poketicket pour le découvrir !
 magnet_ball:Magnet Ball
 magnet_ballDescription:Une Poké Ball quelque peu différente, plus efficace pour attraper un Pokémon de type Acier ou Électrique.
 nest_ball:Faiblo Ball
-nest_ballDescription:Une Poké Ball quelque peu différente, plus efficace lorsqu'elle est utilisée sur un Pokémon de première évolution pouvant évoluer deux fois de plus.
+nest_ballDescription:Une Poké Ball quelque peu différente, plus efficace lorsqu'elle est utilisée sur un Pokémon de première évolution pouvant évoluer deux fois.
 fast_ball:Speed Ball
 fast_ballDescription:Une Poké Ball rare particulièrement utile pour les Pokémon ayant une base de vitesse de 100 ou plus.
 level_ball:Niveau Ball
@@ -115,9 +115,9 @@ stone_grab_bagDescription:Un sac merveilleux contenant 3 Pierres d'Évolution al
 luxury_ball:Luxe Ball
 luxury_ballDescription:Une balle rare avec une apparence chic. Augmente massivement le prix de vente d'un Pokémon capturé avec celle-ci.
 clone_ball:Clone Ball
-clone_ballDescription:Une balle expérimentale qui génère un second Pokémon à partir de celui que vous capturez à l'origine avec cette boule.
-ultra_cherish_ball:Hyper memoire Ball
-ultra_cherish_ballDescription:Une Boule Souvenir modifiée avec un meilleur taux de capture. A plus de chance de capturer un Pokémon brillant.
+clone_ballDescription:Une balle expérimentale qui génère un second Pokémon à partir de celui que vous capturez à l'origine avec cette balle.
+ultra_cherish_ball:Hyper Memoire Ball
+ultra_cherish_ballDescription:Une Memoire Ball modifiée avec un meilleur taux de capture. A plus de chance de capturer un Pokémon brillant.
 premier_ball:Honor Ball
 premier_ballDescription:Une Poké Ball un peu rare qui a été créée en tant qu'objet commémoratif utilisé pour célébrer un événement quelconque. Elle sera lancée automatiquement si vous n'avez pas de Poké Ball.
 heavy_ball:Masse Ball
@@ -132,7 +132,7 @@ timer_ball:Chrono Ball
 timer_ballDescription:Une Poké Ball un peu différente qui devient progressivement plus efficace pour attraper des Pokémon plus le Pokémon est proche de s'échapper.
 master_ball:Master Ball
 master_ballDescription:La meilleure Poké Ball avec le niveau de performance ultime. Avec elle, vous attraperez n'importe quel Pokémon sauvage sans échec.
-poke_ball:Poke Ball
+poke_ball:Poké Ball
 poke_ballDescription:Un dispositif pour attraper des Pokémon sauvages. Elle est lancée comme une balle sur un Pokémon, encapsulant confortablement sa cible.
 great_ball:Super Ball
 great_ballDescription:Une bonne Poké Ball de haute performance qui offre un taux de succès plus élevé pour attraper des Pokémon qu'une Poké Ball standard.
@@ -142,18 +142,18 @@ rare_candy:Super Bonbon
 rare_candyDescription:Augmente le niveau du Pokémon sélectionné de cinq.
 cherish_ball:Memoire Ball
 cherish_ballDescription:Une Poké Ball assez rare qui a été créée pour commémorer une occasion spéciale quelconque. Augmente les chances d'obtenir un Pokémon chromatique.
-alpha_ball:Balle Alpha
+alpha_ball:Alpha Ball
 alpha_ballDescription:nix
 mysterious_crystal:Cristal Mystérieux
 mysterious_crystalDescription:Un cristal scintillant. Origine et usage inconnus. 👀 Possesseurs de chromatiques 👀
-great_cherish_ball:Super memoire Ball
-great_cherish_ballDescription:Une Honor Ball modifiée avec un meilleur taux de capture. A une chance plus élevée de capturer un Pokémon chromatique.
+great_cherish_ball:Super Memoire Ball
+great_cherish_ballDescription:Une Memoire Ball modifiée avec un meilleur taux de capture. A une chance plus élevée de capturer un Pokémon chromatique.
 stone_ball:Gemme Ball
-stone_ballDescription:Une balle rare avec une chance accrue de lâcher une pierre d'évolution.
+stone_ballDescription:Une balle rare avec une chance accrue d'obtention d'une pierre d'évolution.
 event_bundle:Pack Événement
-event_bundleDescription:Un bundle exclusif à un événement contenant 1x Légendaire d'Ancien Événement Aléatoire, 2x Ticket Doré et 2x Présent Rare
+event_bundleDescription:Un pack exclusif à un événement contenant 1x Légendaire d'Ancien Événement Aléatoire, 2x Ticket Doré et 2x Présent Rare
 battle_bundle:Pack Bataille
-battle_bundleDescription:Une offre de bundle spécial contenant : 2x Réinitialisation Totale, 2x Bonbons d'Humeur, 2x Réinitialisations IV, 3x Disques Vides
+battle_bundleDescription:Une offre de bundle spécial contenant : 2x Change-Total, 2x Aromate Nature, 2x Change-IV, 3x Disque Vide
 team_gold_badge:Arcenci'Aile
 team_gold_badgeDescription:Jeton de membre de l'Équipe Or lors de l'Événement Or vs Argent 2024
 team_silver_badge:Aile Argent
@@ -163,95 +163,95 @@ rocket_partDescription:Collecte des roues dentées pour construire une fusée en
 sun_ball:Helio Ball
 sun_ballDescription:Une balle éclatante, la plus efficace lorsqu'elle est utilisée sur des Pokémon de type Feu et Plante.
 fantasy_ball:Fantaisie Ball
-fantasy_ballDescription:Une balle enchantée, la plus efficace lorsqu'elle est utilisée sur des créatures de type Fée et Dragon.
+fantasy_ballDescription:Une balle enchantée, la plus efficace lorsqu'elle est utilisée sur des Pokémon de type Fée et Dragon.
 geo_ball:Geo Ball
-geo_ballDescription:Une balle robuste, la plus efficace lorsqu'elle est utilisée sur des créatures de type Roche et Sol.
+geo_ballDescription:Une balle robuste, la plus efficace lorsqu'elle est utilisée sur des Pokémon de type Roche et Sol.
 hp_up:PV Plus
-hp_upDescription:Ajoute 1 IV de PV au Pokémon cible par utilisation, jusqu'à ce qu'il ait 24.
+hp_upDescription:Ajoute 1 IV au PV de Pokémon par utilisation, avec un maximum de 24 IV.
 protein:Protéine
-proteinDescription:Ajoute 1 IV d'Attaque au Pokémon cible par utilisation, jusqu'à ce qu'il ait 24.
+proteinDescription:Ajoute 1 IV à l'Attaque du Pokémon par utilisation, avec un maximum de 24 IV.
 iron:Fer
-ironDescription:Ajoute 1 IV de Défense au Pokémon cible par utilisation, jusqu'à ce qu'il ait 24.
+ironDescription:Ajoute 1 IV à la Défense du Pokémon par utilisation, avec un maximum de 24 IV.
 calcium:Calcium
-calciumDescription:Ajoute 1 IV d'Attaque Spéciale au Pokémon cible par utilisation, jusqu'à ce qu'il ait 24.
+calciumDescription:Ajoute 1 IV à l'Attaque Spéciale du Pokémon par utilisation, avec un maximum de 24 IV.
 zinc:Zinc
-zincDescription:Ajoute 1 IV de Défense Spéciale au Pokémon cible par utilisation, jusqu'à ce qu'il ait 24.
+zincDescription:Ajoute 1 IV à la Défense Spéciale du Pokémon par utilisation, avec un maximum de 24 IV.
 carbos:Carbone
-carbosDescription:Ajoute 1 IV de Vitesse au Pokémon cible par utilisation, jusqu'à ce qu'il ait 24.
-hardy-mint:Menthe Hardi
-hardy-mintDescription:Une menthe qui change la nature d'un Pokémon en Hardi.
-lonely-mint:Menthe Solo
-lonely-mintDescription:Une menthe qui change la nature d'un Pokémon en Solo (augmente Attaque, diminue Défense).
-brave-mint:Menthe Brave
-brave-mintDescription:Une menthe qui change la nature d'un Pokémon en Brave (augmente Attaque, diminue Vitesse).
-adamant-mint:Menthe Rigide
-adamant-mintDescription:Une menthe qui change la nature d'un Pokémon en Rigide (augmente Attaque, diminue Attaque Spéciale).
-naughty-mint:Menthe Mauvais
-naughty-mintDescription:Une menthe qui change la nature d'un Pokémon en Mauvais (augmente Attaque, diminue Défense Spéciale).
-bold-mint:Menthe Assuré
-bold-mintDescription:Une menthe qui change la nature d'un Pokémon en Assuré (augmente Défense, diminue Attaque).
-docile-mint:Menthe Docile
-docile-mintDescription:Une menthe qui change la nature d'un Pokémon en Docile.
-relaxed-mint:Menthe Relax
-relaxed-mintDescription:Une menthe qui change la nature d'un Pokémon en Relax (augmente Défense, diminue Vitesse).
-impish-mint:Menthe Malin
-impish-mintDescription:Une menthe qui change la nature d'un Pokémon en Malin (augmente Défense, diminue Attaque Spéciale).
-lax-mint:Menthe Lâche
-lax-mintDescription:Une menthe qui change la nature d'un Pokémon en Lâche (augmente Défense, diminue Défense Spéciale).
-timid-mint:Menthe Timide
-timid-mintDescription:Une menthe qui change la nature d'un Pokémon en Timide (augmente Vitesse, diminue Attaque).
-hasty-mint:Menthe Pressé
-hasty-mintDescription:Une menthe qui change la nature d'un Pokémon en Pressé (augmente Vitesse, diminue Défense).
-serious-mint:Menthe Sérieux
-serious-mintDescription:Une menthe qui change la nature d'un Pokémon en Sérieux.
-jolly-mint:Menthe Jovial
-jolly-mintDescription:Une menthe qui change la nature d'un Pokémon en Jovial (augmente Vitesse, diminue Attaque Spéciale).
-naive-mint:Menthe Naïf
-naive-mintDescription:Une menthe qui change la nature d'un Pokémon en Naïf (augmente Vitesse, diminue Défense Spéciale).
-modest-mint:Menthe Modeste
-modest-mintDescription:Une menthe qui change la nature d'un Pokémon en Modeste (augmente Attaque Spéciale, diminue Attaque).
-mild-mint:Menthe Doux
-mild-mintDescription:Une menthe qui change la nature d'un Pokémon en Doux (augmente Attaque Spéciale, diminue Défense).
-quiet-mint:Menthe Discret
-quiet-mintDescription:Une menthe qui change la nature d'un Pokémon en Discret (augmente Attaque Spéciale, diminue Vitesse).
-bashful-mint:Menthe Pudique
-bashful-mintDescription:Une menthe qui change la nature d'un Pokémon en Pudique.
-rash-mint:Menthe Foufou
-rash-mintDescription:Une menthe qui change la nature d'un Pokémon en Foufou (augmente Attaque Spéciale, diminue Défense Spéciale).
-calm-mint:Menthe Calme
-calm-mintDescription:Une menthe qui change la nature d'un Pokémon en Calme (augmente Défense Spéciale, diminue Attaque).
-gentle-mint:Menthe Gentil
-gentle-mintDescription:Une menthe qui change la nature d'un Pokémon en Gentil (augmente Défense Spéciale, diminue Défense).
-sassy-mint:Menthe Malpoli
-sassy-mintDescription:Une menthe qui change la nature d'un Pokémon en Malpoli (augmente Défense Spéciale, diminue Vitesse).
-careful-mint:Menthe Prudent
-careful-mintDescription:Une menthe qui change la nature d'un Pokémon en Prudent (augmente Défense Spéciale, diminue Attaque Spéciale).
-quirky-mint:Menthe Bizarre
-quirky-mintDescription:Une menthe qui change la nature d'un Pokémon en Bizarre.
-bottle_cap_remover:Dissolvant de Capsule
-bottle_cap_removerDescription:Relance une statistique parfaite et supprime l'effet de la Capsule d'Or d'un Pokémon, te permettant d'utiliser à nouveau des Capsules d'Or sur lui.
+carbosDescription:Ajoute 1 IV à la Vitesse du Pokémon par utilisation, avec un maximum de 24 IV.
+hardy-mint:Aromate Hardi
+hardy-mintDescription:Un aromate qui change la nature d'un Pokémon en Hardi.
+lonely-mint:Aromate Solo
+lonely-mintDescription:Un aromate qui change la nature d'un Pokémon en Solo (augmente Attaque, diminue Défense).
+brave-mint:Aromate Brave
+brave-mintDescription:Un aromate qui change la nature d'un Pokémon en Brave (augmente Attaque, diminue Vitesse).
+adamant-mint:Aromate Rigide
+adamant-mintDescription:Un aromate qui change la nature d'un Pokémon en Rigide (augmente Attaque, diminue Attaque Spéciale).
+naughty-mint:Aromate Mauvais
+naughty-mintDescription:Un aromate qui change la nature d'un Pokémon en Mauvais (augmente Attaque, diminue Défense Spéciale).
+bold-mint:Aromate Assuré
+bold-mintDescription:Un aromate qui change la nature d'un Pokémon en Assuré (augmente Défense, diminue Attaque).
+docile-mint:Aromate Docile
+docile-mintDescription:Un aromate qui change la nature d'un Pokémon en Docile.
+relaxed-mint:Aromate Relax
+relaxed-mintDescription:Un aromate qui change la nature d'un Pokémon en Relax (augmente Défense, diminue Vitesse).
+impish-mint:Aromate Malin
+impish-mintDescription:Un aromate qui change la nature d'un Pokémon en Malin (augmente Défense, diminue Attaque Spéciale).
+lax-mint:Aromate Lâche
+lax-mintDescription:Un aromate qui change la nature d'un Pokémon en Lâche (augmente Défense, diminue Défense Spéciale).
+timid-mint:Aromate Timide
+timid-mintDescription:Un aromate qui change la nature d'un Pokémon en Timide (augmente Vitesse, diminue Attaque).
+hasty-mint:Aromate Pressé
+hasty-mintDescription:Un aromate qui change la nature d'un Pokémon en Pressé (augmente Vitesse, diminue Défense).
+serious-mint:Aromate Sérieux
+serious-mintDescription:Un aromate qui change la nature d'un Pokémon en Sérieux.
+jolly-mint:Aromate Jovial
+jolly-mintDescription:Un aromate qui change la nature d'un Pokémon en Jovial (augmente Vitesse, diminue Attaque Spéciale).
+naive-mint:Aromate Naïf
+naive-mintDescription:Un aromate qui change la nature d'un Pokémon en Naïf (augmente Vitesse, diminue Défense Spéciale).
+modest-mint:Aromate Modeste
+modest-mintDescription:Un aromate qui change la nature d'un Pokémon en Modeste (augmente Attaque Spéciale, diminue Attaque).
+mild-mint:Aromate Doux
+mild-mintDescription:Un aromate qui change la nature d'un Pokémon en Doux (augmente Attaque Spéciale, diminue Défense).
+quiet-mint:Aromate Discret
+quiet-mintDescription:Un aromate qui change la nature d'un Pokémon en Discret (augmente Attaque Spéciale, diminue Vitesse).
+bashful-mint:Aromate Pudique
+bashful-mintDescription:Un aromate qui change la nature d'un Pokémon en Pudique.
+rash-mint:Aromate Foufou
+rash-mintDescription:Un aromate qui change la nature d'un Pokémon en Foufou (augmente Attaque Spéciale, diminue Défense Spéciale).
+calm-mint:Aromate Calme
+calm-mintDescription:Un aromate qui change la nature d'un Pokémon en Calme (augmente Défense Spéciale, diminue Attaque).
+gentle-mint:Aromate Gentil
+gentle-mintDescription:Un aromate qui change la nature d'un Pokémon en Gentil (augmente Défense Spéciale, diminue Défense).
+sassy-mint:Aromate Malpoli
+sassy-mintDescription:Un aromate qui change la nature d'un Pokémon en Malpoli (augmente Défense Spéciale, diminue Vitesse).
+careful-mint:Aromate Prudent
+careful-mintDescription:Un aromate qui change la nature d'un Pokémon en Prudent (augmente Défense Spéciale, diminue Attaque Spéciale).
+quirky-mint:Aromate Bizarre
+quirky-mintDescription:Un aromate qui change la nature d'un Pokémon en Bizarre.
+bottle_cap_remover:Décapsuleur
+bottle_cap_removerDescription:change une statistique parfaite et supprime l'effet de la Capsule d'Or d'un Pokémon, te permettant d'utiliser à nouveau une Capsules d'Or sur lui.
 lag_syrup:Sirop Lent
-lag_syrupDescription:Un sirop qui définit l'IV de Vitesse d'un Pokémon à 0, le rendant plus lent en bataille.
+lag_syrupDescription:Un sirop qui change l'IV de Vitesse d'un Pokémon à 0, le rendant plus lent en combat.
 weak_serum:Sérum Faible
-weak_serumDescription:Un sérum qui définit l'IV d'Attaque d'un Pokémon à 0, réduisant sa puissance physique.
+weak_serumDescription:Un sérum qui change l'IV d'Attaque d'un Pokémon à 0, réduisant sa puissance physique.
 small_battle_exp_boost:Petit Boost d'EXP de Combat
 small_battle_exp_boostDescription:Un petit boost qui augmente l'EXP gagnée lors des combats. Dure pour 5 combats.
-medium_battle_xp_boost:Boost d'EXP de Combat Moyen
+medium_battle_xp_boost:Super Boost d'EXP de Combat
 medium_battle_xp_boostDescription:Un boost moyen qui augmente considérablement l'EXP gagnée lors des combats. Dure pour 10 combats.
-large_battle_xp_boost:Grand Boost d'EXP de Combat
+large_battle_xp_boost:Hyper Boost d'EXP de Combat
 large_battle_xp_boostDescription:Un grand boost qui augmente énormément l'EXP gagnée lors des combats. Dure pour 15 combats.
 small_battle_coin_boost:Petit Boost de Pièces de Combat
 small_battle_coin_boostDescription:Un petit boost qui augmente les pièces gagnées lors des combats. Dure pour 5 combats.
-medium_battle_coin_boost:Boost de Pièces de Combat Moyen
+medium_battle_coin_boost:Super Boost de Pièces de Combat
 medium_battle_coin_boostDescription:Un boost moyen qui augmente considérablement les pièces gagnées lors des combats. Dure pour 10 combats.
-large_battle_coin_boost:Grand Boost de Pièces de Combat
+large_battle_coin_boost:Hyper Boost de Pièces de Combat
 large_battle_coin_boostDescription:Un grand boost qui augmente énormément les pièces gagnées lors des combats. Dure pour 15 combats.
-small_ball_bundle:Petit Paquet de Balles
+small_ball_bundle:Petit Pack de Balls
 small_ball_bundleDescription:Un paquet contenant une sélection de Poké Balls de base.
 common_present:Présent
 common_presentDescription:Entrez dans un chat et tapez !pokegift pour rendre les autres joueurs heureux ! 🎅
-ball_bundle:Ball Bundle
-ball_bundleDescription:Une offre spéciale comprenant : 1x Cherish Ball, 1x Great Cherish Ball, 1x Ultra Cherish Ball, 1x Heavy Ball, 1x Feather Ball, 1x Repeat Ball, 1x Net Ball, 1x Timer Ball, 1x Quick Ball, 1x Cipher Ball, 1x Friend Ball, 1x Clone Ball, 1x Phantom Ball, 1x Night Ball, 1x Frozen Ball, 1x Beast Ball, 1x Stone Ball, 1x Magnet Ball, 1x Nest Ball, 1x Fast Ball, 1x Level Ball, 1x Heal Ball, 1x Luxury Ball, 1x Sun Ball, 1x Fantasy Ball, 1x Geo Ball, 1x Mach Ball, 1x Basic Ball
+ball_bundle:Pack de Balls
+ball_bundleDescription:Une offre spéciale comprenant : 1x Memoire Ball, 1x Super Memoire Ball, 1x Hyper Memoire Ball, 1x Masse Ball, 1x Plume Ball, 1x Bis Ball, 1x Filet Ball, 1x Chrono Ball, 1x Rapide Ball, 1x Psycho Ball, 1x Copain Ball, 1x Clone Ball, 1x fantome Ball, 1x Nocta Ball, 1x Givre Ball, 1x Beast Ball, 1x Gemme Ball, 1x Magnet Ball, 1x Faiblo Ball, 1x Speed Ball, 1x Niveau Ball, 1x Soin Ball, 1x Luxe Ball, 1x Helio Ball, 1x Fantasie Ball, 1x Geo Ball, 1x Mach Ball, 1x Basique Ball
 force_disc:Disque de Force
 force_discDescription:Un disque utilisé pour enseigner à ton Pokémon un nouvel ensemble de capacités avec une plus grande chance pour les attaques physiques.
 mystic_disc:Disque Mystique
