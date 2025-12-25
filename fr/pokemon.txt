@@ -531,7 +531,7 @@ poochyenaDescription:Medhyèna est omnivore. Il mange de tout. Ses crocs sont tr
 mightyena:Grahyèna
 mightyenaDescription:Les Grahyèna vivent et se déplacent en meute. Leurs réminiscences de la vie sauvage les poussent à n’obéir qu’aux Dresseurs qu’ils considèrent comme réellement talentueux.
 zigzagoon:Zigzaton
-zigzagoonDescription:Le Zigzaton de Galar a adopté cette forme dans les autres régions. Il est très doué pour dénicher des choses.
+zigzagoonDescription:Il marque son territoire en frottant son pelage dur contre les arbres. Il est moins agressif que les Zigzaton de la région de Galar.
 linoone:Linéon
 linooneDescription:Il se sert de sa force de propulsion et de ses griffes aiguisées pour achever ses proies. Il a du mal à courir sur les routes sinueuses.
 wurmple:Chenipotte
@@ -2863,7 +2863,7 @@ zapdos-galarDescription:Ce Pokémon oiseau légendaire apparaît quand le ciel s
 zarude-dada:Zarude (Dada)
 zarude-dadaDescription:L’affection qu’il porte au petit être humain qu’il a recueilli et élevé depuis son plus jeune âge lui confère une force particulière.
 zigzagoon-galar:Gal Zigzaton
-zigzagoon-galarDescription:Le Zigzaton de Galar a adopté cette forme dans les autres régions. Il est très doué pour dénicher des choses.
+zigzagoon-galarDescription:Il sème le chaos partout où il passe en se déplaçant en zigzag. Il s'agit apparemment de la forme la plus ancienne de Zigzaton.
 zubat-f:Nosferapti (F)
 zubat-fDescription:Il émet des ultrasons pour se diriger et éviter les obstacles sur son trajet.
 zygarde-10:Zygarde (10%)

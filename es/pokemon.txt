@@ -537,7 +537,7 @@ poochyenaDescription:Poochyena es un Pokémon omnívoro. Se come lo que sea. Le 
 mightyena:Mightyena
 mightyenaDescription:Mightyena se desplaza y vive con su jauría en estado salvaje. Por eso, acostumbrado a esta libertad, obedece al Entrenador al que considere realmente dotado de habilidades superiores al resto.
 zigzagoon:Zigzagoon
-zigzagoonDescription:Parece ser que esta es la forma primitiva de Zigzagoon. Arma un alboroto tremendo a su alrededor cuando se mueve en zigzag.
+zigzagoonDescription:Marca su territorio frotando su pelaje duro contra los árboles. Es menos agresivo que los Zigzagoon de la región de Galar.
 linoone:Linoone
 linooneDescription:Posee un carácter beligerante y temerario. Hace frente impávidamente a oponentes mucho más fuertes que él.
 wurmple:Wurmple
@@ -3260,7 +3260,7 @@ caterpie-pcgDescription:Sus patas cortas terminan en ventosas que le permiten tr
 miltank-pcgDescription:Este Pokémon necesita ser ordeñado todos los días, o de lo contrario se enfermará. El sabor de la leche de Miltank cambia con las estaciones. (Arte por itsbritneexo)
 spinarak-pcg:PCG Spinarak
 spinarak-pcgDescription:Aunque el veneno de sus colmillos no es muy fuerte, es lo suficientemente potente como para debilitar a las presas que quedan atrapadas en su telaraña. (Arte por Lenathepanda & Hallowwisp)
-hisuian-decidueye:Su Decidueye
+hisuian-decidueye:His Decidueye
 hisuian-decidueyeDescription:En una décima de segundo, puede colocar y disparar una pluma flecha, perforando el punto débil de un oponente antes de que se dé cuenta de lo que está sucediendo.
 wailord-retro:Wailord (Retro)
 wailord-retroDescription:Su inmenso tamaño es la razón de su popularidad. Observar a Wailord es una actividad turística favorita en varias partes del mundo.

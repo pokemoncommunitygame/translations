@@ -2861,7 +2861,7 @@ zapdos-galarDescription:This legendary bird Pokémon is said to appear when the 
 zarude-dada:Zarude (Dada)
 zarude-dadaDescription:This Zarude’s special strength stems from its love and care for an orphaned human child that the Pokémon has raised since the child’s infancy.
 zigzagoon-galar:Gal Zigzagoon
-zigzagoon-galarDescription:Zigzagoon that adapted to regions outside Galar acquired this appearance. If you’ve lost something, this Pokémon can likely find it.
+zigzagoon-galarDescription:It leaves chaos everywhere as it moves in zigzags. This appears to be the oldest form of Zigzagoon.
 zubat-f:Zubat (F)
 zubat-fDescription:Emits ultrasonic cries while it flies. They act as a sonar used to check for objects in its way.
 zygarde-10:Zygarde (10)

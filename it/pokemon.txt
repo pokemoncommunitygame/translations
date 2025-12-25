@@ -535,7 +535,7 @@ poochyenaDescription:Poochyena è onnivoro: mangia di tutto. Una caratteristica 
 mightyena:Mightyena
 mightyenaDescription:Allo stato brado Mightyena si sposta e agisce soltanto assieme al suo branco. A causa della sua natura selvatica obbedisce solo a quegli Allenatori che considera possedere abilità superiori.
 zigzagoon:Zigzagoon
-zigzagoonDescription:Pare che questa sia la forma originaria di Zigzagoon. Si muove a zig zag mettendo a soqquadro tutto ciò che lo circonda.
+zigzagoonDescription:Marca il proprio territorio strofinando il pelo duro contro gli alberi. È meno aggressivo degli Zigzagoon della regione di Galar.
 linoone:Linoone
 linooneDescription:Si serve della sua straordinaria forza esplosiva e dei suoi artigli affilati per abbattere la preda. Correre lungo strade tortuose non è il suo forte.
 wurmple:Wurmple

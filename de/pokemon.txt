@@ -533,7 +533,7 @@ poochyenaDescription:Fiffyen ist ein Allesfresser. Auffällig an diesem Pokémon
 mightyena:Magnayen
 mightyenaDescription:Magnayen zieht in Gruppen durch die Wildnis. Durch seine Erfahrungen in der Wildnis hört es nur auf Trainer, die außergewöhnliche Fähigkeiten haben.
 zigzagoon:Zigzachs
-zigzagoonDescription:Es hinterlässt überall ein riesiges Chaos, indem es sich im Zickzack bewegt. Hierbei handelt es sich offenbar um die älteste Form von Zigzachs.
+zigzagoonDescription:Sie markieren ihr Revier, indem sie ihr hartes Fell an Bäumen reiben. Sie sind weniger aggressiv als die Zigzachs der Galar-Region.
 linoone:Geradaks
 linooneDescription:Es ist sehr angriffslustig und schreckt auch nicht davor zurück, sich mit Gegnern anzulegen, die ihm haushoch überlegen sind.
 wurmple:Waumpel
@@ -1930,7 +1930,7 @@ lucario-mega:Mega Lucario
 lucario-megaDescription:Es kann die Gedanken von Menschen lesen. Deshalb lässt es sich nur auf Trainer ein, die ihr Herz auf dem rechten Fleck haben.
 abomasnow-mega:Mega Rexblisar
 abomasnow-megaDescription:Dieses Pokémon löst Blizzards aus. Wenn es seinen großen Körper schüttelt, wird in seiner Umgebung alles sofort schneeweiß.
-floette-eternal:Ewige Floette
+floette-eternal:Ewigblütler-Floette
 floette-eternalDescription:Es überträgt seine Kraft auf Blumen und pflegt diese mit ganzem Herzen. Es verzeiht keinem, der sein Blumenbeet verwüstet.
 latias-mega:Mega Latias
 latias-megaDescription:Latias ist sehr intelligent und kann die menschliche Sprache verstehen. Es ist mit gläsernen Daunen bedeckt. Dieses Pokémon umhüllt seinen Körper mit den Daunen und kann Licht brechen, um seine Gestalt zu verändern.
