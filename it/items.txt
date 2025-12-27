@@ -31,7 +31,7 @@ rare_presentDescription:Entra in una chat e digita !pokegift rare per rendere fe
 team_enhancer:Potenzia Squadra
 team_enhancerDescription:Usa questo oggetto per aumentare di 1 il numero di squadre! Puoi avere fino a 30 squadre.
 shiny_charm:Ciondolo Shiny
-shiny_charmDescription:Ricompensa per aver completato il pokedex spawnable. Raddoppia la possibilità di catturare shiny per tutte le catture (eccezione: cherish balls).
+shiny_charmDescription:Ricompensa per aver completato il pokedex spawnable. Aumenta la possibilità di catturare shiny per tutte le catture (0x: 1/1250, 1x: 1/625, 2x: 1/415, 3x: 1/312). Eccezione: cherish balls
 pokedaily_reset:Reset Pokedaily
 pokedaily_resetDescription:Questo oggetto resetterà il cooldown del tuo pokedaily!
 total_reset:Reset Totale

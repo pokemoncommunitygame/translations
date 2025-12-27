@@ -31,7 +31,7 @@ rare_presentDescription:Betritt einen Chat und tippe !pokegift rare, um anderen 
 team_enhancer:Teamvergrößerer
 team_enhancerDescription:Benutze diesen Gegenstand, um die Anzahl deiner Teams um 1 zu erhöhen! Du kannst bis zu 30 Teams haben.
 shiny_charm:Shiny Charm
-shiny_charmDescription:Belohnung für das Abschließen des Spawn-Pokédex. Verdoppelt die Chance, ein schillerndes Pokémon zu fangen (Ausnahme: Jubelbälle).
+shiny_charmDescription:Belohnung für das Abschließen des Spawn-Pokédex. Erhöht die Chance, ein schillerndes Pokémon zu fangen (0x: 1/1250, 1x: 1/625, 2x: 1/415, 3x: 1/312). Ausnahme: Jubelbälle
 pokedaily_reset:Pokedaily-Reset
 pokedaily_resetDescription:Dieser Gegenstand setzt den Cooldown deines Pokedaily zurück!
 total_reset:Reset Spray

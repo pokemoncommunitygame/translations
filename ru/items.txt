@@ -31,7 +31,7 @@ rare_presentDescription:Войдите в чат и введите !pokegift rar
 team_enhancer:Усилитель Команды
 team_enhancerDescription:Используйте этот предмет, чтобы увеличить количество команд на 1! Вы можете иметь до 30 команд.
 shiny_charm:Блестящий Талисман
-shiny_charmDescription:Награда за завершение покедекса. Удваивает шанс поймать блестящего покемона (исключение: cherish ball).
+shiny_charmDescription:Награда за завершение покедекса. Увеличивает шанс поймать блестящего покемона (0x: 1/1250, 1x: 1/625, 2x: 1/415, 3x: 1/312). Исключение: cherish ball
 pokedaily_reset:Сброс Ежедневного Поке
 pokedaily_resetDescription:Этот предмет сбросит время ожидания вашего ежедневного поке!
 total_reset:Полный Сброс

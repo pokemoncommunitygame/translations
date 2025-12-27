@@ -33,7 +33,7 @@ rare_presentDescription:Enter a chat and type !pokegift rare to make other playe
 team_enhancer:Team enhancer
 team_enhancerDescription:Use this item to increase the amount of teams by 1! You can have up to 30 teams.
 shiny_charm:Shiny Charm
-shiny_charmDescription:Reward for finishing the spawnable pokedex. Doubles the shiny chance for all catches (exception: cherish balls)
+shiny_charmDescription:Reward for finishing the spawnable pokedex. Increases the shiny chance for all catches (0x: 1/1250, 1x: 1/625, 2x: 1/415, 3x: 1/312). Exception: cherish balls
 pokedaily_reset:Pokedaily Reset
 pokedaily_resetDescription:This item will reset the cooldown of your pokedaily!
 total_reset:Total Reset

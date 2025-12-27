@@ -31,7 +31,7 @@ rare_presentDescription:Entrez dans un chat et tapez !pokegift rare pour rendre 
 team_enhancer:Bon d'Équipe
 team_enhancerDescription:Utilisez cet objet pour augmenter le nombre d'équipes de 1 ! Vous pouvez avoir jusqu'à 30 équipes.
 shiny_charm:Charme Chroma
-shiny_charmDescription:Récompense pour avoir complété le pokédex spawnable. Double la chance d'obtenir un shiny pour toutes les captures (exception : Memoire Balls)
+shiny_charmDescription:Récompense pour avoir complété le pokédex spawnable. Augmente la chance d'obtenir un shiny pour toutes les captures (0x: 1/1250, 1x: 1/625, 2x: 1/415, 3x: 1/312). Exception : Memoire Balls
 pokedaily_reset:Pokedaily reset
 pokedaily_resetDescription:Cet objet réinitialisera le délai de récupération de votre pokedaily !
 total_reset:Change-Total
