@@ -27,3 +27,6 @@ maxCatchLevel25:Fino al Lvl 25 Pokemon Possono essere Catturati
 maxCatchLevel30:Fino al Lvl 30 Pokemon Possono essere Catturati
 maxCatchLevel35:Fino al Lvl 35 Pokemon Possono essere Catturati
 maxCatchLevel40:Fino al Lvl 40 Pokemon Possono essere Catturati
+snowstormsCanAppear:Le tempeste di neve possono ora apparire!
+santaCanAppear:Babbo Natale può ora apparire!
+legendarySpawnsEnterThePool:Le apparizioni leggendarie entrano nel pool di apparizione

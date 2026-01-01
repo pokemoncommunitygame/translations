@@ -27,3 +27,6 @@ maxCatchLevel25:Des Pokémon jusqu'au niveau 25 peuvent être capturés
 maxCatchLevel30:Des Pokémon jusqu'au niveau 30 peuvent être capturés
 maxCatchLevel35:Des Pokémon jusqu'au niveau 35 peuvent être capturés
 maxCatchLevel40:Des Pokémon jusqu'au niveau 40 peuvent être capturés
+snowstormsCanAppear:Les tempêtes de neige peuvent maintenant apparaître !
+santaCanAppear:Le Père Noël peut maintenant apparaître !
+legendarySpawnsEnterThePool:Les apparitions légendaires entrent dans le pool d'apparition

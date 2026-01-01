@@ -27,3 +27,6 @@ maxCatchLevel25:Se pueden atrapar Pokémon de hasta Nivel 25
 maxCatchLevel30:Se pueden atrapar Pokémon de hasta Nivel 30
 maxCatchLevel35:Se pueden atrapar Pokémon de hasta Nivel 35
 maxCatchLevel40:Se pueden atrapar Pokémon de hasta Nivel 40
+snowstormsCanAppear:¡Las tormentas de nieve pueden aparecer ahora!
+santaCanAppear:¡Santa puede aparecer ahora!
+legendarySpawnsEnterThePool:Los Pokémon legendarios entran en el grupo de aparición

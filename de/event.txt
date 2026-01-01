@@ -27,3 +27,6 @@ maxCatchLevel25:Bis zu Level 25 Pokémon können gefangen werden
 maxCatchLevel30:Bis zu Level 30 Pokémon können gefangen werden
 maxCatchLevel35:Bis zu Level 35 Pokémon können gefangen werden
 maxCatchLevel40:Bis zu Level 40 Pokémon können gefangen werden
+snowstormsCanAppear:Schneestürme können jetzt erscheinen!
+santaCanAppear:Santa kann jetzt erscheinen!
+legendarySpawnsEnterThePool:Legendäre Spawns betreten den Spawn-Pool

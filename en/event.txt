@@ -27,3 +27,6 @@ maxCatchLevel25:Up to Level 25 Pokemon can be caught
 maxCatchLevel30:Up to Level 30 Pokemon can be caught
 maxCatchLevel35:Up to Level 35 Pokemon can be caught
 maxCatchLevel40:Up to Level 40 Pokemon can be caught
+snowstormsCanAppear:Snowstorms can now appear!
+santaCanAppear:Santa can now appear!
+legendarySpawnsEnterThePool:Legendary Spawns enter the spawn pool

@@ -27,3 +27,6 @@ maxCatchLevel25:Можно поймать покемонов до уровня 2
 maxCatchLevel30:Можно поймать покемонов до уровня 30
 maxCatchLevel35:Можно поймать покемонов до уровня 35
 maxCatchLevel40:Можно поймать покемонов до уровня 40
+snowstormsCanAppear:Теперь могут появляться снежные бури!
+santaCanAppear:Теперь может появляться Санта!
+legendarySpawnsEnterThePool:Легендарные появления входят в пул появления
