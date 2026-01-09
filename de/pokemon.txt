@@ -3267,8 +3267,8 @@ wailord-retroDescription:Seine immense Größe ist der Grund für seine Beliebth
 mysterious-snowman:Mysteriöser Schneemann
 mysterious-snowmanDescription:Mysteriöser Schneemann
 porygon-pcg:PCG Porygon
-porygon-pcgDescription:In den letzten Jahren war diese Spezies im Cyberspace sehr hilfreich. Diese Pokémon überprüfen, ob keine verdächtigen Daten existieren. (Art von Finsthehuman)
+porygon-pcgDescription:In den letzten Jahren war diese Spezies im Cyberspace sehr hilfreich. Diese Pokémon überprüfen, ob keine verdächtigen Daten existieren. (Art von Studio Karli)
 porygon2-pcg:PCG Porygon2
-porygon2-pcgDescription:Nachdem künstliche Intelligenz in Porygon2 implementiert wurde, begann das Pokémon, eine seltsame Sprache zu verwenden, die nur andere Porygon2 verstehen. (Art von Finsthehuman)
+porygon2-pcgDescription:Nachdem künstliche Intelligenz in Porygon2 implementiert wurde, begann das Pokémon, eine seltsame Sprache zu verwenden, die nur andere Porygon2 verstehen. (Art von Studio Karli)
 porygon-z-pcg:PCG Porygon-Z
-porygon-z-pcgDescription:Einige sagen, ein zusätzliches Programm habe dieses Pokémon zur Entwicklung gebracht, aber selbst Akademiker sind sich uneinig, ob Porygon-Z wirklich eine Entwicklung ist. (Art von Finsthehuman)
+porygon-z-pcgDescription:Einige sagen, ein zusätzliches Programm habe dieses Pokémon zur Entwicklung gebracht, aber selbst Akademiker sind sich uneinig, ob Porygon-Z wirklich eine Entwicklung ist. (Art von Studio Karli)

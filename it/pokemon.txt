@@ -3267,8 +3267,8 @@ wailord-retroDescription:La sua immensa dimensione è la ragione della sua popol
 mysterious-snowman:Uomo di Neve Misterioso
 mysterious-snowmanDescription:Uomo di Neve Misterioso
 porygon-pcg:PCG Porygon
-porygon-pcgDescription:Negli ultimi anni, questa specie è stata molto utile nel cyberspazio. Questi Pokémon vanno in giro a controllare che non esistano dati sospetti. (Art di Finsthehuman)
+porygon-pcgDescription:Negli ultimi anni, questa specie è stata molto utile nel cyberspazio. Questi Pokémon vanno in giro a controllare che non esistano dati sospetti. (Art di Studio Karli)
 porygon2-pcg:PCG Porygon2
-porygon2-pcgDescription:Dopo che l'intelligenza artificiale è stata implementata in Porygon2, il Pokémon ha iniziato a usare un linguaggio strano che solo altri Porygon2 comprendono. (Art di Finsthehuman)
+porygon2-pcgDescription:Dopo che l'intelligenza artificiale è stata implementata in Porygon2, il Pokémon ha iniziato a usare un linguaggio strano che solo altri Porygon2 comprendono. (Art di Studio Karli)
 porygon-z-pcg:PCG Porygon-Z
-porygon-z-pcgDescription:Alcuni dicono che un programma aggiuntivo abbia fatto evolvere questo Pokémon, ma anche gli accademici non riescono a concordare se Porygon-Z sia davvero un'evoluzione. (Art di Finsthehuman)
+porygon-z-pcgDescription:Alcuni dicono che un programma aggiuntivo abbia fatto evolvere questo Pokémon, ma anche gli accademici non riescono a concordare se Porygon-Z sia davvero un'evoluzione. (Art di Studio Karli)
