@@ -394,3 +394,11 @@ shiny:Shiny
 level:Level
 
 weightScoringDescription:This {pokemon_name} scored {weight} points out of a possible 100!
+
+permanent:Permanent
+selectMode:Select
+selectAll:Select all
+deselectAll:Deselect all
+sellSelected:Sell selected
+massSellConfirm:Type ${count} to confirm
+massSellWarningShiny:Warning: Includes Shiny/Special Pokemon!

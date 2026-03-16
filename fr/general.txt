@@ -312,3 +312,10 @@ retry:Réessayer
 PokemonWrongTypeForDisc:Les Pokémon doivent être de type {0} pour utiliser ce disque.
 weightScoringDescription:Ce {pokemon_name} a marqué {weight} points sur un maximum de 100 !
 PokemonLocked:Tu as verrouillé le Pokémon, cet objet ne peut pas être utilisé. Déverrouille d'abord le Pokémon avant d'utiliser cet objet.
+permanent:Permanent
+selectMode:Sélectionner
+selectAll:Tout sélectionner
+deselectAll:Tout désélectionner
+sellSelected:Vendre la sélection
+massSellConfirm:Tapez ${count} pour confirmer
+massSellWarningShiny:Attention : Contient des Shinys/Spéciaux !
