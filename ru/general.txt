@@ -319,3 +319,4 @@ deselectAll:Снять выделение
 sellSelected:Продать выбранных
 massSellConfirm:Введите ${count} для подтверждения
 massSellWarningShiny:Внимание: Содержит Шайни/Особых!
+temporary:Временный

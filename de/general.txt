@@ -319,3 +319,4 @@ deselectAll:Auswahl aufheben
 sellSelected:Ausgewählte verkaufen
 massSellConfirm:Gib ${count} ein um zu bestätigen
 massSellWarningShiny:Achtung: Enthält Shinys/Spezial!
+temporary:Vorübergehend

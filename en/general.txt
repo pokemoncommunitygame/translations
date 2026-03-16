@@ -319,3 +319,4 @@ deselectAll:Deselect all
 sellSelected:Sell selected
 massSellConfirm:Type ${count} to confirm
 massSellWarningShiny:Warning: Includes Shiny/Special Pokemon!
+temporary:Temporary
