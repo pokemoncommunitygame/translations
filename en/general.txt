@@ -312,6 +312,7 @@ level:Level
 PokemonWrongTypeForDisc:Pokémon must be {0} type to use this disc
 weightScoringDescription:This {pokemon_name} scored {weight} points out of a possible 100!
 PokemonLocked:You locked the Pokémon, this item can't be used. Unlock the Pokémon first before using that item.
+temporary:Temporary
 permanent:Permanent
 selectMode:Select
 selectAll:Select all
@@ -319,4 +320,6 @@ deselectAll:Deselect all
 sellSelected:Sell selected
 massSellConfirm:Type ${count} to confirm
 massSellWarningShiny:Warning: Includes Shiny/Special Pokemon!
-temporary:Temporary
+massSellCheckbox:I want to sell ${count} Pokemon
+massSellResult:Sold ${count} Pokemon for \$${cash}
+massSellSkipped:${count} Pokemon could not be sold (team/locked/buddy)

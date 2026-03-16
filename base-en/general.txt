@@ -403,3 +403,6 @@ sellSelected:Sell selected
 massSellConfirm:Type ${count} to confirm
 massSellWarningShiny:Warning: Includes Shiny/Special Pokemon!
 temporary:Temporary
+massSellCheckbox:I want to sell ${count} Pokemon
+massSellResult:Sold ${count} Pokemon for \$${cash}
+massSellSkipped:${count} Pokemon could not be sold (team/locked/buddy)

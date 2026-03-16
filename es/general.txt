@@ -312,6 +312,7 @@ retry:Reintentar
 PokemonWrongTypeForDisc:El Pokémon debe ser de tipo {0} para usar este disco.
 weightScoringDescription:¡Este {pokemon_name} obtuvo {weight} puntos de un máximo de 100!
 PokemonLocked:Has bloqueado al Pokémon, este objeto no se puede usar. Desbloquea al Pokémon primero antes de usar ese objeto.
+temporary:Temporal
 permanent:Permanente
 selectMode:Seleccionar
 selectAll:Seleccionar todo
@@ -319,4 +320,6 @@ deselectAll:Deseleccionar todo
 sellSelected:Vender seleccionados
 massSellConfirm:Escribe ${count} para confirmar
 massSellWarningShiny:¡Atención: Incluye Shinys/Especiales!
-temporary:Temporal
+massSellCheckbox:Quiero vender ${count} Pokemon
+massSellResult:${count} Pokemon vendidos por \$${cash}
+massSellSkipped:${count} Pokemon no se pudieron vender (equipo/bloqueado/compañero)
