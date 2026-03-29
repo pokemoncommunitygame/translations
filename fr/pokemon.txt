@@ -3272,3 +3272,5 @@ porygon2-pcg:PCG Porygon2
 porygon2-pcgDescription:Après l'implémentation de l'intelligence artificielle dans Porygon2, le Pokémon a commencé à utiliser un langage étrange que seuls les autres Porygon2 comprennent. (Art par Studio Karli)
 porygon-z-pcg:PCG Porygon-Z
 porygon-z-pcgDescription:Certains disent qu'un programme supplémentaire a fait évoluer ce Pokémon, mais même les académiciens ne s'accordent pas sur le fait que Porygon-Z soit vraiment une évolution. (Art par Studio Karli)
+gliscor-retro:Scorvol (Retro)
+gliscor-retroDescription:Il vole sans un bruit, et capture ses proies avec sa queue pour leur infliger une morsure critique.

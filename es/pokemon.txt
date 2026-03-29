@@ -3272,3 +3272,5 @@ porygon2-pcg:PCG Porygon2
 porygon2-pcgDescription:Después de implementar inteligencia artificial en Porygon2, el Pokémon comenzó a usar un lenguaje extraño que solo otros Porygon2 entienden. (Arte por Studio Karli)
 porygon-z-pcg:PCG Porygon-Z
 porygon-z-pcgDescription:Algunos dicen que un programa adicional hizo evolucionar a este Pokémon, pero incluso los académicos no se ponen de acuerdo sobre si Porygon-Z es realmente una evolución. (Arte por Studio Karli)
+gliscor-retro:Gliscor (Retro)
+gliscor-retroDescription:Vuela sin hacer nada de ruido. Con su larga cola captura a sus presas y las muerde con sus colmillos.

@@ -3272,3 +3272,5 @@ porygon2-pcg:PCG Porygon2
 porygon2-pcgDescription:Nachdem künstliche Intelligenz in Porygon2 implementiert wurde, begann das Pokémon, eine seltsame Sprache zu verwenden, die nur andere Porygon2 verstehen. (Art von Studio Karli)
 porygon-z-pcg:PCG Porygon-Z
 porygon-z-pcgDescription:Einige sagen, ein zusätzliches Programm habe dieses Pokémon zur Entwicklung gebracht, aber selbst Akademiker sind sich uneinig, ob Porygon-Z wirklich eine Entwicklung ist. (Art von Studio Karli)
+gliscor-retro:Skorgro (Retro)
+gliscor-retroDescription:Es fliegt völlig lautlos. Erst fängt es seine Beute mit seinem langen Schweif, dann saugt es sie aus.
