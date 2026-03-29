@@ -323,3 +323,5 @@ massSellWarningShiny:Attention : Contient des Shinys/Spéciaux !
 massSellCheckbox:Je veux vendre ${count} Pokemon
 massSellResult:${count} Pokemon vendus pour \$${cash}
 massSellSkipped:${count} Pokemon ne peuvent pas être vendus (équipe/verrouillé/copain)
+repeatable:Répétable
+completed:terminé

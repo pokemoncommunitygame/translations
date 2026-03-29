@@ -323,3 +323,5 @@ massSellWarningShiny:Attenzione: Include Shiny/Speciali!
 massSellCheckbox:Voglio vendere ${count} Pokemon
 massSellResult:${count} Pokemon venduti per \$${cash}
 massSellSkipped:${count} Pokemon non possono essere venduti (squadra/bloccato/compagno)
+repeatable:Ripetibile
+completed:completato

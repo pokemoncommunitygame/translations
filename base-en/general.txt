@@ -286,6 +286,8 @@ afterClaimingCharmText:After claiming your shiny charm you have the option to re
 missions:Missions
 tutorialMissions:Tutorial Missions
 showComplete:Show Complete
+repeatable:Repeatable
+completed:completed
 
 
 search:Search
