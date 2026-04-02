@@ -30,3 +30,5 @@ maxCatchLevel40:Pokémon de até Nível 40 podem ser capturados
 snowstormsCanAppear:Tempestades de neve podem agora aparecer!
 santaCanAppear:Papai Noel pode agora aparecer!
 legendarySpawnsEnterThePool:Spawns Lendários entram na piscina de spawns
+boostedRareSpawnWeight:Chance de spawn raro aumentada
+boostedLegendarySpawnWeight:Chance de spawn lendário aumentada

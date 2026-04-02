@@ -30,3 +30,5 @@ maxCatchLevel40:Se pueden atrapar Pokémon de hasta Nivel 40
 snowstormsCanAppear:¡Las tormentas de nieve pueden aparecer ahora!
 santaCanAppear:¡Santa puede aparecer ahora!
 legendarySpawnsEnterThePool:Los Pokémon legendarios entran en el grupo de aparición
+boostedRareSpawnWeight:Probabilidad de aparición rara aumentada
+boostedLegendarySpawnWeight:Probabilidad de aparición legendaria aumentada

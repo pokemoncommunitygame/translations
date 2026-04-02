@@ -30,3 +30,5 @@ maxCatchLevel40:Up to Level 40 Pokemon can be caught
 snowstormsCanAppear:Snowstorms can now appear!
 santaCanAppear:Santa can now appear!
 legendarySpawnsEnterThePool:Legendary Spawns enter the spawn pool
+boostedRareSpawnWeight:Rare spawn chance increased
+boostedLegendarySpawnWeight:Legendary spawn chance increased
