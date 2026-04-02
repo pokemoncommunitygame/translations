@@ -35,3 +35,5 @@ boostedLegendarySpawnWeight:Chance de spawn lendário aumentada
 decreaseWTTimer30min:Temporizador WT diminuído em 30 min
 decreaseWTTimer60min:Temporizador WT diminuído em 60 min
 decreaseWTTimer90min:Temporizador WT diminuído em 90 min
+2xEggsDropChance:Chance de queda de Ovo 2x!
+3xEggsDropChance:Chance de queda de Ovo 3x!

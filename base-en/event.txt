@@ -23,6 +23,8 @@ rarePresentCanDrop:Rare Presents can now drop!
 boostedEventCoinDrops:Boosted event coin drops
 snowballCanDrop:Snowballs can now drop!
 eggsCanDrop:Eggs can now drop!
+2xEggsDropChance:2x Egg drop chance!
+3xEggsDropChance:3x Egg drop chance!
 snowstormsCanAppear:Snowstorms can now appear!
 santaCanAppear:Santa can now appear!
 legendarySpawnsEnterThePool:Legendary Spawns enter the spawn pool

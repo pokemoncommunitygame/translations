@@ -35,3 +35,5 @@ boostedLegendarySpawnWeight:Legendäre Spawn-Chance erhöht
 decreaseWTTimer30min:WT-Timer um 30 Min. verkürzt
 decreaseWTTimer60min:WT-Timer um 60 Min. verkürzt
 decreaseWTTimer90min:WT-Timer um 90 Min. verkürzt
+2xEggsDropChance:2x Ei-Drop-Chance!
+3xEggsDropChance:3x Ei-Drop-Chance!

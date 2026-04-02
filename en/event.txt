@@ -22,6 +22,8 @@ rarePresentCanDrop:Rare Presents can now drop!
 boostedEventCoinDrops:Boosted event coin drops
 snowballCanDrop:Snowballs can now drop!
 eggsCanDrop:Eggs can now drop!
+2xEggsDropChance:2x Egg drop chance!
+3xEggsDropChance:3x Egg drop chance!
 maxCatchLevel20:Up to Level 20 Pokemon can be caught
 maxCatchLevel25:Up to Level 25 Pokemon can be caught
 maxCatchLevel30:Up to Level 30 Pokemon can be caught

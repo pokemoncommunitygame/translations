@@ -35,3 +35,5 @@ boostedLegendarySpawnWeight:Probabilidad de aparición legendaria aumentada
 decreaseWTTimer30min:Temporizador WT reducido en 30 min
 decreaseWTTimer60min:Temporizador WT reducido en 60 min
 decreaseWTTimer90min:Temporizador WT reducido en 90 min
+2xEggsDropChance:¡2x probabilidad de caída de huevos!
+3xEggsDropChance:¡3x probabilidad de caída de huevos!
