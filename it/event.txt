@@ -32,3 +32,6 @@ santaCanAppear:Babbo Natale può ora apparire!
 legendarySpawnsEnterThePool:Le apparizioni leggendarie entrano nel pool di apparizione
 boostedRareSpawnWeight:Probabilità di spawn raro aumentata
 boostedLegendarySpawnWeight:Probabilità di spawn leggendario aumentata
+decreaseWTTimer30min:Timer WT diminuito di 30 min
+decreaseWTTimer60min:Timer WT diminuito di 60 min
+decreaseWTTimer90min:Timer WT diminuito di 90 min

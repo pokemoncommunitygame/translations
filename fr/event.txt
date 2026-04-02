@@ -32,3 +32,6 @@ santaCanAppear:Le Père Noël peut maintenant apparaître !
 legendarySpawnsEnterThePool:Les apparitions légendaires entrent dans le pool d'apparition
 boostedRareSpawnWeight:Chance d'apparition rare augmentée
 boostedLegendarySpawnWeight:Chance d'apparition légendaire augmentée
+decreaseWTTimer30min:Minuteur WT réduit de 30 min
+decreaseWTTimer60min:Minuteur WT réduit de 60 min
+decreaseWTTimer90min:Minuteur WT réduit de 90 min

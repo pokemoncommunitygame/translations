@@ -33,3 +33,6 @@ maxCatchLevel25:Up to Level 25 Pokemon can be caught
 maxCatchLevel30:Up to Level 30 Pokemon can be caught
 maxCatchLevel35:Up to Level 35 Pokemon can be caught
 maxCatchLevel40:Up to Level 40 Pokemon can be caught
+decreaseWTTimer30min:WT timer decreased by 30 min
+decreaseWTTimer60min:WT timer decreased by 60 min
+decreaseWTTimer90min:WT timer decreased by 90 min

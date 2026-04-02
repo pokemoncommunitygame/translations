@@ -32,3 +32,6 @@ santaCanAppear:Papai Noel pode agora aparecer!
 legendarySpawnsEnterThePool:Spawns Lendários entram na piscina de spawns
 boostedRareSpawnWeight:Chance de spawn raro aumentada
 boostedLegendarySpawnWeight:Chance de spawn lendário aumentada
+decreaseWTTimer30min:Temporizador WT diminuído em 30 min
+decreaseWTTimer60min:Temporizador WT diminuído em 60 min
+decreaseWTTimer90min:Temporizador WT diminuído em 90 min

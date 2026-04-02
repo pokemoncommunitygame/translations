@@ -32,3 +32,6 @@ santaCanAppear:Santa can now appear!
 legendarySpawnsEnterThePool:Legendary Spawns enter the spawn pool
 boostedRareSpawnWeight:Rare spawn chance increased
 boostedLegendarySpawnWeight:Legendary spawn chance increased
+decreaseWTTimer30min:WT timer decreased by 30 min
+decreaseWTTimer60min:WT timer decreased by 60 min
+decreaseWTTimer90min:WT timer decreased by 90 min

@@ -32,3 +32,6 @@ santaCanAppear:Теперь может появляться Санта!
 legendarySpawnsEnterThePool:Легендарные появления входят в пул появления
 boostedRareSpawnWeight:Шанс редкого спавна увеличен
 boostedLegendarySpawnWeight:Шанс легендарного спавна увеличен
+decreaseWTTimer30min:Таймер WT уменьшен на 30 мин
+decreaseWTTimer60min:Таймер WT уменьшен на 60 мин
+decreaseWTTimer90min:Таймер WT уменьшен на 90 мин
