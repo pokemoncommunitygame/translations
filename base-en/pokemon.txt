@@ -314,6 +314,8 @@ mew:Mew
 mewDescription:When viewed through a microscope, this Pokémon’s short, fine, delicate hair can be seen.
 chikorita:Chikorita
 chikoritaDescription:In battle, Chikorita waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling Pokémon and creating a cozy, friendly atmosphere all around.
+chikorita-pcg:PCG Chikorita
+chikorita-pcgDescription:In battle, Chikorita waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling Pokémon and creating a cozy, friendly atmosphere all around. (Art by R6Kari & Laluzi)
 bayleef:Bayleef
 bayleefDescription:Bayleef’s neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.
 meganium:Meganium
