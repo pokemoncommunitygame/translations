@@ -314,6 +314,8 @@ mew:Mew
 mewDescription:Osservando al microscopio la pelle di Mew si può constatare che è ricoperta da una fitta peluria, corta e fine.
 chikorita:Chikorita
 chikoritaDescription:Nella lotta, Chikorita sventola la sua foglia in modo da tenere a bada il nemico. Tuttavia, la foglia emana anche un aroma dolce, che calma il Pokémon avversario, creando un’atmosfera gradevole e rilassata tutt’attorno.
+chikorita-pcg:PCG Chikorita
+chikorita-pcgDescription:Nella lotta, Chikorita sventola la sua foglia in modo da tenere a bada il nemico. Tuttavia, la foglia emana anche un aroma dolce, che calma il Pokémon avversario, creando un’atmosfera gradevole e rilassata tutt’attorno. (Art by R6Kari & Laluzi)
 bayleef:Bayleef
 bayleefDescription:Il collo di Bayleef è agghindato da foglie, dentro cui è presente il piccolo germoglio di un albero. L’aroma emanato da questo germoglio ha un effetto energizzante sull’uomo.
 meganium:Meganium

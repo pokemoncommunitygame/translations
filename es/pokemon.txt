@@ -320,6 +320,8 @@ mew:Mew
 mewDescription:Si se observa a través de un microscopio, puede distinguirse cuán corto, fino y delicado es el pelaje de este Pokémon.
 chikorita:Chikorita
 chikoritaDescription:Al luchar, Chikorita agita la hoja que tiene para mantener a raya al rival. Pero, al mismo tiempo, libera una suave fragancia que apacigua el encuentro y crea un ambiente agradable y de amistad.
+chikorita-pcg:PCG Chikorita
+chikorita-pcgDescription:Al luchar, Chikorita agita la hoja que tiene para mantener a raya al rival. Pero, al mismo tiempo, libera una suave fragancia que apacigua el encuentro y crea un ambiente agradable y de amistad. (Art by R6Kari & Laluzi)
 bayleef:Bayleef
 bayleefDescription:Bayleef tiene un collar de hojas alrededor del cuello y un brote de un árbol en cada una de ellas. La fragancia que desprenden estos brotes anima a la gente.
 meganium:Meganium

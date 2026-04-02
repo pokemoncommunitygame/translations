@@ -312,6 +312,8 @@ mew:Mew
 mewDescription:Wenn man Mews Haut mithilfe eines Mikroskops betrachtet, so erkennt man ein Fell aus vielen feinen und kurzen Härchen.
 chikorita:Endivie
 chikoritaDescription:Im Kampf wedelt Endivie mit seinem Blatt, um den Feind fernzuhalten. Von dem Blatt geht auch ein süßlicher Duft aus, der das gegnerische Pokémon im Kampf beruhigt und eine gemütliche, freundliche Atmosphäre schafft.
+chikorita-pcg:PCG Endivie
+chikorita-pcgDescription:Im Kampf wedelt Endivie mit seinem Blatt, um den Feind fernzuhalten. Von dem Blatt geht auch ein süßlicher Duft aus, der das gegnerische Pokémon im Kampf beruhigt und eine gemütliche, freundliche Atmosphäre schafft. (Art by R6Kari & Laluzi)
 bayleef:Lorblatt
 bayleefDescription:Lorblatts Nacken ist mit zusammengerollten Blättern behangen. In jedem Blatt befindet sich ein kleiner Trieb eines Baumes. Der Duft dieses Triebes bringt Menschen auf Trab.
 meganium:Meganie

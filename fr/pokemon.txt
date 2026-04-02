@@ -312,6 +312,8 @@ mew:Mew
 mewDescription:À l’aide d’un microscope, on peut distinguer le pelage extrêmement court, fin et délicat de ce Pokémon.
 chikorita:Germignon
 chikoritaDescription:Lorsqu’il se bat, Germignon secoue sa feuille pour tenir son ennemi à distance. Un doux parfum s’en dégage également, apaisant les Pokémon qui se battent et créant une atmosphère agréable et amicale.
+chikorita-pcg:PCG Germignon
+chikorita-pcgDescription:Lorsqu’il se bat, Germignon secoue sa feuille pour tenir son ennemi à distance. Un doux parfum s’en dégage également, apaisant les Pokémon qui se battent et créant une atmosphère agréable et amicale. (Art by R6Kari & Laluzi)
 bayleef:Macronium
 bayleefDescription:Le cou de Macronium est entouré de nombreuses feuilles. Dans chacune d’elles se trouve une pousse d’arbre. Le parfum de cette pousse donne la pêche aux personnes qui le sentent.
 meganium:Méganium
