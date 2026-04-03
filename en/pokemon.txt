@@ -3216,6 +3216,8 @@ roserade-pcg:PCG Roserade
 roserade-pcgDescription:The poison in its right hand is quick acting. The poison in its left hand is slow acting. Both are life threatening. (Art by Beliwolfi & Baked_Curse)
 shiny-legendary-dragon-egg:Shiny Legendary Egg
 shiny-legendary-dragon-eggDescription:A Shiny Legendary Egg from the Easter Event 2025.
+painted-dragon-egg:Painted Egg
+painted-dragon-eggDescription:A Painted Egg from the Easter Event 2026.
 dragapult-retro:Dragapult (Retro)
 dragapult-retroDescription:Apparently the Dreepy inside Dragapult’s horns eagerly look forward to being launched out at Mach speeds.
 togepi-pcg:PCG Togepi

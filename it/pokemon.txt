@@ -3216,6 +3216,8 @@ tauros-paldean-blaze:Pal Tauros (Blaze)
 tauros-paldean-blazeDescription:I Tauros che vivono a Paldea hanno un’indole violenta e non tollerano che gli esseri umani salgano loro in groppa.
 shiny-legendary-dragon-egg:Shiny Legendary Egg
 shiny-legendary-dragon-eggDescription:A Shiny Legendary Egg from the Easter Event 2025.
+painted-dragon-egg:Uovo Dipinto
+painted-dragon-eggDescription:Un Uovo Dipinto dell'Evento di Pasqua 2026.
 dragapult-retro:Dragapult (Retro)
 dragapult-retroDescription:I Dreepy che vivono nelle sue corna attendono ansiosamente di essere sparati alla velocità del suono.
 togepi-pcg:PCG Togepi

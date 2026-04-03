@@ -3216,6 +3216,8 @@ roserade-pcg:PCG Roserade
 roserade-pcgDescription:Las toxinas de la mano derecha son de efecto inmediato, y las de la izquierda, retardado. No obstante, ambas pueden ser letales. (Art by Beliwolfi & Baked_Curse)
 shiny-legendary-dragon-egg:Shiny Legendary Egg
 shiny-legendary-dragon-eggDescription:A Shiny Legendary Egg from the Easter Event 2025.
+painted-dragon-egg:Huevo Pintado
+painted-dragon-eggDescription:Un Huevo Pintado del Evento de Pascua 2026.
 dragapult-retro:Dragapult (Retro)
 dragapult-retroDescription:Al parecer, los Dreepy que residen en sus cuernos esperan con ilusión el momento de ser propulsados a velocidad supersónica.
 togepi-pcg:PCG Togepi

@@ -3216,6 +3216,8 @@ tauros-paldean-blaze:Pal Tauros (Blaze)
 tauros-paldean-blazeDescription:The Tauros of the Paldea region are volatile in nature, and they won’t allow people to ride on their backs.
 shiny-legendary-dragon-egg:Shiny Legendary Egg
 shiny-legendary-dragon-eggDescription:A Shiny Legendary Egg from the Easter Event 2025.
+painted-dragon-egg:Ovo Pintado
+painted-dragon-eggDescription:Um Ovo Pintado do Evento de Páscoa 2026.
 dragapult-retro:Dragapult (Retro)
 dragapult-retroDescription:Apparently the Dreepy inside Dragapult’s horns eagerly look forward to being launched out at Mach speeds.
 togepi-pcg:PCG Togepi

@@ -3014,6 +3014,8 @@ roserade-pcg:PCG Roserade
 roserade-pcgDescription:Яд в её правой руке действует быстро. Яд в левой руке действует медленно. Оба смертельно опасны. (Арт от Beliwolfi & Baked_Curse)
 shiny-legendary-dragon-egg:Shiny Legendary Egg
 shiny-legendary-dragon-eggDescription:Shiny Legendary Egg с Пасхального события 2025 года.
+painted-dragon-egg:Раскрашенное Яйцо
+painted-dragon-eggDescription:Раскрашенное Яйцо с Пасхального события 2026 года.
 dragapult-retro:Драгапульт (Ретро)
 dragapult-retroDescription:Кажется, Дрипи внутри рогов Драгапульта с нетерпением ждут, когда их выпустят на сверхзвуковой скорости.
 alakazam:Алаказам

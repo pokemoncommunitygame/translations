@@ -3216,6 +3216,8 @@ roserade-pcg:PCG Roserade
 roserade-pcgDescription:Das Gift aus seiner rechten Hand wirkt sofort, das aus seiner linken langsam. Beide Gifte können tödlich sein. (Art by Beliwolfi & Baked_Curse)
 shiny-legendary-dragon-egg:Shiny Legendary Egg
 shiny-legendary-dragon-eggDescription:A Shiny Legendary Egg from the Easter Event 2025.
+painted-dragon-egg:Bemaltes Ei
+painted-dragon-eggDescription:Ein bemaltes Ei vom Oster-Event 2026.
 dragapult-retro:Katapuldra (Retro)
 dragapult-retroDescription:Die Grolldra, die in seinen Hörnern sitzen, warten angeblich voller Spannung darauf, mit Mach-Geschwindigkeit abgefeuert zu werden.
 togepi-pcg:PCG Togepi

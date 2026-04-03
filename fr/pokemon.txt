@@ -3216,6 +3216,8 @@ roserade-pcg:PCG Roserade
 roserade-pcgDescription:Sa main gauche administre un poison lent, et la droite, un poison foudroyant. Les deux peuvent être fatals. (Art by Beliwolfi & Baked_Curse)
 shiny-legendary-dragon-egg:Shiny Legendary Egg
 shiny-legendary-dragon-eggDescription:A Shiny Legendary Egg from the Easter Event 2025.
+painted-dragon-egg:Œuf Peint
+painted-dragon-eggDescription:Un Œuf Peint de l'Événement de Pâques 2026.
 dragapult-retro:Lanssorien (Retro)
 dragapult-retroDescription:Il paraît que les Fantyrm installés dans ses cornes attendent impatiemment le moment où ils seront propulsés à la vitesse du son.
 togepi-pcg:PCG Togepi
