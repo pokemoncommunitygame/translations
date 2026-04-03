@@ -304,3 +304,5 @@ pokemon_pick-500:Выбор Покемона 500+ БС
 pokemon_pick-500Description:Выбери одного из 3 Покемонов с 500 или более БС
 pokemon_pick-600:Выбор Покемона 600+ БС
 pokemon_pick-600Description:Выбери одного из 3 Покемонов с 600 или более БС
+small_battle_bag:Маленькая боевая сумка
+small_battle_bagDescription:Маленькая сумка, содержащая 1 случайный боевой предмет.

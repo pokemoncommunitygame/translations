@@ -154,6 +154,8 @@ event_bundle:Event Bundle
 event_bundleDescription:An event exclusive bundle containing 1x Random Past Event Legendary, 2x Golden Ticket and 2x Rare Present
 battle_bundle:Battle Bundle
 battle_bundleDescription:A special bundle offer containing: 2x Total Reset, 2x Mood Mints, 2x IV Resets, 3x Empty Discs
+small_battle_bag:Small Battle Bag
+small_battle_bagDescription:A small bag containing 1 random battle item.
 team_gold_badge:Rainbow Wing
 team_gold_badgeDescription:Membership token of Team Gold during the Gold vs Silver Event 2024
 team_silver_badge:Silver Wing

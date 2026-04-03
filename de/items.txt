@@ -304,3 +304,5 @@ pokemon_pick-500:Pokemon Auswahl 500+ BST
 pokemon_pick-500Description:Wähle eines von 3 Pokemon mit 500 oder mehr BST
 pokemon_pick-600:Pokemon Auswahl 600+ BST
 pokemon_pick-600Description:Wähle eines von 3 Pokemon mit 600 oder mehr BST
+small_battle_bag:Kleiner Kampfbeutel
+small_battle_bagDescription:Ein kleiner Beutel mit 1 zufälligen Kampfgegenstand.
