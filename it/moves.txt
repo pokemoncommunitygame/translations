@@ -1512,3 +1512,9 @@ trailblaze:Apripista
 trailblazeDescription:Trailblaze inflicts damage and raises the user's Speed by one stage.
 self-attack:attaccoautonomo
 self-attackDescription:hghfjmhfvb
+aqua-cutter:Idrotaglio
+aqua-cutterDescription:Il Pokémon espelle acqua ad alta pressione e falcia il bersaglio con un fendente tagliente quanto una lama. Probabile brutto colpo.
+tera-blast:Terascoppio
+tera-blastDescription:Se il Pokémon è teracristallizzato, attacca con l'energia del suo teratipo. Infligge danni in base all'Attacco o all'Attacco Speciale scegliendo il più alto tra i due.
+psychic-noise:Psicorumore
+psychic-noiseDescription:Il Pokémon investe il bersaglio con insopportabili onde sonore che gli impediscono di recuperare PS con mosse, abilità o strumenti che ha con sé per due turni.

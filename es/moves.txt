@@ -1512,3 +1512,9 @@ trailblaze:Abrecaminos
 trailblazeDescription:Trailblaze inflicts damage and raises the user's Speed by one stage.
 self-attack:autogolpe
 self-attackDescription:hghfjmhfvb
+aqua-cutter:Tajo Acuático
+aqua-cutterDescription:Expele agua a presión con la que corta al objetivo como si de una hoja se tratara. Suele asestar un golpe crítico.
+tera-blast:Teraexplosión
+tera-blastDescription:Si el usuario se ha teracristalizado, ataca con la energía de su teratipo. Compara sus valores de Ataque y Ataque Especial para infligir daño con el más alto de los dos.
+psychic-noise:Psicorruido
+psychic-noiseDescription:Ataca emitiendo una onda sonora desagradable que impide al objetivo usar movimientos, habilidades y objetos equipados que recuperan PS durante dos turnos.

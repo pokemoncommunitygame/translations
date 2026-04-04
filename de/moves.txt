@@ -1512,3 +1512,9 @@ thunder-cage:Blitzgefängnis
 thunder-cageDescription:Das Ziel wird für vier bis fünf Runden in einem elektrischen Käfig gefangen.
 trailblaze:Wegbereiter
 trailblazeDescription:Trailblaze inflicts damage and raises the user's Speed by one stage.
+aqua-cutter:Aquaschnitt
+aqua-cutterDescription:Der Anwender stößt Wasser unter Druck aus, um das Ziel wie mit einer Klinge anzugreifen. Hohe Volltrefferquote.
+tera-blast:Tera-Ausbruch
+tera-blastDescription:Ist der Anwender terakristallisiert, greift er mit Energie seines Tera-Typs an. Der Schaden hängt vom Angriff oder Spezial-Angriff ab, je nachdem, welcher Wert höher ist.
+psychic-noise:Psycholärm
+psychic-noiseDescription:Der Anwender greift mit unerträglichen Schallwellen an, wodurch das Ziel zwei Runden lang nicht durch Attacken, Fähigkeiten oder getragene Items geheilt werden kann.

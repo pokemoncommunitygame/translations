@@ -1512,3 +1512,9 @@ trailblaze:Désherbaffe
 trailblazeDescription:Trailblaze inflicts damage and raises the user's Speed by one stage.
 self-attack:attaque-personnelle
 self-attackDescription:hghfjmhfvb
+aqua-cutter:Tranch'Aqua
+aqua-cutterDescription:Le lanceur projette de l'eau pressurisée qui entaille la cible comme une lame. Taux de critiques élevé.
+tera-blast:Téra Explosion
+tera-blastDescription:Si le lanceur est Téracristallisé, il libère l'énergie de son Type Téracristal. Cette capacité inflige des dégâts en utilisant l'Attaque ou l'Attaque Spéciale du lanceur, selon la statistique la plus élevée.
+psychic-noise:Dissonance Psy
+psychic-noiseDescription:Le lanceur attaque avec des ondes sonores dissonantes. Cela empêche la cible de récupérer des PV à l'aide de capacités, talents ou objets tenus pendant 2 tours.

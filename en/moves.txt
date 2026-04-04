@@ -1512,3 +1512,9 @@ thunder-cage:Thunder Cage
 thunder-cageDescription:In addition to dealing damage, Thunder Cage inflicts 1/8 of the target's maximum HP as damage per turn for four to five turns upon use. It also traps the target, preventing switching and escape.
 trailblaze:Trailblaze
 trailblazeDescription:Trailblaze inflicts damage and raises the user's Speed by one stage.
+aqua-cutter:Aqua Cutter
+aqua-cutterDescription:The user expels pressurized water to cut at the target like a blade. This move has a heightened chance of landing a critical hit.
+tera-blast:Tera Blast
+tera-blastDescription:If the user has Terastallized, it unleashes energy of its Tera Type. This move inflicts damage using the Attack or Sp. Atk stat—whichever is higher for the user.
+psychic-noise:Psychic Noise
+psychic-noiseDescription:The user attacks the target with unpleasant sound waves. For two turns, the target is prevented from recovering HP through moves, Abilities, or held items.
