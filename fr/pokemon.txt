@@ -2939,21 +2939,21 @@ darmanitan-retroDescription:Sa puissance augmente à mesure que la flamme de son
 frosmoth-pcg:PCG Beldeneige
 frosmoth-pcgDescription:Sans pitié pour les vandales, il bat ses ailes gelées pour provoquer des blizzards et punir quiconque ose souiller les champs et les collines. (Art by Sheepies)
 normal-dragon-egg:Dragon Egg
-normal-dragon-eggDescription:A Dragon Egg from the Easter Event 2024 & 2025.
+normal-dragon-eggDescription:A Dragon Egg from the Easter Event 2024, 2025 & 2026.
 sparkling-dragon-egg:Sparkling Egg
-sparkling-dragon-eggDescription:A Sparkling Egg from the Easter Event 2024 & 2025.
+sparkling-dragon-eggDescription:A Sparkling Egg from the Easter Event 2024, 2025 & 2026.
 battle-dragon-egg:Battle Egg
-battle-dragon-eggDescription:A Battle Egg from the Easter Event 2024 & 2025.
+battle-dragon-eggDescription:A Battle Egg from the Easter Event 2024, 2025 & 2026.
 baby-dragon-egg:Baby Egg
-baby-dragon-eggDescription:A Baby Egg from the Easter Event 2024 & 2025.
+baby-dragon-eggDescription:A Baby Egg from the Easter Event 2024, 2025 & 2026.
 starter-dragon-egg:Starter Egg
-starter-dragon-eggDescription:A Starter Egg from the Easter Event 2024 & 2025.
+starter-dragon-eggDescription:A Starter Egg from the Easter Event 2024, 2025 & 2026.
 hisuian-typhlosion:His Typhlosion
 hisuian-typhlosionDescription:Said to purify lost, forsaken souls with its flames and guide them to the afterlife. I believe its form has been influenced by the energy of the sacred mountain towering at Hisui's center.
 togekiss-retro:Togekiss (Retro)
 togekiss-retroDescription:On dit que ce Pokémon dispense ses bienfaits, ce qui explique pourquoi il est représenté sur les porte-bonheurs depuis fort longtemps.
 shiny-baby-dragon-egg:Shiny Baby Egg
-shiny-baby-dragon-eggDescription:A Shiny Baby Egg from the Easter Event 2024 & 2025.
+shiny-baby-dragon-eggDescription:A Shiny Baby Egg from the Easter Event 2024, 2025 & 2026.
 oranguru-pcg:PCG Gouroutan
 oranguru-pcgDescription:Il connaît la forêt sur le bout des doigts. Lorsqu’il trouve un Pokémon blessé, il cherche des plantes médicinales pour le soigner. (Art by T_M_B_O)
 magnezone-retro:Magnézone (Retro)
@@ -3215,7 +3215,7 @@ volcarona-retroDescription:Né d’un cocon enflammé, ce Pokémon apparaît sur
 roserade-pcg:PCG Roserade
 roserade-pcgDescription:Sa main gauche administre un poison lent, et la droite, un poison foudroyant. Les deux peuvent être fatals. (Art by Beliwolfi & Baked_Curse)
 shiny-legendary-dragon-egg:Shiny Legendary Egg
-shiny-legendary-dragon-eggDescription:A Shiny Legendary Egg from the Easter Event 2025.
+shiny-legendary-dragon-eggDescription:A Shiny Legendary Egg from the Easter Event 2025 & 2026.
 painted-dragon-egg:Œuf Peint
 painted-dragon-eggDescription:Un Œuf Peint de l'Événement de Pâques 2026.
 dragapult-retro:Lanssorien (Retro)

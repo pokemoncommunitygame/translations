@@ -2939,21 +2939,21 @@ darmanitan-retroDescription:When wounded, it stops moving. It goes as still as s
 frosmoth-pcg:PCG Frosmoth
 frosmoth-pcgDescription:It shows no mercy to any who desecrate fields and mountains. It will fly around on its icy wings, causing a blizzard to chase offenders away. (Art by Sheepies)
 normal-dragon-egg:Dragon Egg
-normal-dragon-eggDescription:A Dragon Egg from the Easter Event 2024 & 2025.
+normal-dragon-eggDescription:A Dragon Egg from the Easter Event 2024, 2025 & 2026.
 sparkling-dragon-egg:Sparkling Egg
-sparkling-dragon-eggDescription:A Sparkling Egg from the Easter Event 2024 & 2025.
+sparkling-dragon-eggDescription:A Sparkling Egg from the Easter Event 2024, 2025 & 2026.
 battle-dragon-egg:Battle Egg
-battle-dragon-eggDescription:A Battle Egg from the Easter Event 2024 & 2025.
+battle-dragon-eggDescription:A Battle Egg from the Easter Event 2024, 2025 & 2026.
 baby-dragon-egg:Baby Egg
-baby-dragon-eggDescription:A Baby Egg from the Easter Event 2024 & 2025.
+baby-dragon-eggDescription:A Baby Egg from the Easter Event 2024, 2025 & 2026.
 starter-dragon-egg:Starter Egg
-starter-dragon-eggDescription:A Starter Egg from the Easter Event 2024 & 2025.
+starter-dragon-eggDescription:A Starter Egg from the Easter Event 2024, 2025 & 2026.
 hisuian-typhlosion:His Typhlosion
 hisuian-typhlosionDescription:Said to purify lost, forsaken souls with its flames and guide them to the afterlife. I believe its form has been influenced by the energy of the sacred mountain towering at Hisui's center.
 togekiss-retro:Togekiss (Retro)
 togekiss-retroDescription:Known as a bringer of blessings, it’s been depicted on good-luck charms since ancient times.
 shiny-baby-dragon-egg:Shiny Baby Egg
-shiny-baby-dragon-eggDescription:A Shiny Baby Egg from the Easter Event 2024 & 2025.
+shiny-baby-dragon-eggDescription:A Shiny Baby Egg from the Easter Event 2024, 2025 & 2026.
 oranguru-pcg:PCG Oranguru
 oranguru-pcgDescription:It knows the forest inside and out. If it comes across a wounded Pokémon, Oranguru will gather medicinal herbs to treat it. (Art by T_M_B_O)
 magnezone-retro:Magnezone (Retro)
@@ -3215,7 +3215,7 @@ roserade-pcgDescription:The poison in its right hand is quick acting. The poison
 tauros-paldean-blaze:Pal Tauros (Blaze)
 tauros-paldean-blazeDescription:The Tauros of the Paldea region are volatile in nature, and they won’t allow people to ride on their backs.
 shiny-legendary-dragon-egg:Shiny Legendary Egg
-shiny-legendary-dragon-eggDescription:A Shiny Legendary Egg from the Easter Event 2025.
+shiny-legendary-dragon-eggDescription:A Shiny Legendary Egg from the Easter Event 2025 & 2026.
 painted-dragon-egg:Ovo Pintado
 painted-dragon-eggDescription:Um Ovo Pintado do Evento de Páscoa 2026.
 dragapult-retro:Dragapult (Retro)

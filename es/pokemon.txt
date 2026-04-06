@@ -2937,21 +2937,21 @@ darmanitan-retroDescription:Su fuerza aumenta cuanto más se aviva su fuego inte
 frosmoth-pcg:PCG Frosmoth
 frosmoth-pcgDescription:No muestra la menor compasión con quien asole el campo: lo escarmienta batiendo sus gélidas alas para provocar una ventisca. (Art by Sheepies)
 normal-dragon-egg:Dragon Egg
-normal-dragon-eggDescription:A Dragon Egg from the Easter Event 2024 & 2025.
+normal-dragon-eggDescription:A Dragon Egg from the Easter Event 2024, 2025 & 2026.
 sparkling-dragon-egg:Sparkling Egg
-sparkling-dragon-eggDescription:A Sparkling Egg from the Easter Event 2024 & 2025.
+sparkling-dragon-eggDescription:A Sparkling Egg from the Easter Event 2024, 2025 & 2026.
 battle-dragon-egg:Battle Egg
-battle-dragon-eggDescription:A Battle Egg from the Easter Event 2024 & 2025.
+battle-dragon-eggDescription:A Battle Egg from the Easter Event 2024, 2025 & 2026.
 baby-dragon-egg:Baby Egg
-baby-dragon-eggDescription:A Baby Egg from the Easter Event 2024 & 2025.
+baby-dragon-eggDescription:A Baby Egg from the Easter Event 2024, 2025 & 2026.
 starter-dragon-egg:Starter Egg
-starter-dragon-eggDescription:A Starter Egg from the Easter Event 2024 & 2025.
+starter-dragon-eggDescription:A Starter Egg from the Easter Event 2024, 2025 & 2026.
 hisuian-typhlosion:His Typhlosion
 hisuian-typhlosionDescription:Said to purify lost, forsaken souls with its flames and guide them to the afterlife. I believe its form has been influenced by the energy of the sacred mountain towering at Hisui's center.
 togekiss-retro:Togekiss (Retro)
 togekiss-retroDescription:Se dice que es portador de buena suerte. Por ello, su imagen aparece representada en talismanes y amuletos desde la antigüedad.
 shiny-baby-dragon-egg:Shiny Baby Egg
-shiny-baby-dragon-eggDescription:A Shiny Baby Egg from the Easter Event 2024 & 2025.
+shiny-baby-dragon-eggDescription:A Shiny Baby Egg from the Easter Event 2024, 2025 & 2026.
 oranguru-pcg:PCG Oranguru
 oranguru-pcgDescription:Conoce hasta el último rincón del bosque y, si encuentra un Pokémon herido, va en busca de hierbas medicinales para curarlo. (Art by T_M_B_O)
 magnezone-retro:Magnezone (Retro)
@@ -3215,7 +3215,7 @@ volcarona-retroDescription:Nace de una pupa envuelta en llamas. En algunas pintu
 roserade-pcg:PCG Roserade
 roserade-pcgDescription:Las toxinas de la mano derecha son de efecto inmediato, y las de la izquierda, retardado. No obstante, ambas pueden ser letales. (Art by Beliwolfi & Baked_Curse)
 shiny-legendary-dragon-egg:Shiny Legendary Egg
-shiny-legendary-dragon-eggDescription:A Shiny Legendary Egg from the Easter Event 2025.
+shiny-legendary-dragon-eggDescription:A Shiny Legendary Egg from the Easter Event 2025 & 2026.
 painted-dragon-egg:Huevo Pintado
 painted-dragon-eggDescription:Un Huevo Pintado del Evento de Pascua 2026.
 dragapult-retro:Dragapult (Retro)

@@ -69,7 +69,7 @@ pidgeotDescription:Durch seine gesteigerte Körperkraft ist es in der Lage, zwei
 rattata:Rattfratz
 rattataDescription:Es knabbert mit seinen zwei Nagezähnen alles und jeden an. Stößt man auf eines, findet man sicherlich 40 weitere in der Gegend.
 starter-dragon-egg:Starter Egg
-starter-dragon-eggDescription:A Starter Egg from the Easter Event 2024 & 2025.
+starter-dragon-eggDescription:A Starter Egg from the Easter Event 2024, 2025 & 2026.
 vulpix:Vulpix
 vulpixDescription:Sein Fell wird geschmeidiger, wenn seine sechs Schweife wachsen. Wenn man das Fell berührt, fühlt es sich leicht warm an.
 wugtrio:Schligdri
@@ -2941,19 +2941,19 @@ darmanitan-retroDescription:Nimmt es im Kampf Schaden, wird es hart wie Stein un
 frosmoth-pcg:PCG Mottineva
 frosmoth-pcgDescription:Verwüstet jemand Felder und Berge, vergibt es ihm niemals. Es bestraft den Täter, indem es mit seinen kalten Flügeln einen Schneesturm erzeugt. (Art by Sheepies)
 normal-dragon-egg:Dragon Egg
-normal-dragon-eggDescription:A Dragon Egg from the Easter Event 2024 & 2025.
+normal-dragon-eggDescription:A Dragon Egg from the Easter Event 2024, 2025 & 2026.
 sparkling-dragon-egg:Sparkling Egg
-sparkling-dragon-eggDescription:A Sparkling Egg from the Easter Event 2024 & 2025.
+sparkling-dragon-eggDescription:A Sparkling Egg from the Easter Event 2024, 2025 & 2026.
 battle-dragon-egg:Battle Egg
-battle-dragon-eggDescription:A Battle Egg from the Easter Event 2024 & 2025.
+battle-dragon-eggDescription:A Battle Egg from the Easter Event 2024, 2025 & 2026.
 baby-dragon-egg:Baby Egg
-baby-dragon-eggDescription:A Baby Egg from the Easter Event 2024 & 2025.
+baby-dragon-eggDescription:A Baby Egg from the Easter Event 2024, 2025 & 2026.
 hisuian-typhlosion:His Tornupto
 hisuian-typhlosionDescription:Typhlosion obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This Pokémon creates blazing explosive blasts that burn everything to cinders.
 togekiss-retro:Togekiss (Retro)
 togekiss-retroDescription:Man sagt, es verteile Wohltaten. Aus diesem Grund wird sein Abbild seit Urzeiten für Glücksbringer verwendet.
 shiny-baby-dragon-egg:Shiny Baby Egg
-shiny-baby-dragon-eggDescription:A Shiny Baby Egg from the Easter Event 2024 & 2025.
+shiny-baby-dragon-eggDescription:A Shiny Baby Egg from the Easter Event 2024, 2025 & 2026.
 oranguru-pcg:PCG Kommandutan
 oranguru-pcgDescription:Es kennt jeden Winkel des Waldes. Trifft es ein verletztes Pokémon, findet es in Windeseile das passende Heilkraut und schreitet zur Behandlung. (Art by T_M_B_O)
 magnezone-retro:Magnezone (Retro)
@@ -3215,7 +3215,7 @@ volcarona-retroDescription:Ramoth wurde aus einem lodernden Kokon geboren. In an
 roserade-pcg:PCG Roserade
 roserade-pcgDescription:Das Gift aus seiner rechten Hand wirkt sofort, das aus seiner linken langsam. Beide Gifte können tödlich sein. (Art by Beliwolfi & Baked_Curse)
 shiny-legendary-dragon-egg:Shiny Legendary Egg
-shiny-legendary-dragon-eggDescription:A Shiny Legendary Egg from the Easter Event 2025.
+shiny-legendary-dragon-eggDescription:A Shiny Legendary Egg from the Easter Event 2025 & 2026.
 painted-dragon-egg:Bemaltes Ei
 painted-dragon-eggDescription:Ein bemaltes Ei vom Oster-Event 2026.
 dragapult-retro:Katapuldra (Retro)
