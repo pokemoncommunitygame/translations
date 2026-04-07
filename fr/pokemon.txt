@@ -1812,7 +1812,7 @@ giratina-origin:Giratina (Origine)
 giratina-originDescription:Sa grande violence lui a valu d’être banni. Il observe les hommes en silence depuis le Monde Distorsion.
 rotom-heat:Motisma (Chaleur)
 rotom-heatDescription:Ce Pokémon est connu pour jouer des tours en s'infiltrant dans des appareils électriques. Son corps est fait de plasma.
-shaymin-sky:Shaymin (Ciel)
+shaymin-sky:Shaymin (Céleste)
 shaymin-skyDescription:Il prend son essor pour répandre la gratitude lorsque les Gracidées fleurissent.
 rotom-wash:Motisma (Lavage)
 rotom-washDescription:Ce Pokémon est connu pour jouer des tours en s'infiltrant dans des appareils électriques. Son corps est fait de plasma.
