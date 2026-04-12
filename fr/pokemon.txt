@@ -3206,9 +3206,9 @@ gardevoir-pcg:PCG Gardevoir
 gardevoir-pcgDescription:Prêt à tout pour protéger son Dresseur, il peut aller jusqu’à épuiser sa force mentale pour créer un mini trou noir. (Art by Sheepies)
 tauros-paldean:Pal Tauros
 tauros-paldeanDescription:Les Tauros vivant à Paldea ont un tempérament violent et ne tolèrent pas que les êtres humains montent sur leur dos.
-tauros-paldean-aqua:Pal Tauros (Aqua)
+tauros-paldean-aqua:Pal Tauros (Aquatique)
 tauros-paldean-aquaDescription:Les Tauros vivant à Paldea ont un tempérament violent et ne tolèrent pas que les êtres humains montent sur leur dos.
-tauros-paldean-blaze:Pal Tauros (Blaze)
+tauros-paldean-blaze:Pal Tauros (Flamboyant)
 tauros-paldean-blazeDescription:Les Tauros vivant à Paldea ont un tempérament violent et ne tolèrent pas que les êtres humains montent sur leur dos.
 volcarona-retro:Pyrax (Retro)
 volcarona-retroDescription:Né d’un cocon enflammé, ce Pokémon apparaît sur d’anciennes fresques représenté comme une divinité du feu.
