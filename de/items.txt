@@ -1,5 +1,5 @@
-event_coin:Weihnachtssterne
-event_coinDescription:Tausche Weihnachtssterne gegen Event-Belohnungen deiner Wahl während des PCG-Weihnachtsevents 2025 ein. Dieser Gegenstand verschwindet eine Woche nach dem Event.
+event_coin:Ostereier
+event_coinDescription:Tausche Ostereier gegen Event-Belohnungen deiner Wahl während des PCG-Oster-Events 2026 ein. Dieser Gegenstand verschwindet eine Woche nach dem Event.
 mach_ball:Mach Ball
 mach_ballDescription:Ein robuster Ball, am effektivsten wenn er bei Kampf- oder Flug-Pokémon eingesetzt wird.
 basic_ball:Basisball
@@ -33,7 +33,7 @@ team_enhancerDescription:Benutze diesen Gegenstand, um die Anzahl deiner Teams u
 shiny_charm:Shiny Charm
 shiny_charmDescription:Belohnung für das Abschließen des Spawn-Pokédex. Erhöht die Chance, ein schillerndes Pokémon zu fangen (0x: 1/1250, 1x: 1/625, 2x: 1/415, 3x: 1/312). Ausnahme: Jubelbälle
 shiny_easter_charm:Schillernder Oster-Talisman
-shiny_easter_charmDescription:Ein besonderer Talisman, den man während des Oster-Events erhält. Erhöht die Basis-Shiny-Chance während des Oster-Events um 1/1250.
+shiny_easter_charmDescription:Ein spezieller Talisman, der während des Oster-Events 2026 erhalten wurde. Erhöht die Grundchance auf ein Schillerndes um 1/1250, solange das Oster-Event aktiv ist.
 pokedaily_reset:Pokedaily-Reset
 pokedaily_resetDescription:Dieser Gegenstand setzt den Cooldown deines Pokedaily zurück!
 total_reset:Reset Spray

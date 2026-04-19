@@ -1,5 +1,5 @@
-event_coin:Étoiles de Noël
-event_coinDescription:Échangez des Étoiles de Noël contre des récompenses d'événement de votre choix pendant l'Événement de Noël PCG 2025. Cet objet disparaîtra une semaine après l'événement.
+event_coin:Œufs de Pâques
+event_coinDescription:Échangez des Œufs de Pâques contre des récompenses d'événement de votre choix pendant l'événement de Pâques PCG 2026. Cet objet disparaîtra une semaine après l'événement.
 mach_ball:Mach Ball
 mach_ballDescription:Une balle robuste, la plus efficace lorsqu'elle est utilisée sur des Pokémon de type Combat ou Vol.
 basic_ball:Basique Ball
@@ -33,7 +33,7 @@ team_enhancerDescription:Utilisez cet objet pour augmenter le nombre d'équipes 
 shiny_charm:Charme Chroma
 shiny_charmDescription:Récompense pour avoir complété le pokédex spawnable. Augmente la chance d'obtenir un shiny pour toutes les captures (0x: 1/1250, 1x: 1/625, 2x: 1/415, 3x: 1/312). Exception : Memoire Balls
 shiny_easter_charm:Charme Chroma de Pâques
-shiny_easter_charmDescription:Un charme spécial obtenu pendant l'événement de Pâques. Augmente la chance shiny de base de 1/1250 pendant l'événement de Pâques.
+shiny_easter_charmDescription:Un charme spécial obtenu pendant l'événement de Pâques 2026. Augmente la chance de base d'obtenir un shiny de 1/1250 tant que l'événement de Pâques est actif.
 pokedaily_reset:Pokedaily reset
 pokedaily_resetDescription:Cet objet réinitialisera le délai de récupération de votre pokedaily !
 total_reset:Change-Total
