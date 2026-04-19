@@ -32,6 +32,8 @@ team_enhancer:Mejorador de Equipo
 team_enhancerDescription:¡Usa este objeto para aumentar la cantidad de equipos en 1! Puedes tener hasta 30 equipos.
 shiny_charm:Amuleto Brillante
 shiny_charmDescription:Recompensa por completar la pokédex apareable. Aumenta la probabilidad de capturar un brillante para todas las capturas (0x: 1/1250, 1x: 1/625, 2x: 1/415, 3x: 1/312). Excepción: bolas cherish
+shiny_easter_charm:Amuleto Brillante de Pascua
+shiny_easter_charmDescription:Un amuleto especial obtenido durante el evento de Pascua. Aumenta la probabilidad base de brillante en 1/1250 mientras el evento de Pascua esté activo.
 pokedaily_reset:Reinicio del Pokedaily
 pokedaily_resetDescription:¡Este objeto reiniciará el tiempo de espera de tu pokedaily!
 total_reset:Reinicio Total
