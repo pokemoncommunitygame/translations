@@ -92,6 +92,8 @@ fairy_stone:Pierre Fée
 fairy_stoneDescription:Une pierre qui fait évoluer certaines espèces de Pokémon. On dit que la couleur de la pierre détermine le Pokémon qui évoluera.
 shimmering_stone:Pierre Scintillante
 shimmering_stoneDescription:Une pierre qui fait évoluer certaines espèces de Pokémon.
+mega_stone:Méga-Gemme
+mega_stoneDescription:Une pierre mystérieuse qui permet à certaines espèces de Pokémon de méga-évoluer.
 quick_ball:Rapide Ball
 quick_ballDescription:Une Poké Ball un peu différente qui est plus efficace si elle est utilisée au début d'une rencontre sauvage.
 snowball:Boule de Neige

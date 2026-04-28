@@ -92,6 +92,8 @@ fairy_stone:Feenstein
 fairy_stoneDescription:Ein Stein, der bestimmte Pokémon-Arten zur Entwicklung bringt. Man sagt, dass die Farbe des Steins bestimmt, welches Pokémon sich entwickelt.
 shimmering_stone:Schimmerstein
 shimmering_stoneDescription:Ein Stein, der bestimmte Pokémon-Arten zur Entwicklung bringt.
+mega_stone:Mega-Stein
+mega_stoneDescription:Ein geheimnisvoller Stein, der bestimmten Pokémon-Arten die Mega-Entwicklung ermöglicht.
 quick_ball:Flottball
 quick_ballDescription:Ein etwas anderer Pokéball, der bei einem wilden Pokémonkampf zu Beginn eine höhere Fangrate hat.
 snowball:Schneeball

@@ -92,6 +92,8 @@ fairy_stone:Pietra Folletto
 fairy_stoneDescription:Una pietra che fa evolvere certe specie di Pokémon. Si dice che il colore della pietra determini il Pokémon che si evolverà.
 shimmering_stone:Pietra Scintillante
 shimmering_stoneDescription:Una pietra che fa evolvere certe specie di Pokémon.
+mega_stone:Megapietra
+mega_stoneDescription:Una pietra misteriosa che permette a certe specie di Pokémon di megaevolversi.
 quick_ball:Velox Ball
 quick_ballDescription:Una Poké Ball un po' diversa che ha un tasso di cattura più alto se usata all'inizio di un incontro selvatico.
 snowball:Palla di Neve

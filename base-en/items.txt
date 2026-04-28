@@ -94,6 +94,8 @@ fairy_stone:Fairy Stone
 fairy_stoneDescription:A stone that makes certain species of Pokémon evolve. It is said that the stone's color determines the Pokémon that will evolve.
 shimmering_stone:Shimmering Stone
 shimmering_stoneDescription:A stone that makes certain species of Pokémon evolve.
+mega_stone:Mega Stone
+mega_stoneDescription:A mysterious stone that allows certain species of Pokémon to Mega Evolve.
 quick_ball:Quick Ball
 quick_ballDescription:A somewhat different Poké Ball that has a more successful catch rate if used at the start of a wild encounter.
 snowball:Snowball

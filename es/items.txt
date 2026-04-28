@@ -92,6 +92,8 @@ fairy_stone:Piedra Hada
 fairy_stoneDescription:Una piedra que hace evolucionar a ciertas especies de Pokémon. Se dice que el color de la piedra determina el Pokémon que evolucionará.
 shimmering_stone:Piedra Brillante
 shimmering_stoneDescription:Una piedra que hace evolucionar a ciertas especies de Pokémon.
+mega_stone:Megapiedra
+mega_stoneDescription:Una piedra misteriosa que permite megaevolucionar a ciertas especies de Pokémon.
 quick_ball:Veloz Ball
 quick_ballDescription:Una Poké Ball algo diferente que tiene una tasa de captura más exitosa si se usa al inicio de un encuentro salvaje.
 snowball:Bola de Nieve

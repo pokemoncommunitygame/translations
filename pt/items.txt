@@ -92,6 +92,8 @@ fairy_stone:Pedra das Fadas
 fairy_stoneDescription:Uma pedra que faz certas espécies de Pokémon evoluírem. Diz-se que a cor da pedra determina o Pokémon que irá evoluir.
 shimmering_stone:Pedra Cintilante
 shimmering_stoneDescription:Uma pedra que faz certas espécies de Pokémon evoluírem.
+mega_stone:Megapedra
+mega_stoneDescription:Uma pedra misteriosa que permite que certas espécies de Pokémon Mega Evoluam.
 quick_ball:Bola Rápida
 quick_ballDescription:Uma Poké Ball um pouco diferente que tem uma taxa de captura mais bem-sucedida se usada no início de um encontro selvagem.
 snowball:Bola de Neve
