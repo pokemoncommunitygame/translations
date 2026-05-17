@@ -2938,16 +2938,16 @@ darmanitan-retro:Darumacho (Retro)
 darmanitan-retroDescription:Sa puissance augmente à mesure que la flamme de son corps s’intensifie. La température de celle-ci peut parfois dépasser les 1 400 °C.
 frosmoth-pcg:PCG Beldeneige
 frosmoth-pcgDescription:Sans pitié pour les vandales, il bat ses ailes gelées pour provoquer des blizzards et punir quiconque ose souiller les champs et les collines. (Art by Sheepies)
-normal-dragon-egg:Dragon Egg
-normal-dragon-eggDescription:A Dragon Egg from the Easter Event 2024, 2025 & 2026.
-sparkling-dragon-egg:Sparkling Egg
-sparkling-dragon-eggDescription:A Sparkling Egg from the Easter Event 2024, 2025 & 2026.
-battle-dragon-egg:Battle Egg
-battle-dragon-eggDescription:A Battle Egg from the Easter Event 2024, 2025 & 2026.
-baby-dragon-egg:Baby Egg
-baby-dragon-eggDescription:A Baby Egg from the Easter Event 2024, 2025 & 2026.
-starter-dragon-egg:Starter Egg
-starter-dragon-eggDescription:A Starter Egg from the Easter Event 2024, 2025 & 2026.
+normal-dragon-egg:Œuf de dragon
+normal-dragon-eggDescription:Un œuf de dragon de l'événement de Pâques 2024, 2025 et 2026.
+sparkling-dragon-egg:Œuf scintillant
+sparkling-dragon-eggDescription:Un œuf scintillant de l'événement de Pâques 2024, 2025 et 2026.
+battle-dragon-egg:Œuf de combat
+battle-dragon-eggDescription:Un œuf de combat de l'événement de Pâques 2024, 2025 et 2026.
+baby-dragon-egg:Œuf de bébé
+baby-dragon-eggDescription:Un œuf de bébé de l'événement de Pâques 2024, 2025 et 2026.
+starter-dragon-egg:Œuf de starter
+starter-dragon-eggDescription:Un Œuf de starter de l'événement de Pâques 2024, 2025 et 2026.
 hisuian-typhlosion:His Typhlosion
 hisuian-typhlosionDescription:Said to purify lost, forsaken souls with its flames and guide them to the afterlife. I believe its form has been influenced by the energy of the sacred mountain towering at Hisui's center.
 togekiss-retro:Togekiss (Retro)
